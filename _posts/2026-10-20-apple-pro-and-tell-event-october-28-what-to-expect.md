@@ -2,6 +2,9 @@
 title: "Apple 'Pro and Tell' Event on October 28: What to Expect and India Time"
 description: "Apple has confirmed a 'Pro and Tell' event for October 28. Here's the India time and the touchscreen MacBook Pro, OLED iPad mini and M6 iMac it's expected to bring."
 date: 2026-10-20 04:10:00 +0530
+image: /assets/images/apple-event-oct-28-cover.jpg
+image_alt: "Concept illustration of a laptop and tablet on a dark background with green and orange light"
+image_credit: "Concept illustration — not the actual products"
 category: Launches
 tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
 ---
@@ -31,6 +34,11 @@ Everything below comes from reports by Apple-focused news sites and analysts. **
 
 ### 1. Touchscreen OLED MacBook Pro (14-inch and 16-inch)
 
+<figure class="inline-figure">
+  <img src="/assets/images/apple-event-touchscreen-macbook-concept.jpg" alt="Concept illustration of a finger touching a laptop's OLED touchscreen" loading="lazy">
+  <figcaption>Concept illustration — not the actual product.</figcaption>
+</figure>
+
 This is the headline product. Several outlets report that the new high-end MacBook Pro will be:
 
 - **Apple's first laptop with an OLED display**, which means deeper blacks and better contrast than the current mini-LED screens
@@ -46,6 +54,11 @@ The base 14-inch MacBook Pro is reportedly getting the **M6 chip**, with the sam
 
 ### 3. Redesigned iPad mini with OLED
 
+<figure class="inline-figure">
+  <img src="/assets/images/apple-event-ipad-mini-concept.jpg" alt="Concept illustration of a small tablet held in landscape during a video call" loading="lazy">
+  <figcaption>Concept illustration — not the actual product.</figcaption>
+</figure>
+
 The iPad mini is reportedly due for its biggest update in years:
 
 - An **OLED display**, following the OLED iPad Pro and iPad Air
@@ -54,6 +67,11 @@ The iPad mini is reportedly due for its biggest update in years:
 - Some reports mention a new A-series chip
 
 ### 4. M6 iMac
+
+<figure class="inline-figure">
+  <img src="/assets/images/apple-event-imac-concept.jpg" alt="Concept illustration of a slim all-in-one desktop computer on a desk" loading="lazy">
+  <figcaption>Concept illustration — not the actual product.</figcaption>
+</figure>
 
 The iMac is expected to keep its current design and colours, but move to the **M6 chip** for better speed and efficiency.
 

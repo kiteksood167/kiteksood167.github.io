@@ -271,3 +271,8 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
   .nav-extra { display: block; }
   .nav { max-height: calc(100vh - 64px); overflow-y: auto; }
 }
+
+/* Images inside articles */
+.prose .inline-figure { margin: 1.4em 0 1.6em; }
+.prose .inline-figure img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; margin: 0; }
+.prose .inline-figure figcaption { font-size: .8rem; color: var(--muted); margin-top: 8px; }
