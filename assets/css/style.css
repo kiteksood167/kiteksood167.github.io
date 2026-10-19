@@ -238,3 +238,7 @@ a.chip:hover { border-color: var(--ink); }
 img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; background: none; }
 .logo { font-weight: 800; letter-spacing: -0.03em; }
 .logo-sm img.logo-mark { width: 30px; height: 30px; }
+
+/* Buttons inside articles keep white text (overrides .prose a) */
+.prose a.btn, .buy-box a.btn { color: var(--accent-ink); text-decoration: none; }
+.prose a.btn:hover, .buy-box a.btn:hover { color: var(--accent-ink); }
