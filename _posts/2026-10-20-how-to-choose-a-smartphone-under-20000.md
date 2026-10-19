@@ -2,6 +2,8 @@
 title: "How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter"
 description: "Ignore the 200MP and '12GB+12GB RAM' stickers. Here is what really decides whether a budget phone feels fast and lasts three years."
 date: 2026-10-20 00:15:00 +0530
+image: /assets/images/modern-smartphones-rear-cameras.jpg
+image_alt: "Four modern smartphones lying side by side, showing their rear camera designs"
 category: Phones
 tags: [smartphones, budget phones, buying guide]
 affiliate: true
