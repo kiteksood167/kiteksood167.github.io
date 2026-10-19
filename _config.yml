@@ -16,6 +16,8 @@ baseurl: ""                                      # leave empty if the repo is na
 
 contact_email: "kiteksood167@gmail.com"
 
+google_analytics: "G-PEV8WFHB1J"   # Google Analytics 4 Measurement ID
+
 # Money settings — leave empty until you are approved.
 adsense_client: ""          # <-- e.g. "ca-pub-1234567890123456" after AdSense approval
 amazon_tag: ""              # <-- Amazon.in Associates tag, e.g. "gadgetgyaan-21"
