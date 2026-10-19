@@ -2,6 +2,8 @@
 title: "Smart TV Buying Guide: The Specs That Actually Matter"
 description: "4K, QLED, OLED, 120Hz, HDR10+, Dolby Vision — what do they mean? A plain-English guide to picking the right smart TV for your room and budget."
 date: 2026-10-20 04:28:00 +0530
+image: /assets/images/smart-tv-buying-guide.jpg
+image_alt: "A large smart TV showing a mountain sunset in a cosy living room"
 category: "Smart Home"
 tags: [smart tv, tv buying guide, oled, qled, smart home]
 affiliate: true

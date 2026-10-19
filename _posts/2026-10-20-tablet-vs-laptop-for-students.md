@@ -2,6 +2,8 @@
 title: "Tablet vs Laptop for Students: Which Is Better for Study?"
 description: "Tablets are light and great for notes and videos; laptops are better for typing, coding and exams. Here's how to choose based on your course."
 date: 2026-10-20 04:22:00 +0530
+image: /assets/images/tablet-vs-laptop-for-students.jpg
+image_alt: "A tablet with a stylus next to an open laptop on a study desk"
 category: Tablets
 tags: [tablet, laptop, students, study, buying guide]
 affiliate: true
