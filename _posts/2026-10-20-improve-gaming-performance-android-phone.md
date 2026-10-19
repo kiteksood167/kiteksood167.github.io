@@ -26,6 +26,11 @@ This makes the biggest difference. In the game's own settings:
 
 ## 3. Keep the phone cool
 
+<figure class="inline-figure">
+  <img src="/assets/images/phone-cooling-fan-gaming.jpg" alt="A phone with a clip-on cooling fan during a mobile game" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 Phones slow themselves down when they get hot, which is called **thermal throttling**. To avoid it:
 
 - **Don't game while charging.** Charging adds a lot of heat.
@@ -40,6 +45,11 @@ Phones slow themselves down when they get hot, which is called **thermal throttl
 - Uninstall apps you don't use. Many run in the background.
 
 ## 5. Fix your network, not just your phone
+
+<figure class="inline-figure">
+  <img src="/assets/images/router-phone-signal.jpg" alt="A Wi-Fi router next to a phone showing strong signal" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 A lot of "lag" is actually **ping**, meaning network delay, not phone performance:
 

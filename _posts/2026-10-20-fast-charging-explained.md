@@ -19,6 +19,11 @@ Charging speed is measured in **watts (W)**. More watts usually means faster cha
 
 ## The three main fast-charging types
 
+<figure class="inline-figure">
+  <img src="/assets/images/phone-chargers-types.jpg" alt="Different phone chargers and USB cables side by side" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 | Type | Used by | What to know |
 |---|---|---|
 | **USB-C Power Delivery (PD)** | iPhones, Google Pixel, many laptops, and many Android phones | The universal standard. A good PD charger works with most modern devices. |
@@ -36,6 +41,11 @@ This explains the common problem: a phone rated for very high-wattage proprietar
 - **Battery protection features:** optimised or adaptive charging may pause at 80% on purpose.
 
 ## How to choose the right charger
+
+<figure class="inline-figure">
+  <img src="/assets/images/usb-c-braided-cable.jpg" alt="Close-up of a braided USB-C cable plug" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 1. **Check your phone's standard** in the specs or the manual: PD, PPS, or a brand-only system.
 2. **If your phone uses a brand-only system,** the original brand charger is the only way to get top speed.

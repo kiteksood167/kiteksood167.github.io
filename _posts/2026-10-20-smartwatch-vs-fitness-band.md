@@ -26,6 +26,11 @@ Smartwatches and fitness bands both count your steps, track your sleep and show 
 
 ## Who should buy a fitness band
 
+<figure class="inline-figure">
+  <img src="/assets/images/fitness-band-running.jpg" alt="A runner wearing a slim fitness band on a morning jog" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 A fitness band is the better pick if you mainly want **health and activity tracking**:
 
 - You want to track **steps, heart rate, sleep and workouts** without fuss
@@ -36,6 +41,11 @@ A fitness band is the better pick if you mainly want **health and activity track
 Bands are also great as a first wearable, to see whether you actually like wearing something on your wrist every day.
 
 ## Who should buy a smartwatch
+
+<figure class="inline-figure">
+  <img src="/assets/images/smartwatch-call.jpg" alt="A person answering a call on their smartwatch" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 A smartwatch makes more sense if you want your wrist to **do things**, not just track:
 

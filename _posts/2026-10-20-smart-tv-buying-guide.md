@@ -15,6 +15,11 @@ TV shopping is full of confusing labels: 4K, QLED, Mini LED, OLED, HDR10+, Dolby
 
 ## 1. Size: bigger is usually better, within reason
 
+<figure class="inline-figure">
+  <img src="/assets/images/tv-viewing-distance.jpg" alt="A person on a sofa with the viewing distance to a large TV marked" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 A simple rule: measure the distance from your sofa to the TV wall.
 
 | Viewing distance | Comfortable 4K TV size |
@@ -54,6 +59,11 @@ HDR makes bright scenes pop and dark scenes show detail, but **only if the TV is
 The operating system decides your apps and how smooth the TV feels. **Google TV / Android TV**, **Tizen** (Samsung) and **webOS** (LG) all support the major streaming apps. Check that the apps you use, like Netflix, Prime Video, JioHotstar and YouTube, are supported, and that the TV feels quick in store or in video reviews.
 
 ## 7. Sound: plan for a soundbar
+
+<figure class="inline-figure">
+  <img src="/assets/images/tv-soundbar.jpg" alt="A slim soundbar below a TV with sound waves" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 Thin TVs have small speakers. If you care about dialogue clarity and movie sound, budget for a **soundbar**, even an affordable one. It's usually a bigger upgrade than spending more on the TV's built-in audio.
 

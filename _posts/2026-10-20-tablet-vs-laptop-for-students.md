@@ -15,6 +15,11 @@ Many students today wonder whether a tablet can replace a laptop. For some cours
 
 ## Where tablets are better
 
+<figure class="inline-figure">
+  <img src="/assets/images/tablet-stylus-notes.jpg" alt="Handwritten study notes on a tablet with a stylus" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 - **Handwritten notes and diagrams:** with a stylus, a tablet is the best digital notebook there is. Great for science, maths, medicine and design students.
 - **Reading PDFs and e-books:** the large touchscreen held in your hands is far more comfortable than a laptop.
 - **Online classes and videos:** a light device with good speakers and long battery life.
@@ -22,6 +27,11 @@ Many students today wonder whether a tablet can replace a laptop. For some cours
 - **Battery life:** many tablets easily last a full day of classes.
 
 ## Where laptops are better
+
+<figure class="inline-figure">
+  <img src="/assets/images/student-laptop-typing.jpg" alt="A student typing on a laptop with books and notes beside it" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 - **Typing long assignments and projects:** a proper keyboard and trackpad make a huge difference over hours.
 - **Coding and engineering software:** tools like VS Code, MATLAB, AutoCAD and many college lab programs need a full desktop operating system.
