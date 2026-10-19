@@ -18,7 +18,7 @@ title: Honest tech buying guides for India and the world
     </div>
   </div>
 
-  {% assign first = site.posts.first %}
+  {% assign pinned = site.posts | where: "featured", true %}{% if pinned.size > 0 %}{% assign first = pinned.first %}{% else %}{% assign first = site.posts.first %}{% endif %}
   {% if first %}{% assign fc = first.category | default: 'Guides' %}
   <div class="wrap">
     <a class="featured" href="{{ first.url | relative_url }}">
@@ -26,7 +26,7 @@ title: Honest tech buying guides for India and the world
         {% if first.image %}<img src="{{ first.image | relative_url }}" alt="">{% else %}{% include cat-icon.html cat=fc %}{% endif %}
       </div>
       <div class="card-body">
-        <span><span class="chip chip-sm">Latest · {{ fc }}</span></span>
+        <span><span class="chip chip-sm">{% if first.featured %}Featured{% else %}Latest{% endif %} · {{ fc }}</span></span>
         <h2>{{ first.title }}</h2>
         <p>{{ first.description | default: first.excerpt | strip_html | truncate: 170 }}</p>
         <span class="card-meta">{{ first.date | date: "%-d %b %Y" }}</span>
@@ -42,7 +42,7 @@ title: Honest tech buying guides for India and the world
     <span class="muted">{{ site.posts.size }} posts</span>
   </div>
   <div class="card-grid">
-    {% for p in site.posts offset: 1 %}{% include card.html post=p %}{% endfor %}
+    {% for p in site.posts %}{% if p.url != first.url %}{% include card.html post=p %}{% endif %}{% endfor %}
   </div>
 </section>
 

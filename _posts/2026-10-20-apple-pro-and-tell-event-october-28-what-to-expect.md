@@ -5,6 +5,7 @@ date: 2026-10-20 04:10:00 +0530
 image: /assets/images/apple-event-oct-28-cover.jpg
 image_alt: "Concept illustration of a laptop and tablet on a dark background with green and orange light"
 image_credit: "Concept illustration — not the actual products"
+featured: true
 category: Launches
 tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
 ---
