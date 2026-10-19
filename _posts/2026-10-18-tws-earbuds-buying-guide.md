@@ -2,6 +2,8 @@
 title: "TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply"
 description: "What does ANC really do? Do you need LDAC? Why do calls sound bad on cheap earbuds? Everything you need to know before buying wireless earbuds."
 date: 2026-10-18 10:00:00 +0530
+image: /assets/images/white-earbuds-case-dark.jpg
+image_alt: "White wireless earbuds and charging case on a dark background"
 category: Audio
 tags: [earbuds, TWS, audio, buying guide]
 affiliate: true

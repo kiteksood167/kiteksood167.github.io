@@ -2,6 +2,8 @@
 title: "Laptop Buying Guide for College Students in India: What Specs You Really Need"
 description: "Engineering, commerce or arts — the right laptop depends on your course, not the shopkeeper's pitch. A plain-English guide to processors, RAM, SSDs and screens."
 date: 2026-10-19 10:00:00 +0530
+image: /assets/images/laptops-two-people-typing.jpg
+image_alt: "Two people typing on silver laptops on a marble desk, seen from above"
 category: Laptops
 tags: [laptops, students, buying guide]
 affiliate: true

@@ -2,6 +2,8 @@
 title: "12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)"
 description: "Skip the myths. These settings and habits make a real difference to daily battery life and to how healthy your battery stays over the years."
 date: 2026-10-17 10:00:00 +0530
+image: /assets/images/phone-battery-replacement-repair.jpg
+image_alt: "An opened smartphone showing its battery during a repair"
 category: Guides
 tags: [battery, android, iphone, tips]
 ---

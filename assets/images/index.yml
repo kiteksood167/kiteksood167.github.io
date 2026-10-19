@@ -1,4 +1,22 @@
-# One entry per photo in this folder. The daily writer picks a matching, unused photo for each new post.
-# - file: phone-camera-closeup.jpg
-#   about: close-up of a smartphone's rear cameras on a wooden desk
-#   credit: "Photo: Name on Pexels"    # leave empty for your own photos
+# One entry per photo in this folder. The daily writer picks a matching photo that no post uses yet.
+# Fields: file, about (what the photo shows), credit (leave empty if none needed), used_by (post that uses it, if any)
+
+- file: laptops-two-people-typing.jpg
+  about: two people typing on silver laptops on a white marble desk, top-down view
+  credit: ""
+  used_by: laptop-buying-guide-for-college-students
+
+- file: white-earbuds-case-dark.jpg
+  about: white wireless earbuds with their charging case on a black background
+  credit: ""
+  used_by: tws-earbuds-buying-guide
+
+- file: phone-battery-replacement-repair.jpg
+  about: an opened smartphone showing the battery and internals during a repair, with repair tools
+  credit: ""
+  used_by: make-phone-battery-last-longer
+
+- file: old-nokia-phones-collection.jpg
+  about: a large collection of old Nokia feature phones on a wooden table; suits posts about feature phones, phone history, nostalgia, or 4G feature phones and keypad phones
+  credit: ""
+  used_by: ""
