@@ -19,6 +19,12 @@
   --c-audio: #a33bff;
   --c-guides: #ff5a1f;
   --c-global: #0b8bb8;
+  --c-launches: #e11d48;
+  --c-wearables: #d97706;
+  --c-tablets: #0d9488;
+  --c-gaming: #4f46e5;
+  --c-accessories: #475569;
+  --c-smart-home: #c026d3;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -141,6 +147,12 @@ a.chip:hover { border-color: var(--ink); }
 .cat-audio   { --c: var(--c-audio); }
 .cat-guides  { --c: var(--c-guides); }
 .cat-global  { --c: var(--c-global); }
+.cat-launches { --c: var(--c-launches); }
+.cat-wearables { --c: var(--c-wearables); }
+.cat-tablets { --c: var(--c-tablets); }
+.cat-gaming { --c: var(--c-gaming); }
+.cat-accessories { --c: var(--c-accessories); }
+.cat-smart-home { --c: var(--c-smart-home); }
 .card-cover {
   background:
     radial-gradient(circle at 80% 20%, rgba(255,255,255,.28) 0 18%, transparent 19%),
@@ -242,3 +254,20 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 /* Buttons inside articles keep white text (overrides .prose a) */
 .prose a.btn, .buy-box a.btn { color: var(--accent-ink); text-decoration: none; }
 .prose a.btn:hover, .buy-box a.btn:hover { color: var(--accent-ink); }
+
+/* "More" dropdown in header */
+.nav { align-items: center; }
+.nav-more { position: relative; }
+.nav-more summary { list-style: none; cursor: pointer; color: var(--ink-2); font-weight: 500; font-size: .95rem; padding: 8px 12px; border-radius: 8px; }
+.nav-more summary::-webkit-details-marker { display: none; }
+.nav-more summary::after { content: " ▾"; font-size: .75em; }
+.nav-more summary:hover, .nav-more[open] summary { background: var(--surface); color: var(--ink); }
+.nav-more-menu { position: absolute; right: 0; top: calc(100% + 6px); min-width: 190px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 6px; display: flex; flex-direction: column; z-index: 20; }
+.nav-more-menu a { padding: 9px 12px; border-radius: 8px; }
+.nav-more-menu a:hover { background: var(--bg); }
+.nav-extra { display: none; }
+@media (max-width: 720px) {
+  .nav-more { display: none; }
+  .nav-extra { display: block; }
+  .nav { max-height: calc(100vh - 64px); overflow-y: auto; }
+}

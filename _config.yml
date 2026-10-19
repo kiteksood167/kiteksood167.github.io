@@ -24,11 +24,26 @@ amazon_tag: ""              # <-- Amazon.in Associates tag, e.g. "gadgetgyaan-21
 amazon_tag_us: ""           # <-- Amazon.com Associates tag for Global posts, e.g. "gadgetgyaan-20"
 
 # Categories shown in the menu
+# All categories (order = order on homepage chips and mobile menu)
 categories_menu:
+  - Launches
   - Phones
   - Laptops
   - Audio
+  - Wearables
+  - Tablets
+  - Gaming
+  - Accessories
+  - Smart Home
   - Guides
+  - Global
+
+# Shown directly in the desktop header; the rest go under "More"
+nav_primary:
+  - Launches
+  - Phones
+  - Laptops
+  - Audio
   - Global
 
 timezone: Asia/Kolkata

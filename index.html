@@ -5,14 +5,14 @@ title: Honest tech buying guides for India and the world
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
-      <p class="eyebrow">Phones · Laptops · Audio · India &amp; Global</p>
+      <p class="eyebrow">New launches · Buying guides · India &amp; Global</p>
       <h1>Buy smarter tech. <em>Pay less</em> for more.</h1>
     </div>
     <div>
       <p class="lede">{{ site.description }}</p>
       <div class="hero-cats">
         {% for c in site.categories_menu %}
-        <a class="chip" href="{{ '/category/' | append: c | downcase | append: '/' | relative_url }}">{{ c }}</a>
+        <a class="chip" href="{{ '/category/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a>
         {% endfor %}
       </div>
     </div>
@@ -22,7 +22,7 @@ title: Honest tech buying guides for India and the world
   {% if first %}{% assign fc = first.category | default: 'Guides' %}
   <div class="wrap">
     <a class="featured" href="{{ first.url | relative_url }}">
-      <div class="card-cover cat-{{ fc | downcase }}{% if first.image %} has-img{% endif %}" aria-hidden="true">
+      <div class="card-cover cat-{{ fc | slugify }}{% if first.image %} has-img{% endif %}" aria-hidden="true">
         {% if first.image %}<img src="{{ first.image | relative_url }}" alt="">{% else %}{% include cat-icon.html cat=fc %}{% endif %}
       </div>
       <div class="card-body">

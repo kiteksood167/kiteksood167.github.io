@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign posts = site.posts | where: "category", page.category %}
-<section class="cat-header cat-{{ page.category | downcase }}">
+<section class="cat-header cat-{{ page.category | slugify }}">
   <div class="wrap">
     <p class="eyebrow">Category</p>
     <h1>{{ page.category }}</h1>
