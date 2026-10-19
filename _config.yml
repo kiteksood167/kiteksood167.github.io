@@ -14,7 +14,7 @@ lang: en-IN
 url: "https://kiteksood167.github.io"   # change to your own domain later, e.g. https://gadgetgyaan.in
 baseurl: ""                                      # leave empty if the repo is named YOUR-USERNAME.github.io
 
-contact_email: "hello@example.com"               # <-- CHANGE to the email readers should write to
+contact_email: "kiteksood167@gmail.com"
 
 # Money settings — leave empty until you are approved.
 adsense_client: ""          # <-- e.g. "ca-pub-1234567890123456" after AdSense approval
