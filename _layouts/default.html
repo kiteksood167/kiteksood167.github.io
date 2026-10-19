@@ -35,19 +35,19 @@
       <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span></label>
       <nav class="nav">
         {% for c in site.nav_primary %}
-        <a class="nav-main" href="{{ '/category/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a>
+        <a class="nav-main" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
         {% endfor %}
         <details class="nav-more">
           <summary>More</summary>
           <div class="nav-more-menu">
             {% for c in site.categories_menu %}{% unless site.nav_primary contains c %}
-            <a href="{{ '/category/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a>
+            <a href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
             {% endunless %}{% endfor %}
             <a href="{{ '/about/' | relative_url }}">About</a>
           </div>
         </details>
         {% for c in site.categories_menu %}{% unless site.nav_primary contains c %}
-        <a class="nav-extra" href="{{ '/category/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a>
+        <a class="nav-extra" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
         {% endunless %}{% endfor %}
         <a class="nav-extra" href="{{ '/about/' | relative_url }}">About</a>
       </nav>

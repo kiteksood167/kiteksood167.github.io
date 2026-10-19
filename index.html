@@ -12,7 +12,7 @@ title: Honest tech buying guides for India and the world
       <p class="lede">{{ site.description }}</p>
       <div class="hero-cats">
         {% for c in site.categories_menu %}
-        <a class="chip" href="{{ '/category/' | append: c | slugify | append: '/' | relative_url }}">{{ c }}</a>
+        <a class="chip" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
         {% endfor %}
       </div>
     </div>
