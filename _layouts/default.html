@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  {% feed_meta %}
+  {% if site.adsense_client != "" %}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}" crossorigin="anonymous"></script>
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="{{ '/' | relative_url }}">
+        <span class="logo-mark" aria-hidden="true">G</span>
+        <span>Gadget<b>Gyaan</b></span>
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Open menu">
+      <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span></label>
+      <nav class="nav">
+        {% for c in site.categories_menu %}
+        <a href="{{ '/category/' | append: c | downcase | append: '/' | relative_url }}">{{ c }}</a>
+        {% endfor %}
+        <a href="{{ '/about/' | relative_url }}">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div>
+        <a class="logo logo-sm" href="{{ '/' | relative_url }}"><span class="logo-mark" aria-hidden="true">G</span><span>Gadget<b>Gyaan</b></span></a>
+        <p class="muted">{{ site.tagline }}.</p>
+      </div>
+      <nav class="footer-links">
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
+        <a href="{{ '/disclosure/' | relative_url }}">Affiliate Disclosure</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      </nav>
+    </div>
+    <p class="wrap copyright muted">© {{ site.time | date: '%Y' }} {{ site.title }}. Some links on this site are affiliate links — we may earn a small commission at no extra cost to you.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{% comment %}
+  Buy button for affiliate links.
+  Usage in a post:
+  include buy.html name="Product name" query="search words" note="optional short note"
+  (wrapped in the usual curly-brace-percent tags)
+  Links to an Amazon.in search; your Associates tag is added automatically once set in _config.yml.
+{% endcomment %}
+{% capture q %}{{ include.query | default: include.name | url_encode }}{% endcapture %}
+{% capture href %}https://www.amazon.in/s?k={{ q }}{% if site.amazon_tag != "" %}&tag={{ site.amazon_tag }}{% endif %}{% endcapture %}
+<div class="buy-box">
+  <div>
+    <strong>{{ include.name }}</strong>
+    {% if include.note %}<span class="muted">{{ include.note }}</span>{% endif %}
+  </div>
+  <a class="btn" href="{{ href }}" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon</a>
+</div>

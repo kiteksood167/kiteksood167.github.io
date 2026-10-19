@@ -1,0 +1,12 @@
+{% assign p = include.post %}{% assign c = p.category | default: 'Guides' %}
+<a class="card" href="{{ p.url | relative_url }}">
+  <div class="card-cover cat-{{ c | downcase }}" aria-hidden="true">
+    {% include cat-icon.html cat=c %}
+  </div>
+  <div class="card-body">
+    <span class="chip chip-sm">{{ c }}</span>
+    <h3>{{ p.title }}</h3>
+    <p>{{ p.description | default: p.excerpt | strip_html | truncate: 120 }}</p>
+    <span class="card-meta">{{ p.date | date: "%-d %b %Y" }}</span>
+  </div>
+</a>

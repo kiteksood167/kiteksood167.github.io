@@ -1,0 +1,57 @@
+---
+layout: default
+title: Honest tech advice for Indian buyers
+---
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">Phones · Laptops · Audio · Buying guides</p>
+      <h1>Buy smarter tech, <em>every rupee</em> counted.</h1>
+    </div>
+    <div>
+      <p class="lede">{{ site.description }}</p>
+      <div class="hero-cats">
+        {% for c in site.categories_menu %}
+        <a class="chip" href="{{ '/category/' | append: c | downcase | append: '/' | relative_url }}">{{ c }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% assign first = site.posts.first %}
+  {% if first %}{% assign fc = first.category | default: 'Guides' %}
+  <div class="wrap">
+    <a class="featured" href="{{ first.url | relative_url }}">
+      <div class="card-cover cat-{{ fc | downcase }}" aria-hidden="true">
+        {% include cat-icon.html cat=fc %}
+      </div>
+      <div class="card-body">
+        <span><span class="chip chip-sm">Latest · {{ fc }}</span></span>
+        <h2>{{ first.title }}</h2>
+        <p>{{ first.description | default: first.excerpt | strip_html | truncate: 170 }}</p>
+        <span class="card-meta">{{ first.date | date: "%-d %b %Y" }}</span>
+      </div>
+    </a>
+  </div>
+  {% endif %}
+</section>
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>All articles</h2>
+    <span class="muted">{{ site.posts.size }} posts</span>
+  </div>
+  <div class="card-grid">
+    {% for p in site.posts offset: 1 %}{% include card.html post=p %}{% endfor %}
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="band">
+    <div>
+      <h2>Confused about what to buy?</h2>
+      <p>Tell us your budget and what you need. We answer reader questions and turn the best ones into guides.</p>
+    </div>
+    <a class="btn" href="{{ '/contact/' | relative_url }}">Ask a question</a>
+  </div>
+</section>

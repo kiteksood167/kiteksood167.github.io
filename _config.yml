@@ -1,0 +1,51 @@
+# ------------------------------------------------------------
+#  GadgetGyaan — site settings
+#  Edit the values marked  <-- CHANGE  and push to GitHub.
+# ------------------------------------------------------------
+
+title: GadgetGyaan
+tagline: Honest tech advice for Indian buyers
+description: >-
+  Simple, honest guides to phones, laptops, earbuds and everyday tech —
+  written for Indian buyers who want the best value for every rupee.
+author: GadgetGyaan Team
+lang: en-IN
+
+url: "https://kiteksood167.github.io"   # change to your own domain later, e.g. https://gadgetgyaan.in
+baseurl: ""                                      # leave empty if the repo is named YOUR-USERNAME.github.io
+
+contact_email: "hello@example.com"               # <-- CHANGE to the email readers should write to
+
+# Money settings — leave empty until you are approved.
+adsense_client: ""          # <-- e.g. "ca-pub-1234567890123456" after AdSense approval
+amazon_tag: ""              # <-- your Amazon Associates tag, e.g. "gadgetgyaan-21"
+
+# Categories shown in the menu
+categories_menu:
+  - Phones
+  - Laptops
+  - Audio
+  - Guides
+
+timezone: Asia/Kolkata
+permalink: /:title/
+markdown: kramdown
+excerpt_separator: "<!--more-->"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "" }
+    values: { layout: page }
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _drafts_queue
+  - WRITING_GUIDE.md

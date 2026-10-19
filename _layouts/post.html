@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% assign cat = page.category | default: 'Guides' %}
+<article class="post">
+  <header class="post-hero cat-{{ cat | downcase }}">
+    <div class="wrap narrow">
+      <a class="chip" href="{{ '/category/' | append: cat | downcase | append: '/' | relative_url }}">{{ cat }}</a>
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+      <p class="meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %b %Y" }}</time>
+        {% if page.last_modified_at %} · Updated {{ page.last_modified_at | date: "%-d %b %Y" }}{% endif %}
+        · {{ content | number_of_words | divided_by: 200 | plus: 1 }} min read
+      </p>
+    </div>
+  </header>
+
+  <div class="wrap narrow">
+    {% if page.affiliate %}
+    <p class="disclosure-note">This post may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="{{ '/disclosure/' | relative_url }}">Learn more</a>.</p>
+    {% endif %}
+
+    {% include ad.html slot="top" %}
+
+    <div class="prose">
+      {{ content }}
+    </div>
+
+    {% include ad.html slot="bottom" %}
+
+    {% assign related = site.posts | where: "category", cat | where_exp: "p", "p.url != page.url" %}
+    {% if related.size > 0 %}
+    <section class="related">
+      <h2>More in {{ cat }}</h2>
+      <div class="card-grid small">
+        {% for p in related limit: 3 %}{% include card.html post=p %}{% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </div>
+</article>

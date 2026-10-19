@@ -1,0 +1,10 @@
+{% comment %}
+  Ad slot. Shows nothing until `adsense_client` is set in _config.yml.
+  After AdSense approval, Auto ads will also place ads automatically.
+{% endcomment %}
+{% if site.adsense_client != "" %}
+<div class="ad-slot ad-{{ include.slot }}">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{{ site.adsense_client }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}
