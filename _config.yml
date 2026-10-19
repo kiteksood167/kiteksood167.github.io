@@ -4,12 +4,12 @@
 # ------------------------------------------------------------
 
 title: GadgetGyaan
-tagline: Honest tech advice for Indian buyers
+tagline: Honest tech advice for India and the world
 description: >-
   Simple, honest guides to phones, laptops, earbuds and everyday tech —
-  written for Indian buyers who want the best value for every rupee.
+  for buyers in India and around the world who want the best value for their money.
 author: GadgetGyaan Team
-lang: en-IN
+lang: en
 
 url: "https://kiteksood167.github.io"   # change to your own domain later, e.g. https://gadgetgyaan.in
 baseurl: ""                                      # leave empty if the repo is named YOUR-USERNAME.github.io
@@ -18,7 +18,8 @@ contact_email: "kiteksood167@gmail.com"
 
 # Money settings — leave empty until you are approved.
 adsense_client: ""          # <-- e.g. "ca-pub-1234567890123456" after AdSense approval
-amazon_tag: ""              # <-- your Amazon Associates tag, e.g. "gadgetgyaan-21"
+amazon_tag: ""              # <-- Amazon.in Associates tag, e.g. "gadgetgyaan-21"
+amazon_tag_us: ""           # <-- Amazon.com Associates tag for Global posts, e.g. "gadgetgyaan-20"
 
 # Categories shown in the menu
 categories_menu:
@@ -26,6 +27,7 @@ categories_menu:
   - Laptops
   - Audio
   - Guides
+  - Global
 
 timezone: Asia/Kolkata
 permalink: /:title/

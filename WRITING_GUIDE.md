@@ -9,7 +9,10 @@ published: false
 Every post (written by a person or by the scheduled writing task) follows these rules.
 
 ## Audience
-Indian buyers, mostly on phones, comparing products in rupees. Plain English, short sentences, no jargon without an explanation.
+Two audiences, one per post:
+- **India posts** (categories Phones, Laptops, Audio, Guides): Indian buyers, prices in rupees (₹), Amazon.in links, Indian sale seasons, brands and availability in India.
+- **Global posts** (category Global): readers in the US, UK, Canada and Australia. Prices in US dollars (add £ where it helps), products widely sold in the US/UK, Amazon.com links using store="us", American spelling, no India-specific references.
+Plain English, short sentences, no jargon without an explanation.
 
 ## Topics that work
 - Buying guides by budget ("best X under ₹Y") — must be researched against current prices and models.
@@ -36,4 +39,4 @@ Indian buyers, mostly on phones, comparing products in rupees. Plain English, sh
 - Recommend what is genuinely best for the reader, including cheaper options.
 
 ## Categories
-Phones, Laptops, Audio, Guides — exactly one per post.
+Phones, Laptops, Audio, Guides (India) or Global — exactly one per post. Alternate days: India post one day, Global post the next.

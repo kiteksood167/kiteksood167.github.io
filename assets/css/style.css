@@ -18,6 +18,7 @@
   --c-laptops: #0e9f6e;
   --c-audio: #a33bff;
   --c-guides: #ff5a1f;
+  --c-global: #0b8bb8;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -139,6 +140,7 @@ a.chip:hover { border-color: var(--ink); }
 .cat-laptops { --c: var(--c-laptops); }
 .cat-audio   { --c: var(--c-audio); }
 .cat-guides  { --c: var(--c-guides); }
+.cat-global  { --c: var(--c-global); }
 .card-cover {
   background:
     radial-gradient(circle at 80% 20%, rgba(255,255,255,.28) 0 18%, transparent 19%),
