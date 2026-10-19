@@ -49,3 +49,4 @@ exclude:
   - Gemfile.lock
   - _drafts_queue
   - WRITING_GUIDE.md
+  - assets/images/README.md

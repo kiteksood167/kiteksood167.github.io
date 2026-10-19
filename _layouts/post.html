@@ -17,6 +17,12 @@ layout: default
   </header>
 
   <div class="wrap narrow">
+    {% if page.image %}
+    <figure class="post-cover">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">
+      {% if page.image_credit %}<figcaption>{{ page.image_credit }}</figcaption>{% endif %}
+    </figure>
+    {% endif %}
     {% if page.affiliate %}
     <p class="disclosure-note">This post may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="{{ '/disclosure/' | relative_url }}">Learn more</a>.</p>
     {% endif %}

@@ -22,8 +22,8 @@ title: Honest tech advice for Indian buyers
   {% if first %}{% assign fc = first.category | default: 'Guides' %}
   <div class="wrap">
     <a class="featured" href="{{ first.url | relative_url }}">
-      <div class="card-cover cat-{{ fc | downcase }}" aria-hidden="true">
-        {% include cat-icon.html cat=fc %}
+      <div class="card-cover cat-{{ fc | downcase }}{% if first.image %} has-img{% endif %}" aria-hidden="true">
+        {% if first.image %}<img src="{{ first.image | relative_url }}" alt="">{% else %}{% include cat-icon.html cat=fc %}{% endif %}
       </div>
       <div class="card-body">
         <span><span class="chip chip-sm">Latest · {{ fc }}</span></span>
