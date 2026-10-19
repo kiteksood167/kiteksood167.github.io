@@ -1,0 +1,53 @@
+# Planned topics for the morning daily post (8:54 AM IST).
+# The daily task writes the entry for today's date. If an image with the listed
+# `image` file name exists in assets/images/, it is used as the cover.
+# Launch posts (6:48 PM) are news-driven and are not planned here.
+
+- date: 2026-10-20
+  audience: India
+  category: Wearables
+  title: "Best Smartwatches Under ₹5,000 in India (October 2026)"
+  slug: best-smartwatches-under-5000
+  image: best-smartwatches-under-5000.jpg
+
+- date: 2026-10-21
+  audience: Global
+  category: Global
+  title: "Best Budget Phones Under $300 in 2026"
+  slug: best-budget-phones-under-300
+  image: best-budget-phones-under-300.jpg
+
+- date: 2026-10-22
+  audience: India
+  category: Accessories
+  title: "Best Power Banks in India: How to Choose the Right One"
+  slug: best-power-banks-india
+  image: best-power-banks-india.jpg
+
+- date: 2026-10-23
+  audience: Global
+  category: Global
+  title: "Best Noise Cancelling Headphones Under $100"
+  slug: best-noise-cancelling-headphones-under-100
+  image: best-noise-cancelling-headphones-under-100.jpg
+
+- date: 2026-10-24
+  audience: India
+  category: Gaming
+  title: "Best Gaming Phones Under ₹30,000 in India"
+  slug: best-gaming-phones-under-30000
+  image: best-gaming-phones-under-30000.jpg
+
+- date: 2026-10-25
+  audience: Global
+  category: Global
+  title: "Best Laptops for College Students in 2026"
+  slug: best-laptops-for-college-students-2026
+  image: best-laptops-for-college-students-2026.jpg
+
+- date: 2026-10-26
+  audience: India
+  category: Tablets
+  title: "Best Tablets for Students in India Under ₹20,000"
+  slug: best-tablets-for-students-under-20000
+  image: best-tablets-for-students-under-20000.jpg
