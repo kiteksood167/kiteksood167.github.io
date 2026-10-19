@@ -8,6 +8,16 @@ GadgetGyaan helps buyers make smarter choices about phones, laptops, earbuds and
 
 Tech shopping in India is confusing. Every week there's a new launch, every box is covered in big numbers, and sale banners make everything look like a deal. We cut through that noise with plain-English guides that explain **what actually matters** and **what is just marketing**.
 
+## Who runs GadgetGyaan
+
+<div class="about-author">
+  <img src="/assets/images/authors/kitek-sood.jpg" alt="Kitek Sood" width="140" height="140">
+  <div>
+    <p><strong>Kitek Sood</strong> — Web &amp; App Developer, Founder of GadgetGyaan</p>
+    <p>I'm a web and app developer. I spend my working days building websites and apps, and my free time following phones, laptops and gadgets. I started GadgetGyaan because buying tech has become confusing — every box is covered in big numbers, and most "reviews" sound like ads. Here I explain what actually matters, in plain language, so you can buy with confidence.</p>
+  </div>
+</div>
+
 ## What we write about
 
 - **Buying guides:** how to choose the right phone, laptop or earbuds for your budget

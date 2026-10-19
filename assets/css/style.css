@@ -276,3 +276,17 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .prose .inline-figure { margin: 1.4em 0 1.6em; }
 .prose .inline-figure img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; margin: 0; }
 .prose .inline-figure figcaption { font-size: .8rem; color: var(--muted); margin-top: 8px; }
+
+/* Author */
+.author-box { display: flex; gap: 16px; align-items: flex-start; margin: 40px 0 8px; padding: 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.author-box img { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; flex: none; }
+.author-box p { margin: 0; }
+.author-label { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.author-name { font-family: var(--font-head); font-weight: 800; font-size: 1.15rem; margin-top: 2px !important; }
+.author-name a { text-decoration: none; color: var(--ink); }
+.author-role { font-size: .85rem; color: var(--accent); font-weight: 600; margin: 2px 0 8px !important; }
+.author-bio { font-size: .92rem; color: var(--ink-2); }
+.about-author { display: flex; gap: 20px; align-items: flex-start; margin: 8px 0 28px; }
+.about-author img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex: none; margin: 0; }
+.about-author p { margin: 0 0 .7em; }
+@media (max-width: 560px) { .about-author { flex-direction: column; } .author-box { flex-direction: column; } }
