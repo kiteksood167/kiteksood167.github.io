@@ -231,3 +231,8 @@ a.chip:hover { border-color: var(--ink); }
 .post-cover img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius); }
 .post-cover figcaption { font-size: .8rem; color: var(--muted); margin-top: 8px; }
 .prose img { border-radius: 10px; margin: .5em 0; }
+
+/* Brand logo */
+img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; background: none; }
+.logo { font-weight: 800; letter-spacing: -0.03em; }
+.logo-sm img.logo-mark { width: 30px; height: 30px; }

@@ -50,3 +50,5 @@ exclude:
   - _drafts_queue
   - WRITING_GUIDE.md
   - assets/images/README.md
+
+logo: /assets/icon-512.png
