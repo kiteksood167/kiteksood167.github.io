@@ -2,6 +2,9 @@
 title: "OPPO Find X10 Series Launching in India on October 22: What We Know"
 description: "OPPO has confirmed the Find X10 and Find X10 Pro Max for India on October 22 at 4:45 PM IST. Here are the confirmed details, China prices, key specs and what to expect."
 date: 2026-10-20 18:45:00 +0530
+image: /assets/images/oppo-find-x10-launch-concept.jpg
+image_alt: "Concept illustration of two flagship smartphones on a glowing launch stage"
+image_credit: "Concept illustration — not the actual product"
 category: Launches
 tags: [oppo, find x10, find x10 pro max, smartphone, flagship phone, launch]
 ---
@@ -37,6 +40,11 @@ OPPO is expected to show the Pad Mini tablet and Enco X4 earbuds at the same eve
 
 ## Key specifications
 
+<figure class="inline-figure">
+  <img src="/assets/images/flagship-phone-specs-concept.jpg" alt="Concept illustration of a flagship phone with callouts for chip, camera, display and battery" loading="lazy">
+  <figcaption>Concept illustration — not the actual product.</figcaption>
+</figure>
+
 These are the Find X10 Pro Max specs from its China launch, confirmed by multiple reports. OPPO hasn't yet said whether the Indian model is exactly the same, but flagship phones usually don't change much between markets.
 
 | Spec | Find X10 Pro Max |
@@ -59,6 +67,11 @@ The biggest change is the camera. The Find X9 Pro already had a 200MP telephoto,
 
 The battery also gets bigger, from 7,500mAh on the Find X9 Pro to 8,000mAh. The Dimensity 9500 chip is replaced by the new 2nm Dimensity 9600 Pro. The phone is also rated IP66, IP68 and IP69, so it's well protected against dust, water and even high-pressure water jets.
 ## Who should consider it
+
+<figure class="inline-figure">
+  <img src="/assets/images/flagship-phone-who-should-buy-concept.jpg" alt="Concept illustration of people using a flagship phone for gaming, photos, work and travel" loading="lazy">
+  <figcaption>Concept illustration — not the actual product.</figcaption>
+</figure>
 
 If you mostly care about cameras, especially zoom, and want a phone that easily lasts a full day, the Find X10 Pro Max looks like one of the most interesting flagships of the year on paper. The regular Find X10 should suit buyers who want the same software and most of the camera features in a smaller, cheaper phone.
 
