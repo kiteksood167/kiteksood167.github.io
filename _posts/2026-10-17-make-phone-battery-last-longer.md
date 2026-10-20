@@ -14,6 +14,11 @@ If your phone struggles to last the day, you don't always need a new one. A few 
 
 ## Part 1: Settings that save battery today
 
+<figure class="inline-figure">
+  <img src="/assets/images/phone-dark-mode-brightness.jpg" alt="Phone display settings showing dark mode and low brightness" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ### 1. Find the battery-hungry apps first
 Go to **Settings → Battery** and see which apps use the most. Often one app, like a social media app or a game running in the background, is responsible for most of the drain. Restrict its background activity or uninstall it.
 
@@ -41,6 +46,11 @@ Don't wait until 5%. Turning on battery saver at **20–30%** gives you a lot mo
 ## Part 2: Habits that keep your battery healthy for years
 
 ### 9. Avoid heat
+
+<figure class="inline-figure">
+  <img src="/assets/images/phone-overheating-car.jpg" alt="A phone overheating on a car dashboard in the sun" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 Heat is the number one enemy of lithium-ion batteries. Don't leave your phone in a hot car or in direct sun, and avoid heavy gaming **while charging**. Take off a thick case if the phone gets hot while charging.
 
 ### 10. Keep it between 20% and 80% when you can

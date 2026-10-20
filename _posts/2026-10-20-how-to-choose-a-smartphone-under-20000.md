@@ -41,6 +41,11 @@ A 120Hz display makes scrolling feel smooth, and it's now common in this price r
 
 ## 5. Cameras: ignore the megapixel count
 
+<figure class="inline-figure">
+  <img src="/assets/images/phone-camera-module.jpg" alt="Close-up of a smartphone's triple rear camera module" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 A 50MP main camera with a good, large sensor beats a 200MP camera with a small one. Also ignore extra lenses: 2MP "macro" and "depth" cameras are mostly there to make the camera bump look impressive.
 
 **What actually helps:**
@@ -59,6 +64,11 @@ This is the most underrated spec. Before buying, check:
 A phone with 3–4 years of updates will stay safe and usable much longer than one that gets abandoned after a year.
 
 ## 7. Battery and charging
+
+<figure class="inline-figure">
+  <img src="/assets/images/phone-fast-charging-80.jpg" alt="A smartphone fast charging at 80 percent" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 A 5,000mAh battery is the standard now, and some phones go bigger. Fast charging between 33W and 67W is plenty. Check whether the **charger is in the box**, because some brands have stopped including it, which adds ₹1,000–₹2,000 to the real price.
 

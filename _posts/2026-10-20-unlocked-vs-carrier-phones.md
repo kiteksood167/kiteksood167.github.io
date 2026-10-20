@@ -40,6 +40,11 @@ Read the small print carefully. Many "free phone" offers are paid as monthly cre
 
 ## When unlocked is better
 
+<figure class="inline-figure">
+  <img src="/assets/images/unlocked-phone-travel.jpg" alt="A traveller at an airport holding an unlocked phone that works with any SIM" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 - **You want a cheaper plan.** Prepaid and smaller carriers (often called MVNOs) usually cost far less than the big carriers' premium plans, and they run on the same networks.
 - **You travel often.** An unlocked phone with eSIM support lets you buy cheap local data in minutes.
 - **You keep phones a long time** or resell them. Unlocked phones are easier to resell and often fetch higher prices.

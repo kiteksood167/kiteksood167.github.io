@@ -19,6 +19,11 @@ No feature matters if the earbuds don't fit. A bad fit means weak bass, poor noi
 
 ## ANC vs ENC: not the same thing
 
+<figure class="inline-figure">
+  <img src="/assets/images/earbuds-anc-metro.jpg" alt="A commuter wearing noise-cancelling earbuds on a busy metro train" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 | Term | What it does | Who it helps |
 |---|---|---|
 | **ANC** (Active Noise Cancellation) | Reduces outside noise *you* hear, like bus, metro, fan or AC hum | People who commute or work in noisy places |
@@ -44,6 +49,11 @@ Your phone also needs to support the codec. If you mostly listen on YouTube or r
 - **Fast charging:** "10 minutes for 2 hours" is handy if you forget to charge.
 
 ## Gaming and low latency
+
+<figure class="inline-figure">
+  <img src="/assets/images/earbuds-gaming-low-latency.jpg" alt="Gaming earbuds next to a phone running a battle royale game" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 If you play games like BGMI or Free Fire, look for a **low latency** or **game mode** of under 60ms. Without it, sounds like footsteps reach your ears late, which hurts in competitive games.
 

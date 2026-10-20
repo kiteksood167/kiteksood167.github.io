@@ -17,6 +17,11 @@ Here's how to pick the right one for your course and budget.
 
 ## Step 1: Match the laptop to your course
 
+<figure class="inline-figure">
+  <img src="/assets/images/student-desk-cs-course.jpg" alt="A computer science student's desk with a laptop, textbooks and study plan" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 | Your course | What you'll run | What to prioritise |
 |---|---|---|
 | Arts, commerce, law, BBA | Docs, browser, Zoom, Excel | Battery, light weight, good keyboard |
@@ -52,6 +57,11 @@ Never buy a laptop with a hard disk (HDD) as its main drive. A **512GB NVMe SSD*
 If you carry it to college every day, aim for under **1.6 kg** and a real-world battery of 6+ hours. Brand claims are usually optimistic, so check reviews that test battery with normal use.
 
 ## Step 7: The extras people forget
+
+<figure class="inline-figure">
+  <img src="/assets/images/laptop-ports-usb-hdmi.jpg" alt="A laptop's USB-C, USB-A and HDMI ports labelled" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 - **Free MS Office:** Many laptops sold in India include Office Home & Student, which is worth several thousand rupees.
 - **Warranty:** Consider an extended warranty or accidental damage protection. Students drop laptops more than they'd like to admit.
