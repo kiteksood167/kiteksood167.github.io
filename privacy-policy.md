@@ -30,7 +30,7 @@ For more information, see [how Google uses information from sites that use its s
 
 ## Affiliate links
 
-Some links on the Site are affiliate links (for example, to Amazon.in). When you click them, the store may set cookies to track that the visit came from us. See our [Affiliate Disclosure](/disclosure/).
+Some links on the Site are affiliate links (for example, to Amazon.in and Flipkart). When you click them, the store may set cookies to track that the visit came from us. See our [Affiliate Disclosure](/disclosure/).
 
 ## Third-party websites
 

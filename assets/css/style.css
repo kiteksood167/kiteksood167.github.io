@@ -296,3 +296,8 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .comments h2 { font-size: 1.3rem; margin: 0 0 6px; }
 .comments-note { font-size: .9rem; margin: 0 0 16px; }
 #cusdis_thread iframe { width: 100%; border: 0; }
+
+/* Buy buttons row */
+.buy-btns { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn-alt { background: #2874f0; }
+.prose a.btn-alt, .buy-box a.btn-alt { color: #fff; }

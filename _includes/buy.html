@@ -17,5 +17,10 @@
     <strong>{{ include.name }}</strong>
     {% if include.note %}<span class="muted">{{ include.note }}</span>{% endif %}
   </div>
-  <a class="btn" href="{{ href }}" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon</a>
+  <div class="buy-btns">
+    <a class="btn" href="{{ href }}" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon</a>
+    {% if include.store != "us" and site.flipkart_affid and site.flipkart_affid != "" %}
+    <a class="btn btn-alt" href="https://www.flipkart.com/search?q={{ q }}&affid={{ site.flipkart_affid }}" target="_blank" rel="sponsored nofollow noopener">Check on Flipkart</a>
+    {% endif %}
+  </div>
 </div>
