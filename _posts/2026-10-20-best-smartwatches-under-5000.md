@@ -2,6 +2,8 @@
 title: "Best Smartwatches Under ₹5,000 in India (October 2026)"
 description: "Four smartwatches under ₹5,000 worth buying right now, from a ₹2,000 AMOLED starter watch to GPS models for runners, with current prices and who each one suits."
 date: 2026-10-20 08:46:00 +0530
+image: /assets/images/best-smartwatches-under-5000.jpg
+image_alt: "Four budget smartwatches, two square and two round, with colourful screens"
 category: Wearables
 tags: [smartwatch, budget smartwatch, buying guide, Redmi, realme, CMF]
 affiliate: true
@@ -60,6 +62,11 @@ It's currently around ₹4,500 on Flipkart, Croma and Myntra, so it's the most e
 
 ## What to check before you buy
 
+<figure class="inline-figure">
+  <img src="/assets/images/smartwatch-gps-run-stats.jpg" alt="A smartwatch on a wrist showing GPS route, heart rate and pace during a run" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 **Built-in GPS or connected GPS.** Many budget watches say "GPS" but mean connected GPS, which borrows your phone's location. Only true built-in GPS tracks a run when your phone stays at home. Of the four here, only the Redmi Watch 5 Lite and CMF Watch Pro 2 have it.
 
 **AMOLED vs LCD.** Almost every good watch under ₹5,000 now uses AMOLED, which looks sharper and is easier to read outdoors. Avoid LCD (often listed as TFT) models in this budget unless they are much cheaper.
@@ -73,6 +80,11 @@ It's currently around ₹4,500 on Flipkart, Croma and Myntra, so it's the most e
 > **Tip:** Smartwatch prices in India drop sharply during big sales. If the watch you want is close to its launch price, check Amazon and Flipkart again during the next sale event, as discounts of ₹500–₹1,000 are common in this segment.
 
 ## Which one should you buy?
+
+<figure class="inline-figure">
+  <img src="/assets/images/smartwatches-compare-features.jpg" alt="Three smartwatches showing different fitness features, next to a phone and charger" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 - **Tightest budget:** Redmi Watch Move at around ₹2,000 covers the basics well.
 - **Classic look and long battery:** realme Watch S2 at around ₹3,300.
