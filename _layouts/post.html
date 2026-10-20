@@ -35,6 +35,8 @@ layout: default
 
     {% include author-box.html %}
 
+    {% include comments.html %}
+
     {% include ad.html slot="bottom" %}
 
     {% assign related = site.posts | where: "category", cat | where_exp: "p", "p.url != page.url" %}

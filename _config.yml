@@ -17,6 +17,7 @@ baseurl: ""                                      # leave empty if the repo is na
 contact_email: "kiteksood167@gmail.com"
 
 google_analytics: "G-PEV8WFHB1J"   # Google Analytics 4 Measurement ID
+cusdis_app_id: ""                 # <-- Cusdis App ID; comments appear on posts once this is filled in
 
 # Money settings — leave empty until you are approved.
 adsense_client: ""          # <-- e.g. "ca-pub-1234567890123456" after AdSense approval

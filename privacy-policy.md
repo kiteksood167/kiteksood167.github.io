@@ -14,6 +14,10 @@ This Privacy Policy explains how {{ site.title }} ("we", "us") handles informati
 
 **Information collected automatically.** Like most websites, our hosting provider and analytics or advertising partners may collect standard technical information such as your IP address, browser type, device, pages visited and the time of your visit. This is used to keep the Site working, understand which content is useful and show relevant ads.
 
+## Comments
+
+Posts may include a comment section provided by **Cusdis**. If you leave a comment, the name and comment you enter (and your email address, if you choose to provide it) are stored by Cusdis so that the comment can be shown and moderated. Comments are reviewed before they appear. We never publish email addresses. To have a comment removed, contact us.
+
 ## Cookies and advertising
 
 We use third-party advertising companies, including **Google AdSense**, to show ads when you visit the Site.

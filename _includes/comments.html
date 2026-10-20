@@ -1,0 +1,14 @@
+{% if site.cusdis_app_id and site.cusdis_app_id != "" %}
+<section class="comments" id="comments">
+  <h2>Comments</h2>
+  <p class="muted comments-note">Have a question about this, or your own experience to share? Comments appear after a quick review.</p>
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="{{ site.cusdis_app_id }}"
+    data-page-id="{{ page.url }}"
+    data-page-url="{{ page.url | absolute_url }}"
+    data-page-title="{{ page.title | escape }}"
+    data-theme="auto"></div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</section>
+{% endif %}

@@ -290,3 +290,9 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .about-author img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex: none; margin: 0; }
 .about-author p { margin: 0 0 .7em; }
 @media (max-width: 560px) { .about-author { flex-direction: column; } .author-box { flex-direction: column; } }
+
+/* Comments */
+.comments { margin: 32px 0 8px; padding-top: 24px; border-top: 1px solid var(--line); }
+.comments h2 { font-size: 1.3rem; margin: 0 0 6px; }
+.comments-note { font-size: .9rem; margin: 0 0 16px; }
+#cusdis_thread iframe { width: 100%; border: 0; }
