@@ -17,7 +17,7 @@ baseurl: ""                                      # leave empty if the repo is na
 contact_email: "kiteksood167@gmail.com"
 
 google_analytics: "G-PEV8WFHB1J"   # Google Analytics 4 Measurement ID
-pinterest_verify: ""              # <-- Pinterest "claim website" code (the content="..." value)
+pinterest_verify: "83598c6cf56d763fee229c1783e6fde7"              # <-- Pinterest "claim website" code (the content="..." value)
 cusdis_app_id: ""                 # <-- Cusdis App ID; comments appear on posts once this is filled in
 
 # Money settings — leave empty until you are approved.
