@@ -52,6 +52,11 @@ Read the small print carefully. Many "free phone" offers are paid as monthly cre
 
 ## How to work out the true cost
 
+<figure class="inline-figure">
+  <img src="/assets/images/unlocked-phone-true-cost.jpg" alt="A phone next to a calculator and a monthly phone bill in dollars with a True cost note" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 Add up everything over two years for both options:
 
 1. **Phone price**, minus any trade-in or discount you'll *actually* receive
