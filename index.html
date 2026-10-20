@@ -18,31 +18,56 @@ title: Honest tech buying guides for India and the world
     </div>
   </div>
 
-  {% assign pinned = site.posts | where: "featured", true %}{% if pinned.size > 0 %}{% assign first = pinned.first %}{% else %}{% assign first = site.posts.first %}{% endif %}
-  {% if first %}{% assign fc = first.category | default: 'Guides' %}
+  {% assign pinned = site.posts | where: "featured", true %}
+  {% if pinned.size > 0 %}{% assign lead = pinned.first %}{% else %}{% assign lead = site.posts.first %}{% endif %}
+  {% if lead %}{% assign lc = lead.category | default: 'Guides' %}
+  {% assign shown = "|" | append: lead.url | append: "|" %}
   <div class="wrap">
-    <a class="featured" href="{{ first.url | relative_url }}">
-      <div class="card-cover cat-{{ fc | slugify }}{% if first.image %} has-img{% endif %}" aria-hidden="true">
-        {% if first.image %}<img src="{{ first.image | relative_url }}" alt="">{% else %}{% include cat-icon.html cat=fc %}{% endif %}
+    <div class="feat-grid">
+      <a class="feat-lead" href="{{ lead.url | relative_url }}">
+        <div class="card-cover cat-{{ lc | slugify }}{% if lead.image %} has-img{% endif %}" aria-hidden="true">
+          {% if lead.image %}<img src="{{ lead.image | relative_url }}" alt="">{% else %}{% include cat-icon.html cat=lc %}{% endif %}
+        </div>
+        <div class="feat-lead-body">
+          <span class="chip chip-sm">{% if lead.featured %}Featured{% else %}Latest{% endif %} · {{ lc }}</span>
+          <h2>{{ lead.title }}</h2>
+          <p>{{ lead.description | default: lead.excerpt | strip_html | truncate: 160 }}</p>
+          <span class="card-meta">{{ lead.date | date: "%-d %b %Y" }}</span>
+        </div>
+      </a>
+      <div class="feat-side">
+        <p class="feat-side-label">Latest</p>
+        {% assign n = 0 %}
+        {% for p in site.posts %}
+          {% if n >= 3 %}{% break %}{% endif %}
+          {% if p.url == lead.url %}{% continue %}{% endif %}
+          {% assign n = n | plus: 1 %}
+          {% assign shown = shown | append: p.url | append: "|" %}
+          {% assign pc = p.category | default: 'Guides' %}
+        <a class="feat-item" href="{{ p.url | relative_url }}">
+          <div class="feat-thumb card-cover cat-{{ pc | slugify }}{% if p.image %} has-img{% endif %}" aria-hidden="true">
+            {% if p.image %}<img src="{{ p.image | relative_url }}" alt="" loading="lazy">{% else %}{% include cat-icon.html cat=pc %}{% endif %}
+          </div>
+          <div class="feat-item-body">
+            <span class="feat-cat cat-{{ pc | slugify }}">{{ pc }}</span>
+            <h3>{{ p.title }}</h3>
+            <span class="card-meta">{{ p.date | date: "%-d %b %Y" }}</span>
+          </div>
+        </a>
+        {% endfor %}
       </div>
-      <div class="card-body">
-        <span><span class="chip chip-sm">{% if first.featured %}Featured{% else %}Latest{% endif %} · {{ fc }}</span></span>
-        <h2>{{ first.title }}</h2>
-        <p>{{ first.description | default: first.excerpt | strip_html | truncate: 170 }}</p>
-        <span class="card-meta">{{ first.date | date: "%-d %b %Y" }}</span>
-      </div>
-    </a>
+    </div>
   </div>
   {% endif %}
 </section>
 
 <section class="wrap section">
   <div class="section-head">
-    <h2>All articles</h2>
+    <h2>More articles</h2>
     <span class="muted">{{ site.posts.size }} posts</span>
   </div>
   <div class="card-grid">
-    {% for p in site.posts %}{% if p.url != first.url %}{% include card.html post=p %}{% endif %}{% endfor %}
+    {% for p in site.posts %}{% assign key = "|" | append: p.url | append: "|" %}{% unless shown contains key %}{% include card.html post=p %}{% endunless %}{% endfor %}
   </div>
 </section>
 
