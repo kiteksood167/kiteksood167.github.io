@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /feeds/smartphones.xml
+sitemap: false
+---
+{% include pin-feed.xml title="Smartphone Buying Guides & Tips" cats="Phones,Launches,Guides,Global" %}

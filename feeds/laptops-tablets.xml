@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /feeds/laptops-tablets.xml
+sitemap: false
+---
+{% include pin-feed.xml title="Laptops & Tablets for Students" cats="Laptops,Tablets" %}

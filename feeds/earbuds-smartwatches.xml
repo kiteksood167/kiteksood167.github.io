@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /feeds/earbuds-smartwatches.xml
+sitemap: false
+---
+{% include pin-feed.xml title="Earbuds & Smartwatches" cats="Audio,Wearables" %}

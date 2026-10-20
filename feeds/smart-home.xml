@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /feeds/smart-home.xml
+sitemap: false
+---
+{% include pin-feed.xml title="Smart TV & Home Tech" cats="Smart Home" %}

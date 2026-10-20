@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /feeds/gaming-accessories.xml
+sitemap: false
+---
+{% include pin-feed.xml title="Mobile Gaming & Accessories" cats="Gaming,Accessories" %}

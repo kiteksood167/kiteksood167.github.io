@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>{{ site.title }} – {{ include.title | xml_escape }}</title>
+  <link>{{ site.url }}/</link>
+  <description>{{ include.title | xml_escape }} from {{ site.title }}</description>
+  <language>en</language>
+  <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml"/>
+  {% assign cats = include.cats | split: "," %}
+  {% assign n = 0 %}
+  {% for post in site.posts %}
+    {% if n >= 25 %}{% break %}{% endif %}
+    {% unless post.image %}{% continue %}{% endunless %}
+    {% unless cats contains post.category %}{% continue %}{% endunless %}
+    {% assign n = n | plus: 1 %}
+    {% assign img = post.image | absolute_url %}
+  <item>
+    <title>{{ post.title | xml_escape }}</title>
+    <link>{{ post.url | absolute_url }}</link>
+    <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <description>{{ post.description | default: post.excerpt | strip_html | strip_newlines | xml_escape }}</description>
+    <enclosure url="{{ img }}" type="image/jpeg" length="0"/>
+    <media:content url="{{ img }}" medium="image" type="image/jpeg"/>
+  </item>
+  {% endfor %}
+</channel>
+</rss>
