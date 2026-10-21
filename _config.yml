@@ -77,3 +77,12 @@ exclude:
   - assets/images/README.md
 
 logo: /assets/icon-512.png
+
+# Official social profiles (footer links + Google "sameAs")
+social:
+  name: GadgetGyaan
+  links:
+    - https://www.facebook.com/profile.php?id=61595462108934
+    - https://in.pinterest.com/kiteksood/
+facebook_url: "https://www.facebook.com/profile.php?id=61595462108934"
+pinterest_url: "https://in.pinterest.com/kiteksood/"
