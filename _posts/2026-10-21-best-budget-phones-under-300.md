@@ -2,6 +2,8 @@
 title: "Best Budget Phones Under $300 in 2026"
 description: "Phone prices went up in 2026, but $300 still buys a good phone. Our picks from Samsung and Motorola, with current prices, specs and update support."
 date: 2026-10-21 08:49:00 +0530
+image: /assets/images/best-budget-phones-under-300.jpg
+image_alt: "Four budget smartphones in black, blue, silver and green standing in a row"
 category: Global
 tags: [smartphones, budget phones, buying guide, samsung, motorola, usa, uk]
 affiliate: true
@@ -52,6 +54,11 @@ If your budget is closer to $150 to $200, the Moto G Play (2026) is the phone to
 
 It shares the Dimensity 6300 chip and 5,200mAh battery with the Moto G, and it also has a 6.7-inch 120Hz screen. The difference is in the details: the screen is only 720p, storage is a tight 64GB, and the rear has a single 32MP camera. It's a solid choice for calls, messaging, maps and streaming, especially as a first phone or a backup, but don't expect great photos.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/budget-phone-sale-price-tag.jpg" alt="A hand holding a budget phone next to a sale price tag showing $299 cut to $199" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 > **Tip:** At this price, the sale price matters more than the list price. Motorola and Samsung budget phones regularly drop $50 to $70 below list at Amazon, Best Buy and Woot. If a phone on this list is at full price today, waiting a couple of weeks, or for Black Friday, often pays off.
 
 ## Worth stretching for: Samsung Galaxy A27 5G
@@ -65,6 +72,11 @@ The big upgrade is the Snapdragon 6 Gen 3 chip, which is noticeably quicker than
 A few popular phones no longer fit under $300 at full price. The Moto G Power (2026), with its rugged IP68/IP69 build and 5,200mAh battery, now lists at $399.99 after Motorola's price increase, so it's only worth buying on a deep sale. The Google Pixel 10a starts at $499, and stock of last year's Pixel 9a is running low at some sellers. The Galaxy A26 5G and Galaxy A36 are also fading from US stores as Samsung shifts to its 2026 models.
 
 ## How to choose
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/budget-phone-battery-updates.jpg" alt="Two budget phones side by side, one showing a full battery icon and the other a software update icon" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 - **Keeping it four years or more?** Pick a Samsung. The six-year update promise keeps it secure long after a Motorola stops getting patches.
 - **Want the longest battery and a headphone jack?** The Moto G (2026) is the better fit.
