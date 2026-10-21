@@ -1,4 +1,32 @@
-{% if site.cusdis_app_id and site.cusdis_app_id != "" %}
+{% if site.disqus_shortname and site.disqus_shortname != "" %}
+<section class="comments" id="comments">
+  <h2>Comments</h2>
+  <p class="muted comments-note">Have a question about this, or your own experience to share? Leave a comment below.</p>
+  <div id="disqus_thread"><p class="muted comments-loading">Loading comments…</p></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = "{{ page.url | absolute_url }}";
+      this.page.identifier = "{{ page.url }}";
+      this.page.title = {{ page.title | jsonify }};
+    };
+    (function () {
+      var loaded = false, box = document.getElementById("disqus_thread");
+      function load() {
+        if (loaded) return; loaded = true;
+        var s = document.createElement("script");
+        s.src = "https://{{ site.disqus_shortname }}.disqus.com/embed.js";
+        s.setAttribute("data-timestamp", +new Date());
+        (document.head || document.body).appendChild(s);
+      }
+      if ("IntersectionObserver" in window) {
+        var io = new IntersectionObserver(function (e) { if (e[0].isIntersecting) { io.disconnect(); load(); } }, { rootMargin: "600px" });
+        io.observe(box);
+      } else { load(); }
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the comments.</noscript>
+</section>
+{% elsif site.cusdis_app_id and site.cusdis_app_id != "" %}
 <section class="comments" id="comments">
   <h2>Comments</h2>
   <p class="muted comments-note">Have a question about this, or your own experience to share? Comments appear after a quick review.</p>

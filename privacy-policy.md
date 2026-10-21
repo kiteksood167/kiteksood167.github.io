@@ -16,7 +16,7 @@ This Privacy Policy explains how {{ site.title }} ("we", "us") handles informati
 
 ## Comments
 
-Posts may include a comment section provided by **Cusdis**. If you leave a comment, the name and comment you enter (and your email address, if you choose to provide it) are stored by Cusdis so that the comment can be shown and moderated. Comments are reviewed before they appear. We never publish email addresses. To have a comment removed, contact us.
+Posts include a comment section provided by **Disqus**. The comment box loads only when you scroll down to it. If you comment, Disqus stores your name, comment and account details under its own [privacy policy](https://disqus.com/privacy-policy/), and Disqus may use cookies and show its own ads in the comment section. You can comment with a Disqus, Google, Facebook or X account, or as a guest where allowed. We can moderate or remove comments. To have a comment removed, contact us.
 
 ## Cookies and advertising
 

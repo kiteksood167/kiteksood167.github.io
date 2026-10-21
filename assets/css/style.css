@@ -334,3 +334,4 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .crumbs > a:not(.chip) { color: var(--muted); text-decoration: none; }
 .crumbs > a:not(.chip):hover { color: var(--ink); text-decoration: underline; }
 .crumbs > span { color: var(--muted); }
+#disqus_thread { min-height: 120px; }
