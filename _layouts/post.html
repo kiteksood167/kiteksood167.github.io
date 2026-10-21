@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   <header class="post-hero cat-{{ cat | slugify }}">
     <div class="wrap narrow">
-      <a class="chip" href="{{ '/category/' | relative_url }}{{ cat | slugify }}/">{{ cat }}</a>
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">›</span><a class="chip" href="{{ '/category/' | relative_url }}{{ cat | slugify }}/">{{ cat }}</a></nav>
       <h1>{{ page.title }}</h1>
       {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
       <p class="meta">
@@ -19,7 +19,7 @@ layout: default
   <div class="wrap narrow">
     {% if page.image %}
     <figure class="post-cover">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">
+      <img src="{{ page.image | relative_url }}" width="1600" height="900" fetchpriority="high" alt="{{ page.image_alt | default: page.title | escape }}">
       {% if page.image_credit %}<figcaption>{{ page.image_credit }}</figcaption>{% endif %}
     </figure>
     {% endif %}

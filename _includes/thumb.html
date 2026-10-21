@@ -1,0 +1,4 @@
+{%- comment -%}Outputs the small card version of an image (assets/images/thumbs/) when it exists, else the full image.{%- endcomment -%}
+{%- assign t = include.src | replace: '/assets/images/', '/assets/images/thumbs/' -%}
+{%- assign hit = site.static_files | where: "path", t -%}
+{%- if hit.size > 0 -%}{{ t | relative_url }}{%- else -%}{{ include.src | relative_url }}{%- endif -%}

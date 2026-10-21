@@ -1,5 +1,6 @@
 ---
 title: "Laptop Buying Guide for College Students in India: What Specs You Really Need"
+seo_title: "Laptop Buying Guide for College Students (India)"
 description: "Engineering, commerce or arts — the right laptop depends on your course, not the shopkeeper's pitch. A plain-English guide to processors, RAM, SSDs and screens."
 date: 2026-10-19 10:00:00 +0530
 image: /assets/images/laptops-two-people-typing.jpg
@@ -18,7 +19,7 @@ Here's how to pick the right one for your course and budget.
 ## Step 1: Match the laptop to your course
 
 <figure class="inline-figure">
-  <img src="/assets/images/student-desk-cs-course.jpg" alt="A computer science student's desk with a laptop, textbooks and study plan" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/student-desk-cs-course.jpg" alt="A computer science student's desk with a laptop, textbooks and study plan" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -59,7 +60,7 @@ If you carry it to college every day, aim for under **1.6 kg** and a real-world 
 ## Step 7: The extras people forget
 
 <figure class="inline-figure">
-  <img src="/assets/images/laptop-ports-usb-hdmi.jpg" alt="A laptop's USB-C, USB-A and HDMI ports labelled" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/laptop-ports-usb-hdmi.jpg" alt="A laptop's USB-C, USB-A and HDMI ports labelled" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -71,6 +72,8 @@ If you carry it to college every day, aim for under **1.6 kg** and a real-world 
 > **Simple rule:** For most students, a recent i5/Ryzen 5 + 16GB RAM + 512GB SSD + Full HD IPS screen is the best value for money. Add a dedicated GPU only if your course software needs it.
 
 {% include buy.html name="Student laptops with 16GB RAM and 512GB SSD" query="laptop 16GB RAM 512GB SSD i5" note="Compare processor generation before price" %}
+
+**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
 
 ## The bottom line
 

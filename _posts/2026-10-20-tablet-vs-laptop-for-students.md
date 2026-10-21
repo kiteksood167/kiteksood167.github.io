@@ -16,7 +16,7 @@ Many students today wonder whether a tablet can replace a laptop. For some cours
 ## Where tablets are better
 
 <figure class="inline-figure">
-  <img src="/assets/images/tablet-stylus-notes.jpg" alt="Handwritten study notes on a tablet with a stylus" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/tablet-stylus-notes.jpg" alt="Handwritten study notes on a tablet with a stylus" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Many students today wonder whether a tablet can replace a laptop. For some cours
 ## Where laptops are better
 
 <figure class="inline-figure">
-  <img src="/assets/images/student-laptop-typing.jpg" alt="A student typing on a laptop with books and notes beside it" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/student-laptop-typing.jpg" alt="A student typing on a laptop with books and notes beside it" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -63,6 +63,8 @@ A tablet with a keyboard case can cover light typing well. But it's still a tabl
 - **Software updates:** a tablet that gets several years of updates stays useful through your whole course.
 
 {% include buy.html name="Tablets with stylus support" query="tablet with stylus for students" note="Check if the stylus is included in the box" %}
+
+**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
 
 ## The bottom line
 

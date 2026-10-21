@@ -10,6 +10,7 @@ description: >-
   for buyers in India and around the world who want the best value for their money.
 author: Kitek Sood
 lang: en
+locale: en_IN
 
 url: "https://thegadgetgyaan.com"
 baseurl: ""                                      # leave empty if the repo is named YOUR-USERNAME.github.io

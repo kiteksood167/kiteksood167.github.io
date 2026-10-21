@@ -1,5 +1,6 @@
 ---
 title: "TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply"
+seo_title: "TWS Earbuds Buying Guide: ANC, Codecs & Battery"
 description: "What does ANC really do? Do you need LDAC? Why do calls sound bad on cheap earbuds? Everything you need to know before buying wireless earbuds."
 date: 2026-10-18 10:00:00 +0530
 image: /assets/images/white-earbuds-case-dark.jpg
@@ -20,7 +21,7 @@ No feature matters if the earbuds don't fit. A bad fit means weak bass, poor noi
 ## ANC vs ENC: not the same thing
 
 <figure class="inline-figure">
-  <img src="/assets/images/earbuds-anc-metro.jpg" alt="A commuter wearing noise-cancelling earbuds on a busy metro train" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/earbuds-anc-metro.jpg" alt="A commuter wearing noise-cancelling earbuds on a busy metro train" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -51,7 +52,7 @@ Your phone also needs to support the codec. If you mostly listen on YouTube or r
 ## Gaming and low latency
 
 <figure class="inline-figure">
-  <img src="/assets/images/earbuds-gaming-low-latency.jpg" alt="Gaming earbuds next to a phone running a battle royale game" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/earbuds-gaming-low-latency.jpg" alt="Gaming earbuds next to a phone running a battle royale game" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -71,6 +72,8 @@ Calls depend on microphones, not speakers. Earbuds with **multiple mics per bud*
 > **Simple rule:** Under ₹2,000, focus on fit, battery and a low-latency mode. From ₹2,000 to ₹5,000, real ANC becomes worth paying for. Above ₹5,000, look for strong ANC, multipoint, LDAC and great call quality.
 
 {% include buy.html name="ANC earbuds under ₹5,000" query="ANC TWS earbuds under 5000" note="Check the ANC strength in dB and real call tests" %}
+
+**Related reading:** [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
 

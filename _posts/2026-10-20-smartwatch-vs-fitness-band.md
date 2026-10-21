@@ -27,7 +27,7 @@ Smartwatches and fitness bands both count your steps, track your sleep and show 
 ## Who should buy a fitness band
 
 <figure class="inline-figure">
-  <img src="/assets/images/fitness-band-running.jpg" alt="A runner wearing a slim fitness band on a morning jog" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/fitness-band-running.jpg" alt="A runner wearing a slim fitness band on a morning jog" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Bands are also great as a first wearable, to see whether you actually like weari
 ## Who should buy a smartwatch
 
 <figure class="inline-figure">
-  <img src="/assets/images/smartwatch-call.jpg" alt="A person answering a call on their smartwatch" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/smartwatch-call.jpg" alt="A person answering a call on their smartwatch" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -68,6 +68,8 @@ Whichever you choose, check these before buying:
 > **Tip:** Health readings from wearables are useful for spotting trends, like "my sleep is getting worse", but they aren't medical devices. Don't use them to diagnose anything; see a doctor if a reading worries you.
 
 {% include buy.html name="Smartwatches with AMOLED display" query="AMOLED smartwatch bluetooth calling" note="Check battery life with always-on display" %}
+
+**Related reading:** [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/)
 
 ## The bottom line
 

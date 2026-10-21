@@ -63,7 +63,7 @@ It's currently around ₹4,500 on Flipkart, Croma and Myntra, so it's the most e
 ## What to check before you buy
 
 <figure class="inline-figure">
-  <img src="/assets/images/smartwatch-gps-run-stats.jpg" alt="A smartwatch on a wrist showing GPS route, heart rate and pace during a run" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/smartwatch-gps-run-stats.jpg" alt="A smartwatch on a wrist showing GPS route, heart rate and pace during a run" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ It's currently around ₹4,500 on Flipkart, Croma and Myntra, so it's the most e
 ## Which one should you buy?
 
 <figure class="inline-figure">
-  <img src="/assets/images/smartwatches-compare-features.jpg" alt="Three smartwatches showing different fitness features, next to a phone and charger" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/smartwatches-compare-features.jpg" alt="Three smartwatches showing different fitness features, next to a phone and charger" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -93,6 +93,8 @@ It's currently around ₹4,500 on Flipkart, Croma and Myntra, so it's the most e
 
 {% include buy.html name="Redmi Watch Move" query="Redmi Watch Move" note="Best under ₹2,500: AMOLED and Bluetooth calling" %}
 
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/)
+
 ## The bottom line
 
-For most buyers, the **Redmi Watch 5 Lite** is the best smartwatch under ₹5,000 right now: a large AMOLED screen, built-in GPS, calling and long battery at well under the limit. If you only need notifications and calls, the **Redmi Watch Move** does the job for about half the price. Choose the **realme Watch S2** for a round, classic look, or the **CMF Watch Pro 2** if design matters and you still want GPS. Not sure whether you need a smartwatch at all? Read our guide on choosing between a [smartwatch and a fitness band](https://thegadgetgyaan.com/smartwatch-vs-fitness-band/).
+For most buyers, the **Redmi Watch 5 Lite** is the best smartwatch under ₹5,000 right now: a large AMOLED screen, built-in GPS, calling and long battery at well under the limit. If you only need notifications and calls, the **Redmi Watch Move** does the job for about half the price. Choose the **realme Watch S2** for a round, classic look, or the **CMF Watch Pro 2** if design matters and you still want GPS. Not sure whether you need a smartwatch at all? Read our guide on choosing between a [smartwatch and a fitness band](/smartwatch-vs-fitness-band/).

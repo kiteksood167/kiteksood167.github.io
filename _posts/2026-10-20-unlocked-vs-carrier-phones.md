@@ -41,7 +41,7 @@ Read the small print carefully. Many "free phone" offers are paid as monthly cre
 ## When unlocked is better
 
 <figure class="inline-figure">
-  <img src="/assets/images/unlocked-phone-travel.jpg" alt="A traveller at an airport holding an unlocked phone that works with any SIM" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/unlocked-phone-travel.jpg" alt="A traveller at an airport holding an unlocked phone that works with any SIM" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Read the small print carefully. Many "free phone" offers are paid as monthly cre
 ## How to work out the true cost
 
 <figure class="inline-figure">
-  <img src="/assets/images/unlocked-phone-true-cost.jpg" alt="A phone next to a calculator and a monthly phone bill in dollars with a True cost note" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/unlocked-phone-true-cost.jpg" alt="A phone next to a calculator and a monthly phone bill in dollars with a True cost note" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -75,6 +75,8 @@ Then do the same for the unlocked phone plus the cheapest plan that meets your n
 - **The return policy**, in case the phone doesn't work well on your network
 
 {% include buy.html name="Unlocked smartphones" query="unlocked smartphone" store="us" note="Check the model supports your carrier's bands and eSIM" %}
+
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
 
 ## The bottom line
 

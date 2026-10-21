@@ -1,5 +1,6 @@
 ---
 title: About GadgetGyaan
+seo_title: About Us
 permalink: /about/
 description: Who we are and how we write our tech guides.
 ---

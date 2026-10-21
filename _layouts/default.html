@@ -12,7 +12,14 @@
     gtag('config', '{{ site.google_analytics }}');
   </script>
   {% endif %}
-  {% seo %}
+  {% if page.url == "/" %}{% assign ptitle = site.title | append: ": Tech Buying Guides, Launches & Tips" %}{% else %}{% assign ptitle = page.seo_title | default: page.title | default: site.title %}{% endif %}
+  <title>{% if page.url != "/" and ptitle.size <= 46 %}{{ ptitle | escape }} | {{ site.title }}{% else %}{{ ptitle | escape }}{% endif %}</title>
+  {% seo title=false %}
+  {% if page.noindex %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-image-preview:large">{% endif %}
+  <meta name="theme-color" content="#ff5a1f">
+  {% if page.layout == "post" %}{% assign bc = page.category | default: 'Guides' %}
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"{{ '/' | absolute_url }}"},{"@type":"ListItem","position":2,"name":{{ bc | jsonify }},"item":"{{ '/category/' | absolute_url }}{{ bc | slugify }}/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}</script>
+  {% endif %}
   {% if site.pinterest_verify and site.pinterest_verify != "" %}<meta name="p:domain_verify" content="{{ site.pinterest_verify }}">{% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

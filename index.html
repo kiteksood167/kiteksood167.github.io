@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Honest tech buying guides for India and the world
+description: "Honest, simple tech buying guides, new phone launches and tips for India and the world. Find the right phone, laptop or earbuds at the best price."
 ---
 <section class="hero">
   <div class="wrap hero-grid">
@@ -26,7 +27,7 @@ title: Honest tech buying guides for India and the world
     <div class="feat-grid">
       <a class="feat-lead" href="{{ lead.url | relative_url }}">
         <div class="card-cover cat-{{ lc | slugify }}{% if lead.image %} has-img{% endif %}" aria-hidden="true">
-          {% if lead.image %}<img src="{{ lead.image | relative_url }}" alt="">{% else %}{% include cat-icon.html cat=lc %}{% endif %}
+          {% if lead.image %}<img src="{{ lead.image | relative_url }}" width="1600" height="900" fetchpriority="high" alt="">{% else %}{% include cat-icon.html cat=lc %}{% endif %}
         </div>
         <div class="feat-lead-body">
           <span class="chip chip-sm">{% if lead.featured %}Featured{% else %}Latest{% endif %} · {{ lc }}</span>
@@ -46,7 +47,7 @@ title: Honest tech buying guides for India and the world
           {% assign pc = p.category | default: 'Guides' %}
         <a class="feat-item" href="{{ p.url | relative_url }}">
           <div class="feat-thumb card-cover cat-{{ pc | slugify }}{% if p.image %} has-img{% endif %}" aria-hidden="true">
-            {% if p.image %}<img src="{{ p.image | relative_url }}" alt="" loading="lazy">{% else %}{% include cat-icon.html cat=pc %}{% endif %}
+            {% if p.image %}<img src="{% include thumb.html src=p.image %}" width="720" height="405" alt="" loading="lazy" decoding="async">{% else %}{% include cat-icon.html cat=pc %}{% endif %}
           </div>
           <div class="feat-item-body">
             <span class="feat-cat cat-{{ pc | slugify }}">{{ pc }}</span>

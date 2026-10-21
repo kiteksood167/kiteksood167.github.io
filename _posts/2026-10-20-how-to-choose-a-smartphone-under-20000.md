@@ -1,5 +1,6 @@
 ---
 title: "How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter"
+seo_title: "How to Choose a Phone Under ₹20,000: 7 Key Specs"
 description: "Ignore the 200MP and '12GB+12GB RAM' stickers. Here is what really decides whether a budget phone feels fast and lasts three years."
 date: 2026-10-20 00:15:00 +0530
 image: /assets/images/modern-smartphones-rear-cameras.jpg
@@ -42,7 +43,7 @@ A 120Hz display makes scrolling feel smooth, and it's now common in this price r
 ## 5. Cameras: ignore the megapixel count
 
 <figure class="inline-figure">
-  <img src="/assets/images/phone-camera-module.jpg" alt="Close-up of a smartphone's triple rear camera module" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-camera-module.jpg" alt="Close-up of a smartphone's triple rear camera module" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -66,7 +67,7 @@ A phone with 3–4 years of updates will stay safe and usable much longer than o
 ## 7. Battery and charging
 
 <figure class="inline-figure">
-  <img src="/assets/images/phone-fast-charging-80.jpg" alt="A smartphone fast charging at 80 percent" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-fast-charging-80.jpg" alt="A smartphone fast charging at 80 percent" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -79,6 +80,8 @@ A 5,000mAh battery is the standard now, and some phones go bigger. Fast charging
 Also watch for **bank offers** and **exchange offers** during sales. These often cut ₹1,000–₹3,000 off the price, which can bump you into a better phone.
 
 {% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Filter by 8GB RAM and AMOLED to shortlist quickly" %}
+
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
 
 ## The bottom line
 

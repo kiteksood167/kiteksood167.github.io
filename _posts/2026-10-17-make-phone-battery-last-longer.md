@@ -1,5 +1,6 @@
 ---
 title: "12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)"
+seo_title: "12 Ways to Make Your Phone Battery Last Longer"
 description: "Skip the myths. These settings and habits make a real difference to daily battery life and to how healthy your battery stays over the years."
 date: 2026-10-17 10:00:00 +0530
 image: /assets/images/phone-battery-replacement-repair.jpg
@@ -15,7 +16,7 @@ If your phone struggles to last the day, you don't always need a new one. A few 
 ## Part 1: Settings that save battery today
 
 <figure class="inline-figure">
-  <img src="/assets/images/phone-dark-mode-brightness.jpg" alt="Phone display settings showing dark mode and low brightness" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-dark-mode-brightness.jpg" alt="Phone display settings showing dark mode and low brightness" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -48,7 +49,7 @@ Don't wait until 5%. Turning on battery saver at **20–30%** gives you a lot mo
 ### 9. Avoid heat
 
 <figure class="inline-figure">
-  <img src="/assets/images/phone-overheating-car.jpg" alt="A phone overheating on a car dashboard in the sun" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-overheating-car.jpg" alt="A phone overheating on a car dashboard in the sun" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 Heat is the number one enemy of lithium-ion batteries. Don't leave your phone in a hot car or in direct sun, and avoid heavy gaming **while charging**. Take off a thick case if the phone gets hot while charging.
@@ -69,6 +70,8 @@ Software updates often include battery optimisations and bug fixes for drain pro
 - **"Fast charging damages the battery."** Phones manage fast charging carefully, and the speed drops as the battery fills. Heat is the bigger concern, not the charger speed.
 
 > **When is it time for a new battery?** If your phone shows battery health below about 80%, or it shuts down at 15–20%, a battery replacement at an authorised service centre is usually much cheaper than a new phone.
+
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/)
 
 ## The bottom line
 

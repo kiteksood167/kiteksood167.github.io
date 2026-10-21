@@ -51,3 +51,13 @@ The main daily task alternates India and Global days; the launch task posts sepa
 - Include: official India price for each variant, launch/sale date, where to buy, launch offers, 5–8 key specs in a table, who it's for, and 1–2 close rivals at similar prices.
 - 500–900 words is fine for launch posts.
 - Add a buy button only once the product is actually on sale.
+
+## SEO checklist for every new post (added Oct 2026)
+
+- **title** can be long and descriptive. If it is over 55 characters, also add a short `seo_title:` (max ~50 characters, main keyword first). It is used for the browser tab and Google title.
+- **description** must be 120–155 characters. Don't go over 160.
+- **Related reading:** before the final `## The bottom line` heading, add one line with 2 links to older related posts:
+  `**Related reading:** [Post title](/post-slug/) · [Post title](/post-slug/)`
+  Use relative links (`/slug/`), never the full https://thegadgetgyaan.com address.
+- **Inline images:** include `width="1200" height="675"` (or the real size) and `loading="lazy"` on every `<img>`.
+- **Card thumbnail:** after adding a cover image, also save a 720x405 copy (JPEG quality ~78) at `assets/images/thumbs/<same-file-name>.jpg`. The homepage uses it for speed. If it's missing, the full image is used, so nothing breaks.

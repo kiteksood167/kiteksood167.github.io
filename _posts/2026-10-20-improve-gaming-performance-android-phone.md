@@ -27,7 +27,7 @@ This makes the biggest difference. In the game's own settings:
 ## 3. Keep the phone cool
 
 <figure class="inline-figure">
-  <img src="/assets/images/phone-cooling-fan-gaming.jpg" alt="A phone with a clip-on cooling fan during a mobile game" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-cooling-fan-gaming.jpg" alt="A phone with a clip-on cooling fan during a mobile game" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Phones slow themselves down when they get hot, which is called **thermal throttl
 ## 5. Fix your network, not just your phone
 
 <figure class="inline-figure">
-  <img src="/assets/images/router-phone-signal.jpg" alt="A Wi-Fi router next to a phone showing strong signal" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/router-phone-signal.jpg" alt="A Wi-Fi router next to a phone showing strong signal" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -68,6 +68,8 @@ Game updates often include performance fixes for specific phones, and system upd
 - **Don't use GFX tools or modded game files** to unlock settings. They can get your account banned in games like BGMI and Free Fire.
 - **Don't root your phone** just for gaming. It can break security and banking apps, and void your warranty.
 - **Don't keep the phone at 100% brightness** for hours. It adds heat and drains the battery fast.
+
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/)
 
 ## The bottom line
 

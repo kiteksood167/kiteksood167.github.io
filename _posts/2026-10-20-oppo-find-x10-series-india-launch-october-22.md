@@ -1,6 +1,7 @@
 ---
 title: "OPPO Find X10 Series Launching in India on October 22: What We Know"
-description: "OPPO has confirmed the Find X10 and Find X10 Pro Max for India on October 22 at 4:45 PM IST. Here are the confirmed details, China prices, key specs and what to expect."
+seo_title: "OPPO Find X10 India Launch Oct 22: What We Know"
+description: "OPPO Find X10 and Find X10 Pro Max launch in India on October 22 at 4:45 PM IST. Confirmed details, China prices, key specs and what to expect."
 date: 2026-10-20 18:45:00 +0530
 image: /assets/images/oppo-find-x10-launch-concept.jpg
 image_alt: "Concept illustration of two flagship smartphones on a glowing launch stage"
@@ -41,7 +42,7 @@ OPPO is expected to show the Pad Mini tablet and Enco X4 earbuds at the same eve
 ## Key specifications
 
 <figure class="inline-figure">
-  <img src="/assets/images/flagship-phone-specs-concept.jpg" alt="Concept illustration of a flagship phone with callouts for chip, camera, display and battery" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/flagship-phone-specs-concept.jpg" alt="Concept illustration of a flagship phone with callouts for chip, camera, display and battery" loading="lazy">
   <figcaption>Concept illustration — not the actual product.</figcaption>
 </figure>
 
@@ -69,7 +70,7 @@ The battery also gets bigger, from 7,500mAh on the Find X9 Pro to 8,000mAh. The 
 ## Who should consider it
 
 <figure class="inline-figure">
-  <img src="/assets/images/flagship-phone-who-should-buy-concept.jpg" alt="Concept illustration of people using a flagship phone for gaming, photos, work and travel" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/flagship-phone-who-should-buy-concept.jpg" alt="Concept illustration of people using a flagship phone for gaming, photos, work and travel" loading="lazy">
   <figcaption>Concept illustration — not the actual product.</figcaption>
 </figure>
 
@@ -81,6 +82,8 @@ Close rivals in India will include:
 - **Apple iPhone 17 Pro Max**: for anyone already using a Mac, iPad or other Apple devices.
 
 > **Tip:** Don't rush to buy on launch day. Flagship phones in India often get bank card discounts and exchange bonuses in the first sale week. Compare the final price after offers with the Galaxy S26 Ultra's current street price, which is often well below its launch price.
+
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
 

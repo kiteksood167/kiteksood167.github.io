@@ -16,7 +16,7 @@ TV shopping is full of confusing labels: 4K, QLED, Mini LED, OLED, HDR10+, Dolby
 ## 1. Size: bigger is usually better, within reason
 
 <figure class="inline-figure">
-  <img src="/assets/images/tv-viewing-distance.jpg" alt="A person on a sofa with the viewing distance to a large TV marked" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/tv-viewing-distance.jpg" alt="A person on a sofa with the viewing distance to a large TV marked" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The operating system decides your apps and how smooth the TV feels. **Google TV 
 ## 7. Sound: plan for a soundbar
 
 <figure class="inline-figure">
-  <img src="/assets/images/tv-soundbar.jpg" alt="A slim soundbar below a TV with sound waves" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/tv-soundbar.jpg" alt="A slim soundbar below a TV with sound waves" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -70,6 +70,8 @@ Thin TVs have small speakers. If you care about dialogue clarity and movie sound
 > **Tip:** Check the brand's service network in your city before buying, and consider the extended warranty for panels. A TV panel repair can cost a large part of the TV's price.
 
 {% include buy.html name="4K smart TVs" query="4K smart TV 55 inch" note="Compare panel type and HDR formats, not just price" %}
+
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
 
 ## The bottom line
 
