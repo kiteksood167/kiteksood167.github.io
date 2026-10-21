@@ -73,7 +73,7 @@ Two close alternatives to compare:
 
 {% include buy.html name="Samsung Galaxy F70 5G" query="Samsung Galaxy F70 5G" note="From ₹19,999; on sale since October 20" %}
 
-**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
+**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Poco X8s Launched: Price, Specs and India Launch — What We Know](/poco-x8s-launched-price-specs-india-launch/)
 
 ## The bottom line
 

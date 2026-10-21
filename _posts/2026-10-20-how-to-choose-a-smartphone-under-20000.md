@@ -82,7 +82,7 @@ Also watch for **bank offers** and **exchange offers** during sales. These often
 
 {% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Filter by 8GB RAM and AMOLED to shortlist quickly" %}
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Samsung Galaxy F70 5G Launched in India: Price, Specs and Sale Date](/samsung-galaxy-f70-5g-launched-india/)
 
 ## The bottom line
 

@@ -71,7 +71,7 @@ If you need a phone in India right now, the **Poco X8 5G** is already on sale fr
 
 > **Tip:** Don't pre-order an imported unit from a third-party seller. Without an official India launch, you may not get local warranty or service support. If the X8s interests you, wait for Poco's official India announcement and pricing.
 
-**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
+**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/)
 
 ## The bottom line
 

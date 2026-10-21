@@ -70,3 +70,7 @@ Every post has ONE main `category` (used for the breadcrumb, the card label and 
     also_in: [Phones, Global]
 
 Rules: use only these names: Launches, Phones, Laptops, Audio, Wearables, Tablets, Gaming, Accessories, Smart Home, Guides, Global. Use at most 3 extra categories, and only real fits. Typical pairings: phone launches → Phones (+ Global if launched outside India or worldwide); phone how-tos → Phones and/or Guides; laptop/tablet comparisons → both Laptops and Tablets; buying-guide explainers → Guides; Global phone posts → Phones.
+
+## Link the new post from older posts (added Oct 2026)
+
+A new post with no links pointing to it is found and ranked more slowly. After writing a new post, open 1–2 older posts on a closely related topic and add the new post to their `**Related reading:**` line (keep at most 3 links on that line; replace the least related one if it is full). Use the exact title and a relative link `/slug/`. Never link a post to itself and never invent a slug.

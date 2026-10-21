@@ -63,7 +63,7 @@ Modern phones manage fast charging carefully: speeds drop as the battery fills a
 
 {% include buy.html name="USB-C PD chargers with PPS" query="usb c pd pps charger 45W" note="Check the cable is rated for the same wattage" %}
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Poco X8s Launched: Price, Specs and India Launch — What We Know](/poco-x8s-launched-price-specs-india-launch/)
 
 ## The bottom line
 

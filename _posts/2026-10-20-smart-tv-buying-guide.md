@@ -72,7 +72,7 @@ Thin TVs have small speakers. If you care about dialogue clarity and movie sound
 
 {% include buy.html name="4K smart TVs" query="4K smart TV 55 inch" note="Compare panel type and HDR formats, not just price" %}
 
-**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [New Apple TV 4K (2026) Launched in India at ₹39,900: What's New and Is It Worth It?](/apple-tv-4k-2026-india-price-features/)
 
 ## The bottom line
 

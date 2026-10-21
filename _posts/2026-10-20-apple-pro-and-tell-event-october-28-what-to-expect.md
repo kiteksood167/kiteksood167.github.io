@@ -93,7 +93,7 @@ Apple usually announces India prices on its India website the same night as a gl
 - **Don't wait** if you need a MacBook Air or a regular iPad right now. Those aren't expected to change at this event.
 - **Consider waiting for reviews** of the touchscreen MacBook Pro. A big first-generation change like touch and OLED can have early issues that only show up in real-world use.
 
-**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
+**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [New Apple TV 4K (2026) Launched in India at ₹39,900: What's New and Is It Worth It?](/apple-tv-4k-2026-india-price-features/)
 
 ## The bottom line
 

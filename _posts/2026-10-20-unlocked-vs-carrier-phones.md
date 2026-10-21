@@ -77,7 +77,7 @@ Then do the same for the unlocked phone plus the cheapest plan that meets your n
 
 {% include buy.html name="Unlocked smartphones" query="unlocked smartphone" store="us" note="Check the model supports your carrier's bands and eSIM" %}
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/)
 
 ## The bottom line
 
