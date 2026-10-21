@@ -5,6 +5,7 @@ date: 2026-10-20 01:30:00 +0530
 image: /assets/images/unlocked-vs-carrier-phones.jpg
 image_alt: "An unlocked phone with a globe beside a carrier-locked phone with a SIM card and signal tower"
 category: Global
+also_in: [Phones]
 tags: [smartphones, unlocked phones, carriers, buying guide, usa, uk]
 affiliate: true
 ---

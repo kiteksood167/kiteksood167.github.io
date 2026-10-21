@@ -5,6 +5,7 @@ date: 2026-10-20 04:28:00 +0530
 image: /assets/images/smart-tv-buying-guide.jpg
 image_alt: "A large smart TV showing a mountain sunset in a cosy living room"
 category: "Smart Home"
+also_in: [Guides]
 tags: [smart tv, tv buying guide, oled, qled, smart home]
 affiliate: true
 ---

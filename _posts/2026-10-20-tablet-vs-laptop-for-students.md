@@ -5,6 +5,7 @@ date: 2026-10-20 04:22:00 +0530
 image: /assets/images/tablet-vs-laptop-for-students.jpg
 image_alt: "A tablet with a stylus next to an open laptop on a study desk"
 category: Tablets
+also_in: [Laptops, Guides]
 tags: [tablet, laptop, students, study, buying guide]
 affiliate: true
 ---

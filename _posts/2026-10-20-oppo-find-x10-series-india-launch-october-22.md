@@ -7,6 +7,7 @@ image: /assets/images/oppo-find-x10-launch-concept.jpg
 image_alt: "Concept illustration of two flagship smartphones on a glowing launch stage"
 image_credit: "Concept illustration — not the actual product"
 category: Launches
+also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphone, flagship phone, launch]
 ---
 

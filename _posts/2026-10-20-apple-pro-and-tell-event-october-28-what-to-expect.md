@@ -7,6 +7,7 @@ image: /assets/images/apple-event-oct-28-cover.jpg
 image_alt: "Concept illustration of a laptop and tablet on a dark background with green and orange light"
 image_credit: "Concept illustration — not the actual products"
 category: Launches
+also_in: [Laptops, Tablets, Global]
 tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
 ---
 

@@ -6,6 +6,7 @@ date: 2026-10-20 04:26:00 +0530
 image: /assets/images/fast-charging-explained.jpg
 image_alt: "A smartphone fast charging with a glowing USB-C cable and charger"
 category: Accessories
+also_in: [Phones, Guides]
 tags: [fast charging, charger, usb-c, power delivery, accessories]
 affiliate: true
 ---

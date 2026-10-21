@@ -6,6 +6,7 @@ date: 2026-10-19 10:00:00 +0530
 image: /assets/images/laptops-two-people-typing.jpg
 image_alt: "Two people typing on silver laptops on a marble desk, seen from above"
 category: Laptops
+also_in: [Guides]
 tags: [laptops, students, buying guide]
 affiliate: true
 ---

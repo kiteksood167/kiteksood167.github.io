@@ -6,6 +6,7 @@ date: 2026-10-20 00:15:00 +0530
 image: /assets/images/modern-smartphones-rear-cameras.jpg
 image_alt: "Four modern smartphones lying side by side, showing their rear camera designs"
 category: Phones
+also_in: [Guides]
 tags: [smartphones, budget phones, buying guide]
 affiliate: true
 ---

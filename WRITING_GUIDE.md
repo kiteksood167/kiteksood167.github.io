@@ -61,3 +61,12 @@ The main daily task alternates India and Global days; the launch task posts sepa
   Use relative links (`/slug/`), never the full https://thegadgetgyaan.com address.
 - **Inline images:** include `width="1200" height="675"` (or the real size) and `loading="lazy"` on every `<img>`.
 - **Card thumbnail:** after adding a cover image, also save a 720x405 copy (JPEG quality ~78) at `assets/images/thumbs/<same-file-name>.jpg`. The homepage uses it for speed. If it's missing, the full image is used, so nothing breaks.
+
+## Extra categories (also_in)
+
+Every post has ONE main `category` (used for the breadcrumb, the card label and the Pinterest board). If the post clearly belongs in other sections too, add them with `also_in`, right under `category`, so readers find it there as well:
+
+    category: Launches
+    also_in: [Phones, Global]
+
+Rules: use only these names: Launches, Phones, Laptops, Audio, Wearables, Tablets, Gaming, Accessories, Smart Home, Guides, Global. Use at most 3 extra categories, and only real fits. Typical pairings: phone launches → Phones (+ Global if launched outside India or worldwide); phone how-tos → Phones and/or Guides; laptop/tablet comparisons → both Laptops and Tablets; buying-guide explainers → Guides; Global phone posts → Phones.

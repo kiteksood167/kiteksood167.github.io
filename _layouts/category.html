@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign posts = site.posts | where: "category", page.category %}
+{%- comment -%} A post shows here if this is its main `category` or if it lists this category in `also_in`. {%- endcomment -%}
+{% assign count = 0 %}
+{% capture cards %}{% for p in site.posts %}{% if p.category == page.category or p.also_in contains page.category %}{% assign count = count | plus: 1 %}{% include card.html post=p %}{% endif %}{% endfor %}{% endcapture %}
 <section class="cat-header cat-{{ page.category | slugify }}">
   <div class="wrap">
     <p class="eyebrow">Category</p>
@@ -10,9 +12,9 @@ layout: default
   </div>
 </section>
 <section class="wrap section">
-  {% if posts.size > 0 %}
+  {% if count > 0 %}
   <div class="card-grid">
-    {% for p in posts %}{% include card.html post=p %}{% endfor %}
+    {{ cards }}
   </div>
   {% else %}
   <p class="muted">New posts are on the way. Check back soon.</p>

@@ -5,6 +5,7 @@ date: 2026-10-21 08:49:00 +0530
 image: /assets/images/best-budget-phones-under-300.jpg
 image_alt: "Four budget smartphones in black, blue, silver and green standing in a row"
 category: Global
+also_in: [Phones]
 tags: [smartphones, budget phones, buying guide, samsung, motorola, usa, uk]
 affiliate: true
 ---

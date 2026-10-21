@@ -3,7 +3,10 @@ title: "Poco X8s Launched: Price, Specs and India Launch — What We Know"
 seo_title: "Poco X8s Launched: Price, Specs & India Launch"
 description: "Poco X8s is official with a compact 6.35-inch OLED, Snapdragon 7 Gen 4, 6,330mAh battery and 100W charging. Price, specs and India launch status."
 date: 2026-10-21 11:24:00 +0530
+image: /assets/images/poco-x8s-launched-price-specs-india-launch.jpg
+image_alt: "Illustration of compact phones in white and light blue with triple rear cameras"
 category: Launches
+also_in: [Phones, Global]
 tags: [poco, poco x8s, xiaomi, smartphones, compact phones, launch]
 ---
 
@@ -46,6 +49,11 @@ Vietnam prices don't tell us much about Indian pricing, because phone prices oft
 
 The headline is the size. Most phones today have screens of 6.7 inches or bigger, so a 6.35-inch phone with flagship-style features is unusual, especially from Poco. It's aimed at people who want a phone that's easy to use with one hand.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/compact-phone-one-hand.jpg" alt="A hand holding a compact phone next to a larger phone for size comparison" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 The battery is also large for a phone this small. 6,330mAh is more than many full-size phones carry, and 100W charging should refill it quickly. Add IP68 water resistance and a 50MP telephoto camera for zoom shots, and the X8s packs more than you'd usually find in a compact mid-range phone.
 
 The Snapdragon 7 Gen 4 is an upper mid-range chip. It should handle daily use and most games well, though it isn't a flagship chip like the Snapdragon 8 series.
@@ -53,6 +61,11 @@ The Snapdragon 7 Gen 4 is an upper mid-range chip. It should handle daily use an
 ## Who should consider it
 
 If you've been waiting for a small Android phone that doesn't compromise much on battery life or water resistance, the Poco X8s is one to watch, provided Poco brings it to India at a sensible price.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/compact-phone-fast-charging.jpg" alt="A compact phone fast charging on a desk with a glowing USB-C cable" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 If you need a phone in India right now, the **Poco X8 5G** is already on sale from around ₹26,999 (6GB + 128GB) on Flipkart in October 2026. It goes the other way, with a much bigger 6.83-inch AMOLED screen, a huge 9,000mAh battery and 67W charging, but a less powerful Snapdragon 6s Gen 4 chip.
 

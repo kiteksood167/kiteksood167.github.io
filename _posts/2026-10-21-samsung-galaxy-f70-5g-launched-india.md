@@ -7,6 +7,7 @@ image: /assets/images/samsung-galaxy-f70-5g-launched-india.jpg
 image_alt: "Illustration of a violet and a black budget smartphone with triple rear cameras"
 image_credit: "Illustration"
 category: Launches
+also_in: [Phones]
 tags: [samsung, galaxy f70 5g, smartphones, budget phones, flipkart, launch]
 affiliate: true
 ---

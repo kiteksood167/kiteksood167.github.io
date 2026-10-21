@@ -5,6 +5,7 @@ date: 2026-10-20 04:24:00 +0530
 image: /assets/images/improve-gaming-performance-android-phone.jpg
 image_alt: "Hands holding a smartphone in landscape playing a battle royale game"
 category: Gaming
+also_in: [Phones, Guides]
 tags: [gaming, android, bgmi, free fire, performance, tips]
 ---
 

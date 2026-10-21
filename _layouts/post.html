@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   <header class="post-hero cat-{{ cat | slugify }}">
     <div class="wrap narrow">
-      <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">›</span><a class="chip" href="{{ '/category/' | relative_url }}{{ cat | slugify }}/">{{ cat }}</a></nav>
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">›</span><a class="chip" href="{{ '/category/' | relative_url }}{{ cat | slugify }}/">{{ cat }}</a>{% for c in page.also_in %}{% if c != cat %}<a class="chip chip-ghost" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>{% endif %}{% endfor %}</nav>
       <h1>{{ page.title }}</h1>
       {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
       <p class="meta">

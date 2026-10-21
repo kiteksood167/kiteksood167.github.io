@@ -6,6 +6,7 @@ date: 2026-10-18 10:00:00 +0530
 image: /assets/images/white-earbuds-case-dark.jpg
 image_alt: "White wireless earbuds and charging case on a dark background"
 category: Audio
+also_in: [Guides]
 tags: [earbuds, TWS, audio, buying guide]
 affiliate: true
 ---
