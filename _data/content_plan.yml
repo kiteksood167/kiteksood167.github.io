@@ -3,13 +3,6 @@
 # `image` file name exists in assets/images/, it is used as the cover.
 # Launch posts (6:48 PM) are news-driven and are not planned here.
 
-- date: 2026-10-20
-  audience: India
-  category: Wearables
-  title: "Best Smartwatches Under ₹5,000 in India (October 2026)"
-  slug: best-smartwatches-under-5000
-  image: best-smartwatches-under-5000.jpg
-
 - date: 2026-10-21
   audience: Global
   category: Global
