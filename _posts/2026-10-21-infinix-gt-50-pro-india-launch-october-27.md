@@ -3,6 +3,8 @@ title: "Infinix GT 50 Pro Launching in India on October 27: What We Know"
 seo_title: "Infinix GT 50 Pro India Launch Oct 27: What We Know"
 description: "Infinix GT 50 Pro launches in India on October 27 with a Dimensity 8400 Ultimate chip, liquid cooling and 6,500mAh battery. Confirmed specs and price news."
 date: 2026-10-21 18:42:00 +0530
+image: /assets/images/infinix-gt-50-pro-india-launch-october-27.jpg
+image_alt: "Illustration of two gaming phones in black and red with glowing liquid cooling windows on the back"
 category: Launches
 also_in: [Phones, Gaming]
 tags: [infinix, infinix gt 50 pro, smartphones, gaming phones, flipkart, launch]
@@ -55,6 +57,11 @@ The biggest change from the GT 30 Pro is the chip. The Dimensity 8400 Ultimate r
 
 The battery also grows from 5,500mAh to 6,500mAh, while charging stays at 45W wired and 30W wireless. On the camera side, the 108MP main sensor of the GT 30 Pro makes way for a 50MP main camera with optical image stabilisation (OIS), which helps with steadier low-light photos and video.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-liquid-cooling-window.jpg" alt="Close-up of a gaming phone back with a see-through window showing glowing green liquid cooling channels" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 The design is the other headline. Infinix calls it "Cyber Mecha": a textured back with a window that shows the liquid cooling channels, plus four RGB strips with 14 lighting effects that react to calls, games and music. The shoulder triggers can be set up for aiming, firing, zooming or opening apps.
 
 Infinix is also bringing gaming accessories to India: the **GT NX Controller** (a clip-on controller that can split into two Bluetooth handles), the **GT NX Station** (a dock for playing on a TV or monitor at up to 4K 60Hz), and the **GT MagCharge Cooler 2.0** (a magnetic cooling fan with 15W wireless charging). Reports differ on whether the cooler comes in the box or is sold separately, so we'll confirm that on launch day.
@@ -62,6 +69,11 @@ Infinix is also bringing gaming accessories to India: the **GT NX Controller** (
 ## Who should consider it
 
 The GT 50 Pro is aimed at mobile gamers who want strong performance, good cooling and extras like shoulder triggers without paying flagship prices. Camera-first buyers should look elsewhere.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-controller-cooler.jpg" alt="A gaming phone in a clip-on controller and another phone with a magnetic cooling fan attached" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 Two close rivals at similar prices:
 
