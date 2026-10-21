@@ -20,6 +20,7 @@
   {% if page.layout == "post" %}{% assign bc = page.category | default: 'Guides' %}
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"{{ '/' | absolute_url }}"},{"@type":"ListItem","position":2,"name":{{ bc | jsonify }},"item":"{{ '/category/' | absolute_url }}{{ bc | slugify }}/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}</script>
   {% endif %}
+  {% if site.bing_verify and site.bing_verify != "" %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
   {% if site.pinterest_verify and site.pinterest_verify != "" %}<meta name="p:domain_verify" content="{{ site.pinterest_verify }}">{% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
