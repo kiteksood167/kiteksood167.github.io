@@ -3,6 +3,8 @@ title: "New Apple TV 4K (2026) Launched in India at ₹39,900: What's New and Is
 seo_title: "Apple TV 4K (2026) India Price ₹39,900: What's New"
 description: "The new Apple TV 4K costs ₹39,900 in India and goes on sale November 13. Here's what the A19 chip, Siri AI and new remote bring, and who should buy it."
 date: 2026-10-21 11:36:00 +0530
+image: /assets/images/apple-tv-4k-2026-india-price-features.jpg
+image_alt: "Illustration of a black streaming box and silver TV remote on a TV console in front of a large TV"
 category: "Smart Home"
 also_in: [Launches, Global]
 tags: [apple, apple tv 4k, streaming devices, smart tv, launch]
@@ -41,6 +43,11 @@ For context, the previous Apple TV 4K launched in India at ₹14,900 (Wi-Fi, 64G
 | Remote | Siri Remote with Find My, Precision Finding and a built-in speaker |
 | Home audio | Four-speaker surround with two pairs of HomePod mini 2 or HomePod (2nd gen) |
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/streaming-box-voice-control.jpg" alt="A man on a sofa talking to his TV hands-free, with voice waves rising from a streaming box under the TV" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 **Hands-free Siri.** You can now talk to the Apple TV without picking up the remote, thanks to three far-field microphones. The new Siri, powered by Apple Intelligence, is launching in beta and supports English in India. For requests that use your personal information, you need a paired iPhone or iPad that supports Apple Intelligence.
 
 **A faster chip.** The A19 replaces the A15 Bionic in the previous model. That mostly means smoother menus, quicker app loading and more headroom for Apple Arcade games and future updates.
@@ -52,6 +59,11 @@ For context, the previous Apple TV 4K launched in India at ₹14,900 (Wi-Fi, 64G
 ## Who should consider it
 
 The new Apple TV 4K makes sense if you already live in Apple's world: you use an iPhone, watch Apple TV+, use AirPlay and FaceTime on the big screen, or want a hub for HomeKit devices. For those buyers, hands-free Siri, Find My for the remote and four-speaker HomePod surround are real upgrades.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/find-tv-remote-phone.jpg" alt="A phone showing a direction arrow to find a TV remote hidden between sofa cushions" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 For most people in India, though, ₹39,900 is a lot for a streaming box. If your TV is already a smart TV, its built-in apps (Netflix, Prime Video, YouTube and others) may be all you need. Streaming sticks from Amazon and Google cost a fraction of the price and handle the same apps well.
 
