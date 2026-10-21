@@ -3,6 +3,8 @@ title: "Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Spec
 seo_title: "Red Magic 12 Pro+ Launched: Price and Specs"
 description: "The Red Magic 12 Pro+ gaming phone is official with a 185Hz screen, liquid cooling with a 25,500rpm fan and an 8,400mAh battery. Price, specs and availability."
 date: 2026-10-21 11:38:00 +0530
+image: /assets/images/red-magic-12-pro-plus-launched-price-specs.jpg
+image_alt: "Illustration of a gaming phone with a transparent back and RGB cooling fan next to a phone showing a racing game"
 category: Gaming
 also_in: [Launches, Phones, Global]
 tags: [red magic, redmagic 12 pro plus, gaming phones, nubia, launch]
@@ -46,6 +48,11 @@ Dollar conversions vary between reports because of exchange rates.
 
 **Cooling is the headline.** Most phones rely on passive cooling. The Red Magic 12 Pro+ adds an actual fan spinning at up to 25,500rpm on top of a liquid cooling loop. The goal is to keep performance high during long gaming sessions instead of slowing down as the phone heats up. Despite the fan, the phone is rated IP68/IP69 for water and dust.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-cooling-fan.jpg" alt="Close-up of a spinning cooling fan with green and orange RGB light and copper heat pipes inside a gaming phone" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 **A full-screen 185Hz display.** The 6.85-inch screen hides the selfie camera underneath, so there's no notch or punch-hole to get in the way of games. The 185Hz refresh rate is higher than the 120Hz or 144Hz on most phones, though only some games run at such high frame rates.
 
 **Built for long sessions.** The 8,400mAh battery is huge for a flagship, 120W charging refills it fast, and bypass charging lets the phone run directly from the charger while you play, which reduces heat and battery wear.
@@ -55,6 +62,11 @@ Dollar conversions vary between reports because of exchange rates.
 ## Who should consider it
 
 The Red Magic 12 Pro+ is for serious mobile gamers who want the best sustained performance and don't mind a heavy, gamer-styled phone. Its cameras are decent on paper, but buyers who care mostly about photography will usually get better results from mainstream flagships.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-landscape-triggers.jpg" alt="Two hands playing a racing game on a gaming phone in landscape mode, fingers on the shoulder triggers" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 If you're in India, wait for Red Magic's global launch details and check whether official sales and service support are available here before buying. And if you just want better gaming on the phone you already own, a few settings and habits make a big difference.
 
