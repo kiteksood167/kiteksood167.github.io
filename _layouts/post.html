@@ -13,6 +13,7 @@ layout: default
         {% if page.last_modified_at %} · Updated {{ page.last_modified_at | date: "%-d %b %Y" }}{% endif %}
         · {{ content | number_of_words | divided_by: 200 | plus: 1 }} min read
       </p>
+      {% include share.html compact=true %}
     </div>
   </header>
 
@@ -33,6 +34,8 @@ layout: default
       {{ content }}
     </div>
 
+    {% include share.html %}
+
     {% include author-box.html %}
 
     {% include comments.html %}
@@ -50,3 +53,4 @@ layout: default
     {% endif %}
   </div>
 </article>
+{% include share-script.html %}

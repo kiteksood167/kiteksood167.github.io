@@ -1,0 +1,26 @@
+{%- comment -%} Share buttons: plain links (no third-party scripts). {%- endcomment -%}
+{%- assign s_url = page.url | absolute_url -%}
+{%- assign s_u = s_url | url_encode -%}
+{%- assign s_t = page.title | url_encode | replace: "+", "%20" -%}
+{%- capture s_img -%}{% if page.image %}{{ page.image | absolute_url | url_encode }}{% endif %}{%- endcapture -%}
+<div class="share{% if include.compact %} share-compact{% endif %}" data-url="{{ s_url }}" data-title="{{ page.title | escape }}">
+  {% unless include.compact %}<span class="share-label">Share this post</span>{% endunless %}
+  <div class="share-btns">
+    <a class="share-btn share-wa" href="https://wa.me/?text={{ s_t }}%20{{ s_u }}" target="_blank" rel="noopener nofollow" aria-label="Share on WhatsApp">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.3 2.2 2.2 0 0 0 .2-1.3c-.1-.1-.3-.2-.5-.3z"/></svg><span>WhatsApp</span></a>
+    <a class="share-btn share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ s_u }}" target="_blank" rel="noopener nofollow" aria-label="Share on Facebook">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 8h3V4h-3a4 4 0 0 0-4 4v2H8v4h2v8h4v-8h3l1-4h-4V8.5c0-.3.2-.5.5-.5z"/></svg><span>Facebook</span></a>
+    <a class="share-btn share-x" href="https://twitter.com/intent/tweet?text={{ s_t }}&url={{ s_u }}" target="_blank" rel="noopener nofollow" aria-label="Share on X">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.9-6.4L5.3 21H2.2l7.2-8.3L1.8 3h6.3l4.4 5.9zm-1.1 16.2h1.7L7.4 4.7H5.6z"/></svg><span>X</span></a>
+    <a class="share-btn share-tg" href="https://t.me/share/url?url={{ s_u }}&text={{ s_t }}" target="_blank" rel="noopener nofollow" aria-label="Share on Telegram">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.9 4.3 18.7 19.4c-.2 1-.9 1.3-1.7.8l-4.9-3.6-2.3 2.3c-.3.3-.5.5-1 .5l.3-5 9.1-8.2c.4-.4-.1-.6-.6-.2L6.4 13 1.6 11.5c-1-.3-1.1-1 .2-1.5L20.6 3c.9-.3 1.6.2 1.3 1.3z"/></svg><span>Telegram</span></a>
+    <a class="share-btn share-li" href="https://www.linkedin.com/sharing/share-offsite/?url={{ s_u }}" target="_blank" rel="noopener nofollow" aria-label="Share on LinkedIn">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.5h4V21H3zm7 0h3.8v1.6h.1a4.2 4.2 0 0 1 3.8-2c4 0 4.8 2.6 4.8 6V21h-4v-5.2c0-1.2 0-2.9-1.8-2.9s-2 1.4-2 2.8V21h-4z"/></svg><span>LinkedIn</span></a>
+    {% if page.image %}<a class="share-btn share-pin" href="https://pinterest.com/pin/create/button/?url={{ s_u }}&media={{ s_img }}&description={{ s_t }}" target="_blank" rel="noopener nofollow" aria-label="Save to Pinterest">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.6 19.3c-.1-.8-.2-2 0-2.9l1.2-5s-.3-.6-.3-1.5c0-1.4.8-2.5 1.8-2.5.9 0 1.3.6 1.3 1.4 0 .9-.5 2.1-.8 3.3-.2 1 .5 1.8 1.5 1.8 1.8 0 3.2-1.9 3.2-4.6 0-2.4-1.7-4.1-4.2-4.1a4.4 4.4 0 0 0-4.6 4.4c0 .9.3 1.8.8 2.3.1.1.1.2.1.3l-.3 1.2c0 .2-.2.3-.4.2-1.3-.6-2.1-2.5-2.1-4 0-3.3 2.4-6.3 6.9-6.3 3.6 0 6.4 2.6 6.4 6 0 3.6-2.3 6.5-5.4 6.5-1.1 0-2.1-.6-2.4-1.2l-.7 2.5c-.2.9-.9 2.1-1.3 2.8A10 10 0 1 0 12 2z"/></svg><span>Pinterest</span></a>{% endif %}
+    <button type="button" class="share-btn share-copy" aria-label="Copy link">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.6 13.4a1 1 0 0 1 0-1.4l3.5-3.5a1 1 0 1 1 1.4 1.4L12 13.4a1 1 0 0 1-1.4 0zM8.5 19.8a4.3 4.3 0 0 1-3-7.3l2.1-2.1a1 1 0 0 1 1.4 1.4l-2.1 2.1a2.3 2.3 0 0 0 3.2 3.2l2.1-2.1a1 1 0 0 1 1.4 1.4l-2.1 2.1a4.3 4.3 0 0 1-3 1.3zm7.9-6.5a1 1 0 0 1-.7-1.7l2.1-2.1a2.3 2.3 0 0 0-3.2-3.2l-2.1 2.1a1 1 0 1 1-1.4-1.4l2.1-2.1a4.3 4.3 0 0 1 6 6l-2.1 2.1a1 1 0 0 1-.7.3z"/></svg><span class="share-copy-text">Copy link</span></button>
+    <button type="button" class="share-btn share-native" aria-label="More sharing options" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 16a3 3 0 0 0-2.4 1.2l-6.7-3.4a3 3 0 0 0 0-1.6l6.7-3.4A3 3 0 1 0 15 7l-6.7 3.4a3 3 0 1 0 0 3.3L15 17a3 3 0 1 0 3-1z"/></svg><span>More</span></button>
+  </div>
+</div>

@@ -336,3 +336,16 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .crumbs > span { color: var(--muted); }
 #disqus_thread { min-height: 120px; }
 .chip-ghost { background: transparent; opacity: .85; }
+
+/* Share buttons */
+.share { margin: 28px 0; padding: 18px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.share-label { display: block; font-weight: 600; font-size: .9rem; margin-bottom: 10px; color: var(--ink); }
+.share-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.share-btn { display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-size: .82rem; font-weight: 600; text-decoration: none; cursor: pointer; line-height: 1; }
+.share-btn svg { width: 16px; height: 16px; fill: currentColor; flex: none; }
+.share-btn:hover { border-color: var(--ink); }
+.share-wa svg { fill: #25d366; } .share-fb svg { fill: #1877f2; } .share-tg svg { fill: #229ed9; }
+.share-li svg { fill: #0a66c2; } .share-pin svg { fill: #e60023; }
+.share-compact { margin: 14px 0 0; padding: 0; border: 0; }
+.share-compact .share-btn { padding: 7px; }
+.share-compact .share-btn span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
