@@ -3,6 +3,9 @@ title: "Samsung Galaxy F70 5G Launched in India: Price, Specs and Sale Date"
 seo_title: "Samsung Galaxy F70 5G: India Price, Specs & Sale"
 description: "Samsung Galaxy F70 5G is now on sale in India from ₹19,999 with a 50MP OIS camera and AMOLED screen. Price, specs, offers and how it compares."
 date: 2026-10-21 09:08:00 +0530
+image: /assets/images/samsung-galaxy-f70-5g-launched-india.jpg
+image_alt: "Illustration of a violet and a black budget smartphone with triple rear cameras"
+image_credit: "Illustration"
 category: Launches
 tags: [samsung, galaxy f70 5g, smartphones, budget phones, flipkart, launch]
 affiliate: true
@@ -44,11 +47,21 @@ Honestly, not much, and that's the main thing to know. Tech sites including GSMA
 
 What still stands out at this price is the camera stabilisation. OIS is uncommon under ₹20,000, and it helps with sharper photos in low light and steadier video. The AMOLED screen also gives deeper blacks and better outdoor visibility than the LCD panels on many rivals, though its 90Hz refresh rate is lower than the 120Hz offered by some competitors.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-ois-night-video.jpg" alt="A hand holding a violet phone recording a steady video of a busy city street at night" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 Samsung India hasn't clearly confirmed which Android and One UI version the phone ships with or how many years of updates it gets. Launch reports disagree on both points, so we've left them out until Samsung confirms. If long-term updates matter to you, check the Flipkart listing before buying.
 
 ## Who should consider it
 
 The Galaxy F70 5G suits buyers who want a reliable Samsung phone for everyday use, photos and video calls, and who value a good screen and stable camera over raw gaming performance. The Exynos 1330 is fine for social media, streaming and light games, but it isn't built for heavy gaming at high settings.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/two-budget-phones-compare.jpg" alt="A black and a violet budget phone side by side with a glowing question mark between them" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 Two close alternatives to compare:
 
