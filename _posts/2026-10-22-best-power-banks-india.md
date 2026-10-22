@@ -2,6 +2,9 @@
 title: "Best Power Banks in India: How to Choose the Right One"
 description: "How to pick a power bank in India by capacity, watts and ports, plus six good options from about ₹1,250 to ₹5,000 for phones, iPhones and laptops."
 date: 2026-10-22 08:47:00 +0530
+image: /assets/images/best-power-banks-india.jpg
+image_alt: "Illustration of a slim white power bank, a black power bank with a digital display and a light-blue magnetic power bank on a phone"
+image_credit: "Illustration"
 category: Accessories
 also_in: [Guides, Phones]
 tags: [power bank, buying guide, fast charging, Xiaomi, Ambrane, magnetic power bank]
@@ -34,6 +37,11 @@ Prices are the lowest we found on major Indian stores and brand sites in October
 **25,000mAh and above** is for trips where you won't see a plug for a while. These are heavy, and you should check the watt-hour (Wh) rating before flying (more on that below).
 
 Remember that the mAh on the box is measured at the battery's internal voltage. Some energy is lost when the bank converts it for your phone and as heat, so a 10,000mAh bank won't deliver 10,000mAh into your phone. Treat the number as a rough guide, not an exact promise.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/power-bank-size-comparison.jpg" alt="A smartphone next to three power banks lined up from a small slim one to a large heavy one" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Step 2: Match the watts to your device
 
@@ -76,6 +84,11 @@ If you use a MagSafe-compatible iPhone (or an Android phone with magnetic Qi2 su
 ### 6. Xiaomi Power Bank 20000 165W: best for laptops
 
 This is the one to get if you want to top up a laptop on the move. It launched in September 2026 at an introductory ₹4,999 and costs around ₹5,000 now. One USB-C port gives up to 120W, a second gives up to 45W, and there's a 22.5W USB-A port plus a braided built-in cable that doubles as a carry loop. A colour screen shows input and output speeds. It's overkill if you only charge a phone.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/power-bank-laptop-airport.jpg" alt="An open backpack at an airport gate with a black power bank charging a laptop through a braided USB-C cable" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 > **Tip:** Since early 2026, DGCA rules don't allow you to use a power bank to charge devices during a flight in India, or to plug one into the seat socket. Carry it in your cabin bag only, never in checked luggage, and keep it out of the overhead bin. Banks up to 100Wh are fine without airline approval, so check the Wh figure printed on large-capacity models before you fly.
 
