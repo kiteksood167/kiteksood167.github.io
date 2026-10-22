@@ -3,13 +3,6 @@
 # `image` file name exists in assets/images/, it is used as the cover.
 # Launch posts (6:48 PM) are news-driven and are not planned here.
 
-- date: 2026-10-21
-  audience: Global
-  category: Global
-  title: "Best Budget Phones Under $300 in 2026"
-  slug: best-budget-phones-under-300
-  image: best-budget-phones-under-300.jpg
-
 - date: 2026-10-22
   audience: India
   category: Accessories

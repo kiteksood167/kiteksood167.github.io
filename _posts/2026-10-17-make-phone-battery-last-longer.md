@@ -72,7 +72,7 @@ Software updates often include battery optimisations and bug fixes for drain pro
 
 > **When is it time for a new battery?** If your phone shows battery health below about 80%, or it shuts down at 15–20%, a battery replacement at an authorised service centre is usually much cheaper than a new phone.
 
-**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/)
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
 
 ## The bottom line
 
