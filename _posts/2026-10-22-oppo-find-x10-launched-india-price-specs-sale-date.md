@@ -51,6 +51,7 @@ OPPO sells a smaller 7,150mAh battery version of the series in some markets, suc
 **Cameras.** The Find X10 Pro Max uses 200MP sensors for all three rear cameras: the main, the ultra-wide and the 3x zoom. Most flagships use a high-resolution sensor only for the main camera and sometimes the zoom, so this is an unusual setup. By default, photos are saved at a smaller size to keep files manageable, and you can switch to full resolution when you want more detail. The telephoto can also focus as close as 10cm, which lets it double as a macro camera.
 
 **Teleconverter kit.** The optional Hasselblad Teleconverter Kit clips onto the phone for extra optical reach. It costs ₹24,999 and goes on sale on the same day as the phones.
+
 **Battery and charging.** Both phones move up to an 8,000mAh silicon-carbon battery, compared with 7,500mAh on last year's Find X9 Pro. Charging stays at 80W wired, and there is 50W wireless charging (the wireless charger is sold separately).
 
 **Chips.** The Pro Max gets MediaTek's new 2nm Dimensity 9600 Pro, while the regular Find X10 uses the Dimensity 9600M. Both have IP66, IP68 and IP69 ratings for dust and water protection.

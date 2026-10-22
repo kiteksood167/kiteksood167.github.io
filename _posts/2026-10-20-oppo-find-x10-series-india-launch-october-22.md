@@ -11,6 +11,8 @@ also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphone, flagship phone, launch]
 ---
 
+> **Update (October 22):** The Find X10 series is now official in India. See the [official India prices, specs and sale date](/oppo-find-x10-launched-india-price-specs-sale-date/).
+
 OPPO has officially confirmed that its new flagship phones, the **Find X10** and **Find X10 Pro Max**, will launch in India on **Thursday, October 22, 2026, at 4:45 PM IST**. Both phones are already on sale in China, so we already know a lot about the hardware, including the headline feature: three 200MP rear cameras on the Pro Max.
 
 <!--more-->
