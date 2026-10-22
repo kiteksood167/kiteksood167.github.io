@@ -3,6 +3,9 @@ title: "OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and S
 seo_title: "OPPO Find X10 India Price, Specs and Sale Date"
 description: "OPPO Find X10 starts at ₹1,39,999 and the Find X10 Pro Max costs ₹1,99,999 in India. Sale date, stores, key specs and the closest rivals."
 date: 2026-10-22 18:47:00 +0530
+image: /assets/images/oppo-find-x10-launched-india-price-specs-sale-date.jpg
+image_alt: "Illustration of a pale blue and a white flagship phone with large circular triple-camera modules on a dark stage"
+image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphones, flagship phones, launch]
@@ -50,11 +53,21 @@ OPPO sells a smaller 7,150mAh battery version of the series in some markets, suc
 
 **Cameras.** The Find X10 Pro Max uses 200MP sensors for all three rear cameras: the main, the ultra-wide and the 3x zoom. Most flagships use a high-resolution sensor only for the main camera and sometimes the zoom, so this is an unusual setup. By default, photos are saved at a smaller size to keep files manageable, and you can switch to full resolution when you want more detail. The telephoto can also focus as close as 10cm, which lets it double as a macro camera.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/flagship-triple-camera-closeup.jpg" alt="Close-up of a white phone's large circular camera module with three lenses and a flash" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 **Teleconverter kit.** The optional Hasselblad Teleconverter Kit clips onto the phone for extra optical reach. It costs ₹24,999 and goes on sale on the same day as the phones.
 
 **Battery and charging.** Both phones move up to an 8,000mAh silicon-carbon battery, compared with 7,500mAh on last year's Find X9 Pro. Charging stays at 80W wired, and there is 50W wireless charging (the wireless charger is sold separately).
 
 **Chips.** The Pro Max gets MediaTek's new 2nm Dimensity 9600 Pro, while the regular Find X10 uses the Dimensity 9600M. Both have IP66, IP68 and IP69 ratings for dust and water protection.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-zoom-rooftop-sunset.jpg" alt="Hands holding a pale blue phone on a rooftop at sunset, zooming in on a distant skyscraper" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Who should consider it
 
