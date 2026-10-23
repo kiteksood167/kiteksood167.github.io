@@ -52,6 +52,12 @@ The main daily task alternates India and Global days; the launch task posts sepa
 - 500–900 words is fine for launch posts.
 - Add a buy button only once the product is actually on sale.
 
+## News posts (midday task, added Oct 2026)
+- Written by the midday news task. Covers gadget news that is NOT a new launch: price cuts and new prices in India, big sale announcements with confirmed dates, major software updates (Android, iOS, One UI and similar) and which phones get them, new features rolled out to popular devices, recalls or safety warnings, and policy or rule changes that affect gadget buyers. New launches stay with the evening launch task.
+- Use the topic category the news is about (Phones, Laptops, Audio, Wearables, Tablets, Gaming, Accessories, Smart Home, Guides; Global for US/UK news), never Launches, and add `news: true` to the front matter. The morning task ignores `news: true` posts when it balances categories and alternates India/Global days.
+- Facts must come from the official source (brand, company or government) or at least two reliable news sites. Never report leaks or rumours as facts.
+- 400–800 words: what happened, what it means for readers, who is affected, what to do next, and "The bottom line". Title states the news plainly, without clickbait.
+
 ## SEO checklist for every new post (added Oct 2026)
 
 - **title** can be long and descriptive. If it is over 55 characters, also add a short `seo_title:` (max ~50 characters, main keyword first). It is used for the browser tab and Google title.
