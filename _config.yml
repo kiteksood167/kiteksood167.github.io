@@ -27,7 +27,7 @@ cusdis_app_id: ""                 # <-- Cusdis App ID; comments appear on posts 
 adsense_client: ""          # <-- e.g. "ca-pub-1234567890123456" after AdSense approval
 amazon_tag: "gadgetgyaan00-21"              # <-- Amazon.in Associates tag, e.g. "gadgetgyaan-21"
 flipkart_affid: "kiteksood"          # <-- Flipkart Affiliate ID (affid); adds a Flipkart button to India buy boxes
-amazon_tag_us: ""           # <-- Amazon.com Associates tag for Global posts, e.g. "gadgetgyaan-20"
+amazon_tag_us: "gadgetgyaan-20"           # <-- Amazon.com Associates tag for Global posts, e.g. "gadgetgyaan-20"
 
 # Categories shown in the menu
 # All categories (order = order on homepage chips and mobile menu)
