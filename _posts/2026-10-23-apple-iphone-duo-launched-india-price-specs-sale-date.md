@@ -3,6 +3,9 @@ title: "Apple iPhone Duo Launched in India: Price, Specs and Sale Date"
 seo_title: "iPhone Duo India Price, Specs and Sale Date"
 description: "Apple's first foldable, the iPhone Duo, is now on sale in India from ₹2,99,900. Here are all four variant prices, launch offers, key specs and rivals."
 date: 2026-10-23 18:45:00 +0530
+image: /assets/images/apple-iphone-duo-launched-india-price-specs-sale-date.jpg
+image_alt: "Illustration of a white and a navy book-style foldable phone on a dark stage with green and orange lights"
+image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Phones]
 tags: [apple, iphone duo, foldable phones, smartphones, launch]
@@ -56,11 +59,21 @@ Everything, really. This is Apple's first foldable, so there is no older iPhone 
 
 Apple claims the inner screen is 50% larger than the iPhone 18 Pro Max's display, and that the phone is the thinnest iPhone it has made when unfolded. Inside is the same A20 Pro chip family as the iPhone 18 Pro, with a vapour chamber for cooling. Apple also says Apple Pencil (USB-C) support is coming in a later software update, but it isn't available at launch.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/foldable-phone-open-vs-closed.jpg" alt="A foldable phone shown closed like a small phone and opened like a mini tablet showing an article and a video" loading="lazy">
+  <figcaption>Illustration, not the actual product</figcaption>
+</figure>
+
 Two things Indian buyers should note. First, it's eSIM only, so you'll need to convert your SIM with Jio, Airtel or Vi before you can use it. Second, the zoom camera is a 12MP 2x telephoto, so if long-range zoom matters to you, compare it with the iPhone 18 Pro models before you decide.
 
 ## Who should consider it
 
 The iPhone Duo is for iPhone users who want a big screen for reading, video and multitasking in a phone that still fits a pocket, and for whom the price isn't the main worry. If you mainly want the best iPhone camera or the best value, it isn't the right pick.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/foldable-phone-metro-reading.jpg" alt="A commuter reading on an unfolded foldable phone on a metro train at sunset" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 Two close alternatives:
 
