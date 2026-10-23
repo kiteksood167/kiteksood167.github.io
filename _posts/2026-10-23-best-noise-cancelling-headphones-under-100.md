@@ -6,6 +6,9 @@ category: Global
 also_in: [Audio]
 tags: [headphones, noise cancelling, anc, buying guide, sony, soundcore, cmf, jlab, usa, uk]
 affiliate: true
+image: /assets/images/best-noise-cancelling-headphones-under-100.jpg
+image_alt: "Three over-ear wireless headphones in black, beige and light grey on a bright desk by a window"
+image_credit: "Illustration, not the actual product"
 ---
 
 You no longer need to spend $300 or more to block out a noisy commute or open-plan office. In October 2026, several over-ear headphones with active noise cancellation (ANC) sell for under $100, and a few of them come close to the premium models on battery life and features. Here are the ones worth buying, and what you give up compared with a flagship pair.
@@ -63,6 +66,11 @@ JLab rates it at more than 40 hours with ANC on and over 70 hours with it off, a
 
 > **Tip:** Budget noise cancelling works best on steady, low sounds like airplane engines, bus rumble and air conditioning. It's less effective against voices and sudden noises. A good fit matters just as much as the ANC itself: if the ear cushions don't seal around your ears, even the best noise cancelling will sound weak.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/headphones-commute-sunset-train.jpg" alt="Woman with closed eyes wearing black over-ear headphones on a train, with a city skyline at sunset through the window" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## What you give up under $100
 
 Cheaper ANC headphones have come a long way, but there are still gaps compared with premium models like Sony's 1000X series or Bose QuietComfort headphones:
@@ -71,6 +79,11 @@ Cheaper ANC headphones have come a long way, but there are still gaps compared w
 - **Microphones:** Call quality in noisy places is usually the weakest point at this price.
 - **Build and extras:** Expect more plastic, fewer folding designs and fewer cases. Features like wear detection are often missing.
 - **Codecs:** LDAC only helps if you use an Android phone that supports it. iPhones use AAC, so the Sony sounds just as good as the others on an iPhone.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/headphones-charging-usb-c-desk.jpg" alt="Grey over-ear headphones on a wooden desk, charging by USB-C cable from a smartphone, with a small LED glowing on the ear cup" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## How to choose
 
