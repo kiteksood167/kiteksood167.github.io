@@ -2,7 +2,7 @@
 title: About GadgetGyaan
 seo_title: About Us
 permalink: /about/
-description: Who we are and how we write our tech guides.
+description: "Meet GadgetGyaan, an independent tech blog by Kitek Sood with honest buying guides, launch news and how-tos for India and global readers."
 ---
 
 GadgetGyaan helps buyers make smarter choices about phones, laptops, earbuds and everyday tech. Most guides are written for India, and our **Global** section covers picks and prices for readers in the US, UK and elsewhere.

@@ -1,7 +1,7 @@
 ---
 title: Affiliate Disclosure
 permalink: /disclosure/
-description: How GadgetGyaan earns money through affiliate links and advertising.
+description: "How GadgetGyaan earns money through Amazon and Flipkart affiliate links and ads, and how we keep our reviews independent and honest."
 ---
 
 GadgetGyaan is a free website. To keep it running, we earn money in two ways:

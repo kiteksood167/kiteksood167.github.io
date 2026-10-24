@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 permalink: /privacy-policy/
-description: How GadgetGyaan collects, uses and protects information.
+description: "How GadgetGyaan collects, uses and protects your information, including cookies, analytics, comments and affiliate links on our site."
 ---
 
 *Last updated: 20 October 2026*
