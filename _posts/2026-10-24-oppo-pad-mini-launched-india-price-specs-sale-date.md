@@ -5,6 +5,9 @@ description: "OPPO's 8.8-inch Pad Mini is out in India at ₹94,999 with a matte
 date: 2026-10-24 18:45:00 +0530
 category: Launches
 also_in: [Tablets]
+image: /assets/images/oppo-pad-mini-launched-india-price-specs-sale-date.jpg
+image_alt: "A small lavender tablet with a colourful wallpaper and a white stylus on a dark stage lit by green and orange neon"
+image_credit: "Illustration, not the actual product"
 tags: [oppo, oppo pad mini, tablets, compact tablets, flipkart, launch]
 ---
 
@@ -54,9 +57,19 @@ This is OPPO's first compact tablet in India, so there's no older Pad Mini to co
 
 The screen is the headline. Most tablets have glossy screens, but this one has a matte OLED panel. A matte finish cuts down on reflections, which helps when reading under bright lights or near a window, and it gives a slightly paper-like feel when you write with a stylus. It also refreshes at up to 144Hz, so scrolling should look smooth.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/small-tablet-one-hand-reading.jpg" alt="Woman reading on a small lavender tablet held in one hand, relaxing by a window at sunset" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 It's also very thin and light for its battery size. At about 5.46mm and 282g, it packs an 8,000mAh battery with 67W fast charging. OPPO claims up to 19.5 hours of video playback, and says a 10-minute charge adds about four hours of video. These are OPPO's claims.
 
 There's no SIM slot, as the Indian model is Wi-Fi only. Instead, it can use the mobile data of a nearby OPPO phone running ColorOS 16 without you having to turn on a hotspot. It can also sync calls and messages from your phone and transfer files to and from Android phones and iPhones through OPPO's O+ Connect app. Reports say it will be among the first devices to get the ColorOS 17 update, but OPPO hasn't given a date for it.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/small-tablet-stylus-notes-desk.jpg" alt="Hand writing colourful notes with a white stylus on a small lavender tablet on a wooden desk, next to a phone and coffee" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Who should consider it
 
