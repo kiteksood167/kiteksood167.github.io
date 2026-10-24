@@ -1,7 +1,9 @@
 # Planned topics for the morning daily post (8:54 AM IST).
 # The daily task writes the entry for today's date. If an image with the listed
 # `image` file name exists in assets/images/, it is used as the cover.
-# Launch posts (6:48 PM) are news-driven and are not planned here.
+# Launch posts (6:48 PM) and news posts (1:47 PM) are news-driven and are not planned here.
+# Owner's priorities (Oct 2026): Diwali (8 Nov) gift and buying guides before the festival,
+# and about two "X vs Y" comparison posts every week (one India, one Global).
 
 - date: 2026-10-24
   audience: India
@@ -19,10 +21,10 @@
 
 - date: 2026-10-26
   audience: India
-  category: Tablets
-  title: "Best Tablets for Students in India Under ₹20,000"
-  slug: best-tablets-for-students-under-20000
-  image: best-tablets-for-students-under-20000.jpg
+  category: Accessories
+  title: "Best Diwali Gift Gadgets Under ₹2,000"
+  slug: best-diwali-gift-gadgets-under-2000
+  image: best-diwali-gift-gadgets-under-2000.jpg
 
 - date: 2026-10-27
   audience: Global
@@ -34,23 +36,23 @@
 - date: 2026-10-28
   audience: India
   category: Guides
-  title: "How to Check Your Phone's Battery Health (Android and iPhone)"
-  slug: how-to-check-phone-battery-health
-  image: how-to-check-phone-battery-health.jpg
+  title: "Diwali Gadget Buying Tips: How to Get the Best Deal Online"
+  slug: diwali-gadget-buying-tips
+  image: diwali-gadget-buying-tips.jpg
 
 - date: 2026-10-29
   audience: Global
   category: Global
-  title: "How to Transfer Data from Android to iPhone"
-  slug: how-to-transfer-data-from-android-to-iphone
-  image: how-to-transfer-data-from-android-to-iphone.jpg
+  title: "Sony WH-CH720N vs Soundcore Space One: Which to Buy"
+  slug: sony-wh-ch720n-vs-soundcore-space-one
+  image: sony-wh-ch720n-vs-soundcore-space-one.jpg
 
 - date: 2026-10-30
   audience: India
-  category: Audio
-  title: "Best TWS Earbuds Under ₹3,000 in India"
-  slug: best-tws-earbuds-under-3000
-  image: best-tws-earbuds-under-3000.jpg
+  category: Accessories
+  title: "Best Diwali Gift Gadgets Under ₹5,000"
+  slug: best-diwali-gift-gadgets-under-5000
+  image: best-diwali-gift-gadgets-under-5000.jpg
 
 - date: 2026-10-31
   audience: Global
@@ -58,3 +60,45 @@
   title: "Best Portable Chargers for iPhone in 2026"
   slug: best-portable-chargers-for-iphone
   image: best-portable-chargers-for-iphone.jpg
+
+- date: 2026-11-01
+  audience: India
+  category: Phones
+  title: "iQOO Neo 10R vs Realme P4 Pro: Which Gaming Phone to Buy"
+  slug: iqoo-neo-10r-vs-realme-p4-pro
+  image: iqoo-neo-10r-vs-realme-p4-pro.jpg
+
+- date: 2026-11-02
+  audience: Global
+  category: Global
+  title: "How to Transfer Data from Android to iPhone"
+  slug: how-to-transfer-data-from-android-to-iphone
+  image: how-to-transfer-data-from-android-to-iphone.jpg
+
+- date: 2026-11-03
+  audience: India
+  category: Audio
+  title: "Best TWS Earbuds Under ₹3,000 in India"
+  slug: best-tws-earbuds-under-3000
+  image: best-tws-earbuds-under-3000.jpg
+
+- date: 2026-11-04
+  audience: Global
+  category: Global
+  title: "Apple Watch SE vs Samsung Galaxy Watch: Which Budget Smartwatch to Buy"
+  slug: apple-watch-se-vs-samsung-galaxy-watch
+  image: apple-watch-se-vs-samsung-galaxy-watch.jpg
+
+- date: 2026-11-05
+  audience: India
+  category: Tablets
+  title: "Best Tablets for Students in India Under ₹20,000"
+  slug: best-tablets-for-students-under-20000
+  image: best-tablets-for-students-under-20000.jpg
+
+- date: 2026-11-07
+  audience: India
+  category: Guides
+  title: "How to Check Your Phone's Battery Health (Android and iPhone)"
+  slug: how-to-check-phone-battery-health
+  image: how-to-check-phone-battery-health.jpg
