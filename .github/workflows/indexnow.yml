@@ -1,0 +1,36 @@
+name: IndexNow ping
+
+# After posts change on main, tell Bing/Yandex (IndexNow) about the new or updated URLs.
+on:
+  push:
+    branches: [main]
+    paths: ["_posts/**"]
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Wait for GitHub Pages to publish
+        run: sleep 120
+      - name: Send changed post URLs to IndexNow
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          KEY="cc74fadc93d865e63fcac62caf9065fe"
+          HOST="thegadgetgyaan.com"
+          if git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then RANGE="$BEFORE..$AFTER"; else RANGE="$AFTER~1..$AFTER"; fi
+          FILES=$(git diff --name-only --diff-filter=AM "$RANGE" -- _posts/ || true)
+          URLS=""
+          for f in $FILES; do
+            slug=$(basename "$f" .md | sed -E 's/^[0-9]{4}-[0-9]{2}-[0-9]{2}-//')
+            URLS="$URLS\"https://$HOST/$slug/\","
+          done
+          if [ -z "$URLS" ]; then echo "No changed posts"; exit 0; fi
+          URLS="${URLS%,}"
+          BODY="{\"host\":\"$HOST\",\"key\":\"$KEY\",\"keyLocation\":\"https://$HOST/$KEY.txt\",\"urlList\":[$URLS]}"
+          echo "$BODY"
+          curl -sS -o /dev/null -w "IndexNow HTTP %{http_code}\n" -X POST "https://api.indexnow.org/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$BODY"
