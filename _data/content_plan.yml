@@ -3,13 +3,6 @@
 # `image` file name exists in assets/images/, it is used as the cover.
 # Launch posts (6:48 PM) are news-driven and are not planned here.
 
-- date: 2026-10-23
-  audience: Global
-  category: Global
-  title: "Best Noise Cancelling Headphones Under $100"
-  slug: best-noise-cancelling-headphones-under-100
-  image: best-noise-cancelling-headphones-under-100.jpg
-
 - date: 2026-10-24
   audience: India
   category: Gaming
@@ -30,3 +23,38 @@
   title: "Best Tablets for Students in India Under ₹20,000"
   slug: best-tablets-for-students-under-20000
   image: best-tablets-for-students-under-20000.jpg
+
+- date: 2026-10-27
+  audience: Global
+  category: Global
+  title: "Best Laptops for College Students Under $700"
+  slug: best-laptops-for-college-students-under-700
+  image: best-laptops-for-college-students-under-700.jpg
+
+- date: 2026-10-28
+  audience: India
+  category: Guides
+  title: "How to Check Your Phone's Battery Health (Android and iPhone)"
+  slug: how-to-check-phone-battery-health
+  image: how-to-check-phone-battery-health.jpg
+
+- date: 2026-10-29
+  audience: Global
+  category: Global
+  title: "How to Transfer Data from Android to iPhone"
+  slug: how-to-transfer-data-from-android-to-iphone
+  image: how-to-transfer-data-from-android-to-iphone.jpg
+
+- date: 2026-10-30
+  audience: India
+  category: Audio
+  title: "Best TWS Earbuds Under ₹3,000 in India"
+  slug: best-tws-earbuds-under-3000
+  image: best-tws-earbuds-under-3000.jpg
+
+- date: 2026-10-31
+  audience: Global
+  category: Global
+  title: "Best Portable Chargers for iPhone in 2026"
+  slug: best-portable-chargers-for-iphone
+  image: best-portable-chargers-for-iphone.jpg
