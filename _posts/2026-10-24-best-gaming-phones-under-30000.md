@@ -5,6 +5,9 @@ description: "Five gaming phones under ₹30,000 in India for October 2026, from
 date: 2026-10-24 08:49:00 +0530
 category: Gaming
 also_in: [Phones]
+image: /assets/images/best-gaming-phones-under-30000.jpg
+image_alt: "Three smartphones showing racing and battle royale games next to a gamepad, lit by green and orange neon"
+image_credit: "Illustration, not the actual product"
 tags: [gaming phones, buying guide, iqoo neo 10r, realme p4 pro, motorola edge 60 pro, realme narzo power, infinix gt 30 pro]
 affiliate: true
 ---
