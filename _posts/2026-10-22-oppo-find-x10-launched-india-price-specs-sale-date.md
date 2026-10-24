@@ -80,7 +80,7 @@ At these prices, the competition is tough:
 
 > **Tip:** Don't book on day one just because of the launch buzz. Wait for the October 29 sale to see the final bank and exchange offers, then compare the effective price with the Galaxy S26 Ultra's current street price. A ₹1.4 lakh or ₹2 lakh phone needs to win on your actual price, not the sticker price.
 
-**Related reading:** [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
+**Related reading:** [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [OPPO Pad Mini Launched in India: Price, Specs and Sale Date](/oppo-pad-mini-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 
