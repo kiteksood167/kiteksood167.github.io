@@ -13,7 +13,10 @@ layout: default
         {% if page.last_modified_at %} · Updated {{ page.last_modified_at | date: "%-d %b %Y" }}{% endif %}
         · {{ content | number_of_words | divided_by: 200 | plus: 1 }} min read
       </p>
-      {% include share.html compact=true %}
+      <div class="hero-tools">
+        {% include share.html compact=true %}
+        {% include translate.html %}
+      </div>
     </div>
   </header>
 

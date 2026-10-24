@@ -1,0 +1,17 @@
+{% comment %}
+  Lightweight "Translate" menu: each link opens this page in Google Translate.
+  No script is loaded on our site, so page speed is not affected.
+{% endcomment %}
+{% assign tr_u = page.url | absolute_url | url_encode %}
+<details class="translate">
+  <summary>
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>
+    <span>Translate</span>
+  </summary>
+  <div class="translate-menu" role="list">
+    {% assign langs = "hi|हिन्दी (Hindi),bn|বাংলা (Bengali),ta|தமிழ் (Tamil),te|తెలుగు (Telugu),mr|मराठी (Marathi),gu|ગુજરાતી (Gujarati),kn|ಕನ್ನಡ (Kannada),ml|മലയാളം (Malayalam),pa|ਪੰਜਾਬੀ (Punjabi),ur|اردو (Urdu),es|Español (Spanish),fr|Français (French),de|Deutsch (German),pt|Português (Portuguese),ar|العربية (Arabic),id|Bahasa Indonesia,ru|Русский (Russian),ja|日本語 (Japanese)" | split: "," %}
+    {% for l in langs %}{% assign lp = l | split: "|" %}
+    <a role="listitem" href="https://translate.google.com/translate?sl=en&amp;tl={{ lp[0] }}&amp;u={{ tr_u }}" rel="nofollow noopener" lang="{{ lp[0] }}">{{ lp[1] }}</a>
+    {% endfor %}
+  </div>
+</details>
