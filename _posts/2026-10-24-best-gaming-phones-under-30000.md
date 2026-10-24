@@ -51,6 +51,11 @@ Not everyone wants a phone that looks like a gaming phone. The Edge 60 Pro uses 
 
 Its biggest strengths are outside gaming: IP68 and IP69 water and dust resistance, MIL-STD-810H durability testing, a 6,000mAh battery, 90W wired charging and even 15W wireless charging, which is rare at this price. The screen tops out at 120Hz rather than 144Hz, but most games don't go beyond 120fps anyway. It's around ₹29,500 for 8GB+256GB.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-landscape-hands-battery.jpg" alt="Hands holding a smartphone sideways to play a shooter game with a full battery icon, in a dark room lit by green and orange neon" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 4. Realme Narzo Power 5G: two days of battery
 
 The Narzo Power 5G (essentially the Realme P4 Power under a different name) has a massive **10,001mAh battery** with 80W charging. For anyone who plays for hours away from a plug, nothing else here comes close.
@@ -58,6 +63,11 @@ The Narzo Power 5G (essentially the Realme P4 Power under a different name) has 
 The **Dimensity 7400 Ultra** chip is the least powerful on this list. It runs everyday games smoothly, but you'll need to lower graphics settings in demanding titles. The 6.8-inch 144Hz AMOLED screen is bright and sharp. Note that the phone weighs around 219g and comes with 8GB of RAM at most. It's around ₹29,999 for 8GB+256GB on Amazon and Realme's online store.
 
 {% include buy.html name="Realme Narzo Power 5G" query="realme narzo power 5G 10001mAh" note="10,001mAh battery, 144Hz AMOLED, 80W charging" %}
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-shoulder-triggers-cooler.jpg" alt="Gamer pressing shoulder triggers on the edge of a phone held sideways, with a clip-on cooling fan glowing green on the back" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 5. Infinix GT 30 Pro: real shoulder triggers
 
