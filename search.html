@@ -1,0 +1,78 @@
+---
+layout: page
+title: Search
+seo_title: Search GadgetGyaan
+permalink: /search/
+description: Search GadgetGyaan's buying guides, launch news and how-tos.
+noindex: true
+sitemap: false
+---
+<form class="search-form" action="{{ '/search/' | relative_url }}" method="get" role="search">
+  <label class="sr-only" for="search-input">Search the blog</label>
+  <input id="search-input" name="q" type="search" placeholder="Search phones, earbuds, laptops..." autocomplete="off">
+  <button type="submit">Search</button>
+</form>
+<p id="search-status" class="search-status" aria-live="polite"></p>
+<div id="search-results" class="search-results"></div>
+
+<script>
+(function () {
+  var input = document.getElementById('search-input');
+  var status = document.getElementById('search-status');
+  var box = document.getElementById('search-results');
+  var posts = null;
+
+  function norm(s) { return (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[₹,]/g, ' '); }
+
+  function render(q) {
+    box.textContent = '';
+    var terms = norm(q).split(/\s+/).filter(Boolean);
+    if (!terms.length) { status.textContent = 'Type a phone, brand or topic, for example "earbuds", "iQOO" or "power bank".'; return; }
+    var hits = [];
+    posts.forEach(function (p) {
+      var title = norm(p.title), rest = norm([p.description, p.tags, p.category].join(' '));
+      var score = 0;
+      for (var i = 0; i < terms.length; i++) {
+        var t = terms[i];
+        if (title.indexOf(t) > -1) score += 3;
+        else if (rest.indexOf(t) > -1) score += 1;
+        else return;
+      }
+      hits.push({ p: p, s: score });
+    });
+    hits.sort(function (a, b) { return b.s - a.s; });
+    status.textContent = hits.length ? hits.length + (hits.length === 1 ? ' result' : ' results') + ' for "' + q + '"' : 'No posts found for "' + q + '". Try a shorter word or a brand name.';
+    hits.forEach(function (h) {
+      var p = h.p;
+      var a = document.createElement('a'); a.className = 'search-hit'; a.href = p.url;
+      if (p.thumb) { var img = document.createElement('img'); img.src = p.thumb; img.alt = ''; img.width = 160; img.height = 90; img.loading = 'lazy'; a.appendChild(img); }
+      var body = document.createElement('div');
+      var meta = document.createElement('span'); meta.className = 'search-meta'; meta.textContent = p.category + ' · ' + p.date;
+      var h = document.createElement('h3'); h.textContent = p.title;
+      var d = document.createElement('p'); d.textContent = p.description;
+      body.appendChild(meta); body.appendChild(h); body.appendChild(d); a.appendChild(body);
+      box.appendChild(a);
+    });
+  }
+
+  var q = new URLSearchParams(location.search).get('q') || '';
+  input.value = q;
+  status.textContent = 'Loading…';
+  fetch('{{ "/search.json" | relative_url }}?v={{ site.time | date: "%s" }}')
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      posts = data; render(q);
+      var timer;
+      input.addEventListener('input', function () {
+        clearTimeout(timer);
+        timer = setTimeout(function () {
+          var v = input.value.trim();
+          history.replaceState(null, '', v ? '?q=' + encodeURIComponent(v) : location.pathname);
+          render(v);
+        }, 150);
+      });
+    })
+    .catch(function () { status.textContent = 'Search could not load. Please refresh the page.'; });
+  if (!q) input.focus();
+})();
+</script>
