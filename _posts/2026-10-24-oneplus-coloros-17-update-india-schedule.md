@@ -6,6 +6,9 @@ date: 2026-10-24 13:46:00 +0530
 category: Phones
 also_in: [Tablets]
 news: true
+image: /assets/images/oneplus-coloros-17-update-india-schedule.jpg
+image_alt: "A smartphone and a tablet both showing a software update progress ring at 60%, lit by green and orange neon"
+image_credit: "Illustration, not the actual product"
 tags: [oneplus, coloros 17, android 17, software update, oxygenos, news]
 ---
 
@@ -31,6 +34,11 @@ ColorOS 17 looks and feels different from the OxygenOS you are used to. The main
 
 A normal over-the-air update keeps your apps and data, but the look of menus and settings will change, so expect a short learning curve.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-new-ui-quick-settings-neon.jpg" alt="Hand holding a phone showing a redesigned quick settings panel with round translucent toggles and a media player" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Which OnePlus devices get it and when
 
 OnePlus India has shared this schedule. Dates after October are windows, not exact days, and a phased rollout means your phone may get it a little after the date listed.
@@ -48,6 +56,11 @@ If your model is not in this list, it is not confirmed for Android 17. OnePlus h
 ## Do you have to switch?
 
 OnePlus said in July that moving to ColorOS is optional for existing owners and that people who update will be able to roll back to OxygenOS, with the exact rollback versions to be shared later. OnePlus has not yet published those rollback details, so treat going back as possible but not yet proven. If you depend on your phone for work, there is no harm in waiting a week or two for early bugs to be fixed.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-software-update-charging-wifi.jpg" alt="Phone on a desk charging by USB-C while downloading a software update over Wi-Fi, with a router glowing behind" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## How to get the update
 
