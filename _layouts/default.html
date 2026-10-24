@@ -72,6 +72,8 @@
       <div>
         <a class="logo logo-sm" href="{{ '/' | relative_url }}"><img class="logo-mark" src="{{ '/assets/logo-mark.png' | relative_url }}" alt="GadgetGyaan logo" width="32" height="32"><span>Gadget<b>Gyaan</b></span></a>
         <p class="muted">{{ site.tagline }}.</p>
+        <p class="follow-label">Follow us</p>
+        {% include social-icons.html %}
       </div>
       <nav class="footer-links">
         <a href="{{ '/about/' | relative_url }}">About</a>
@@ -79,9 +81,6 @@
         <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
         <a href="{{ '/disclosure/' | relative_url }}">Affiliate Disclosure</a>
         <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
-        {% if site.facebook_url %}<a href="{{ site.facebook_url }}" target="_blank" rel="noopener me">Facebook</a>{% endif %}
-        {% if site.instagram_url %}<a href="{{ site.instagram_url }}" target="_blank" rel="noopener me">Instagram</a>{% endif %}
-        {% if site.pinterest_url %}<a href="{{ site.pinterest_url }}" target="_blank" rel="noopener me">Pinterest</a>{% endif %}
       </nav>
     </div>
     <p class="wrap copyright muted">© {{ site.time | date: '%Y' }} {{ site.title }}. Some links on this site are affiliate links — we may earn a small commission at no extra cost to you.</p>

@@ -349,3 +349,17 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .share-compact { margin: 14px 0 0; padding: 0; border: 0; }
 .share-compact .share-btn { padding: 7px; }
 .share-compact .share-btn span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Social follow buttons (footer + end of posts) */
+.follow-label { margin: 16px 0 8px; font-size: .78rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); }
+.social-icons { display: flex; flex-wrap: wrap; gap: 10px; }
+.social-btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-width: 40px; height: 40px; padding: 0 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--ink-2); text-decoration: none; font-weight: 600; font-size: .9rem; transition: color .2s, border-color .2s, background .2s; }
+.social-btn svg { width: 18px; height: 18px; fill: currentColor; flex: none; }
+.social-icons-labels .social-btn { padding: 0 16px; }
+.social-btn:hover, .social-btn:focus-visible { color: #fff; border-color: transparent; }
+.social-fb:hover, .social-fb:focus-visible { background: #1877f2; }
+.social-ig:hover, .social-ig:focus-visible { background: linear-gradient(45deg, #f09433, #dc2743 50%, #bc1888); }
+.social-pin:hover, .social-pin:focus-visible { background: #e60023; }
+.follow-box { margin: 28px 0; padding: 18px 20px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.follow-box p { margin: 0 0 12px; color: var(--ink-2); }
+.follow-box strong { color: var(--ink); }
