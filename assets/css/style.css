@@ -399,3 +399,15 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 
 /* Post view counter */
 .post-views svg { vertical-align: -2px; }
+
+/* Newsletter signup */
+.newsletter { margin: 28px 0; padding: 20px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--accent); }
+.newsletter .nl-title { font-family: var(--font-head); font-weight: 700; font-size: 1.15rem; margin: 0 0 6px; color: var(--ink); }
+.newsletter .nl-sub { margin: 0 0 14px; color: var(--ink-2); font-size: .95rem; }
+.nl-form { display: flex; gap: 8px; flex-wrap: wrap; }
+.nl-form input { flex: 1 1 220px; min-width: 0; padding: 11px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--ink); font: inherit; }
+.nl-form input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.nl-form button { padding: 11px 18px; border: 0; border-radius: 10px; background: var(--accent); color: var(--accent-ink); font: inherit; font-weight: 600; cursor: pointer; }
+.nl-form button:hover { filter: brightness(1.06); }
+.newsletter-compact { margin: 18px 0 0; padding: 0; background: none; border: 0; }
+.newsletter-compact .nl-form { max-width: 380px; }

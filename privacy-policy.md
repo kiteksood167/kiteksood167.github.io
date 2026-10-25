@@ -12,6 +12,8 @@ This Privacy Policy explains how {{ site.title }} ("we", "us") handles informati
 
 **Information you give us.** If you email us, we receive your email address and whatever you include in your message. We use it only to reply to you.
 
+**Newsletter.** If you subscribe to our email newsletter, your email address is stored by our email provider, Kit (kit.com), and used only to send you the newsletter. Every email has an unsubscribe link, and you can also email us to be removed.
+
 **Information collected automatically.** Like most websites, our hosting provider and analytics or advertising partners may collect standard technical information such as your IP address, browser type, device, pages visited and the time of your visit. This is used to keep the Site working, understand which content is useful and show relevant ads.
 
 ## Comments

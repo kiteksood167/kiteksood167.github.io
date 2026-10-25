@@ -1,0 +1,18 @@
+{% comment %}
+  Email newsletter signup (Kit form 10094091). Kit stores the list, sends the confirmation email and handles unsubscribes.
+  Usage: include newsletter.html            -> full box (posts)
+         include newsletter.html compact=true -> slim footer version
+{% endcomment %}
+<div class="newsletter{% if include.compact %} newsletter-compact{% endif %}">
+  {% unless include.compact %}
+  <p class="nl-title">Get the best tech deals and guides in your inbox</p>
+  <p class="nl-sub">One short email a week with our best buying guides, launch news and sale tips. No spam, unsubscribe anytime.</p>
+  {% else %}
+  <p class="follow-label">Weekly newsletter</p>
+  {% endunless %}
+  <form class="nl-form" action="https://app.kit.com/forms/10094091/subscriptions" method="post">
+    <label class="sr-only" for="nl-email{% if include.compact %}-f{% endif %}">Email address</label>
+    <input id="nl-email{% if include.compact %}-f{% endif %}" type="email" name="email_address" placeholder="Your email address" autocomplete="email" required>
+    <button type="submit">Subscribe</button>
+  </form>
+</div>
