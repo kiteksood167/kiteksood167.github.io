@@ -5,6 +5,9 @@ description: "Infinix GT 50 Pro launches on October 27 and Apple holds its event
 date: 2026-10-25 18:43:00 +0530
 category: Launches
 also_in: [Phones]
+image: /assets/images/upcoming-phone-launches-india-this-week-october-26.jpg
+image_alt: "Five smartphones standing in a row in front of a glowing calendar grid with one highlighted day, lit in green and orange"
+image_credit: "Illustration, not the actual products"
 tags: [upcoming phones, infinix, apple, iqoo, xiaomi, motorola, smartphones, launch]
 ---
 
@@ -26,6 +29,11 @@ Prices for all of these are still unannounced, so be careful with "India price" 
 
 Infinix has confirmed that the GT 50 Pro launches in India on Tuesday, October 27, and teasers show it will be sold on Flipkart. It's a gaming phone with a visible liquid cooling system on the back, RGB light strips and pressure-sensitive shoulder triggers. It comes in two colours, Black Abyss and Red Blaze.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gaming-phone-liquid-cooling-rgb-back.jpg" alt="Back of a gaming phone with a see-through liquid cooling panel and green and orange RGB light strips next to a game controller" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 | Spec | Infinix GT 50 Pro |
 |---|---|
 | Display | 6.78-inch 1.5K AMOLED, 144Hz |
@@ -46,6 +54,11 @@ Apple has confirmed an event called "Pro and Tell" on Wednesday, October 28, at 
 No new iPhones are expected. Reports point to redesigned MacBook Pro models with OLED touchscreens, an updated iMac and a new iPad mini, but Apple hasn't confirmed any products. India prices usually appear on Apple's India website soon after an announcement. Our [Apple event preview](/apple-pro-and-tell-event-october-28-what-to-expect/) has the details.
 
 ## Confirmed for India, date not announced
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/flagship-phones-camera-modules-closeup.jpg" alt="Close-up of the large rear camera modules of three flagship phones, one with a small rear display" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 These three flagships were confirmed for India at India Mobile Congress (IMC) 2026 in early October. None has a launch date or India price yet.
 
