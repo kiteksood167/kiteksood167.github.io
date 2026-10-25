@@ -1,0 +1,8 @@
+{%- comment -%}srcset for a post cover: 720w thumb and 1080w md copies when they exist, plus the full 1600w file.{%- endcomment -%}
+{%- assign t = include.src | replace: '/assets/images/', '/assets/images/thumbs/' -%}
+{%- assign m = include.src | replace: '/assets/images/', '/assets/images/md/' -%}
+{%- assign th = site.static_files | where: "path", t -%}
+{%- assign mh = site.static_files | where: "path", m -%}
+{%- if th.size > 0 %}{{ t | relative_url }} 720w, {% endif -%}
+{%- if mh.size > 0 %}{{ m | relative_url }} 1080w, {% endif -%}
+{{ include.src | relative_url }} 1600w

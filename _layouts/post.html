@@ -24,12 +24,12 @@ layout: default
   <div class="wrap narrow">
     {% if page.image %}
     <figure class="post-cover">
-      <img src="{{ page.image | relative_url }}" width="1600" height="900" fetchpriority="high" alt="{{ page.image_alt | default: page.title | escape }}">
+      <img src="{{ page.image | relative_url }}" srcset="{% include cover-srcset.html src=page.image %}" sizes="(max-width: 800px) 100vw, 760px" width="1600" height="900" fetchpriority="high" alt="{{ page.image_alt | default: page.title | escape }}">
       {% if page.image_credit %}<figcaption>{{ page.image_credit }}</figcaption>{% endif %}
     </figure>
     {% endif %}
     {% if page.affiliate %}
-    <p class="disclosure-note">This post may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="{{ '/disclosure/' | relative_url }}">Learn more</a>.</p>
+    <p class="disclosure-note">This post may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="{{ '/disclosure/' | relative_url }}">Read our affiliate disclosure</a>.</p>
     {% endif %}
 
     {% include ad.html slot="top" %}

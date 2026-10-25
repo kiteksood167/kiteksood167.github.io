@@ -66,6 +66,7 @@ The main daily task alternates India and Global days; the launch task posts sepa
   `**Related reading:** [Post title](/post-slug/) · [Post title](/post-slug/)`
   Use relative links (`/slug/`), never the full https://thegadgetgyaan.com address.
 - **Inline images:** include `width="1200" height="675"` (or the real size) and `loading="lazy"` on every `<img>`.
+- **Mobile cover copy:** also save a 1080px-wide copy (JPEG quality ~78) at `assets/images/md/<same-file-name>.jpg`; phones load it instead of the 1600px original.
 - **Card thumbnail:** after adding a cover image, also save a 720x405 copy (JPEG quality ~78) at `assets/images/thumbs/<same-file-name>.jpg`. The homepage uses it for speed. If it's missing, the full image is used, so nothing breaks.
 
 ## Extra categories (also_in)
