@@ -4,7 +4,7 @@ name: IndexNow ping
 on:
   push:
     branches: [main]
-    paths: ["_posts/**"]
+    paths: ["_posts/**", "phone-finder.html", "_data/phone_finder.yml"]
   workflow_dispatch: {}   # run by hand to send every post URL once
 
 jobs:
@@ -27,6 +27,9 @@ jobs:
           if git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then RANGE="$BEFORE..$AFTER"; else RANGE="$AFTER~1..$AFTER"; fi
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then FILES=$(ls _posts/*.md); else FILES=$(git diff --name-only --diff-filter=AM "$RANGE" -- _posts/ || true); fi
           URLS=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || git diff --name-only "$RANGE" -- phone-finder.html _data/phone_finder.yml | grep -q .; then
+            URLS="\"https://$HOST/phone-finder/\","
+          fi
           for f in $FILES; do
             slug=$(basename "$f" .md | sed -E 's/^[0-9]{4}-[0-9]{2}-[0-9]{2}-//')
             URLS="$URLS\"https://$HOST/$slug/\","

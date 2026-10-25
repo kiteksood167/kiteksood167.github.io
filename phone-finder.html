@@ -6,6 +6,7 @@ description: "Answer 4 quick questions about your budget and needs, and get the 
 permalink: /phone-finder/
 ---
 {% assign pf = site.data.phone_finder %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"GadgetGyaan Phone Finder","url":{{ page.url | absolute_url | jsonify }},"description":{{ page.description | jsonify }},"applicationCategory":"UtilitiesApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"INR"},"publisher":{"@type":"Organization","name":"GadgetGyaan","url":{{ '/' | absolute_url | jsonify }}}}</script>
 <style>
   .pf-hero { padding: 44px 0 8px; background: linear-gradient(180deg, color-mix(in srgb, var(--c-phones) 10%, transparent), transparent); }
   .pf-hero h1 { font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; margin: 10px 0 10px; }
