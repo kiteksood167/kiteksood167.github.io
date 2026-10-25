@@ -1,0 +1,716 @@
+# ------------------------------------------------------------
+#  Phone Finder data (used by /phone-finder/)
+#  Update "updated" and the prices once a month.
+#
+#  Scores are 1 (weak) to 5 (best in class), judged from specs:
+#    gaming  = chip power and cooling
+#    camera  = main sensor, OIS, extra lenses, brand processing
+#    display = panel type, resolution, refresh rate
+#    updates = how many years of Android/iOS updates the brand promises
+#  Battery and "compact" scores are worked out automatically from
+#  mAh and screen size. Use battery_score to override (e.g. iPhones).
+#  query = words used for the Amazon / Flipkart search link.
+#  post  = optional link to one of our own articles about the phone.
+# ------------------------------------------------------------
+
+updated: "October 2026"
+
+phones:
+  # ---------- Under ₹15,000 ----------
+  - name: Samsung Galaxy A07
+    brand: Samsung
+    os: android
+    price: 12889
+    chip: MediaTek Helio G99
+    screen: 6.74" LCD, 90Hz
+    size: 6.74
+    mah: 5000
+    charge: 25W
+    cam: 50MP main
+    gaming: 1
+    camera: 2
+    display: 1
+    updates: 4
+    fiveg: false
+    query: Samsung Galaxy A07
+  - name: Moto G06 Power
+    brand: Motorola
+    os: android
+    price: 12700
+    chip: MediaTek Helio G81 Extreme
+    screen: 6.88" LCD, 120Hz
+    size: 6.88
+    mah: 7000
+    charge: 18W
+    cam: 50MP main
+    gaming: 1
+    camera: 2
+    display: 2
+    updates: 1
+    fiveg: false
+    query: Moto G06 Power
+  - name: Poco C81
+    brand: Poco
+    os: android
+    price: 12999
+    chip: Unisoc T7250
+    screen: 6.9" LCD, 120Hz
+    size: 6.9
+    mah: 6300
+    charge: 15W
+    cam: 13MP main
+    gaming: 1
+    camera: 1
+    display: 2
+    updates: 1
+    fiveg: false
+    query: Poco C81
+  - name: Lava Virat V1 5G
+    brand: Lava
+    os: android
+    price: 11799
+    chip: Unisoc T8200
+    screen: 6.75" LCD, 120Hz
+    size: 6.75
+    mah: 6000
+    charge: 10W
+    cam: 13MP main
+    gaming: 1
+    camera: 1
+    display: 2
+    updates: 2
+    fiveg: true
+    query: Lava Virat V1 5G
+  - name: Realme P4s Lite
+    brand: Realme
+    os: android
+    price: 14999
+    chip: Unisoc T7250
+    screen: 6.75" LCD, 120Hz
+    size: 6.75
+    mah: 7000
+    charge: 15W
+    cam: 13MP main
+    gaming: 1
+    camera: 1
+    display: 2
+    updates: 1
+    fiveg: false
+    query: Realme P4s Lite
+
+  # ---------- ₹15,000 – ₹20,000 ----------
+  - name: Samsung Galaxy F70 5G
+    brand: Samsung
+    os: android
+    price: 19999
+    chip: Samsung Exynos 1330
+    screen: 6.7" Super AMOLED, 90Hz
+    size: 6.7
+    mah: 5000
+    charge: 25W
+    cam: 50MP main with OIS
+    gaming: 2
+    camera: 3
+    display: 3
+    updates: 4
+    fiveg: true
+    query: Samsung Galaxy F70 5G
+    post: /samsung-galaxy-f70-5g-launched-india/
+  - name: Lava Blaze Duo 3 5G
+    brand: Lava
+    os: android
+    price: 17999
+    chip: MediaTek Dimensity 7060
+    screen: 6.67" FHD+ AMOLED, 120Hz
+    size: 6.67
+    mah: 5000
+    charge: 33W
+    cam: 50MP main
+    gaming: 2
+    camera: 2
+    display: 3
+    updates: 2
+    fiveg: true
+    query: Lava Blaze Duo 3 5G
+  - name: Poco M8x 5G
+    brand: Poco
+    os: android
+    price: 17999
+    chip: Snapdragon 4 Gen 5
+    screen: 6.9" LCD, 120Hz
+    size: 6.9
+    mah: 7900
+    charge: 45W
+    cam: 50MP main
+    gaming: 2
+    camera: 2
+    display: 2
+    updates: 2
+    fiveg: true
+    query: Poco M8x 5G
+  - name: Vivo T5 Lite 5G
+    brand: Vivo
+    os: android
+    price: 17499
+    chip: MediaTek Dimensity 6300
+    screen: 6.74" LCD, 120Hz
+    size: 6.74
+    mah: 6500
+    charge: 44W
+    cam: 50MP main
+    gaming: 2
+    camera: 2
+    display: 2
+    updates: 2
+    fiveg: true
+    query: Vivo T5 Lite 5G
+  - name: Oppo K14x 5G
+    brand: Oppo
+    os: android
+    price: 17199
+    chip: MediaTek Dimensity 6300
+    screen: 6.75" LCD, 120Hz
+    size: 6.75
+    mah: 6500
+    charge: 45W
+    cam: 50MP main
+    gaming: 2
+    camera: 2
+    display: 2
+    updates: 2
+    fiveg: true
+    query: Oppo K14x 5G
+
+  # ---------- ₹20,000 – ₹30,000 ----------
+  - name: iQOO Neo 10R
+    brand: iQOO
+    os: android
+    price: 24000
+    chip: Snapdragon 8s Gen 3
+    screen: 6.78" 1.5K AMOLED, 144Hz
+    size: 6.78
+    mah: 6400
+    charge: 80W
+    cam: 50MP main with OIS
+    gaming: 5
+    camera: 3
+    display: 4
+    updates: 2
+    fiveg: true
+    query: iQOO Neo 10R 5G
+    post: /best-gaming-phones-under-30000/
+  - name: Infinix GT 30 Pro
+    brand: Infinix
+    os: android
+    price: 26000
+    chip: MediaTek Dimensity 8350 Ultimate
+    screen: 6.78" AMOLED, 144Hz
+    size: 6.78
+    mah: 5500
+    charge: 45W
+    cam: 108MP main
+    gaming: 4
+    camera: 2
+    display: 4
+    updates: 2
+    fiveg: true
+    note: Has real shoulder trigger buttons for games
+    query: Infinix GT 30 Pro
+    post: /best-gaming-phones-under-30000/
+  - name: Poco X8
+    brand: Poco
+    os: android
+    price: 26999
+    chip: Snapdragon 6s Gen 4
+    screen: 6.83" 1.5K AMOLED, 120Hz
+    size: 6.83
+    mah: 9000
+    charge: 67W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 4
+    updates: 3
+    fiveg: true
+    query: Poco X8 5G
+  - name: Samsung Galaxy M47
+    brand: Samsung
+    os: android
+    price: 26999
+    chip: Snapdragon 6 Gen 3
+    screen: 6.65" FHD+ AMOLED, 120Hz
+    size: 6.65
+    mah: 6000
+    charge: 45W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 3
+    updates: 5
+    fiveg: true
+    query: Samsung Galaxy M47
+  - name: Motorola Edge 60 Pro
+    brand: Motorola
+    os: android
+    price: 29500
+    chip: MediaTek Dimensity 8350 Extreme
+    screen: 6.7" 1.5K pOLED, 120Hz
+    size: 6.7
+    mah: 6000
+    charge: 90W
+    cam: 50MP main with OIS
+    gaming: 4
+    camera: 3
+    display: 4
+    updates: 3
+    fiveg: true
+    note: Clean, near-stock Android
+    query: Motorola Edge 60 Pro
+    post: /best-gaming-phones-under-30000/
+  - name: Realme Narzo Power 5G
+    brand: Realme
+    os: android
+    price: 29999
+    chip: MediaTek Dimensity 7400 Ultra
+    screen: 6.8" 1.5K AMOLED, 144Hz
+    size: 6.8
+    mah: 10001
+    charge: 80W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 4
+    updates: 2
+    fiveg: true
+    note: 10,001mAh battery, easily two days of use
+    query: realme narzo power 5G 10001mAh
+    post: /best-gaming-phones-under-30000/
+
+  # ---------- ₹30,000 – ₹45,000 ----------
+  - name: Motorola Edge 70 Fusion
+    brand: Motorola
+    os: android
+    price: 30999
+    chip: Snapdragon 7s Gen 4
+    screen: 6.8" AMOLED, 144Hz
+    size: 6.8
+    mah: 7000
+    charge: 68W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 4
+    updates: 3
+    fiveg: true
+    note: Water resistant and clean Android
+    query: Motorola Edge 70 Fusion
+  - name: Realme P4s 5G
+    brand: Realme
+    os: android
+    price: 32499
+    chip: MediaTek Dimensity 7400 Ultra
+    screen: 6.78" 1.5K AMOLED, 144Hz
+    size: 6.78
+    mah: 8000
+    charge: 80W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 4
+    updates: 2
+    fiveg: true
+    query: Realme P4s 5G
+  - name: OnePlus Nord CE6
+    brand: OnePlus
+    os: android
+    price: 35999
+    chip: Snapdragon 7s Gen 4
+    screen: 6.78" 1.5K AMOLED, 144Hz
+    size: 6.78
+    mah: 8000
+    charge: 80W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 4
+    updates: 4
+    fiveg: true
+    query: OnePlus Nord CE6
+  - name: Vivo T5 Pro
+    brand: Vivo
+    os: android
+    price: 36999
+    chip: Snapdragon 7s Gen 4
+    screen: 6.83" 1.5K AMOLED, 144Hz
+    size: 6.83
+    mah: 9020
+    charge: 90W
+    cam: 50MP main
+    gaming: 3
+    camera: 3
+    display: 4
+    updates: 3
+    fiveg: true
+    query: Vivo T5 Pro
+  - name: Motorola Edge 70 Pro
+    brand: Motorola
+    os: android
+    price: 37990
+    chip: MediaTek Dimensity 8500 Extreme
+    screen: 6.8" 1.5K AMOLED, 144Hz
+    size: 6.8
+    mah: 6500
+    charge: 90W
+    cam: 50MP main
+    gaming: 4
+    camera: 3
+    display: 5
+    updates: 3
+    fiveg: true
+    note: Bright, colourful screen and near-stock Android
+    query: Motorola Edge 70 Pro
+  - name: Redmi Note 15 Pro+
+    brand: Redmi
+    os: android
+    price: 39999
+    chip: Snapdragon 7s Gen 4
+    screen: 6.83" 1.5K AMOLED, 120Hz
+    size: 6.83
+    mah: 6500
+    charge: 100W
+    cam: 200MP main
+    gaming: 3
+    camera: 4
+    display: 4
+    updates: 4
+    fiveg: true
+    query: Redmi Note 15 Pro Plus
+
+  # ---------- ₹45,000 – ₹65,000 ----------
+  - name: OnePlus Nord 6
+    brand: OnePlus
+    os: android
+    price: 46999
+    chip: Snapdragon 8s Gen 3
+    screen: 6.78" AMOLED, 165Hz
+    size: 6.78
+    mah: 9000
+    charge: 80W
+    cam: 50MP main
+    gaming: 4
+    camera: 3
+    display: 4
+    updates: 4
+    fiveg: true
+    query: OnePlus Nord 6
+  - name: Poco X8 Pro Max
+    brand: Poco
+    os: android
+    price: 48999
+    chip: MediaTek Dimensity 9500s
+    screen: 6.83" AMOLED, 120Hz
+    size: 6.83
+    mah: 9000
+    charge: 100W
+    cam: 50MP main
+    gaming: 5
+    camera: 3
+    display: 4
+    updates: 3
+    fiveg: true
+    note: Flagship-level gaming power for the price
+    query: Poco X8 Pro Max
+  - name: Google Pixel 10a
+    brand: Google
+    os: android
+    price: 50400
+    chip: Google Tensor G4
+    screen: 6.3" pOLED, 120Hz
+    size: 6.3
+    mah: 5100
+    charge: 30W
+    cam: 48MP main with OIS
+    gaming: 2
+    camera: 4
+    display: 3
+    updates: 5
+    fiveg: true
+    note: Seven years of updates and Google's photo processing
+    query: Google Pixel 10a
+  - name: Realme 16 Pro+
+    brand: Realme
+    os: android
+    price: 51299
+    chip: Snapdragon 7 Gen 4
+    screen: 6.79" 1.5K AMOLED, 144Hz
+    size: 6.79
+    mah: 7000
+    charge: 80W
+    cam: 200MP main
+    gaming: 3
+    camera: 4
+    display: 4
+    updates: 3
+    fiveg: true
+    query: Realme 16 Pro Plus
+  - name: Motorola Edge 70 Max
+    brand: Motorola
+    os: android
+    price: 52649
+    chip: Snapdragon 8 Gen 5
+    screen: 6.8" QHD+ AMOLED, 144Hz
+    size: 6.8
+    mah: 7100
+    charge: 90W
+    cam: 50MP main
+    gaming: 5
+    camera: 3
+    display: 5
+    updates: 3
+    fiveg: true
+    query: Motorola Edge 70 Max
+  - name: iQOO 15R
+    brand: iQOO
+    os: android
+    price: 53999
+    chip: Snapdragon 8 Gen 5
+    screen: 6.59" 1.5K AMOLED, 144Hz
+    size: 6.59
+    mah: 7600
+    charge: 100W
+    cam: 50MP main
+    gaming: 5
+    camera: 3
+    display: 4
+    updates: 3
+    fiveg: true
+    query: iQOO 15R
+  - name: Oppo Reno15 Pro Mini
+    brand: Oppo
+    os: android
+    price: 57999
+    chip: MediaTek Dimensity 8450
+    screen: 6.32" 1.5K AMOLED, 120Hz
+    size: 6.32
+    mah: 6200
+    charge: 80W
+    cam: 200MP main
+    gaming: 3
+    camera: 4
+    display: 4
+    updates: 3
+    fiveg: true
+    query: Oppo Reno15 Pro Mini 5G
+  - name: OnePlus 15R
+    brand: OnePlus
+    os: android
+    price: 59999
+    chip: Snapdragon 8 Gen 5
+    screen: 6.83" 1.5K AMOLED, 165Hz
+    size: 6.83
+    mah: 7400
+    charge: 80W
+    cam: 50MP main
+    gaming: 5
+    camera: 3
+    display: 5
+    updates: 4
+    fiveg: true
+    query: OnePlus 15R
+
+  # ---------- ₹65,000 – ₹1,20,000 ----------
+  - name: Samsung Galaxy S26 FE
+    brand: Samsung
+    os: android
+    price: 67889
+    chip: Samsung Exynos 2500
+    screen: 6.7" AMOLED, 120Hz
+    size: 6.7
+    mah: 4900
+    battery_score: 3
+    charge: 45W
+    cam: 50MP main with OIS
+    gaming: 4
+    camera: 4
+    display: 4
+    updates: 5
+    fiveg: true
+    query: Samsung Galaxy S26 FE
+  - name: Google Pixel 11
+    brand: Google
+    os: android
+    price: 77878
+    chip: Google Tensor G6
+    screen: 6.3" OLED, 120Hz
+    size: 6.3
+    mah: 4985
+    battery_score: 3
+    charge: 30W
+    cam: 48MP main with OIS
+    gaming: 3
+    camera: 5
+    display: 4
+    updates: 5
+    fiveg: true
+    query: Google Pixel 11
+  - name: Samsung Galaxy S26
+    brand: Samsung
+    os: android
+    price: 87999
+    chip: Samsung Exynos 2600
+    screen: 6.3" Dynamic AMOLED 2X, 120Hz
+    size: 6.3
+    mah: 4300
+    battery_score: 2
+    charge: 25W
+    cam: 50MP main with OIS
+    gaming: 5
+    camera: 4
+    display: 5
+    updates: 5
+    fiveg: true
+    note: Seven years of updates in a compact body
+    query: Samsung Galaxy S26
+  - name: Apple iPhone 17
+    brand: Apple
+    os: ios
+    price: 99900
+    chip: Apple A19
+    screen: 6.3" OLED, 120Hz ProMotion
+    size: 6.3
+    mah: 3692
+    battery_score: 3
+    charge: Fast charging (50% in ~20 min)
+    cam: 48MP Fusion main
+    gaming: 5
+    camera: 4
+    display: 5
+    updates: 5
+    fiveg: true
+    note: Best-value iPhone right now
+    query: Apple iPhone 17
+  - name: Google Pixel 11 Pro
+    brand: Google
+    os: android
+    price: 119999
+    chip: Google Tensor G6
+    screen: 6.3" 2K OLED, 120Hz
+    size: 6.3
+    mah: 4850
+    battery_score: 3
+    charge: 30W
+    cam: 50MP main + telephoto
+    gaming: 3
+    camera: 5
+    display: 5
+    updates: 5
+    fiveg: true
+    query: Google Pixel 11 Pro
+
+  # ---------- Above ₹1,20,000 ----------
+  - name: OPPO Find X10
+    brand: Oppo
+    os: android
+    price: 139999
+    chip: MediaTek Dimensity 9600M
+    screen: 6.59" LTPO OLED, 144Hz
+    size: 6.59
+    mah: 8000
+    battery_score: 5
+    charge: Fast wired + wireless
+    cam: 200MP main + 200MP telephoto
+    gaming: 5
+    camera: 5
+    display: 5
+    updates: 4
+    fiveg: true
+    query: OPPO Find X10
+    post: /oppo-find-x10-launched-india-price-specs-sale-date/
+  - name: Samsung Galaxy S26 Ultra
+    brand: Samsung
+    os: android
+    price: 154999
+    chip: Snapdragon 8 Elite Gen 5
+    screen: 6.9" Dynamic AMOLED 2X, 120Hz
+    size: 6.9
+    mah: 5000
+    battery_score: 3
+    charge: 60W
+    cam: 200MP main + periscope zoom
+    gaming: 5
+    camera: 5
+    display: 5
+    updates: 5
+    fiveg: true
+    note: The most complete Android phone, with S Pen
+    query: Samsung Galaxy S26 Ultra
+  - name: Vivo X300 Ultra
+    brand: Vivo
+    os: android
+    price: 159999
+    chip: Snapdragon 8 Elite Gen 5
+    screen: 6.82" LTPO AMOLED, 120Hz
+    size: 6.82
+    mah: 6000
+    battery_score: 4
+    charge: 90W
+    cam: 50MP main + 200MP periscope
+    gaming: 5
+    camera: 5
+    display: 5
+    updates: 4
+    fiveg: true
+    note: Camera-first flagship with natural colours
+    query: Vivo X300 Ultra
+  - name: Apple iPhone 18 Pro
+    brand: Apple
+    os: ios
+    price: 164900
+    chip: Apple A20 Pro
+    screen: 6.3" OLED, 120Hz ProMotion
+    size: 6.3
+    mah: 4056
+    battery_score: 3
+    charge: Fast charging
+    cam: 48MP main + telephoto
+    gaming: 5
+    camera: 5
+    display: 5
+    updates: 5
+    fiveg: true
+    query: Apple iPhone 18 Pro
+  - name: OPPO Find X9 Ultra
+    brand: Oppo
+    os: android
+    price: 169999
+    chip: Snapdragon 8 Elite Gen 5
+    screen: 6.82" LTPO AMOLED, 144Hz
+    size: 6.82
+    mah: 7005
+    battery_score: 5
+    charge: 100W
+    cam: 200MP main + 10x telephoto
+    gaming: 5
+    camera: 5
+    display: 5
+    updates: 4
+    fiveg: true
+    note: Strong zoom without extra add-ons
+    query: OPPO Find X9 Ultra
+  - name: Apple iPhone 18 Pro Max
+    brand: Apple
+    os: ios
+    price: 179900
+    chip: Apple A20 Pro
+    screen: 6.9" OLED, 120Hz ProMotion
+    size: 6.9
+    mah: 5391
+    battery_score: 4
+    charge: Fast charging
+    cam: 48MP main + telephoto
+    gaming: 5
+    camera: 5
+    display: 5
+    updates: 5
+    fiveg: true
+    query: Apple iPhone 18 Pro Max

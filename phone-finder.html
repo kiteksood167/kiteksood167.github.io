@@ -1,0 +1,395 @@
+---
+layout: default
+title: "Phone Finder: Which Phone Should I Buy?"
+seo_title: "Which Phone Should I Buy? Free Phone Finder Quiz (India)"
+description: "Answer 4 quick questions about your budget and needs, and get the 3 best phones for you in India, with current prices. Free, no sign-up."
+permalink: /phone-finder/
+---
+{% assign pf = site.data.phone_finder %}
+<style>
+  .pf-hero { padding: 44px 0 8px; background: linear-gradient(180deg, color-mix(in srgb, var(--c-phones) 10%, transparent), transparent); }
+  .pf-hero h1 { font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; margin: 10px 0 10px; }
+  .pf-hero .lede { color: var(--ink-2); font-size: 1.1rem; margin: 0; max-width: 620px; }
+  .pf-eyebrow { color: var(--c-phones); font-weight: 600; font-size: .85rem; letter-spacing: .02em; text-transform: uppercase; margin: 0; }
+
+  .pf-card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); padding: 26px; margin: 24px 0 8px; }
+  .pf-progress { display: flex; gap: 6px; margin-bottom: 20px; }
+  .pf-progress span { flex: 1; height: 5px; border-radius: 99px; background: var(--line); transition: background .25s; }
+  .pf-progress span.on { background: var(--accent); }
+  .pf-step-label { color: var(--muted); font-size: .85rem; margin: 0 0 4px; }
+  .pf-q { font-family: var(--font-head); font-size: clamp(1.35rem, 3.4vw, 1.75rem); line-height: 1.2; margin: 0 0 6px; letter-spacing: -.02em; }
+  .pf-hint { color: var(--ink-2); margin: 0 0 18px; font-size: .95rem; }
+
+  .pf-opts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; }
+  .pf-opt { font: inherit; text-align: left; cursor: pointer; background: var(--bg); color: var(--ink); border: 1.5px solid var(--line); border-radius: 12px; padding: 14px 16px; display: flex; gap: 12px; align-items: center; transition: border-color .15s, background .15s, transform .1s; min-height: 56px; }
+  .pf-opt:hover { border-color: var(--ink-2); }
+  .pf-opt:active { transform: scale(.98); }
+  .pf-opt:focus-visible { outline: 3px solid color-mix(in srgb, var(--accent) 45%, transparent); outline-offset: 2px; }
+  .pf-opt[aria-pressed="true"] { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 9%, var(--surface)); }
+  .pf-opt .pf-ico { font-size: 1.4rem; line-height: 1; flex: none; }
+  .pf-opt b { display: block; font-weight: 600; }
+  .pf-opt small { display: block; color: var(--muted); font-size: .82rem; margin-top: 2px; }
+
+  .pf-nav { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 22px; }
+  .pf-btn { font: inherit; font-weight: 600; cursor: pointer; border: 0; border-radius: 10px; padding: 11px 20px; background: var(--accent); color: var(--accent-ink); }
+  .pf-btn[disabled] { opacity: .4; cursor: not-allowed; }
+  .pf-ghost { font: inherit; cursor: pointer; background: none; border: 0; color: var(--ink-2); padding: 11px 4px; text-decoration: underline; text-underline-offset: 3px; }
+  .pf-ghost[hidden] { display: none; }
+
+  .pf-results-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px; flex-wrap: wrap; margin-bottom: 6px; }
+  .pf-results-head h2 { font-size: clamp(1.4rem, 3.5vw, 1.9rem); margin: 0; }
+  .pf-summary { color: var(--ink-2); margin: 4px 0 18px; font-size: .95rem; }
+  .pf-alert { background: color-mix(in srgb, var(--lime) 22%, var(--surface)); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; margin: 0 0 16px; font-size: .95rem; }
+
+  .pf-phone { border: 1.5px solid var(--line); border-radius: 16px; padding: 20px; margin-top: 14px; background: var(--bg); }
+  .pf-phone.top { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 5%, var(--surface)); }
+  .pf-phone-head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
+  .pf-badge { display: inline-block; font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; padding: 3px 10px; border-radius: 99px; background: var(--ink); color: var(--bg); margin-bottom: 6px; }
+  .pf-phone.top .pf-badge { background: var(--accent); color: var(--accent-ink); }
+  .pf-phone h3 { margin: 0; font-size: 1.35rem; }
+  .pf-price { font-family: var(--font-head); font-weight: 800; font-size: 1.3rem; white-space: nowrap; }
+  .pf-price small { display: block; font-family: var(--font-body); font-weight: 400; font-size: .75rem; color: var(--muted); text-align: right; }
+  .pf-match { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 12px 0 14px; font-size: .85rem; color: var(--ink-2); }
+  .pf-rate { display: inline-flex; align-items: center; gap: 8px; }
+  .pf-dots { display: inline-flex; gap: 3px; }
+  .pf-dots i { width: 9px; height: 9px; border-radius: 50%; background: var(--line); }
+  .pf-dots i.on { background: var(--c-laptops); }
+  .pf-why { margin: 0 0 14px; padding-left: 20px; color: var(--ink-2); font-size: .95rem; }
+  .pf-why li { margin-bottom: 4px; }
+  .pf-specs { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px 16px; margin: 0 0 16px; font-size: .88rem; }
+  .pf-specs div { border-top: 1px solid var(--line); padding-top: 6px; }
+  .pf-specs dt { color: var(--muted); font-size: .76rem; }
+  .pf-specs dd { margin: 0; font-weight: 500; }
+  .pf-tag { display: inline-block; font-size: .72rem; font-weight: 600; padding: 2px 8px; border-radius: 6px; background: var(--line); color: var(--ink-2); margin-left: 6px; vertical-align: middle; }
+  .pf-buy { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .pf-buy a { text-decoration: none; }
+  .pf-alt { display: inline-block; font-weight: 600; font-size: .95rem; padding: 10px 18px; border-radius: 10px; border: 1.5px solid var(--line); color: var(--ink); background: var(--surface); text-decoration: none; }
+  .pf-alt:hover { border-color: var(--ink-2); }
+  .pf-read { font-size: .9rem; color: var(--accent); margin-left: 4px; text-underline-offset: 3px; }
+  .pf-actions { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; margin-top: 20px; }
+  .pf-fine { font-size: .82rem; color: var(--muted); margin: 16px 0 0; }
+
+  .pf-about { padding: 28px 0 0; }
+  @media (max-width: 560px) {
+    .pf-card { padding: 18px; border-radius: 14px; }
+    .pf-opts { grid-template-columns: 1fr; }
+    .pf-phone { padding: 16px; }
+    .pf-specs { grid-template-columns: 1fr 1fr; }
+    .pf-price small { text-align: left; }
+  }
+</style>
+
+<section class="pf-hero">
+  <div class="wrap narrow">
+    <p class="pf-eyebrow">Free tool · {{ pf.updated }} prices</p>
+    <h1>Which phone should I buy?</h1>
+    <p class="lede">Answer 4 quick questions. We'll match you with the 3 best phones in India for your budget and the things you care about.</p>
+  </div>
+</section>
+
+<div class="wrap narrow">
+  <div class="pf-card" id="pf-app" aria-live="polite">
+    <noscript><p>This tool needs JavaScript. You can still read our <a href="{{ '/category/phones/' | relative_url }}">phone buying guides</a>.</p></noscript>
+  </div>
+
+  <article class="prose pf-about">
+    <h2>How the Phone Finder picks phones</h2>
+    <p>We keep a shortlist of phones currently on sale in India, from basic phones under ₹15,000 to flagships. Each phone is rated from 1 to 5 on gaming power, camera, battery, screen, software updates and size, based on its specs and what the brand promises. Your answers decide how much each of those counts, and the tool shows the three phones that fit you best within your budget.</p>
+    <p>Prices are what the phones were selling for in {{ pf.updated }}. They change often during sales, so tap the Amazon or Flipkart button to see today's price. We have not personally tested every phone on the list; the ratings come from specifications and reliable reviews.</p>
+    <h2>Quick tips before you buy</h2>
+    <ul>
+      <li><strong>Don't chase megapixels.</strong> A 50MP camera with OIS (stabilisation) usually beats a 108MP camera without it.</li>
+      <li><strong>Check update years.</strong> If you keep phones for 4–5 years, Samsung, Google and Apple promise the longest support.</li>
+      <li><strong>AMOLED is worth it.</strong> If you watch a lot of videos, an AMOLED screen looks much better than LCD.</li>
+      <li><strong>Wait for sale offers.</strong> Bank discounts often cut ₹2,000–₹5,000 off mid-range phones.</li>
+    </ul>
+    <p>Want more detail? Read our guide on <a href="{{ '/how-to-choose-a-smartphone-under-20000/' | relative_url }}">how to choose a smartphone under ₹20,000</a> or the <a href="{{ '/best-gaming-phones-under-30000/' | relative_url }}">best gaming phones under ₹30,000</a>.</p>
+  </article>
+</div>
+
+<script>
+(function () {
+  var PHONES = {{ pf.phones | jsonify }};
+  var UPDATED = {{ pf.updated | jsonify }};
+  var AMZ_TAG = {{ site.amazon_tag | jsonify }};
+  var FK_ID = {{ site.flipkart_affid | jsonify }};
+
+  var BUDGETS = [
+    { id: 'b1', label: 'Under ₹15,000', min: 0, max: 15000, ico: '🪙' },
+    { id: 'b2', label: '₹15,000 – ₹20,000', min: 15000, max: 20000, ico: '💵' },
+    { id: 'b3', label: '₹20,000 – ₹30,000', min: 20000, max: 30000, ico: '💳' },
+    { id: 'b4', label: '₹30,000 – ₹45,000', min: 30000, max: 45000, ico: '💰' },
+    { id: 'b5', label: '₹45,000 – ₹65,000', min: 45000, max: 65000, ico: '💎' },
+    { id: 'b6', label: '₹65,000 – ₹1,20,000', min: 65000, max: 120000, ico: '⭐' },
+    { id: 'b7', label: 'Above ₹1,20,000', min: 120000, max: 1e9, ico: '👑' }
+  ];
+  var PRIORITIES = [
+    { id: 'gaming', label: 'Gaming', sub: 'BGMI, Free Fire, COD smoothly', ico: '🎮' },
+    { id: 'camera', label: 'Camera', sub: 'Great photos and videos', ico: '📸' },
+    { id: 'battery', label: 'Battery life', sub: 'Lasts all day and more', ico: '🔋' },
+    { id: 'display', label: 'Videos & screen', sub: 'YouTube, Netflix, reels', ico: '🎬' },
+    { id: 'updates', label: 'Long life', sub: 'Updates for many years', ico: '🛡️' },
+    { id: 'compact', label: 'Small & light', sub: 'Easy one-hand use', ico: '🤏' }
+  ];
+
+  var STEPS = [
+    { key: 'budget', q: "What's your budget?", hint: 'Pick the most you are happy to spend.', type: 'one',
+      opts: BUDGETS.map(function (b) { return { id: b.id, label: b.label, ico: b.ico }; }) },
+    { key: 'os', q: 'Android or iPhone?', hint: "If you're not sure, choose either.", type: 'one',
+      opts: [
+        { id: 'android', label: 'Android', sub: 'Samsung, OnePlus, Pixel and more', ico: '🤖' },
+        { id: 'ios', label: 'iPhone', sub: 'Apple iOS', ico: '🍎' },
+        { id: 'any', label: 'Either is fine', sub: 'Show me the best phone', ico: '🤷' }
+      ] },
+    { key: 'pri', q: 'What matters most to you?', hint: 'Choose up to 2.', type: 'many', max: 2, opts: PRIORITIES },
+    { key: 'keep', q: 'How long will you keep this phone?', hint: 'This changes how much software updates matter.', type: 'one',
+      opts: [
+        { id: 'short', label: '1–2 years', sub: 'I upgrade often', ico: '🔁' },
+        { id: 'mid', label: '3–4 years', sub: 'Most people', ico: '📅' },
+        { id: 'long', label: '5 years or more', sub: 'Use it till it dies', ico: '🏁' }
+      ] }
+  ];
+
+  var app = document.getElementById('pf-app');
+  var state = { step: 0, budget: null, os: null, pri: [], keep: null };
+
+  function el(tag, attrs, html) {
+    var e = document.createElement(tag);
+    if (attrs) for (var k in attrs) { if (attrs[k] !== null && attrs[k] !== undefined) e.setAttribute(k, attrs[k]); }
+    if (html !== undefined) e.innerHTML = html;
+    return e;
+  }
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function rupees(n) { return '₹' + Number(n).toLocaleString('en-IN'); }
+  function track(name, params) { try { if (window.gtag) gtag('event', name, params || {}); } catch (e) {} }
+
+  function batteryScore(p) {
+    if (p.battery_score) return p.battery_score;
+    var m = p.mah || 0;
+    return m >= 9000 ? 5 : m >= 7000 ? 4 : m >= 6000 ? 3 : m >= 5000 ? 2 : 1;
+  }
+  function compactScore(p) {
+    var s = p.size || 6.8;
+    return s <= 6.35 ? 5 : s <= 6.6 ? 4 : s <= 6.7 ? 3 : s <= 6.8 ? 2 : 1;
+  }
+  function scores(p) {
+    return { gaming: p.gaming, camera: p.camera, battery: batteryScore(p), display: p.display, updates: p.updates, compact: compactScore(p) };
+  }
+
+  function weights() {
+    var w = { gaming: 1, camera: 1, battery: 1, display: 1, updates: 0.6, compact: 0.4 };
+    var boost = state.pri.length === 1 ? 6 : 4;
+    state.pri.forEach(function (k) { w[k] += boost; });
+    if (state.keep === 'mid') w.updates += 1.5;
+    if (state.keep === 'long') w.updates += 3.5;
+    if (state.keep === 'short') w.updates = Math.max(0.2, w.updates - 0.4);
+    return w;
+  }
+
+  function rank(list) {
+    var w = weights(), total = 0;
+    for (var k in w) total += w[k] * 5;
+    return list.map(function (p) {
+      var s = scores(p), sum = 0;
+      for (var k in w) sum += w[k] * s[k];
+      return { p: p, s: s, score: sum / total };
+    }).sort(function (a, b) { return b.score - a.score || a.p.price - b.p.price; });
+  }
+
+  function pickResults() {
+    var b = BUDGETS.filter(function (x) { return x.id === state.budget; })[0];
+    var inBudget = function (p) { return p.price >= b.min && p.price <= b.max * 1.03; };
+    var osOk = function (p) { return state.os === 'any' || !state.os || p.os === state.os; };
+    var list = PHONES.filter(function (p) { return inBudget(p) && osOk(p); });
+    var note = '';
+    if (state.os === 'ios' && list.length === 0) {
+      var cheapest = PHONES.filter(function (p) { return p.os === 'ios'; }).sort(function (a, c) { return a.price - c.price; })[0];
+      note = 'There is no current iPhone in this budget. The cheapest iPhone on our list is the ' + esc(cheapest.name) + ' at around ' + rupees(cheapest.price) + '. Here are the best Android phones for your budget instead.';
+      list = PHONES.filter(inBudget);
+    }
+    return { ranked: rank(list).slice(0, 3), note: note, budget: b };
+  }
+
+  var LEVEL = ['basic', 'entry-level', 'good', 'fast', 'top-tier'];
+  function whyLines(r) {
+    var p = r.p, s = r.s, out = [];
+    var order = state.pri.length ? state.pri.slice() : ['display', 'battery', 'camera'];
+    if (state.keep === 'long' && order.indexOf('updates') < 0) order.push('updates');
+    order.forEach(function (k) {
+      if (k === 'gaming') out.push(esc(p.chip) + ' chip is ' + LEVEL[s.gaming - 1] + ' for gaming');
+      if (k === 'camera') out.push(esc(p.cam) + (s.camera >= 4 ? ', one of the better cameras at this price' : ''));
+      if (k === 'battery') out.push((p.mah ? Number(p.mah).toLocaleString('en-IN') + 'mAh battery' : 'Strong battery life') + (p.charge ? ', ' + esc(p.charge) + ' charging' : ''));
+      if (k === 'display') out.push(esc(p.screen) + ' screen');
+      if (k === 'updates') out.push(s.updates >= 4 ? esc(p.brand) + ' promises long software support' : 'Shorter update support than Samsung, Google or Apple');
+      if (k === 'compact') out.push(p.size <= 6.4 ? p.size + '" screen, easy to use with one hand' : 'Bigger ' + p.size + '" screen, not the smallest option');
+    });
+    if (p.note) {
+      var num = (p.note.match(/\d[\d,]*/) || [''])[0];
+      if (!num || out.join(' ').indexOf(num) < 0) out.push(esc(p.note));
+    }
+    return out.slice(0, 4);
+  }
+
+  function ratingRow(r) {
+    var keys = state.pri.length ? state.pri.slice() : ['display', 'battery', 'camera'];
+    if (state.keep === 'long' && keys.indexOf('updates') < 0) keys.push('updates');
+    return '<div class="pf-match">' + keys.map(function (k) {
+      var lbl = PRIORITIES.filter(function (x) { return x.id === k; })[0].label, v = r.s[k], dots = '';
+      for (var i = 1; i <= 5; i++) dots += '<i class="' + (i <= v ? 'on' : '') + '"></i>';
+      return '<span class="pf-rate" title="' + v + ' out of 5"><span>' + esc(lbl) + '</span><span class="pf-dots" aria-label="' + v + ' out of 5">' + dots + '</span></span>';
+    }).join('') + '</div>';
+  }
+
+  function links(p) {
+    var q = encodeURIComponent(p.query || p.name);
+    var amz = 'https://www.amazon.in/s?k=' + q + (AMZ_TAG ? '&tag=' + encodeURIComponent(AMZ_TAG) : '');
+    var fk = FK_ID ? 'https://www.flipkart.com/search?q=' + q + '&affid=' + encodeURIComponent(FK_ID) : '';
+    return { amz: amz, fk: fk };
+  }
+
+  /* ---------- rendering ---------- */
+  function renderStep() {
+    var st = STEPS[state.step];
+    app.innerHTML = '';
+    var prog = el('div', { 'class': 'pf-progress', 'aria-hidden': 'true' });
+    STEPS.forEach(function (_, i) { prog.appendChild(el('span', { 'class': i <= state.step ? 'on' : '' })); });
+    app.appendChild(prog);
+    app.appendChild(el('p', { 'class': 'pf-step-label' }, 'Question ' + (state.step + 1) + ' of ' + STEPS.length));
+    app.appendChild(el('h2', { 'class': 'pf-q', id: 'pf-q' }, st.q));
+    app.appendChild(el('p', { 'class': 'pf-hint' }, st.hint));
+
+    var grid = el('div', { 'class': 'pf-opts', role: 'group', 'aria-labelledby': 'pf-q' });
+    st.opts.forEach(function (o) {
+      var on = st.type === 'many' ? state.pri.indexOf(o.id) > -1 : state[st.key] === o.id;
+      var b = el('button', { type: 'button', 'class': 'pf-opt', 'aria-pressed': on ? 'true' : 'false' },
+        '<span class="pf-ico" aria-hidden="true">' + o.ico + '</span><span><b>' + esc(o.label) + '</b>' + (o.sub ? '<small>' + esc(o.sub) + '</small>' : '') + '</span>');
+      b.addEventListener('click', function () { choose(st, o.id); });
+      grid.appendChild(b);
+    });
+    app.appendChild(grid);
+
+    var nav = el('div', { 'class': 'pf-nav' });
+    var back = el('button', { type: 'button', 'class': 'pf-ghost' }, '← Back');
+    back.hidden = state.step === 0;
+    back.addEventListener('click', function () { state.step--; renderStep(); });
+    nav.appendChild(back);
+    if (st.type === 'many') {
+      var next = el('button', { type: 'button', 'class': 'pf-btn' }, state.pri.length ? 'Next →' : 'Skip, no preference →');
+      next.addEventListener('click', function () { advance(); });
+      nav.appendChild(next);
+    } else {
+      nav.appendChild(el('span'));
+    }
+    app.appendChild(nav);
+  }
+
+  function choose(st, id) {
+    if (st.type === 'many') {
+      var i = state.pri.indexOf(id);
+      if (i > -1) state.pri.splice(i, 1);
+      else { if (state.pri.length >= st.max) state.pri.shift(); state.pri.push(id); }
+      renderStep();
+    } else {
+      state[st.key] = id;
+      renderStep();
+      setTimeout(advance, 160);
+    }
+  }
+
+  function advance() {
+    if (state.step === 0) track('phone_finder_start');
+    if (state.step < STEPS.length - 1) { state.step++; renderStep(); }
+    else { saveHash(); renderResults(); }
+    scrollToApp();
+  }
+
+  function scrollToApp() {
+    var top = app.getBoundingClientRect().top + window.pageYOffset - 80;
+    if (Math.abs(window.pageYOffset - top) > 40) window.scrollTo({ top: top, behavior: 'smooth' });
+  }
+
+  function renderResults() {
+    var res = pickResults();
+    app.innerHTML = '';
+    var head = el('div', { 'class': 'pf-results-head' });
+    head.appendChild(el('h2', null, 'Your best matches'));
+    app.appendChild(head);
+
+    var priText = state.pri.length ? state.pri.map(function (k) { return PRIORITIES.filter(function (x) { return x.id === k; })[0].label.toLowerCase(); }).join(' and ') : 'a good all-round phone';
+    var osText = state.os === 'ios' ? 'iPhone' : state.os === 'android' ? 'Android' : 'any phone';
+    app.appendChild(el('p', { 'class': 'pf-summary' }, res.budget.label + ' · ' + osText + ' · best for ' + esc(priText)));
+    if (res.note) app.appendChild(el('p', { 'class': 'pf-alert' }, res.note));
+
+    if (!res.ranked.length) {
+      app.appendChild(el('p', { 'class': 'pf-alert' }, 'We could not find a phone that fits. Try a different budget.'));
+    }
+
+    var badges = ['Best match', 'Runner-up', 'Also great'];
+    res.ranked.forEach(function (r, i) {
+      var p = r.p, L = links(p);
+      var card = el('div', { 'class': 'pf-phone' + (i === 0 ? ' top' : '') });
+      card.innerHTML =
+        '<div class="pf-phone-head"><div><span class="pf-badge">' + badges[i] + '</span>' +
+        '<h3>' + esc(p.name) + (p.fiveg === false ? '<span class="pf-tag">4G only</span>' : '') + '</h3></div>' +
+        '<div class="pf-price">' + rupees(p.price) + '<small>around, ' + esc(UPDATED) + '</small></div></div>' +
+        ratingRow(r) +
+        '<ul class="pf-why">' + whyLines(r).map(function (t) { return '<li>' + t + '</li>'; }).join('') + '</ul>' +
+        '<dl class="pf-specs">' +
+          '<div><dt>Chip</dt><dd>' + esc(p.chip) + '</dd></div>' +
+          '<div><dt>Screen</dt><dd>' + esc(p.screen) + '</dd></div>' +
+          '<div><dt>Battery</dt><dd>' + (p.mah ? Number(p.mah).toLocaleString('en-IN') + 'mAh' : '—') + (p.charge && p.charge.length < 12 ? ', ' + esc(p.charge) : '') + '</dd></div>' +
+          '<div><dt>Camera</dt><dd>' + esc(p.cam) + '</dd></div>' +
+        '</dl>' +
+        '<div class="pf-buy">' +
+          '<a class="btn" href="' + L.amz + '" target="_blank" rel="sponsored nofollow noopener" data-store="amazon">Check price on Amazon</a>' +
+          (L.fk ? '<a class="pf-alt" href="' + L.fk + '" target="_blank" rel="sponsored nofollow noopener" data-store="flipkart">Flipkart</a>' : '') +
+          (p.post ? '<a class="pf-read" href="' + esc(p.post) + '">Read our article →</a>' : '') +
+        '</div>';
+      card.querySelectorAll('a[data-store]').forEach(function (a) {
+        a.addEventListener('click', function () { track('phone_finder_click', { phone: p.name, store: a.getAttribute('data-store'), rank: i + 1 }); });
+      });
+      app.appendChild(card);
+    });
+
+    var actions = el('div', { 'class': 'pf-actions' });
+    var again = el('button', { type: 'button', 'class': 'pf-btn' }, 'Start over');
+    again.addEventListener('click', function () {
+      state = { step: 0, budget: null, os: null, pri: [], keep: null };
+      try { history.replaceState(null, '', location.pathname); } catch (e) {}
+      renderStep(); scrollToApp();
+    });
+    actions.appendChild(again);
+    var edit = el('button', { type: 'button', 'class': 'pf-ghost' }, 'Change my answers');
+    edit.addEventListener('click', function () { state.step = 0; renderStep(); scrollToApp(); });
+    actions.appendChild(edit);
+    if (navigator.share) {
+      var sh = el('button', { type: 'button', 'class': 'pf-ghost' }, 'Share results');
+      sh.addEventListener('click', function () { navigator.share({ title: 'My phone picks on GadgetGyaan', url: location.href }).catch(function () {}); });
+      actions.appendChild(sh);
+    }
+    app.appendChild(actions);
+    app.appendChild(el('p', { 'class': 'pf-fine' }, 'Prices are approximate for ' + esc(UPDATED) + ' and change during sales. Some links are affiliate links; we may earn a small commission at no extra cost to you.'));
+
+    track('phone_finder_result', { budget: state.budget, os: state.os, priorities: state.pri.join(','), keep: state.keep, top_phone: res.ranked[0] ? res.ranked[0].p.name : 'none' });
+  }
+
+  /* ---------- shareable link (#b=b3&os=any&p=gaming,camera&k=mid) ---------- */
+  function saveHash() {
+    var h = 'b=' + state.budget + '&os=' + state.os + '&p=' + state.pri.join(',') + '&k=' + state.keep;
+    try { history.replaceState(null, '', '#' + h); } catch (e) {}
+  }
+  function loadHash() {
+    var h = location.hash.replace(/^#/, ''); if (!h) return false;
+    var o = {}; h.split('&').forEach(function (kv) { var a = kv.split('='); o[a[0]] = decodeURIComponent(a[1] || ''); });
+    var okB = BUDGETS.some(function (b) { return b.id === o.b; });
+    var okOs = ['android', 'ios', 'any'].indexOf(o.os) > -1;
+    var okK = ['short', 'mid', 'long'].indexOf(o.k) > -1;
+    if (!okB || !okOs || !okK) return false;
+    state.budget = o.b; state.os = o.os; state.keep = o.k; state.step = STEPS.length - 1;
+    state.pri = (o.p || '').split(',').filter(function (k) { return PRIORITIES.some(function (x) { return x.id === k; }); }).slice(0, 2);
+    return true;
+  }
+
+  if (loadHash()) renderResults(); else renderStep();
+})();
+</script>
