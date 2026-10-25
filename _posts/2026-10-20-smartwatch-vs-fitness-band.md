@@ -70,7 +70,7 @@ Whichever you choose, check these before buying:
 
 {% include buy.html name="Smartwatches with AMOLED display" query="AMOLED smartwatch bluetooth calling" note="Check battery life with always-on display" %}
 
-**Related reading:** [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/)
+**Related reading:** [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/)
 
 ## The bottom line
 

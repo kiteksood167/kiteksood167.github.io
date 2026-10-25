@@ -94,7 +94,7 @@ Cheaper ANC headphones have come a long way, but there are still gaps compared w
 
 Black Friday is about a month away, and headphones are among the most heavily discounted products each year. If none of these is at the price listed above, waiting a few weeks may save you more.
 
-**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/)
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/) · [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/)
 
 ## The bottom line
 
