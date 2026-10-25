@@ -70,7 +70,7 @@ OnePlus said in July that moving to ColorOS is optional for existing owners and 
 
 > **Tip:** Before installing, back up your photos and chats, connect to Wi-Fi (this is a large download), and charge your phone to at least 50%. The first day after a big update, the phone may feel warm and the battery may drain faster while it re-optimises apps. That usually settles within a day or two.
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/)
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 

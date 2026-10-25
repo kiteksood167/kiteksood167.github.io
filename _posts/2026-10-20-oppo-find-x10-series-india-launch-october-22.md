@@ -86,7 +86,7 @@ Close rivals in India will include:
 
 > **Tip:** Don't rush to buy on launch day. Flagship phones in India often get bank card discounts and exchange bonuses in the first sale week. Compare the final price after offers with the Galaxy S26 Ultra's current street price, which is often well below its launch price.
 
-**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [OnePlus ColorOS 17 Update Rolls Out in India: Which Phones Get It and When](/oneplus-coloros-17-update-india-schedule/)
 
 ## The bottom line
 

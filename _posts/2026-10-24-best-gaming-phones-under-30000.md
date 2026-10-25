@@ -90,7 +90,7 @@ The battery is smaller at 5,500mAh, and 45W charging is slower than the rest of 
 
 If you can wait a few days, Infinix is launching the GT 50 Pro in India on October 27. Its price hasn't been announced yet, and early estimates put it well above ₹30,000, so it may not fit this budget.
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Infinix GT 50 Pro Launching in India on October 27: What We Know](/infinix-gt-50-pro-india-launch-october-27/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Infinix GT 50 Pro Launching in India on October 27: What We Know](/infinix-gt-50-pro-india-launch-october-27/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/)
 
 ## The bottom line
 

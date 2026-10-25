@@ -65,7 +65,7 @@ A tablet with a keyboard case can cover light typing well. But it's still a tabl
 
 {% include buy.html name="Tablets with stylus support" query="tablet with stylus for students" note="Check if the stylus is included in the box" %}
 
-**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
+**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [OPPO Pad Mini Launched in India: Price, Specs and Sale Date](/oppo-pad-mini-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 

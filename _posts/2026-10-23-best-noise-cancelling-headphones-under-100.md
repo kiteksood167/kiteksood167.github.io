@@ -1,5 +1,5 @@
 ---
-title: "Best Noise Cancelling Headphones Under $100"
+title: "Best Noise Cancelling Headphones Under $100 in 2026"
 description: "The best ANC headphones under $100 right now, from Sony, Soundcore, CMF and JLab, with current US prices, battery life and the trade-offs to know."
 date: 2026-10-23 08:47:00 +0530
 category: Global

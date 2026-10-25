@@ -3,6 +3,7 @@ title: "Infinix GT 50 Pro Launching in India on October 27: What We Know"
 seo_title: "Infinix GT 50 Pro India Launch Oct 27: What We Know"
 description: "Infinix GT 50 Pro launches in India on October 27 with a Dimensity 8400 Ultimate chip, liquid cooling and 6,500mAh battery. Confirmed specs and price news."
 date: 2026-10-21 18:42:00 +0530
+last_modified_at: 2026-10-25 10:00:00 +0530
 image: /assets/images/infinix-gt-50-pro-india-launch-october-27.jpg
 image_alt: "Illustration of two gaming phones in black and red with glowing liquid cooling windows on the back"
 category: Launches
@@ -30,7 +31,9 @@ These two memory options are the ones sold globally. Infinix hasn't confirmed wh
 - **Launch date:** October 27, 2026 (launch time not announced yet)
 - **Where to buy:** Flipkart, as confirmed in the launch teasers. Sale date not announced yet.
 - **Colours:** Black Abyss (with green cooling accents) and Red Blaze (with red accents)
-- **Launch offers:** not announced yet
+- **Pre-booking:** open since October 24 (12 PM) on Infinix's India website for ₹1,999. This is a booking amount, not the phone's price.
+- **Launch offers:** reports say pre-booking customers get a free Infinix X60 Bluetooth speaker (listed at ₹5,999). Bank offers haven't been fully confirmed yet.
+- **Accessories:** Infinix will also launch the GT NX Controller, GT NX Station and GT MagCharge Cooler 2.0, which are expected to cost extra.
 
 For reference, last year's GT 30 Pro launched in India at ₹24,999 for 8GB + 256GB, with ₹2,000 off on the first day of sale. It now sells for around ₹31,999 on online stores (October 2026), according to price trackers.
 
@@ -82,7 +85,7 @@ Two close rivals at similar prices:
 
 > **Tip:** Don't buy on launch hype alone. Wait for the official price and the first-sale bank offers on Flipkart, and check whether the magnetic cooler is in the box. If it costs extra, add that to the price when you compare it with the OPPO K13 Turbo.
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/)
 
 ## The bottom line
 

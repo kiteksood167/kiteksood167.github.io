@@ -3,6 +3,7 @@ title: "OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and S
 seo_title: "OPPO Find X10 India Price, Specs and Sale Date"
 description: "OPPO Find X10 starts at ₹1,39,999 and the Find X10 Pro Max costs ₹1,99,999 in India. Sale date, stores, key specs and the closest rivals."
 date: 2026-10-22 18:47:00 +0530
+last_modified_at: 2026-10-25 10:00:00 +0530
 image: /assets/images/oppo-find-x10-launched-india-price-specs-sale-date.jpg
 image_alt: "Illustration of a pale blue and a white flagship phone with large circular triple-camera modules on a dark stage"
 image_credit: "Illustration, not the actual product"
@@ -29,7 +30,8 @@ Here are the official Indian prices, what you get for the money, and who should 
 - **Sale date:** Thursday, October 29, 2026
 - **Where to buy:** OPPO's online store, Flipkart and Amazon
 - **Colours:** Glacier Blue, Mist Grey and Glow Coral for the Find X10; Luna White and Titanium Grey for the Find X10 Pro Max
-- **Launch offers:** some reports mention a bank discount and an exchange bonus, but the full terms (which cards, how much, and which model) were not clearly confirmed at the time of writing. Check the offer section on the product page before you pay.
+- **Pre-orders:** open now on OPPO's online store, Flipkart and Amazon
+- **Launch offers (as reported in October 2026):** a 12% instant bank discount (up to ₹16,799 on the Find X10 and up to ₹23,999 on the Pro Max), an exchange bonus of up to ₹8,000, no-cost EMI from around ₹5,833 a month (Find X10) and ₹8,333 a month (Pro Max), and a free gift box with OPPO Enco Air5 Pro earbuds and a magnetic case. OPPO hasn't listed the eligible banks in the reports we checked, so confirm the card offers on the product page before you pay.
 
 These prices are much higher than last year. The Find X9 started at ₹74,999 and the Find X9 Pro cost ₹1,09,999, so the new series has moved firmly into the ₹1.4 lakh to ₹2 lakh bracket.
 

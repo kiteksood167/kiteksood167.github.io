@@ -72,7 +72,7 @@ If you're in India, wait for Red Magic's global launch details and check whether
 
 > **Tip:** A fan and a big battery help, but heat is still the main enemy of gaming performance. Avoid playing while fast charging without bypass charging, remove thick cases during long sessions, and keep the phone out of direct sunlight.
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/)
 
 ## The bottom line
 

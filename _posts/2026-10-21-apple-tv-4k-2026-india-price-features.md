@@ -69,7 +69,7 @@ For most people in India, though, ₹39,900 is a lot for a streaming box. If you
 
 > **Tip:** If you already own an Apple TV 4K (2nd generation or later), you don't need to upgrade to get the new Siri. Apple is bringing it to those models too with tvOS 27.2, which is in beta now. Upgrade only if you want hands-free voice, the faster chip or four-speaker HomePod surround.
 
-**Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
+**Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 
