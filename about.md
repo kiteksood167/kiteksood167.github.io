@@ -19,6 +19,10 @@ Tech shopping in India is confusing. Every week there's a new launch, every box 
   </div>
 </div>
 
+## As featured on
+
+- **Connectively** — Kitek's insights were included in [Must-Have Smart Home Devices for the 2026 Holiday Season](https://blog.connectively.us/must-have-smart-home-devices-for-the-2026-holiday-season/) (October 2026).
+
 ## What we write about
 
 - **Buying guides:** how to choose the right phone, laptop or earbuds for your budget
