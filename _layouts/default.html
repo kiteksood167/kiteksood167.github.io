@@ -74,12 +74,14 @@
             {% for c in site.categories_menu %}{% unless site.nav_primary contains c %}
             <a href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
             {% endunless %}{% endfor %}
+            <a href="{{ '/phone-finder/' | relative_url }}">Phone Finder</a>
             <a href="{{ '/about/' | relative_url }}">About</a>
           </div>
         </details>
         {% for c in site.categories_menu %}{% unless site.nav_primary contains c %}
         <a class="nav-extra" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
         {% endunless %}{% endfor %}
+        <a class="nav-extra" href="{{ '/phone-finder/' | relative_url }}">Phone Finder</a>
         <a class="nav-extra" href="{{ '/about/' | relative_url }}">About</a>
       </nav>
     </div>
@@ -99,6 +101,7 @@
         {% include newsletter.html compact=true %}
       </div>
       <nav class="footer-links">
+        <a href="{{ '/phone-finder/' | relative_url }}">Phone Finder</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
         <a href="{{ '/contact/' | relative_url }}">Contact</a>
         <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>

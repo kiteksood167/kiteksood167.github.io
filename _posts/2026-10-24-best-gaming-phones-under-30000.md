@@ -92,6 +92,8 @@ If you can wait a few days, Infinix is launching the GT 50 Pro in India on Octob
 
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Infinix GT 50 Pro Launching in India on October 27: What We Know](/infinix-gt-50-pro-india-launch-october-27/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/)
 
+> **Still not sure?** Try our free [Phone Finder](/phone-finder/): answer 4 quick questions and get the 3 best phones for your budget.
+
 ## The bottom line
 
 For pure gaming under ₹30,000, the **iQOO Neo 10R** is still the one to beat thanks to its Snapdragon 8s Gen 3 chip, as long as you can find it in stock. The **Realme P4 Pro** and **Motorola Edge 60 Pro** are better all-rounders, the **Narzo Power 5G** wins on battery, and the **Infinix GT 30 Pro** is the pick for shooter fans who want triggers. Prices are moving a lot this year, so compare a couple of stores and look for bank offers before you buy.

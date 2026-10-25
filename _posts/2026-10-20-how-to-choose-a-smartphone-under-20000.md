@@ -84,6 +84,8 @@ Also watch for **bank offers** and **exchange offers** during sales. These often
 
 **Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Samsung Galaxy F70 5G Launched in India: Price, Specs and Sale Date](/samsung-galaxy-f70-5g-launched-india/)
 
+> **Still not sure?** Try our free [Phone Finder](/phone-finder/): answer 4 quick questions and get the 3 best phones for your budget.
+
 ## The bottom line
 
 Don't let a big megapixel number or "16GB RAM*" sticker make the choice for you. A good processor, honest RAM, fast storage, a solid update promise and a stabilised main camera are what make a budget phone pleasant to use for three years.
