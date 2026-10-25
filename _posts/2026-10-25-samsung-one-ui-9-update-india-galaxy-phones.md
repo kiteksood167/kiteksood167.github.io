@@ -5,6 +5,9 @@ description: "Samsung's Android 17-based One UI 9 update is now reaching more Ga
 date: 2026-10-25 14:40:00 +0530
 category: Phones
 news: true
+image: /assets/images/samsung-one-ui-9-update-india-galaxy-phones.jpg
+image_alt: "Three smartphones on a reflective surface showing a glowing update icon, with green and orange light particles flowing into them"
+image_credit: "Illustration, not the actual products"
 tags: [samsung, galaxy, one ui 9, android 17, software update, news]
 ---
 
@@ -43,6 +46,11 @@ The Galaxy S23 series, A36 and A56 started getting stable One UI 9 in Europe and
 
 One UI 9 is not a full redesign, but it brings useful changes. Samsung's changelog lists these:
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-quick-panel-sliders-neon.jpg" alt="Thumb dragging a glowing green slider on a phone quick settings panel with an orange slider below" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 - **A more flexible Quick Panel.** You can resize and move the brightness and volume sliders and the media player, and the sound mode button gets its own spot.
 - **A blue location indicator.** It shows at the top of the screen when an app is using your location, and you can tap it to see which app.
 - **Game Booster tweaks.** You can change the screen resolution and screenshot format while playing.
@@ -50,6 +58,11 @@ One UI 9 is not a full redesign, but it brings useful changes. Samsung's changel
 - **Accessibility additions** such as Text spotlight for enlarging text and Select to speak.
 
 Some Galaxy AI features vary by model, so older or cheaper phones may not get everything.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-location-pin-privacy-map.jpg" alt="Phone on a desk showing a glowing location pin on a dark map with a privacy shield icon" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## How to get the update
 
