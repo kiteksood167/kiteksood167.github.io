@@ -4,6 +4,9 @@ description: "The best smartwatches for iPhone right now, from Apple Watch Serie
 date: 2026-10-25 08:47:00 +0530
 category: Global
 also_in: [Wearables]
+image: /assets/images/best-smartwatches-for-iphone.jpg
+image_alt: "Four smartwatches with fitness watch faces next to a smartphone on a dark surface lit by green and orange neon"
+image_credit: "Illustration, not the actual products"
 tags: [smartwatch, iphone, apple watch, series 12, apple watch se 3, ultra 4, garmin, amazfit, buying guide, usa, uk]
 affiliate: true
 ---
@@ -50,6 +53,11 @@ What you give up compared with the Series 12: no ECG app, a dimmer screen (1,000
 
 > **Tip:** Buy the GPS model unless you really want to leave your iPhone at home on runs or walks. A cellular Apple Watch costs more up front and usually needs a monthly carrier plan on top. Also check which band size (S/M or M/L) is in the box, because retailers sometimes price them differently.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/smartwatch-wrist-heart-rate-neon.jpg" alt="Smartwatch on a wrist showing a heart rate reading next to a phone with matching health charts" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 3. Apple Watch Ultra 4: for the outdoors and two-day battery
 
 The Ultra 4 starts at $799 with a 49mm titanium case, and every model includes cellular. It went as low as about $700 during Prime Day and was around $774 at Amazon in mid-October.
@@ -57,6 +65,11 @@ The Ultra 4 starts at $799 with a 49mm titanium case, and every model includes c
 You pay for battery life and toughness. It's rated at up to 50 hours of normal use, or up to 84 hours in Low Power Mode, so most people can skip a night of charging. The screen reaches 3,000 nits, it has precision dual-frequency GPS, 100m water resistance with a depth gauge to 40m, and satellite features for Emergency SOS, Find My and Messages when you're out of cell coverage.
 
 It's big and heavy for a small wrist, and most people won't use the diving or satellite features. If you're a hiker, trail runner, cyclist or diver, though, it's the most capable watch for an iPhone. The older Ultra 3 has been selling for around $700 or less and is a reasonable way to save.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/runner-sport-watch-sunrise.jpg" alt="Runner checking a round sport watch with a GPS route on a riverside path at sunrise" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 4. Garmin Forerunner 570: for runners who want more battery
 
