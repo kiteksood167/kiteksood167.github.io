@@ -360,6 +360,7 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .social-fb:hover, .social-fb:focus-visible { background: #1877f2; }
 .social-ig:hover, .social-ig:focus-visible { background: linear-gradient(45deg, #f09433, #dc2743 50%, #bc1888); }
 .social-pin:hover, .social-pin:focus-visible { background: #e60023; }
+.social-wa:hover, .social-wa:focus-visible { background: #25d366; }
 .follow-box { margin: 28px 0; padding: 18px 20px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
 .follow-box p { margin: 0 0 12px; color: var(--ink-2); }
 .follow-box strong { color: var(--ink); }
