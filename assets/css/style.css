@@ -396,3 +396,6 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .translate-menu a { display: block; padding: 8px 10px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: .9rem; }
 .translate-menu a:hover, .translate-menu a:focus-visible { background: var(--bg); color: var(--accent); }
 @media (max-width: 520px) { .translate-menu { left: auto; right: 0; } }
+
+/* Post view counter */
+.post-views svg { vertical-align: -2px; }

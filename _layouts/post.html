@@ -12,6 +12,7 @@ layout: default
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %b %Y" }}</time>
         {% if page.last_modified_at %} · Updated {{ page.last_modified_at | date: "%-d %b %Y" }}{% endif %}
         · {{ content | number_of_words | divided_by: 200 | plus: 1 }} min read
+        <span class="post-views" id="post-views" data-key="{{ page.slug | slice: 0, 64 }}" hidden> · <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg> <span class="pv-n"></span> views</span>
       </p>
       <div class="hero-tools">
         {% include share.html compact=true %}
@@ -62,3 +63,27 @@ layout: default
   </div>
 </article>
 {% include share-script.html %}
+<script>
+/* View counter (free Abacus counter). Counts one view per post per browser session; the owner's ?notrack=1 device only reads. Hidden until a post has 10+ views. */
+(function () {
+  var el = document.getElementById('post-views');
+  if (!el || !window.fetch) return;
+  var key = el.getAttribute('data-key');
+  var base = 'https://abacus.jasoncameron.dev/';
+  var mode = 'hit';
+  try {
+    if (localStorage.getItem('gg_notrack') === '1') mode = 'get';
+    if (sessionStorage.getItem('gg_v_' + key)) mode = 'get';
+    else if (mode === 'hit') sessionStorage.setItem('gg_v_' + key, '1');
+  } catch (e) {}
+  fetch(base + mode + '/thegadgetgyaan/' + key)
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (d) {
+      if (!d || typeof d.value !== 'number' || d.value < 10) return;
+      var n = d.value;
+      el.querySelector('.pv-n').textContent = n >= 1000 ? (n / 1000).toFixed(n >= 10000 ? 0 : 1).replace(/\.0$/, '') + 'K' : n.toLocaleString('en-IN');
+      el.hidden = false;
+    })
+    .catch(function () {});
+})();
+</script>
