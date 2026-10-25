@@ -4,12 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if site.google_analytics and site.google_analytics != "" %}
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.google_analytics }}');
+    /* Owner opt-out: open any page with ?notrack=1 once on your own device to stop counting your visits; ?track=1 turns counting back on. */
+    (function () {
+      var off = false;
+      try {
+        var q = location.search;
+        if (/[?&]notrack=1/.test(q)) localStorage.setItem('gg_notrack', '1');
+        if (/[?&]track=1/.test(q)) localStorage.removeItem('gg_notrack');
+        off = localStorage.getItem('gg_notrack') === '1';
+      } catch (e) {}
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { dataLayer.push(arguments); };
+      if (off) return;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    })();
   </script>
   {% endif %}
   {% if page.url == "/" %}{% assign ptitle = site.title | append: ": Tech Buying Guides, Launches & Tips" %}{% else %}{% assign ptitle = page.seo_title | default: page.title | default: site.title %}{% endif %}

@@ -6,4 +6,6 @@ blurb: "Chargers, power banks, cables, cases and the small add-ons that make you
 seo_title: "Phone Accessories: Chargers, Power Banks & Cables"
 description: "Chargers, power banks, cables, cases and the small add-ons that make your gadgets better."
 permalink: /category/accessories/
+redirect_from:
+  - /category-accessories/
 ---

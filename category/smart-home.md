@@ -6,4 +6,6 @@ blurb: "Smart TVs, speakers, plugs, cameras and other gadgets that make your hom
 seo_title: "Smart TV & Smart Home Buying Guides"
 description: "Smart TVs, speakers, plugs, cameras and other gadgets that make your home smarter."
 permalink: /category/smart-home/
+redirect_from:
+  - /category-smart-home/
 ---
