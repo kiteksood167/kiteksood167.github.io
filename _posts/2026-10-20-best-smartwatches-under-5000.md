@@ -93,7 +93,7 @@ It's currently around ₹4,500 on Flipkart, Croma and Myntra, so it's the most e
 
 {% include buy.html name="Redmi Watch Move" query="Redmi Watch Move" note="Best under ₹2,500: AMOLED and Bluetooth calling" %}
 
-**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/)
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/)
 
 ## The bottom line
 

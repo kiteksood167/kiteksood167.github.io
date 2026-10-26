@@ -92,7 +92,7 @@ This is the one to get if you want to top up a laptop on the move. It launched i
 
 > **Tip:** Since early 2026, DGCA rules don't allow you to use a power bank to charge devices during a flight in India, or to plug one into the seat socket. Carry it in your cabin bag only, never in checked luggage, and keep it out of the overhead bin. Banks up to 100Wh are fine without airline approval, so check the Wh figure printed on large-capacity models before you fly.
 
-**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/)
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/)
 
 ## The bottom line
 
