@@ -453,7 +453,7 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .header-finder:hover { filter: brightness(1.06); }
 .header-links .header-search { order: 0; }
 .cat-nav { border-top: 1px solid var(--line); }
-.cat-nav-inner { display: flex; justify-content: space-between; gap: 2px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; }
+.cat-nav-inner { display: flex; justify-content: flex-start; gap: 6px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; }
 .cat-nav-inner.is-scroll { justify-content: flex-start; -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent); }
 .cat-nav-inner::-webkit-scrollbar { display: none; }
 .cat-link { flex: none; display: inline-flex; align-items: center; gap: 6px; padding: 11px 7px 9px; text-decoration: none; color: var(--ink-2); font-weight: 500; font-size: .9rem; border-bottom: 2px solid transparent; white-space: nowrap; }
@@ -470,3 +470,11 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
   .header-finder span { display: none; }
   .header-finder { padding: 9px; }
 }
+
+/* Guides and Global sit in the top row on desktop; in the category bar on mobile */
+.header-links .hl-cat { display: inline-flex; align-items: center; gap: 6px; }
+.header-links .hl-cat .cat-svg { width: 17px; height: 17px; color: var(--c); filter: none; }
+.header-links .hl-cat.is-active { color: var(--ink); font-weight: 600; box-shadow: inset 0 -2px 0 var(--c); border-radius: 8px 8px 0 0; }
+.hl-sep { width: 1px; height: 20px; background: var(--line); margin: 0 4px; }
+@media (min-width: 721px) { .cat-link--top { display: none; } }
+@media (max-width: 720px) { .hl-sep { display: none; } }

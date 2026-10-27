@@ -61,6 +61,10 @@
         <span>Gadget<b>Gyaan</b></span>
       </a>
       <nav class="header-links" aria-label="Site">
+        {%- for c in site.categories_menu %}{% if c == 'Guides' or c == 'Global' %}
+        <a class="hl hl-cat cat-{{ c | slugify }}{% if page.category == c %} is-active{% endif %}" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{% include cat-icon.html cat=c %}<span>{{ c }}</span></a>
+        {%- endif %}{% endfor %}
+        <span class="hl-sep" aria-hidden="true"></span>
         <a class="hl" href="{{ '/updates/' | relative_url }}">Updates</a>
         <a class="hl" href="{{ '/about/' | relative_url }}">About</a>
         <a class="header-finder" href="{{ '/phone-finder/' | relative_url }}" title="Phone Finder: find the right phone for your budget">
@@ -76,14 +80,14 @@
     <nav class="cat-nav" aria-label="Categories">
       <div class="wrap cat-nav-inner">
         {%- for c in site.categories_menu %}
-        <a class="cat-link cat-{{ c | slugify }}{% if cur_cat == c %} is-active{% endif %}" href="{{ '/category/' | relative_url }}{{ c | slugify }}/"{% if cur_cat == c and page.layout == 'category' %} aria-current="page"{% endif %}>{% include cat-icon.html cat=c %}<span>{{ c }}</span></a>
+        <a class="cat-link cat-{{ c | slugify }}{% if c == 'Guides' or c == 'Global' %} cat-link--top{% endif %}{% if cur_cat == c %} is-active{% endif %}" href="{{ '/category/' | relative_url }}{{ c | slugify }}/"{% if cur_cat == c and page.layout == 'category' %} aria-current="page"{% endif %}>{% include cat-icon.html cat=c %}<span>{{ c }}</span></a>
         {%- endfor %}
       </div>
     </nav>
   </header>
   <script>
   (function () {
-    var a = document.querySelector('.cat-nav .is-active'), bar = document.querySelector('.cat-nav-inner');
+    var a = document.querySelector('.cat-nav .is-active:not(.cat-link--top)') || document.querySelector('.cat-nav .is-active'), bar = document.querySelector('.cat-nav-inner');
     if (!bar) return;
     function fit() { bar.classList.toggle('is-scroll', bar.scrollWidth > bar.clientWidth + 2); }
     fit(); window.addEventListener('resize', fit); if (document.fonts) document.fonts.ready.then(fit);
