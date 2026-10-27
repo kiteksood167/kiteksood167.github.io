@@ -3,6 +3,9 @@ title: "iOS 27.2 Update Released: New Features and Which iPhones Get It"
 seo_title: "iOS 27.2 Update: New Features, Eligible iPhones"
 description: "Apple's iOS 27.2 is out with a smarter Siri AI, Messages suggestions and Shared Albums upgrades. See what's new, which iPhones get it and how to update."
 date: 2026-10-27 13:42:00 +0530
+image: /assets/images/ios-27-2-update-features-eligible-iphones.jpg
+image_alt: "A smartphone on a dark reflective surface showing a glowing software download icon, surrounded by green and orange light trails"
+image_credit: "Illustration"
 category: Phones
 news: true
 tags: [apple, iphone, ios 27, ios 27.2, siri ai, software update, news]
@@ -34,6 +37,11 @@ Beyond Siri, the update adds:
 
 Owners of the new iPhone Duo foldable also get Apple Pencil support with this release.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phones-lineup-small-to-large-neon.jpg" alt="Five smartphones from an older small model to a newer large one lined up on a glossy table with green and orange reflections" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Which iPhones get iOS 27.2
 
 iOS 27.2 is available for every iPhone that runs iOS 27. Apple did not drop any models this year, so the list is the same as for iOS 26. Siri AI features, however, need an Apple Intelligence-capable iPhone.
@@ -52,6 +60,11 @@ iOS 27.2 is available for every iPhone that runs iOS 27. Apple did not drop any 
 Most of the non-Siri changes, such as Shared Albums, Messages suggestions, Apple TV profiles and FaceTime captioner support, are useful on any eligible iPhone. Apple notes that some features may not be available in every region or on every model, and that Siri AI is not offered in the EU or mainland China.
 
 The new Siri languages matter less for most Indian users, who use Siri in English. Apple has not announced Hindi support for Siri AI, so don't expect it in this update. If you own an iPhone 15 or older non-Pro model, you will get the app upgrades and security fixes but not the Siri AI features.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-software-update-charging-desk.jpg" alt="A hand holding a charging smartphone showing a software download progress bar, next to a cup of tea on a desk at night" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## How to install iOS 27.2
 
