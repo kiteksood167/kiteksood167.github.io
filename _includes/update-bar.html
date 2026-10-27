@@ -1,19 +1,35 @@
 {%- comment -%}
-  Site-wide "Updated" bar. Shows the most recently updated post that has an
-  `update_note` in its front matter, for 3 days after its `last_modified_at`.
-  Readers can close it; it stays closed for that update only.
+  Site-wide "Updated" bar. Shows every post updated in the last 3 days that has
+  an `update_note` (newest first, up to 5). With more than one update it shows
+  them one at a time, switching every 6 seconds (paused on hover/focus and for
+  readers who prefer reduced motion), with a counter and a "next" button.
+  Readers can close it; it comes back only when a new update is added.
 {%- endcomment -%}
 {%- assign now_s = site.time | date: '%s' | plus: 0 -%}
 {%- assign ups = site.posts | where_exp: "p", "p.update_note" | where_exp: "p", "p.last_modified_at" | sort: "last_modified_at" | reverse -%}
+{%- assign shown = 0 -%}{%- assign key = "" -%}
+{%- capture items -%}
 {%- for u in ups -%}
+  {%- if shown >= 5 -%}{%- break -%}{%- endif -%}
   {%- assign us = u.last_modified_at | date: '%s' | plus: 0 -%}
   {%- assign age = now_s | minus: us -%}
-  {%- if age < 259200 and u.url != page.url -%}
-<div class="update-bar" id="update-bar" data-key="{{ u.slug }}-{{ us }}">
+  {%- if age >= 259200 -%}{%- break -%}{%- endif -%}
+  {%- if u.url == page.url -%}{%- continue -%}{%- endif -%}
+  {%- assign shown = shown | plus: 1 -%}
+  {%- assign key = key | append: u.slug | append: us | append: "|" -%}
+    <a class="update-bar-link" href="{{ u.url | relative_url }}"{% if shown > 1 %} hidden{% endif %}>{{ u.update_note }} <span aria-hidden="true">&rarr;</span></a>
+{%- endfor -%}
+{%- endcapture -%}
+{%- if shown > 0 -%}
+<div class="update-bar" id="update-bar" data-key="{{ key | slugify }}" role="region" aria-label="Recent post updates">
   <div class="wrap update-bar-inner">
-    <span class="update-bar-tag">Updated</span>
-    <a class="update-bar-link" href="{{ u.url | relative_url }}">{{ u.update_note }} <span aria-hidden="true">&rarr;</span></a>
-    <button type="button" class="update-bar-x" aria-label="Close this update">&times;</button>
+    <a class="update-bar-tag" href="{{ '/updates/' | relative_url }}" title="See all recent updates">Updated</a>
+    <div class="update-bar-items" aria-live="polite">{{ items }}</div>
+    {%- if shown > 1 %}
+    <span class="update-bar-count" aria-hidden="true"><span class="ub-i">1</span>/{{ shown }}</span>
+    <button type="button" class="update-bar-next" aria-label="Show next update">&rsaquo;</button>
+    {%- endif %}
+    <button type="button" class="update-bar-x" aria-label="Close updates">&times;</button>
   </div>
 </div>
 <script>
@@ -26,8 +42,26 @@
     bar.hidden = true;
     try { localStorage.setItem('gg_upd_closed', key); } catch (e) {}
   });
+  var items = bar.querySelectorAll('.update-bar-link');
+  if (items.length < 2) return;
+  var i = 0, idx = bar.querySelector('.ub-i'), paused = false, timer;
+  function show(n) {
+    items[i].hidden = true;
+    i = (n + items.length) % items.length;
+    items[i].hidden = false;
+    idx.textContent = i + 1;
+  }
+  bar.querySelector('.update-bar-next').addEventListener('click', function () { show(i + 1); restart(); });
+  bar.addEventListener('mouseenter', function () { paused = true; });
+  bar.addEventListener('mouseleave', function () { paused = false; });
+  bar.addEventListener('focusin', function () { paused = true; });
+  bar.addEventListener('focusout', function () { paused = false; });
+  function restart() {
+    clearInterval(timer);
+    if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    timer = setInterval(function () { if (!paused && !document.hidden) show(i + 1); }, 6000);
+  }
+  restart();
 })();
 </script>
-  {%- endif -%}
-  {%- break -%}
-{%- endfor -%}
+{%- endif -%}

@@ -1,0 +1,27 @@
+---
+layout: page
+title: Recent updates
+description: "Posts on GadgetGyaan that were updated in the last 30 days with new prices, sale dates or other changes."
+permalink: /updates/
+---
+{%- assign now_s = site.time | date: '%s' | plus: 0 -%}
+{%- assign ups = site.posts | where_exp: "p", "p.last_modified_at" | sort: "last_modified_at" | reverse -%}
+<p class="lede">When prices, sale dates or other facts change, we update the post. Here's everything we've updated in the last 30 days, newest first.</p>
+<ul class="updates-list">
+{%- assign n = 0 -%}
+{%- for p in ups -%}
+  {%- assign ps = p.last_modified_at | date: '%s' | plus: 0 -%}
+  {%- assign age = now_s | minus: ps -%}
+  {%- if age > 2592000 -%}{%- break -%}{%- endif -%}
+  {%- assign pub = p.date | date: '%s' | plus: 0 -%}
+  {%- assign gap = ps | minus: pub -%}
+  {%- if gap < 43200 -%}{%- continue -%}{%- endif -%}
+  {%- assign n = n | plus: 1 %}
+  <li>
+    <span class="updates-date">{{ p.last_modified_at | date: "%-d %b %Y" }}</span>
+    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    <p>{{ p.update_note | default: "Prices and details refreshed." }}</p>
+  </li>
+{%- endfor %}
+</ul>
+{% if n == 0 %}<p class="muted">No posts have been updated in the last 30 days.</p>{% endif %}
