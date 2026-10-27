@@ -75,9 +75,6 @@
     {%- assign cur_cat = page.category -%}
     <nav class="cat-nav" aria-label="Categories">
       <div class="wrap cat-nav-inner">
-        <a class="cat-link{% if page.url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>
-          <svg class="cat-svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 22L24 8l17 14v18H30V29H18v11H7z"/></svg><span>Latest</span>
-        </a>
         {%- for c in site.categories_menu %}
         <a class="cat-link cat-{{ c | slugify }}{% if cur_cat == c %} is-active{% endif %}" href="{{ '/category/' | relative_url }}{{ c | slugify }}/"{% if cur_cat == c and page.layout == 'category' %} aria-current="page"{% endif %}>{% include cat-icon.html cat=c %}<span>{{ c }}</span></a>
         {%- endfor %}
@@ -87,7 +84,10 @@
   <script>
   (function () {
     var a = document.querySelector('.cat-nav .is-active'), bar = document.querySelector('.cat-nav-inner');
-    if (a && bar && bar.scrollWidth > bar.clientWidth) bar.scrollLeft = a.offsetLeft - (bar.clientWidth - a.offsetWidth) / 2;
+    if (!bar) return;
+    function fit() { bar.classList.toggle('is-scroll', bar.scrollWidth > bar.clientWidth + 2); }
+    fit(); window.addEventListener('resize', fit);
+    if (a && bar.scrollWidth > bar.clientWidth) bar.scrollLeft = a.offsetLeft - (bar.clientWidth - a.offsetWidth) / 2;
   })();
   </script>
 
