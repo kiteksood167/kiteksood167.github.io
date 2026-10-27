@@ -121,11 +121,19 @@
   (function () {
     var btn = document.querySelector('.menu-btn'), panel = document.getElementById('mnav');
     if (!btn || !panel) return;
+    function fit() {
+      if (panel.hidden) return;
+      var top = panel.getBoundingClientRect().top;
+      panel.style.maxHeight = Math.max(200, window.innerHeight - top) + 'px';
+    }
     function set(open) {
+      document.documentElement.classList.toggle('mnav-open', open);
       panel.hidden = !open;
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-      document.documentElement.classList.toggle('mnav-open', open);
+      if (open) { window.scrollTo(0, 0); fit(); panel.scrollTop = 0; }
     }
+    window.addEventListener('resize', fit);
+    if (window.visualViewport) window.visualViewport.addEventListener('resize', fit);
     btn.addEventListener('click', function () { set(panel.hidden); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !panel.hidden) { set(false); btn.focus(); } });
     window.addEventListener('resize', function () { if (window.innerWidth > 720 && !panel.hidden) set(false); });

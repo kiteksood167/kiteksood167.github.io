@@ -484,7 +484,7 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .menu-btn .mi-close { display: none; }
 .menu-btn[aria-expanded="true"] .mi-open { display: none; }
 .menu-btn[aria-expanded="true"] .mi-close { display: block; }
-.mnav { border-top: 1px solid var(--line); background: var(--bg); max-height: calc(100vh - 110px); overflow-y: auto; padding: 14px 0 20px; }
+.mnav { border-top: 1px solid var(--line); background: var(--bg); max-height: calc(100vh - 110px); max-height: calc(100dvh - 110px); overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; padding: 14px 0 28px; }
 .mnav[hidden] { display: none; }
 .mnav-label { margin: 0 0 10px; font-size: .72rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .mnav-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
@@ -512,3 +512,5 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
   .update-bar-count { display: none; }
   .update-bar-next { width: 24px; height: 24px; }
 }
+
+@media (max-width: 720px) { html.mnav-open .cat-nav { display: none; } }
