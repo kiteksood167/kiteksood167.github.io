@@ -73,7 +73,7 @@ Some Galaxy AI features vary by model, so older or cheaper phones may not get ev
 
 > **Tip:** If you are moving from One UI 8.5, the full download can be around 3 to 4 GB, so free up some storage first. After installing, give the phone a day or two to settle. Battery life often looks worse for the first day while the phone re-optimises apps in the background.
 
-**Related reading:** [OnePlus ColorOS 17 Update Rolls Out in India: Which Phones Get It and When](/oneplus-coloros-17-update-india-schedule/) · [12 Simple Ways to Make Your Phone Battery Last Longer](/make-phone-battery-last-longer/)
+**Related reading:** [OnePlus ColorOS 17 Update Rolls Out in India: Which Phones Get It and When](/oneplus-coloros-17-update-india-schedule/) · [12 Simple Ways to Make Your Phone Battery Last Longer](/make-phone-battery-last-longer/) · [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/)
 
 ## The bottom line
 
