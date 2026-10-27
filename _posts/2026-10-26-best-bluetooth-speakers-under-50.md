@@ -93,7 +93,7 @@ What you get over the Go 4 is a built-in carabiner with a wider opening than the
 
 If you mostly listen indoors and want voice control, a mains-powered smart speaker like the Echo Dot can be a better fit for the money, but it isn't portable or waterproof.
 
-**Related reading:** [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/)
+**Related reading:** [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/) · [Best Workout Earbuds Under $50 in 2026: Sweatproof Picks That Stay Put](/best-workout-earbuds-under-50/)
 
 ## The bottom line
 
