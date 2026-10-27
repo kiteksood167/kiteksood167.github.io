@@ -86,7 +86,7 @@
     var a = document.querySelector('.cat-nav .is-active'), bar = document.querySelector('.cat-nav-inner');
     if (!bar) return;
     function fit() { bar.classList.toggle('is-scroll', bar.scrollWidth > bar.clientWidth + 2); }
-    fit(); window.addEventListener('resize', fit);
+    fit(); window.addEventListener('resize', fit); if (document.fonts) document.fonts.ready.then(fit);
     if (a && bar.scrollWidth > bar.clientWidth) bar.scrollLeft = a.offsetLeft - (bar.clientWidth - a.offsetWidth) / 2;
   })();
   </script>

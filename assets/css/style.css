@@ -456,7 +456,7 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .cat-nav-inner { display: flex; justify-content: space-between; gap: 2px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; scroll-behavior: smooth; }
 .cat-nav-inner.is-scroll { justify-content: flex-start; -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent); }
 .cat-nav-inner::-webkit-scrollbar { display: none; }
-.cat-link { flex: none; display: inline-flex; align-items: center; gap: 6px; padding: 11px 8px 9px; text-decoration: none; color: var(--ink-2); font-weight: 500; font-size: .9rem; border-bottom: 2px solid transparent; white-space: nowrap; }
+.cat-link { flex: none; display: inline-flex; align-items: center; gap: 6px; padding: 11px 7px 9px; text-decoration: none; color: var(--ink-2); font-weight: 500; font-size: .9rem; border-bottom: 2px solid transparent; white-space: nowrap; }
 .cat-link .cat-svg { width: 17px; height: 17px; flex: none; color: var(--c, var(--accent)); filter: none; }
 .cat-link:hover { color: var(--ink); background: color-mix(in srgb, var(--c, var(--accent)) 8%, transparent); }
 .cat-link.is-active { color: var(--ink); font-weight: 600; border-bottom-color: var(--c, var(--accent)); }
