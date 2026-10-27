@@ -86,7 +86,7 @@ A few popular phones no longer fit under $300 at full price. The Moto G Power (2
 
 Before buying an unlocked phone, check your carrier's compatibility page to make sure the model works on its network.
 
-**Related reading:** [Unlocked vs Carrier Phones: Which Should You Buy in 2026?](/unlocked-vs-carrier-phones/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/)
+**Related reading:** [Unlocked vs Carrier Phones: Which Should You Buy in 2026?](/unlocked-vs-carrier-phones/) · [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/)
 
 ## The bottom line
 
