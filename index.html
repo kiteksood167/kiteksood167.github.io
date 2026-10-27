@@ -33,7 +33,7 @@ description: "Honest, simple tech buying guides, new phone launches and tips for
           <span class="chip chip-sm">{% if lead.featured %}Featured{% else %}Latest{% endif %} · {{ lc }}</span>
           <h2>{{ lead.title }}</h2>
           <p>{{ lead.description | default: lead.excerpt | strip_html | truncate: 160 }}</p>
-          <span class="card-meta">{{ lead.date | date: "%-d %b %Y" }}</span>
+          <span class="card-meta">{{ lead.date | date: "%-d %b %Y" }}{% include upd-badge.html post=lead %}</span>
         </div>
       </a>
       <div class="feat-side">
@@ -52,7 +52,7 @@ description: "Honest, simple tech buying guides, new phone launches and tips for
           <div class="feat-item-body">
             <span class="feat-cat cat-{{ pc | slugify }}">{{ pc }}</span>
             <h3>{{ p.title }}</h3>
-            <span class="card-meta">{{ p.date | date: "%-d %b %Y" }}</span>
+            <span class="card-meta">{{ p.date | date: "%-d %b %Y" }}{% include upd-badge.html post=p %}</span>
           </div>
         </a>
         {% endfor %}

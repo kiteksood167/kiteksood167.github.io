@@ -4,6 +4,7 @@ seo_title: "Infinix GT 50 Pro Launched in India: Price, Sale Date"
 description: "Infinix GT 50 Pro is now official in India at ₹69,999 for 12GB + 256GB, bundled with gaming accessories. Offers, sale date, specs and whether it's worth it."
 date: 2026-10-21 18:42:00 +0530
 last_modified_at: 2026-10-27 14:20:00 +0530
+update_note: "Infinix GT 50 Pro is now official in India at ₹69,999, with the first sale on October 30 on Flipkart."
 image: /assets/images/infinix-gt-50-pro-india-launch-october-27.jpg
 image_alt: "Illustration of two gaming phones in black and red with glowing liquid cooling windows on the back"
 category: Launches
@@ -11,7 +12,7 @@ also_in: [Phones, Gaming]
 tags: [infinix, infinix gt 50 pro, smartphones, gaming phones, flipkart, launch]
 ---
 
-**Update, October 27:** Infinix has now launched the **GT 50 Pro** in India at **₹69,999** for 12GB + 256GB, sold as a bundle with gaming accessories. That's far above the ₹35,000–₹40,000 that pre-launch reports guessed. The first sale is on **October 30 at 12 PM** on Flipkart. The phone has a MediaTek Dimensity 8400 Ultimate chip, a 144Hz AMOLED screen, visible liquid cooling and a 6,500mAh battery.
+Infinix has now launched the **GT 50 Pro** in India at **₹69,999** for 12GB + 256GB, sold as a bundle with gaming accessories. That's far above the ₹35,000–₹40,000 that pre-launch reports guessed. The first sale is on **October 30 at 12 PM** on Flipkart. The phone has a MediaTek Dimensity 8400 Ultimate chip, a 144Hz AMOLED screen, visible liquid cooling and a 6,500mAh battery.
 
 <!--more-->
 

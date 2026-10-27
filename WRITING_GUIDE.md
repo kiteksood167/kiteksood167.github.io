@@ -81,3 +81,9 @@ Rules: use only these names: Launches, Phones, Laptops, Audio, Wearables, Tablet
 ## Link the new post from older posts (added Oct 2026)
 
 A new post with no links pointing to it is found and ranked more slowly. After writing a new post, open 1–2 older posts on a closely related topic and add the new post to their `**Related reading:**` line (keep at most 3 links on that line; replace the least related one if it is full). Use the exact title and a relative link `/slug/`. Never link a post to itself and never invent a slug.
+
+## Updating an existing post (added Oct 2026)
+When you change facts in a published post (official price announced, price change, sale date, new update rollout), readers must be able to see it:
+- Set `last_modified_at: YYYY-MM-DD HH:MM:00 +0530` (current India time). Post cards then show "· Updated <date>" for 7 days.
+- For an important change, also add `update_note: "One plain sentence saying what changed"` in double quotes, for example `update_note: "Infinix GT 50 Pro is now official in India at ₹69,999, with the first sale on October 30 on Flipkart."`. It shows as a green "Updated" box at the top of the post and, for 3 days, in the slim bar at the top of every page (readers can close it). Keep it under about 110 characters and only state confirmed facts.
+- Don't add `update_note` for small fixes like typos or extra internal links.

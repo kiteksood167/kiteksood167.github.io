@@ -1,0 +1,9 @@
+{%- assign ub = include.post -%}
+{%- if ub.last_modified_at -%}
+  {%- assign ub_now = site.time | date: '%s' | plus: 0 -%}
+  {%- assign ub_mod = ub.last_modified_at | date: '%s' | plus: 0 -%}
+  {%- assign ub_pub = ub.date | date: '%s' | plus: 0 -%}
+  {%- assign ub_age = ub_now | minus: ub_mod -%}
+  {%- assign ub_gap = ub_mod | minus: ub_pub -%}
+  {%- if ub_age < 604800 and ub_gap > 43200 %} <span class="upd-badge">· Updated {{ ub.last_modified_at | date: "%-d %b" }}</span>{%- endif -%}
+{%- endif -%}

@@ -28,6 +28,9 @@ layout: default
       {% if page.image_credit %}<figcaption>{{ page.image_credit }}</figcaption>{% endif %}
     </figure>
     {% endif %}
+    {% if page.update_note and page.last_modified_at %}
+    <div class="update-box" role="note"><span class="update-box-tag">Updated {{ page.last_modified_at | date: "%-d %b %Y" }}</span> {{ page.update_note }}</div>
+    {% endif %}
     {% if page.affiliate %}
     <p class="disclosure-note">This post may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="{{ '/disclosure/' | relative_url }}">Read our affiliate disclosure</a>.</p>
     {% endif %}

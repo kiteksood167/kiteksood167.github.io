@@ -1,0 +1,33 @@
+{%- comment -%}
+  Site-wide "Updated" bar. Shows the most recently updated post that has an
+  `update_note` in its front matter, for 3 days after its `last_modified_at`.
+  Readers can close it; it stays closed for that update only.
+{%- endcomment -%}
+{%- assign now_s = site.time | date: '%s' | plus: 0 -%}
+{%- assign ups = site.posts | where_exp: "p", "p.update_note" | where_exp: "p", "p.last_modified_at" | sort: "last_modified_at" | reverse -%}
+{%- for u in ups -%}
+  {%- assign us = u.last_modified_at | date: '%s' | plus: 0 -%}
+  {%- assign age = now_s | minus: us -%}
+  {%- if age < 259200 and u.url != page.url -%}
+<div class="update-bar" id="update-bar" data-key="{{ u.slug }}-{{ us }}">
+  <div class="wrap update-bar-inner">
+    <span class="update-bar-tag">Updated</span>
+    <a class="update-bar-link" href="{{ u.url | relative_url }}">{{ u.update_note }} <span aria-hidden="true">&rarr;</span></a>
+    <button type="button" class="update-bar-x" aria-label="Close this update">&times;</button>
+  </div>
+</div>
+<script>
+(function () {
+  var bar = document.getElementById('update-bar');
+  if (!bar) return;
+  var key = bar.getAttribute('data-key');
+  try { if (localStorage.getItem('gg_upd_closed') === key) { bar.hidden = true; return; } } catch (e) {}
+  bar.querySelector('.update-bar-x').addEventListener('click', function () {
+    bar.hidden = true;
+    try { localStorage.setItem('gg_upd_closed', key); } catch (e) {}
+  });
+})();
+</script>
+  {%- endif -%}
+  {%- break -%}
+{%- endfor -%}
