@@ -3,6 +3,9 @@ title: "Best Workout Earbuds Under $50 in 2026: Sweatproof Picks That Stay Put"
 seo_title: "Best Workout Earbuds Under $50 (2026)"
 description: "The best cheap workout earbuds under $50 for the gym and running, from JLab, Soundcore and TOZO, with current US prices, water ratings and battery life."
 date: 2026-10-27 18:52:00 +0530
+image: /assets/images/best-workout-earbuds-under-50.jpg
+image_alt: "Three pairs of wireless sports earbuds with charging cases on a wet gym floor next to a kettlebell, a towel and a water bottle"
+image_credit: "Illustration, not the actual products"
 category: Global
 also_in: [Audio]
 tags: [workout earbuds, sports earbuds, budget earbuds, jlab go sport plus, soundcore p31i, soundcore p30i, tozo nc9, buying guide, usa, uk]
@@ -33,6 +36,11 @@ Battery figures are the brands' own ratings, and prices are what major US retail
 
 **Noise cancelling is a bonus, not a must.** ANC helps block out loud gym music and treadmill hum, but if you run outdoors you'll want a transparency or awareness mode so you can hear traffic.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/runner-ear-hook-earbud-sunrise-city.jpg" alt="Close-up of a sweaty runner wearing an ear-hook wireless earbud on a city street at sunrise" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 1. JLab Go Sport+: the best pick for running
 
 The JLab Go Sport+ is the cheapest pair here that has proper ear hooks, and that's exactly why it's our top pick for runners. The hooks are built into the earbuds, so they sit over your ear instead of relying only on the silicone tip to hold them in place. JLab lists the price at around $30 on its own store, and Amazon has been in the same range.
@@ -54,6 +62,11 @@ There are no ear hooks or wings, so the fit depends on picking the right tip. Th
 {% include buy.html name="Soundcore P31i Noise Cancelling Earbuds" query="Soundcore P31i earbuds" store="us" note="Adaptive ANC, IP55, often around $33" %}
 
 > **Tip:** Before you blame the earbuds for falling out, try every tip size in the box, and don't assume the medium tips that come fitted are right for you. A tip that seals well stays put better, sounds bassier and makes noise cancelling work properly. Many people need a different size in each ear.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/earbuds-water-splash-neon.jpg" alt="Two black wireless earbuds splashing into water with droplets frozen in mid-air under green and orange light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 3. TOZO NC9: the most waterproof
 
