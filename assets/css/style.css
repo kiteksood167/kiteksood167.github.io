@@ -503,3 +503,12 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
   html.mnav-open { overflow: hidden; }
 }
 @media (min-width: 721px) { .mnav { display: none !important; } }
+@media (max-width: 720px) {
+  .update-bar { font-size: .8rem; }
+  .update-bar-inner { gap: 8px; min-height: 38px; }
+  .update-bar-tag { font-size: .62rem; padding: 2px 7px; }
+  .update-bar-items .update-bar-link { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; white-space: normal; line-height: 1.35; }
+  .update-bar-items .update-bar-link[hidden] { display: none; }
+  .update-bar-count { display: none; }
+  .update-bar-next { width: 24px; height: 24px; }
+}
