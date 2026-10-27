@@ -4,7 +4,6 @@ seo_title: "Upcoming Phone Launches in India This Week"
 description: "Infinix GT 50 Pro launches on October 27 and Apple holds its event on October 28. Plus the big flagships confirmed for India that still have no date."
 date: 2026-10-25 18:43:00 +0530
 last_modified_at: 2026-10-27 14:19:00 +0530
-update_note: "The Infinix GT 50 Pro has launched in India at ₹69,999. We've added the official price and sale date."
 category: Launches
 also_in: [Phones]
 image: /assets/images/upcoming-phone-launches-india-this-week-october-26.jpg
