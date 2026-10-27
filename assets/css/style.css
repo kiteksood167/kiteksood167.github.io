@@ -443,3 +443,30 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
   .update-bar { background: #22262e; color: var(--ink); }
   .upd-badge { color: #4ade80; }
 }
+
+/* ---- Header v2: top row + always-visible category bar (Oct 2026) ---- */
+.header-inner { height: 60px; }
+.header-links { display: flex; align-items: center; gap: 4px; }
+.header-links .hl { text-decoration: none; color: var(--ink-2); font-weight: 500; font-size: .92rem; padding: 8px 12px; border-radius: 8px; }
+.header-links .hl:hover { background: var(--surface); color: var(--ink); }
+.header-finder { display: inline-flex; align-items: center; gap: 7px; margin-left: 6px; padding: 8px 14px; border-radius: 999px; background: var(--accent); color: var(--accent-ink); text-decoration: none; font-weight: 600; font-size: .9rem; }
+.header-finder:hover { filter: brightness(1.06); }
+.header-links .header-search { order: 0; }
+.cat-nav { border-top: 1px solid var(--line); }
+.cat-nav-inner { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; scroll-behavior: smooth;
+  -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent); }
+.cat-nav-inner::-webkit-scrollbar { display: none; }
+.cat-link { flex: none; display: inline-flex; align-items: center; gap: 7px; padding: 11px 11px 9px; text-decoration: none; color: var(--ink-2); font-weight: 500; font-size: .9rem; border-bottom: 2px solid transparent; white-space: nowrap; }
+.cat-link .cat-svg { width: 17px; height: 17px; flex: none; color: var(--c, var(--accent)); filter: none; }
+.cat-link:hover { color: var(--ink); background: color-mix(in srgb, var(--c, var(--accent)) 8%, transparent); }
+.cat-link.is-active { color: var(--ink); font-weight: 600; border-bottom-color: var(--c, var(--accent)); }
+.cat-link:last-child { margin-right: 24px; }
+@media (max-width: 720px) {
+  .header-inner { height: 56px; }
+  .header-links .hl { display: none; }
+  .cat-link { font-size: .86rem; padding: 10px 9px 8px; }
+}
+@media (max-width: 420px) {
+  .header-finder span { display: none; }
+  .header-finder { padding: 9px; }
+}
