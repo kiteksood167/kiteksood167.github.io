@@ -2,6 +2,9 @@
 title: "Best Laptops for College Students Under $700"
 description: "The best laptops for college under $700 right now: MacBook Neo, Dell XPS 13 and a Chromebook Plus, with current US prices and student discounts."
 date: 2026-10-27 08:48:00 +0530
+image: /assets/images/best-laptops-for-college-students-under-700.jpg
+image_alt: "A thin silver laptop open on a wooden dorm room desk at night, next to textbooks, a coffee mug and a backpack, lit by green and orange lights"
+image_credit: "Illustration, not the actual products"
 category: Global
 also_in: [Laptops]
 tags: [laptops, college, students, budget laptops, macbook neo, dell xps 13, chromebook plus, back to school, buying guide, usa, uk]
@@ -32,6 +35,11 @@ Most coursework is browsing, documents, slides, video calls and streaming. For t
 - **Storage.** 256GB fills up quickly if you keep big files offline. Cloud storage from your school can help.
 - **Your course's software.** Some engineering and architecture programs need Windows-only apps. Check your department's requirements before buying a Mac or a Chromebook.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/student-laptop-library-typing.jpg" alt="A student typing on a thin silver laptop at a wooden table in a university library in the evening" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 1. Apple MacBook Neo: best for most students
 
 The MacBook Neo is Apple's low-cost MacBook, launched in March 2026. It uses the A18 Pro, the same chip found in the iPhone 16 Pro, with 8GB of memory and a 256GB SSD. It has a 13-inch display with a resolution of 2408 x 1506, an aluminum body that weighs 2.7 pounds, two USB-C ports and a headphone jack.
@@ -53,6 +61,11 @@ There are compromises. It has only two USB-C ports and no headphone jack, so wir
 {% include buy.html name="Dell XPS 13 (2026) Core 5 320, 8GB, 512GB" query="Dell XPS 13 2026 Intel Core 5 320 8GB 512GB" store="us" note="2.5K touchscreen, 2.2 lb, about 14 hours tested battery" %}
 
 > **Tip:** Don't pay the regular price if you're a student. Apple and Dell both run student pricing that takes about $100 off these two laptops, and you usually just need a school email address or a quick verification. Your school's IT office may also offer free software licenses.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/2-in-1-laptop-tent-mode-cafe.jpg" alt="A 2-in-1 laptop folded into tent mode on a cafe table playing a video lecture, next to earbuds, a coffee cup and a notebook" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 3. Chromebook Plus: best if your budget is closer to $400
 
