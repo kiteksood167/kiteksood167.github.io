@@ -88,9 +88,9 @@ The battery is smaller at 5,500mAh, and 45W charging is slower than the rest of 
 - **Play for hours without a charger?** Realme Narzo Power 5G.
 - **Play a lot of shooters?** Infinix GT 30 Pro, for its triggers.
 
-If you can wait a few days, Infinix is launching the GT 50 Pro in India on October 27. Its price hasn't been announced yet, and early estimates put it well above ₹30,000, so it may not fit this budget.
+Infinix launched the GT 50 Pro in India on October 27 at ₹69,999, bundled with gaming accessories, so it's well outside this budget. The picks above remain the better buys under ₹30,000.
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Infinix GT 50 Pro Launching in India on October 27: What We Know](/infinix-gt-50-pro-india-launch-october-27/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/)
 
 > **Still not sure?** Try our free [Phone Finder](/phone-finder/): answer 4 quick questions and get the 3 best phones for your budget.
 

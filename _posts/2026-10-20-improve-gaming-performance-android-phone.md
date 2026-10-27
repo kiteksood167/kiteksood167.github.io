@@ -70,7 +70,7 @@ Game updates often include performance fixes for specific phones, and system upd
 - **Don't root your phone** just for gaming. It can break security and banking apps, and void your warranty.
 - **Don't keep the phone at 100% brightness** for hours. It adds heat and drains the battery fast.
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/) · [Infinix GT 50 Pro Launching in India on October 27: What We Know](/infinix-gt-50-pro-india-launch-october-27/)
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/) · [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/)
 
 ## The bottom line
 

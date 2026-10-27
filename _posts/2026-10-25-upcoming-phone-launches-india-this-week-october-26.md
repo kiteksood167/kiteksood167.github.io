@@ -3,6 +3,7 @@ title: "Upcoming Phone Launches in India This Week (October 26 to November 1)"
 seo_title: "Upcoming Phone Launches in India This Week"
 description: "Infinix GT 50 Pro launches on October 27 and Apple holds its event on October 28. Plus the big flagships confirmed for India that still have no date."
 date: 2026-10-25 18:43:00 +0530
+last_modified_at: 2026-10-27 14:20:00 +0530
 category: Launches
 also_in: [Phones]
 image: /assets/images/upcoming-phone-launches-india-this-week-october-26.jpg
@@ -19,15 +20,15 @@ It's a quiet week for phone launches in India. Only one new phone has a confirme
 
 | Date | What's launching | Status |
 |---|---|---|
-| Tuesday, October 27 | Infinix GT 50 Pro (gaming phone) | India launch date confirmed by Infinix |
+| Tuesday, October 27 | Infinix GT 50 Pro (gaming phone) | Launched at ₹69,999; first sale October 30 on Flipkart |
 | Wednesday, October 28 | Apple "Pro and Tell" event (Macs and iPads expected, no phones) | Event confirmed by Apple; products not confirmed |
 | No date yet | iQOO 16, Xiaomi 18 Pro, Motorola Signature 27 | India launch confirmed, date and price not announced |
 
-Prices for all of these are still unannounced, so be careful with "India price" claims you see on social media before launch day.
+Apart from the Infinix GT 50 Pro, prices are still unannounced, so be careful with "India price" claims you see on social media before launch day.
 
-## Infinix GT 50 Pro: October 27
+## Infinix GT 50 Pro: launched October 27
 
-Infinix has confirmed that the GT 50 Pro launches in India on Tuesday, October 27, and teasers show it will be sold on Flipkart. It's a gaming phone with a visible liquid cooling system on the back, RGB light strips and pressure-sensitive shoulder triggers. It comes in two colours, Black Abyss and Red Blaze.
+Infinix launched the GT 50 Pro in India on Tuesday, October 27, and it's sold on Flipkart. It's a gaming phone with a visible liquid cooling system on the back, RGB light strips and pressure-sensitive shoulder triggers. It comes in two colours, Black Abyss and Red Blaze.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/gaming-phone-liquid-cooling-rgb-back.jpg" alt="Back of a gaming phone with a see-through liquid cooling panel and green and orange RGB light strips next to a game controller" loading="lazy">
@@ -43,9 +44,9 @@ Infinix has confirmed that the GT 50 Pro launches in India on Tuesday, October 2
 | Main camera | 50MP with OIS |
 | Cooling | HydroFlow liquid cooling |
 
-These specs come from the model already sold in other markets and Infinix's India teasers. The India price, variants and sale date will be revealed at launch.
+**Update, October 27:** The GT 50 Pro is now official in India at **₹69,999** for its only variant, 12GB + 256GB, sold as a bundle with gaming accessories that Infinix values at ₹24,999. There's a ₹5,000 instant discount on select bank credit cards, and the first sale is on **October 30 at 12 PM** on Flipkart.
 
-Pre-booking is open on Infinix's India website for ₹1,999 until October 26. That's a booking amount, not the price. Reports say early bookers get a free Infinix X60 Bluetooth speaker. We have a full preview in our [Infinix GT 50 Pro launch post](/infinix-gt-50-pro-india-launch-october-27/).
+That's far above the ₹35,000–₹40,000 that pre-launch reports guessed. We've updated our [Infinix GT 50 Pro launch post](/infinix-gt-50-pro-india-launch-october-27/) with the full price, offers and specs.
 
 ## Apple's "Pro and Tell" event: October 28
 
@@ -70,11 +71,11 @@ What about the **OnePlus 16** and the **vivo X500** series? Both have launched i
 
 ## Who should wait
 
-If you're about to buy a mid-range gaming phone, wait two days for the GT 50 Pro's official price before you decide. If you're spending ₹80,000 or more on a flagship, it's worth knowing that three new ones are officially on the way, even if they're weeks away.
+If you're about to buy a mid-range gaming phone, note that the GT 50 Pro launched at ₹69,999, so it isn't a mid-range option this time. If you're spending ₹80,000 or more on a flagship, it's worth knowing that three new ones are officially on the way, even if they're weeks away.
 
-> **Tip:** Don't pay a pre-booking amount just for a freebie until you've seen the final price. Check that the booking amount is refundable and adjusted against the price, and compare the launch price with rivals such as our [best gaming phones under ₹30,000](/best-gaming-phones-under-30000/) picks.
+> **Tip:** If you pre-booked the GT 50 Pro expecting a lower price, check that your booking amount is refundable before you decide, and compare it with cheaper rivals such as our [best gaming phones under ₹30,000](/best-gaming-phones-under-30000/) picks.
 
-**Related reading:** [Infinix GT 50 Pro Launching in India on October 27: What We Know](/infinix-gt-50-pro-india-launch-october-27/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
+**Related reading:** [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
 
 ## The bottom line
 
