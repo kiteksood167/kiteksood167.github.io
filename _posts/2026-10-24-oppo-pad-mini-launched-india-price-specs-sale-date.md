@@ -82,7 +82,7 @@ Two alternatives to compare:
 
 > **Tip:** If you're torn between the Pad Mini and an iPad mini, wait for Apple's October 28 event before you pre-order. The OPPO goes on sale a day later, on October 29, so you'll know what Apple has announced and at what price before you have to decide.
 
-**Related reading:** [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [OnePlus ColorOS 17 Update Rolls Out in India: Which Phones Get It and When](/oneplus-coloros-17-update-india-schedule/)
+**Related reading:** [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 
