@@ -90,7 +90,7 @@ A real gaming laptop is hard to find under $700 right now. PCWorld's budget gami
 - **The lowest price:** a Chromebook Plus bought on sale, if your coursework is mostly web-based.
 - **Engineering or design students:** check your program's software list first. You may need Windows, 16GB of memory or a stronger chip, which can mean a bigger budget.
 
-**Related reading:** [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/)
+**Related reading:** [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Tablets Under $300 in 2026: iPad, Galaxy Tab and Budget Picks](/best-tablets-under-300/)
 
 ## The bottom line
 
