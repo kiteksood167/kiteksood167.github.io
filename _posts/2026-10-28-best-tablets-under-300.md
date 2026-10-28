@@ -3,6 +3,9 @@ title: "Best Tablets Under $300 in 2026: iPad, Galaxy Tab and Budget Picks"
 seo_title: "Best Tablets Under $300 in 2026"
 description: "The best tablets under $300 right now, from the A16 iPad on sale to Samsung's Galaxy Tab A11+ and a $75 Fire tablet, with prices and who each suits."
 date: 2026-10-28 20:38:00 +0530
+image: /assets/images/best-tablets-under-300.jpg
+image_alt: "Four tablets of different sizes with colourful screens lined up on a wooden desk next to a stylus and a blank price tag"
+image_credit: "Illustration, not the actual products"
 category: Global
 also_in: [Tablets]
 tags: [tablets, budget tablet, ipad, galaxy tab, fire tablet, buying guide]
@@ -49,8 +52,6 @@ What you don't get: S Pen support, a fingerprint reader, or a high-end display. 
 
 {% include buy.html name="Samsung Galaxy Tab A11+" query="Samsung Galaxy Tab A11+ 11 inch" store="us" note="Seven years of updates, quad speakers, microSD" %}
 
-<!-- inline image 1 -->
-
 ## 3. Samsung Galaxy Tab A9+: best under $150
 
 The Galaxy Tab A9+ is older, but it's now so cheap that it's still worth a look. Its list price is $219, and it often sells for $130 to $150. For that you get an 11-inch 90Hz screen, quad speakers and a Snapdragon 695 chip that handles streaming, browsing and casual games well.
@@ -60,6 +61,11 @@ Its main weaknesses are slow 15W charging, weak cameras and only 64GB of storage
 **Best for:** a cheap second screen for Netflix, YouTube and browsing.
 
 {% include buy.html name="Samsung Galaxy Tab A9+" query="Samsung Galaxy Tab A9+ 11 inch" store="us" note="Often $130 to $150; pick 128GB if you can" %}
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/student-tablet-notes-stylus-desk.jpg" alt="A student writing notes on a tablet with a stylus at a desk with books and a lamp" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 4. Lenovo Tab M11: best for note-taking on a budget
 
@@ -81,7 +87,10 @@ It runs Amazon's Fire OS, not standard Android, so there's no Google Play Store,
 
 {% include buy.html name="Amazon Fire HD 10" query="Amazon Fire HD 10 tablet" store="us" note="Wait for a sale; it often drops below $100" %}
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/family-tablet-streaming-sofa.jpg" alt="A mother and son lying on a sofa watching a show on a tablet in a stand case" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What to check before you buy
 
