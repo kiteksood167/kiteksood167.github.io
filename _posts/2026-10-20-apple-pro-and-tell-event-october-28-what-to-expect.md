@@ -101,11 +101,11 @@ At least one report also mentions a **14-inch iPad** with an M6 chip. That's les
 
 India prices for the M6 MacBook Pro, iPad mini and M6 iMac are in the update at the top of this post. The OLED touchscreen MacBook Pro has **no India price yet**. Be careful with "leaked India prices" for it on social media, because they're usually guesses.
 
-> **Tip:** Planning to buy a current MacBook Pro or iPad mini? Wait until after October 28. A new launch often brings discounts and exchange offers on older models, and you'll know whether the new features are worth the extra money.
+> **Tip:** Planning to buy an older MacBook Pro or iPad mini? Check prices again after October 28. A new launch often brings discounts and exchange offers on older models, and you'll know whether the new features are worth the extra money.
 
 ## Should you wait?
 
-- **Wait** if you were planning to buy a MacBook Pro, iMac or iPad mini in the next few months. The event is only days away.
+- **Compare first** if you were planning to buy a MacBook Pro, iMac or iPad mini. The new M6 and OLED models are now listed, so older models may get discounts and exchange offers.
 - **Don't wait** if you need a MacBook Air or a regular iPad right now. Those aren't expected to change at this event.
 - **Consider waiting for reviews** of the touchscreen MacBook Pro. A big first-generation change like touch and OLED can have early issues that only show up in real-world use.
 
