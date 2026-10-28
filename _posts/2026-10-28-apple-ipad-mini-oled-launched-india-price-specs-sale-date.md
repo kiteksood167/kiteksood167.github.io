@@ -3,6 +3,9 @@ title: "Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date"
 seo_title: "iPad mini OLED India Price, Specs and Sale Date"
 description: "Apple's new iPad mini with an 8.5-inch OLED screen and A20 Pro starts at ₹82,900 in India. All variant prices, pre-order and sale dates, specs and rivals."
 date: 2026-10-28 18:45:00 +0530
+image: /assets/images/apple-ipad-mini-oled-launched-india-price-specs-sale-date.jpg
+image_alt: "A small tablet with a colourful OLED screen and a stylus standing on a round black stage lit by green and orange lights"
+image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Tablets]
 tags: [apple, ipad mini, ipad, tablets, oled, a20 pro, launch]
@@ -49,11 +52,21 @@ The nano-texture glass, which cuts reflections, is an extra ₹12,000 and is onl
 
 ## What's new
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/small-tablet-reading-one-hand-night.jpg" alt="A person on a sofa holding a small tablet in one hand and reading an article at night by lamp light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 **OLED screen.** This is the first iPad mini with OLED, following the iPad Pro. OLED gives deeper blacks and better contrast than the LCD used before, which helps with films, photos and reading in a dark room. The refresh rate stays at 60Hz, so scrolling won't feel as smooth as on 120Hz tablets.
 
 **A20 Pro chip.** The new mini uses the same chip family as Apple's current Pro iPhones, built on a 2nm process. Apple says it's much faster for AI tasks, though independent tests aren't out yet.
 
 **Water resistance.** An IP67 rating is new for the iPad mini. It means the tablet should survive dust and a short dip in water, which is useful if you read in the kitchen or by the pool.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/small-tablet-water-splash-ip67.jpg" alt="A small tablet on a stand on a wet kitchen counter with water splashing across its screen" loading="lazy">
+  <figcaption>Illustration, not the actual product</figcaption>
+</figure>
 
 **Speakers in the display.** Apple has moved the speakers into the display assembly, which it calls Acoustic Display. We'll need reviews to know how they sound.
 
