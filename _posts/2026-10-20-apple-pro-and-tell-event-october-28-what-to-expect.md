@@ -9,6 +9,8 @@ image_credit: "Concept illustration — not the actual products"
 category: Launches
 also_in: [Laptops, Tablets, Global]
 tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
+last_modified_at: 2026-10-28 15:00:00 +0530
+update_note: "Apple has launched the M6 MacBook Pro, M6 iMac and OLED iPad mini in India; pre-orders open tonight at 10:40 PM."
 ---
 
 Apple has officially confirmed its next hardware event, called **"Pro and Tell"**, for **Wednesday, October 28, 2026**. The name points strongly at new MacBook Pro laptops. Reports also expect a new iPad mini and an updated iMac, which would make this one of Apple's most important Mac launches in years.
@@ -16,6 +18,20 @@ Apple has officially confirmed its next hardware event, called **"Pro and Tell"*
 <!--more-->
 
 Here's what Apple has confirmed so far, what's only reported, and when to watch from India.
+
+## Update, October 28: three products are already official
+
+Apple didn't wait for the event. On October 27 it announced three products through press releases, with India prices. Pre-orders in India open on **October 28 at 10:40 PM IST**, and sales start on **November 6**.
+
+| Product | Starting price in India | Key details |
+|---|---|---|
+| **14-inch MacBook Pro (M6)** | ₹2,39,900 (₹2,27,900 education price) | 12-core CPU and GPU, 16GB memory and 1TB storage as standard, up to 24 hours of battery (Apple's claim), Wi-Fi 7, Space Black and Silver |
+| **iPad mini (OLED, A20 Pro)** | ₹82,900 (128GB Wi-Fi) | 8.5-inch OLED display, A20 Pro chip, IP67 rating, Wi-Fi 7, Apple Pencil Pro support, Midnight and Starlight |
+| **24-inch iMac (M6)** | ₹1,74,900, as reported by Indian business news sites | 4.5K Retina display, up to 12-core CPU and GPU, Wi-Fi 7, seven colours |
+
+India launch offers on the MacBook Pro include ₹15,000 cashback with eligible American Express, Axis Bank and ICICI Bank cards, and no-cost EMI for up to 12 months. The new iPad mini costs ₹13,000 more than the previous model, which started at ₹69,900.
+
+The big one is still to come. The **OLED touchscreen MacBook Pro** hasn't been announced yet, and reports expect it at the event itself. The details below for that model are still unconfirmed.
 
 ## Event date and India time
 
@@ -26,13 +42,13 @@ Here's what Apple has confirmed so far, what's only reported, and when to watch 
 | **Time in the US** | 10:00 AM Pacific / 1:00 PM Eastern |
 | **Time in India** | **10:30 PM IST**, October 28 |
 | **Location** | Los Angeles |
-| **Livestream** | Not confirmed yet |
+| **Format** | A hands-on launch experience for press and creators, not a traditional keynote; Apple hasn't announced a livestream |
 
-Apple has confirmed the name, date, time and location. It hasn't yet said whether the event will be streamed live on its website and YouTube, as most of its recent launches have been. We'll update this post once it does.
+Apple has confirmed the name, date, time and location. Unlike most Apple launches, this is a hands-on event for invited press and creators in Los Angeles, and Apple hasn't announced a public livestream. New products are likely to arrive by press release and video on Apple's website, as the October 27 launches did.
 
-## What Apple is expected to launch
+## What Apple was expected to launch
 
-Everything below comes from reports by Apple-focused news sites and analysts. **Apple has not confirmed any of these products yet.**
+We wrote this section before the October 27 announcements. The M6 MacBook Pro, iPad mini and M6 iMac are now official (see the update above). **The OLED touchscreen MacBook Pro is still unconfirmed.**
 
 ### 1. Touchscreen OLED MacBook Pro (14-inch and 16-inch)
 
@@ -83,7 +99,7 @@ At least one report also mentions a **14-inch iPad** with an M6 chip. That's les
 
 ## What about India prices and availability?
 
-Apple usually announces India prices on its India website the same night as a global launch, and pre-orders often open soon after. Since Apple hasn't announced the products yet, **no India prices are known**. Be careful with "leaked India prices" shared on social media before the event, because they're usually guesses.
+India prices for the M6 MacBook Pro, iPad mini and M6 iMac are in the update at the top of this post. The OLED touchscreen MacBook Pro has **no India price yet**. Be careful with "leaked India prices" for it on social media, because they're usually guesses.
 
 > **Tip:** Planning to buy a current MacBook Pro or iPad mini? Wait until after October 28. A new launch often brings discounts and exchange offers on older models, and you'll know whether the new features are worth the extra money.
 
@@ -97,4 +113,4 @@ Apple usually announces India prices on its India website the same night as a gl
 
 ## The bottom line
 
-Apple's October 28 "Pro and Tell" event, at 10:30 PM IST, is expected to bring the biggest MacBook Pro redesign in years, with OLED and a touchscreen, plus an OLED iPad mini and an M6 iMac. Apple has confirmed only the event so far, so check back after the keynote, when we'll cover the official India prices, specs and sale dates.
+Apple has already launched the M6 MacBook Pro (from ₹2,39,900), the OLED iPad mini (from ₹82,900) and the M6 iMac, with India pre-orders opening at 10:40 PM IST tonight and sales from November 6. The OLED touchscreen MacBook Pro is still expected at the October 28 "Pro and Tell" event, and we'll update this post once Apple makes it official.
