@@ -1,7 +1,7 @@
 ---
 title: "Apple 'Pro and Tell' Event on October 28: What to Expect and India Time"
 seo_title: "Apple Oct 28 Event: What to Expect & India Time"
-description: "Everything Apple launched at its October 28 'Pro and Tell' event: the touchscreen OLED MacBook Pro, M6 MacBook Pro, M6 iMac and OLED iPad mini, with India prices."
+description: "Everything from Apple's October 28 'Pro and Tell' event: the touchscreen OLED MacBook Pro, M6 MacBook Pro, M6 iMac and iPad mini, with India prices."
 date: 2026-10-20 04:10:00 +0530
 image: /assets/images/apple-event-oct-28-cover.jpg
 image_alt: "Concept illustration of a laptop and tablet on a dark background with green and orange light"
