@@ -3,6 +3,9 @@ title: "Diwali Gadget Buying Tips: How to Get the Best Deal Online"
 seo_title: "Diwali Gadget Buying Tips: Get the Best Deal"
 description: "Buying a phone, laptop or earbuds in a Diwali sale? Check real price history, bank offers, no-cost EMI costs, exchange value and the seller before you pay."
 date: 2026-10-28 14:05:00 +0530
+image: /assets/images/diwali-gadget-buying-tips.jpg
+image_alt: "A smartphone showing a shopping cart and a falling price graph on a wooden table with diyas, marigolds, a credit card and a gold gift box"
+image_credit: "Illustration"
 category: Guides
 also_in: [Phones, Accessories]
 tags: [Diwali sale, online shopping, buying guide, bank offers, no-cost EMI, exchange offer, Amazon, Flipkart]
@@ -26,6 +29,11 @@ The strike-through MRP on a listing is often a price nobody pays. What matters i
 - Use a price-history website or browser extension to see the product's lowest price over the past few months.
 - Compare it with the launch price. If a phone launched at ₹19,999 and the "sale price" is ₹19,499, that's not a festival deal.
 - Check the same model on both Amazon and Flipkart, and on the brand's own website. Brands sometimes run their own Diwali offers.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/diwali-sale-price-check-phone-laptop.jpg" alt="Hands comparing gadget prices on a phone next to a laptop showing a falling price graph, with diyas and marigolds on the desk" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 3. Read the bank offer's small print
 
@@ -60,6 +68,11 @@ On marketplaces, the product page shows who the seller is. For phones, laptops a
 - Make sure you'll get a GST invoice, which you'll need for warranty claims.
 - Check the warranty details. Brand warranty is valid at authorised service centres; "seller warranty" may not be.
 - Read the return rules on the product page. Many phones and electronics can only be replaced, not refunded, and only within a short window.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/gadget-unboxing-invoice-warranty-diwali.jpg" alt="An opened phone box with charger and cable, wireless earbuds, a printed invoice and a warranty card on a table with diyas and marigolds" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 7. Watch out for checkout tricks
 
