@@ -3,9 +3,6 @@ title: "Diwali Gadget Buying Tips: How to Get the Best Deal Online"
 seo_title: "Diwali Gadget Buying Tips: Get the Best Deal"
 description: "Buying a phone, laptop or earbuds in a Diwali sale? Check real price history, bank offers, no-cost EMI costs, exchange value and the seller before you pay."
 date: 2026-10-28 14:05:00 +0530
-image: /assets/images/diwali-gadget-buying-tips.jpg
-image_alt: "A smartphone showing a shopping cart and a price graph on a table with diyas, marigolds, a credit card and a small gift box"
-image_credit: "Illustration"
 category: Guides
 also_in: [Phones, Accessories]
 tags: [Diwali sale, online shopping, buying guide, bank offers, no-cost EMI, exchange offer, Amazon, Flipkart]
