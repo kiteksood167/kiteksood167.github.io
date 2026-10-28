@@ -9,7 +9,7 @@ image_credit: "Illustration"
 category: Guides
 also_in: [Phones, Accessories]
 tags: [Diwali sale, online shopping, buying guide, bank offers, no-cost EMI, exchange offer, Amazon, Flipkart]
-affiliate: false
+affiliate: true
 ---
 
 Diwali falls on 8 November this year, and the festive sales are in full swing. Amazon's Great Indian Festival has been running since 8 October, and Flipkart's Big Bang Diwali Sale starts today, 28 October. A big "70% off" banner doesn't always mean a good deal, though. These tips will help you work out what you'll really pay before you click Buy.
@@ -87,6 +87,10 @@ Festive season is busy for scammers too. Ignore WhatsApp forwards and SMS messag
 ## What to buy now, and what to wait for
 
 Diwali sales are a good time for budget and mid-range phones, earbuds, smartwatches, power banks and laptops, because prices usually drop across the whole category at once. If a product was launched in the last few weeks, though, the discount may be small, and you might get a better price in later sales.
+
+{% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Check the final price after bank offers, not the MRP" %}
+
+{% include buy.html name="ANC wireless earbuds" query="ANC TWS earbuds" note="Compare the price with the last few weeks before you buy" %}
 
 If you're buying a gift, our guide to the [best Diwali gift gadgets under ₹2,000](/best-diwali-gift-gadgets-under-2000/) lists useful picks that won't end up in a drawer.
 

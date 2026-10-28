@@ -8,6 +8,7 @@ image_alt: "A half-open book-style foldable phone on a dark desk with a crack ru
 image_credit: "Illustration, not the actual product"
 category: Phones
 news: true
+affiliate: true
 tags: [apple, iphone duo, foldable phones, display, replacement, news]
 ---
 
@@ -61,6 +62,8 @@ Apple has also published a support page for iPhone Duo hinge problems. It covers
 ## Should you still buy one?
 
 If you were planning to buy an iPhone Duo, there's no harm in waiting a few weeks. That gives Apple time to explain the cause and to show whether newer stock is fixed. With prices starting at ₹2,99,900, it's worth being sure. If you buy now, check the inner screen carefully on day one and keep the box and invoice.
+
+{% include buy.html name="Apple iPhone Duo" query="Apple iPhone Duo" note="From ₹2,99,900; check the inner screen on day one and keep the invoice" %}
 
 Our [iPhone Duo launch post](/apple-iphone-duo-launched-india-price-specs-sale-date/) has the full India prices, specs and close rivals, including Samsung's Galaxy Z Fold8.
 

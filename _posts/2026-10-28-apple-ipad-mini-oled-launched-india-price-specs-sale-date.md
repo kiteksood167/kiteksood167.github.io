@@ -8,6 +8,7 @@ image_alt: "A small tablet with a colourful OLED screen and a stylus standing on
 image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Tablets]
+affiliate: true
 tags: [apple, ipad mini, ipad, tablets, oled, a20 pro, launch]
 ---
 
@@ -79,6 +80,10 @@ The new iPad mini makes most sense for people who want a tablet that fits in one
 It's harder to recommend if you mainly want a big screen for study or work. At ₹82,900, it costs more than many larger tablets, and an iPad Air gives you a bigger screen.
 
 The closest rival in India is the [OPPO Pad Mini](/oppo-pad-mini-launched-india-price-specs-sale-date/), an 8.8-inch Android tablet with a matte OLED screen and a Snapdragon 8 Gen 5 chip at ₹94,999. It has a slightly larger screen, while the iPad mini starts cheaper and gets Apple's long software support.
+
+{% include buy.html name="Apple iPad mini (2026)" query="Apple iPad mini OLED A20 Pro" note="From ₹82,900; pre-orders from October 28, sale from November 6" %}
+
+{% include buy.html name="Apple Pencil Pro" query="Apple Pencil Pro" note="Works with the new iPad mini; buy separately" %}
 
 **Related reading:** [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
 
