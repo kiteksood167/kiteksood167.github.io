@@ -1,7 +1,7 @@
 ---
 title: "Apple Admits iPhone Duo Inner Screen Problem: What Owners in India Should Do"
 seo_title: "iPhone Duo Inner Screen Problem: What to Do"
-description: "Apple says a small number of iPhone Duo units have a faulty inner display and will replace them. Here are the symptoms and what to do if your phone has them."
+description: "Apple says a small number of iPhone Duo units have a faulty inner display. Here are the symptoms to check and what to do if your phone is affected."
 date: 2026-10-28 14:45:00 +0530
 category: Phones
 news: true
