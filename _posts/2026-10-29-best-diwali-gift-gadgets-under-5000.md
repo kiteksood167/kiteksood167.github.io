@@ -6,6 +6,9 @@ category: Accessories
 also_in: [Audio, Wearables, Smart Home]
 tags: [Diwali gifts, gift ideas, gadgets under 5000, earbuds, smartwatch, power bank, Bluetooth speaker, Echo Dot, Fire TV Stick]
 affiliate: true
+image: /assets/images/best-diwali-gift-gadgets-under-5000.jpg
+image_alt: "Wireless earbuds, a smartwatch, a power bank, a portable speaker, a smart speaker and a TV streaming stick on a table with diyas, marigolds and gold gift boxes"
+image_credit: "Illustration, not the actual products"
 ---
 
 A ₹5,000 budget opens up a better class of Diwali gift: earbuds with strong noise cancelling, a smartwatch with built-in GPS, or a smart speaker that a parent will use every day. With Diwali on 8 November and festive sales still running, here are six gadgets that are worth the money, each checked against current Indian prices.
@@ -25,7 +28,10 @@ A ₹5,000 budget opens up a better class of Diwali gift: earbuds with strong no
 
 Prices are the lowest we found on major Indian stores in October 2026. They change quickly during festive sales, so check the final price, including bank offers, before you pay.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/daughter-gifting-father-diwali-gadgets.jpg" alt="A young woman giving a wrapped Diwali gift to her smiling father in a living room lit with diyas, with earbuds and a smartwatch on the table" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 1. OnePlus Nord Buds 3 Pro: best earbuds under ₹5,000
 
@@ -67,7 +73,10 @@ At 4.2W, it's for personal listening, picnics and hostel rooms, not for a big Di
 
 {% include buy.html name="JBL Go 4" query="JBL Go 4 Bluetooth speaker" note="IP67, about 7 hours of battery" %}
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/smartwatch-heart-rate-diwali-balcony.jpg" alt="A man checking a heart-rate screen on his smartwatch while holding a phone on a balcony with Diwali lights and a small speaker" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 5. Redmi Watch 5 Lite: best smartwatch under ₹5,000
 
