@@ -94,7 +94,7 @@ Diwali sales are a good time for budget and mid-range phones, earbuds, smartwatc
 
 If you're buying a gift, our guide to the [best Diwali gift gadgets under ₹2,000](/best-diwali-gift-gadgets-under-2000/) lists useful picks that won't end up in a drawer.
 
-**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
+**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/) · [Ai+ Phones Get Costlier From November 15: Up to ₹3,000 Price Hike](/ai-plus-smartphone-price-hike-november-15/)
 
 ## The bottom line
 
