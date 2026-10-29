@@ -85,7 +85,7 @@ The closest rival in India is the [OPPO Pad Mini](/oppo-pad-mini-launched-india-
 
 {% include buy.html name="Apple Pencil Pro" query="Apple Pencil Pro" note="Works with the new iPad mini; buy separately" %}
 
-**Related reading:** [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
+**Related reading:** [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple MacBook Pro With OLED Touchscreen Launched in India: Price, Specs and Sale Date](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 

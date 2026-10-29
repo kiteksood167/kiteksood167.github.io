@@ -9,8 +9,8 @@ image_credit: "Concept illustration — not the actual products"
 category: Launches
 also_in: [Laptops, Tablets, Global]
 tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
-last_modified_at: 2026-10-28 23:50:00 +0530
-update_note: "Apple's first touchscreen MacBook Pro with an OLED display is official, from ₹3,49,900 in India; sales start November 6."
+last_modified_at: 2026-10-29 18:48:00 +0530
+update_note: "Apple's first touchscreen MacBook Pro with an OLED display is official, from ₹3,49,900 in India; it reaches India on November 9."
 ---
 
 Apple has officially confirmed its next hardware event, called **"Pro and Tell"**, for **Wednesday, October 28, 2026**. The name points strongly at new MacBook Pro laptops. Reports also expect a new iPad mini and an updated iMac, which would make this one of Apple's most important Mac launches in years.
@@ -26,11 +26,11 @@ At the "Pro and Tell" event, Apple announced the **MacBook Pro with PROLED XDR D
 | Model | US price | India price |
 |---|---|---|
 | 14-inch, M5 Pro | $2,899 | ₹3,49,900 |
-| 16-inch, M5 Pro | $3,399 | ₹4,09,900 (as reported) |
-| 14-inch, M5 Max | $4,499 | Not yet confirmed |
-| 16-inch, M5 Max | $4,799 | Not yet confirmed |
+| 16-inch, M5 Pro | $3,399 | ₹4,09,900 |
+| 14-inch, M5 Max | $4,499 | ₹5,49,900 |
+| 16-inch, M5 Max | $4,799 | ₹5,89,900 |
 
-US prices are from Apple's press release. The India starting price of ₹3,49,900 is reported by several Indian and international tech sites; check Apple's India store for the full price list. Apple says pre-orders are open in 30 countries and regions, with sales from **Friday, November 6**.
+US prices are from Apple's press release; India prices are the starting prices reported by Indian tech sites. Pre-orders are open, with sales in the US from **Friday, November 6** and in India from **Monday, November 9**, according to Indian tech sites. All seven India configurations are in our [MacBook Pro OLED India launch post](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/).
 
 **Key specs, according to Apple:**
 
@@ -124,7 +124,7 @@ At least one report also mentions a **14-inch iPad** with an M6 chip. That's les
 
 ## What about India prices and availability?
 
-India prices for all the new products are in the updates at the top of this post. The touchscreen OLED MacBook Pro starts at ₹3,49,900 for the 14-inch M5 Pro model, and the M5 Max prices for India aren't confirmed yet, so check Apple's India store before you order.
+India prices for all the new products are in the updates at the top of this post. The touchscreen OLED MacBook Pro starts at ₹3,49,900 for the 14-inch M5 Pro model, and the M5 Max models start at ₹5,49,900. Check Apple's India store before you order.
 
 > **Tip:** Planning to buy an older MacBook Pro or iPad mini? Check prices again after October 28. A new launch often brings discounts and exchange offers on older models, and you'll know whether the new features are worth the extra money.
 
@@ -134,8 +134,8 @@ India prices for all the new products are in the updates at the top of this post
 - **Don't wait** if you need a MacBook Air or a regular iPad right now. Those aren't expected to change at this event.
 - **Consider waiting for reviews** of the touchscreen MacBook Pro. A big first-generation change like touch and OLED can have early issues that only show up in real-world use.
 
-**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [New Apple TV 4K (2026) Launched in India at ₹39,900: What's New and Is It Worth It?](/apple-tv-4k-2026-india-price-features/)
+**Related reading:** [Apple MacBook Pro With OLED Touchscreen Launched in India: Price, Specs and Sale Date](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/) · [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
 
 ## The bottom line
 
-Apple's "Pro and Tell" launches are all official. The headline product is the MacBook Pro with PROLED XDR Display, Apple's first touchscreen Mac with an OLED screen, from ₹3,49,900 in India. It joins the M6 MacBook Pro (from ₹2,39,900), the OLED iPad mini (from ₹82,900) and the M6 iMac, and all of them go on sale on November 6. If you're tempted by the touchscreen model, it's worth waiting for the first reviews before you spend this much.
+Apple's "Pro and Tell" launches are all official. The headline product is the MacBook Pro with PROLED XDR Display, Apple's first touchscreen Mac with an OLED screen, from ₹3,49,900 in India. It joins the M6 MacBook Pro (from ₹2,39,900), the OLED iPad mini (from ₹82,900) and the M6 iMac. The October 27 products go on sale on November 6, and the touchscreen model reaches India on November 9. If you're tempted by the touchscreen model, it's worth waiting for the first reviews before you spend this much.
