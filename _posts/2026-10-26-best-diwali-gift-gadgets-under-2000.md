@@ -86,7 +86,7 @@ Think about what the person already uses every day. Someone who commutes by metr
 
 Also consider the timing. Festive prices change daily, and the same product can be ₹200–300 cheaper on a different store. Check two or three sites before you buy.
 
-**Related reading:** [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/) · [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/)
+**Related reading:** [Best Diwali Gift Gadgets Under ₹5,000](/best-diwali-gift-gadgets-under-5000/) · [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/)
 
 ## The bottom line
 
