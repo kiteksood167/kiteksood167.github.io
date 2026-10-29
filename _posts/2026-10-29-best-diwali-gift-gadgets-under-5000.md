@@ -1,7 +1,7 @@
 ---
 title: "Best Diwali Gift Gadgets Under ₹5,000"
 description: "Six Diwali gift gadgets under ₹5,000 in India: ANC earbuds, a GPS smartwatch, a fast power bank, a JBL speaker, an Echo Dot and a Fire TV Stick."
-date: 2026-10-29 16:00:00 +0530
+date: 2026-10-29 15:30:00 +0530
 category: Accessories
 also_in: [Audio, Wearables, Smart Home]
 tags: [Diwali gifts, gift ideas, gadgets under 5000, earbuds, smartwatch, power bank, Bluetooth speaker, Echo Dot, Fire TV Stick]
