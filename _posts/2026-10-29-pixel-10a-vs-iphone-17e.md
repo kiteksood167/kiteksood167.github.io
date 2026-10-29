@@ -5,6 +5,9 @@ description: "Both phones now cost $699 with 256GB. We compare the Pixel 10a and
 date: 2026-10-29 20:00:00 +0530
 category: Global
 also_in: [Phones]
+image: /assets/images/pixel-10a-vs-iphone-17e.jpg
+image_alt: "A lavender phone with a wide camera bar and a white phone with a single camera, standing side by side on a grey pedestal"
+image_credit: "Illustration, not the actual products"
 tags: [pixel 10a, iphone 17e, comparison, google, apple, budget phones, usa, uk]
 affiliate: true
 ---
@@ -41,7 +44,10 @@ If 128GB is enough for you, and it is for most people who keep photos in the clo
 
 The Pixel has the bigger, smoother and brighter screen. Its 6.3-inch OLED runs at up to 120Hz, so scrolling looks much smoother, and Tom's Guide measured it at 1,896 nits peak brightness against 1,002 nits for the iPhone. The iPhone 17e is stuck at 60Hz, which feels dated next to almost any Android phone at this price, and it still has a notch instead of a small punch-hole.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-scrolling-photo-feed-street.jpg" alt="Hands scrolling through a colourful photo grid on a bright smartphone screen on a sunny city street" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Performance: iPhone wins by a mile
 
@@ -59,7 +65,10 @@ The Pixel has a much bigger 5,100mAh battery, and in Tom's Guide's battery test 
 
 The iPhone fights back with **MagSafe**. Magnetic chargers, wallets, car mounts and stands snap straight onto it, while the Pixel's 10W wireless charging has no magnets built in.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phones-charging-bedside-magnetic-stand.jpg" alt="A white phone on a magnetic wireless charging stand and a dark phone charging by USB-C cable on a bedside table at night" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 > **Tip:** Don't pay full price if you're with a carrier. Both phones are often heavily discounted or free with a new line or trade-in at US carriers, though that usually locks you into a plan. Our guide to [unlocked vs carrier phones](/unlocked-vs-carrier-phones/) explains the trade-off.
 
