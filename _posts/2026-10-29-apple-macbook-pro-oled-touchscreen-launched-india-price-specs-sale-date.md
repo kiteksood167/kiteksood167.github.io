@@ -6,6 +6,9 @@ date: 2026-10-29 18:48:00 +0530
 category: Launches
 also_in: [Laptops]
 affiliate: true
+image: /assets/images/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date.jpg
+image_alt: "A space-black laptop with a colourful OLED screen and a small pill-shaped cutout at the top, on a reflective stage lit in green and orange"
+image_credit: "Illustration, not the actual product"
 tags: [apple, macbook pro, laptops, oled, touchscreen, m5 pro, m5 max, launch]
 ---
 
@@ -36,7 +39,10 @@ These are the standard configurations listed by FoneArena. The optional nano-tex
 - **Colours:** Space Black and Silver
 - **Launch offers:** ₹15,000 cashback with eligible American Express, Axis Bank and ICICI Bank cards, plus no-cost EMI for up to 12 months, according to Business Standard
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/laptop-touchscreen-video-editing-timeline.jpg" alt="A finger touching a laptop screen to move through a video editing timeline, with a coffee mug and camera on the desk" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Key specs
 
@@ -63,7 +69,10 @@ Both sizes fast charge to 50% in about 30 minutes, according to Apple, and run m
 
 **Lighter and thinner.** The 14-inch model weighs about 1.38kg and the 16-inch about 1.82kg with the M5 Pro chip, a little less than the previous models.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/photographer-editing-night-city-photo-oled-laptop.jpg" alt="A photographer editing a night city photo on a dark laptop with a bright, high-contrast screen, with a camera and lens on the desk" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 > **Tip:** The 14-inch M5 Pro model at ₹3,49,900 already includes 24GB of memory and 1TB of storage, which is plenty for most video editors and developers. Only pay for the M5 Max if you work with heavy 3D, 8K video or large AI models.
 
