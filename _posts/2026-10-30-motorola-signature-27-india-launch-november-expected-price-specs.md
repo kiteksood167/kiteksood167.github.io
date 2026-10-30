@@ -7,7 +7,7 @@ category: Launches
 also_in: [Phones]
 affiliate: true
 image: /assets/images/motorola-signature-27-india-launch-november-expected-price-specs.jpg
-image_alt: "A dark grey phone with a woven-texture back and a large camera module, standing next to an olive green version on a stage"
+image_alt: "A black phone and an olive green phone with textured backs and large square camera modules, standing on a dark stage with warm lights"
 image_credit: "Illustration, not the actual product"
 tags: [motorola, motorola signature 27, flagship phones, snapdragon 8 elite extreme gen 6, upcoming phones, launch]
 ---
@@ -35,7 +35,10 @@ These details come from Motorola's India page and its official teasers, as repor
 
 Motorola first showed the phone at Qualcomm's Snapdragon Summit in September, and its India marketing head confirmed the India launch at the India Mobile Congress earlier this month.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-zoom-camera-rooftop-temple-sunset.jpg" alt="A man on a rooftop at sunset zooming his phone camera into a distant domed temple, shown sharply on the screen" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Expected specs (not confirmed)
 
@@ -58,7 +61,10 @@ Motorola hasn't said anything about price, and the estimates vary a lot:
 
 For context, the current **Motorola Signature** launched in India in January at **₹59,999** for 12GB + 256GB, going up to ₹69,999 for 16GB + 1TB. A Snapdragon 8 Elite Extreme Gen 6 chip, a 200MP zoom camera and Bang & Olufsen audio all suggest the Signature 27 will cost noticeably more. Our best guess is somewhere between ₹70,000 and ₹1 lakh, but treat that as a guess until Motorola announces it.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-gaming-racing-game-olive-green.jpg" alt="Hands holding an olive green phone sideways, playing a fast racing game on a bright screen in a lamp-lit room" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Signature 27 vs Motorola Signature: what's changing
 
