@@ -94,7 +94,7 @@ The bigger question is which system you already use. If you have a Mac, an Apple
 
 {% include buy.html name="Apple iPhone 17e" query="Apple iPhone 17e 256GB" store="us" note="A19 chip, MagSafe, 256GB as standard" %}
 
-With Black Friday on November 27, it's worth checking for deals before you buy. After two price hikes, though, we wouldn't expect either phone to drop back to its spring price.
+With Black Friday on November 27, it's worth checking for deals before you buy (here's [how to spot a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)). After two price hikes, though, we wouldn't expect either phone to drop back to its spring price.
 
 **Related reading:** [Unlocked vs Carrier Phones: Which Should You Buy in 2026?](/unlocked-vs-carrier-phones/) · [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/)
 
