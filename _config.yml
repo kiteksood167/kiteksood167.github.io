@@ -67,7 +67,7 @@ defaults:
   - scope: { path: "", type: posts }
     values: { layout: post }
   - scope: { path: "" }
-    values: { layout: page }
+    values: { layout: page, image: /assets/og-default.jpg }   # default share image for pages without their own
 
 exclude:
   - README.md
