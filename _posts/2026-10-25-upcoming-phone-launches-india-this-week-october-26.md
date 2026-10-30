@@ -65,7 +65,7 @@ These three flagships were confirmed for India at India Mobile Congress (IMC) 20
 
 - **iQOO 16:** iQOO India's CEO, Nipun Marya, confirmed it's coming to India. It launched in China on September 29 with a Snapdragon 8 Elite Extreme Gen 6 chip, an 8,400mAh battery and three 50MP rear cameras, starting at CNY 5,999 (about ₹86,000). Reports expect the India launch around December or early 2027, but iQOO hasn't confirmed timing.
 - **Xiaomi 18 Pro:** Xiaomi confirmed the India launch on stage at Qualcomm's Snapdragon event at IMC. The China model has a small 2.7-inch display on the back, two 200MP cameras (main and telephoto) tuned with Leica, and a 7,000mAh battery with 100W charging. Reports suggest it may arrive by the end of December.
-- **Motorola Signature 27:** Motorola's India marketing head confirmed it at IMC. Reports say it uses a Snapdragon 8 Elite Extreme Gen 6 chip and a 200MP periscope telephoto camera, and Motorola promises seven years of Android updates. Some reports expect a November launch, but there's no official date.
+- **Motorola Signature 27:** Motorola's India marketing head confirmed it at IMC. Reports say it uses a Snapdragon 8 Elite Extreme Gen 6 chip and a 200MP periscope telephoto camera, and Motorola promises seven years of Android updates. Some reports expect a November launch, but there's no official date. **Update, October 30:** Motorola's India site now says "coming this November". See our [Motorola Signature 27 expected price and specs](/motorola-signature-27-india-launch-november-expected-price-specs/).
 
 What about the **OnePlus 16** and the **vivo X500** series? Both have launched in China, and reports expect them in India soon, but neither brand has confirmed an India launch date yet.
 
