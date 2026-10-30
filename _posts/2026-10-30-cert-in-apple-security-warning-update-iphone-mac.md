@@ -6,6 +6,9 @@ date: 2026-10-30 13:47:00 +0530
 category: Phones
 also_in: [Laptops, Tablets]
 news: true
+image: /assets/images/cert-in-apple-security-warning-update-iphone-mac.jpg
+image_alt: "A phone, a tablet and a laptop on a dark desk, each screen showing a glowing red shield with a warning sign"
+image_credit: "Illustration, not the actual products"
 tags: [apple, iphone, ipad, mac, cert-in, security, software update, news]
 ---
 
@@ -32,7 +35,10 @@ CERT-In lists the following software as vulnerable if it is **older than** the v
 
 Version list as reported by Business Standard and Outlook Money from the CERT-In advisory. Which update you see depends on your device model, so simply install the newest one your device offers.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/iphone-software-update-charging-wifi.jpg" alt="A hand holding a charging phone showing a software update progress bar, with a Wi-Fi router on the desk behind" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What the flaws could let attackers do
 
@@ -58,7 +64,10 @@ Attacks could be triggered by getting you to open a specially crafted web page, 
 
 > **Tip:** Turn on **Automatic Updates** (on iPhone: Settings > General > Software Update > Automatic Updates) so security fixes install overnight without you having to remember.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/mac-update-apple-watch-charging-desk.jpg" alt="A laptop installing a software update on a desk at night, next to a smartwatch on its charger" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 If your iPhone is too old to get iOS 27.2, check whether it can install iOS 26.7.2 or 18.7.11 instead, since CERT-In lists those as fixed versions too. If your device no longer gets any updates, be careful about opening links and files from unknown senders, and consider that it may be time to upgrade.
 

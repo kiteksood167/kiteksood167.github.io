@@ -670,3 +670,18 @@
   about: hand dialling on a new phone's keypad, black phone box with a white barcode label behind, empty box tray on the left and a second phone showing an SMS chat on a wooden table
   credit: "Illustration"
   used_by: check-new-phone-genuine-before-accepting-delivery
+
+- file: cert-in-apple-security-warning-update-iphone-mac.jpg
+  about: phone, tablet and laptop on a dark desk, each screen showing a glowing red shield with an exclamation warning sign over circuit lines, red light reflections
+  credit: "Illustration, not the actual products"
+  used_by: cert-in-apple-security-warning-update-iphone-mac
+
+- file: iphone-software-update-charging-wifi.jpg
+  about: hand holding a phone plugged into a white USB-C cable, screen showing a gear icon and blue update progress bar, white Wi-Fi router with green lights on the desk behind
+  credit: "Illustration"
+  used_by: cert-in-apple-security-warning-update-iphone-mac
+
+- file: mac-update-apple-watch-charging-desk.jpg
+  about: silver laptop on a wooden desk showing a gear icon and update progress bar, smartwatch on a round charger, table lamp, mug and plant, evening light
+  credit: "Illustration"
+  used_by: cert-in-apple-security-warning-update-iphone-mac
