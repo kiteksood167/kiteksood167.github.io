@@ -7,7 +7,7 @@ category: Global
 also_in: [Guides]
 affiliate: true
 image: /assets/images/black-friday-2026-tech-deals-how-to-spot-real-discount.jpg
-image_alt: "A laptop, headphones, a smartwatch and a phone on a dark table with bright red and yellow sale tags"
+image_alt: "A laptop, headphones, a smartwatch and a phone on a dark table, each with a blank red or yellow sale tag"
 image_credit: "Illustration"
 tags: [black friday, cyber monday, deals, shopping tips, amazon, usa, uk]
 ---
@@ -35,7 +35,10 @@ Amazon hasn't announced the exact dates of its Black Friday sale yet. We'll upda
 
 The easiest way to waste money on Black Friday is buying something just because it's discounted. Write down what you actually need, such as new headphones, a laptop for college or a tablet for the kids, and set a budget for each. If something isn't on your list, a discount isn't a reason to buy it.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/woman-writing-shopping-list-laptop-store.jpg" alt="A woman at a kitchen table writing a shopping checklist in a notebook while browsing gadgets on a laptop" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 2. Check the price history, not the "was" price
 
@@ -64,7 +67,10 @@ A cheaper price for a weaker version isn't a discount.
 
 "Deal ends in 2 hours" timers are designed to make you rush. Many Black Friday prices return later in the season, or appear again on Cyber Monday or in the run-up to Christmas. If you're not sure, it's usually fine to wait.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-price-history-chart-earbuds-desk.jpg" alt="A hand pointing to the lowest point on a price history chart on a phone, with wireless earbuds on the desk" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 6. Read reviews, and check who's selling it
 
