@@ -8,6 +8,7 @@ image_alt: "Illustration of a black streaming box and silver TV remote on a TV c
 category: "Smart Home"
 also_in: [Launches, Global]
 tags: [apple, apple tv 4k, streaming devices, smart tv, launch]
+affiliate: true
 ---
 
 Apple has launched a new Apple TV 4K, the fourth generation of its streaming box, with a faster A19 chip, hands-free Siri with Apple Intelligence and a remote you can find with your iPhone. In India it costs ₹39,900, which makes it far more expensive than before. Here's what's new and who it actually makes sense for.
@@ -68,6 +69,8 @@ The new Apple TV 4K makes sense if you already live in Apple's world: you use an
 For most people in India, though, ₹39,900 is a lot for a streaming box. If your TV is already a smart TV, its built-in apps (Netflix, Prime Video, YouTube and others) may be all you need. Streaming sticks from Amazon and Google cost a fraction of the price and handle the same apps well.
 
 > **Tip:** If you already own an Apple TV 4K (2nd generation or later), you don't need to upgrade to get the new Siri. Apple is bringing it to those models too with tvOS 27.2, which is in beta now. Upgrade only if you want hands-free voice, the faster chip or four-speaker HomePod surround.
+
+{% include buy.html name="Apple TV 4K (2026)" query="Apple TV 4K" note="Check availability; India sales start November 13" %}
 
 **Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/)
 

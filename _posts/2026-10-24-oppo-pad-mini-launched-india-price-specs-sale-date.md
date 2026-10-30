@@ -9,6 +9,7 @@ image: /assets/images/oppo-pad-mini-launched-india-price-specs-sale-date.jpg
 image_alt: "A small lavender tablet with a colourful wallpaper and a white stylus on a dark stage lit by green and orange neon"
 image_credit: "Illustration, not the actual product"
 tags: [oppo, oppo pad mini, tablets, compact tablets, flipkart, launch]
+affiliate: true
 ---
 
 OPPO has launched the Pad Mini in India, a small 8.8-inch Android tablet with a matte OLED screen and a flagship Snapdragon 8 Gen 5 chip. It was announced on October 22 alongside the Find X10 phones and costs ₹94,999. Sales start on October 29, and pre-orders are already open.
@@ -81,6 +82,8 @@ Two alternatives to compare:
 - **Apple iPad mini:** the best-known small tablet. The current model, with an 8.3-inch screen and A17 Pro chip, launched in India in 2024 at ₹49,900. Apple is holding a launch event on October 28, and a new iPad mini is widely expected, but Apple hasn't confirmed it yet.
 
 > **Tip:** If you're torn between the Pad Mini and an iPad mini, wait for Apple's October 28 event before you pre-order. The OPPO goes on sale a day later, on October 29, so you'll know what Apple has announced and at what price before you have to decide.
+
+{% include buy.html name="OPPO Pad Mini" query="OPPO Pad Mini" note="8.8-inch OLED, ₹94,999" %}
 
 **Related reading:** [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
 

@@ -9,6 +9,7 @@ image_credit: "Concept illustration — not the actual product"
 category: Launches
 also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphone, flagship phone, launch]
+affiliate: true
 ---
 
 > **Update (October 22):** The Find X10 series is now official in India. See the [official India prices, specs and sale date](/oppo-find-x10-launched-india-price-specs-sale-date/).
@@ -85,6 +86,8 @@ Close rivals in India will include:
 - **Apple iPhone 17 Pro Max**: for anyone already using a Mac, iPad or other Apple devices.
 
 > **Tip:** Don't rush to buy on launch day. Flagship phones in India often get bank card discounts and exchange bonuses in the first sale week. Compare the final price after offers with the Galaxy S26 Ultra's current street price, which is often well below its launch price.
+
+{% include buy.html name="OPPO Find X10" query="OPPO Find X10" note="Now on sale in India; check the latest price" %}
 
 **Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [OnePlus ColorOS 17 Update Rolls Out in India: Which Phones Get It and When](/oneplus-coloros-17-update-india-schedule/)
 

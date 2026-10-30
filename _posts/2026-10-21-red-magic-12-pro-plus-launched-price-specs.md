@@ -8,6 +8,7 @@ image_alt: "Illustration of a gaming phone with a transparent back and RGB cooli
 category: Gaming
 also_in: [Launches, Phones, Global]
 tags: [red magic, redmagic 12 pro plus, gaming phones, nubia, launch]
+affiliate: true
 ---
 
 Red Magic has launched the Red Magic 12 Pro+, its new flagship gaming phone. It combines the Snapdragon 8 Elite Extreme Gen 6 chip with a 185Hz screen, a liquid cooling system with a built-in fan, an 8,400mAh battery and 700Hz shoulder triggers. It's on sale in China first, and here's what it costs, what it offers and what we know about availability outside China.
@@ -71,6 +72,8 @@ The Red Magic 12 Pro+ is for serious mobile gamers who want the best sustained p
 If you're in India, wait for Red Magic's global launch details and check whether official sales and service support are available here before buying. And if you just want better gaming on the phone you already own, a few settings and habits make a big difference.
 
 > **Tip:** A fan and a big battery help, but heat is still the main enemy of gaming performance. Avoid playing while fast charging without bypass charging, remove thick cases during long sessions, and keep the phone out of direct sunlight.
+
+{% include buy.html name="Phone cooler fan" query="mobile phone cooler fan gaming" note="Better sustained gaming on the phone you have" %}
 
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/)
 

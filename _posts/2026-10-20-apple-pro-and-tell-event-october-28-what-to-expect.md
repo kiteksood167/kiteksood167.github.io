@@ -11,6 +11,7 @@ also_in: [Laptops, Tablets, Global]
 tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
 last_modified_at: 2026-10-29 18:48:00 +0530
 update_note: "Apple's first touchscreen MacBook Pro with an OLED display is official, from ₹3,49,900 in India; it reaches India on November 9."
+affiliate: true
 ---
 
 Apple has officially confirmed its next hardware event, called **"Pro and Tell"**, for **Wednesday, October 28, 2026**. The name points strongly at new MacBook Pro laptops. Reports also expect a new iPad mini and an updated iMac, which would make this one of Apple's most important Mac launches in years.
@@ -133,6 +134,10 @@ India prices for all the new products are in the updates at the top of this post
 - **Compare first** if you were planning to buy a MacBook Pro, iMac or iPad mini. The new M6 and OLED models are now listed, so older models may get discounts and exchange offers.
 - **Don't wait** if you need a MacBook Air or a regular iPad right now. Those aren't expected to change at this event.
 - **Consider waiting for reviews** of the touchscreen MacBook Pro. A big first-generation change like touch and OLED can have early issues that only show up in real-world use.
+
+{% include buy.html name="Apple MacBook Pro 14-inch (M5 Pro)" query="Apple MacBook Pro 14 inch M5 Pro" note="India sales start November 9" %}
+
+{% include buy.html name="Apple iPad mini (2026)" query="Apple iPad mini 2026" note="OLED screen, from ₹82,900" %}
 
 **Related reading:** [Apple MacBook Pro With OLED Touchscreen Launched in India: Price, Specs and Sale Date](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/) · [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/)
 

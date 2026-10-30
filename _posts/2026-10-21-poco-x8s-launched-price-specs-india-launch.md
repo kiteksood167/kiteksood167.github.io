@@ -8,6 +8,7 @@ image_alt: "Illustration of compact phones in white and light blue with triple r
 category: Launches
 also_in: [Phones, Global]
 tags: [poco, poco x8s, xiaomi, smartphones, compact phones, launch]
+affiliate: true
 ---
 
 Poco has unveiled the Poco X8s, a compact phone with a 6.35-inch OLED screen, the Snapdragon 7 Gen 4 chip, a big 6,330mAh battery and 100W fast charging. It has gone up for pre-order in Vietnam first, with deliveries starting in early November. Poco hasn't announced an India launch yet. Here's what is confirmed so far.
@@ -70,6 +71,8 @@ If you've been waiting for a small Android phone that doesn't compromise much on
 If you need a phone in India right now, the **Poco X8 5G** is already on sale from around ₹26,999 (6GB + 128GB) on Flipkart in October 2026. It goes the other way, with a much bigger 6.83-inch AMOLED screen, a huge 9,000mAh battery and 67W charging, but a less powerful Snapdragon 6s Gen 4 chip.
 
 > **Tip:** Don't pre-order an imported unit from a third-party seller. Without an official India launch, you may not get local warranty or service support. If the X8s interests you, wait for Poco's official India announcement and pricing.
+
+{% include buy.html name="Poco X8 5G" query="Poco X8 5G" note="On sale in India now; the X8s isn't here yet" %}
 
 **Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/)
 

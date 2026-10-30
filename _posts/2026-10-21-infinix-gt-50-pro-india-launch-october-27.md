@@ -10,6 +10,7 @@ image_alt: "Illustration of two gaming phones in black and red with glowing liqu
 category: Launches
 also_in: [Phones, Gaming]
 tags: [infinix, infinix gt 50 pro, smartphones, gaming phones, flipkart, launch]
+affiliate: true
 ---
 
 Infinix has now launched the **GT 50 Pro** in India at **₹69,999** for 12GB + 256GB, sold as a bundle with gaming accessories. That's far above the ₹35,000–₹40,000 that pre-launch reports guessed. The first sale is on **October 30 at 12 PM** on Flipkart. The phone has a MediaTek Dimensity 8400 Ultimate chip, a 144Hz AMOLED screen, visible liquid cooling and a 6,500mAh battery.
@@ -82,6 +83,8 @@ If you mainly want gaming performance, these cost about half as much (prices at 
 - **Motorola Edge 70 Pro 5G** (around ₹39,799 at the time of writing): Dimensity 8500 Extreme chip, a 6,500mAh battery and faster 90W charging.
 
 > **Tip:** Price out what you'd actually use. If you'd never connect the dock to a TV or use the controller, a ₹35,000–₹40,000 phone like the OPPO K13 Turbo plus a ₹1,500–₹2,000 clip-on cooling fan gets you most of the gaming experience for far less.
+
+{% include buy.html name="Infinix GT 50 Pro" query="Infinix GT 50 Pro" note="₹69,999 with bundled gaming accessories" %}
 
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/)
 

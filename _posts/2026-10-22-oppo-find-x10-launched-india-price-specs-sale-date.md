@@ -10,6 +10,7 @@ image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphones, flagship phones, launch]
+affiliate: true
 ---
 
 OPPO has launched the **Find X10** and **Find X10 Pro Max** in India, with prices starting at **₹1,39,999**. The Pro Max is the headline phone, with three 200MP rear cameras tuned with Hasselblad and an 8,000mAh battery, and both phones go on sale on **October 29**.
@@ -81,6 +82,10 @@ At these prices, the competition is tough:
 - **Apple iPhone 17 Pro Max:** the obvious choice if you already use a Mac, iPad or Apple Watch.
 
 > **Tip:** Don't book on day one just because of the launch buzz. Wait for the October 29 sale to see the final bank and exchange offers, then compare the effective price with the Galaxy S26 Ultra's current street price. A ₹1.4 lakh or ₹2 lakh phone needs to win on your actual price, not the sticker price.
+
+{% include buy.html name="OPPO Find X10" query="OPPO Find X10" note="From ₹1,39,999" %}
+
+{% include buy.html name="OPPO Find X10 Pro Max" query="OPPO Find X10 Pro Max" note="₹1,99,999" %}
 
 **Related reading:** [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [OPPO Pad Mini Launched in India: Price, Specs and Sale Date](/oppo-pad-mini-launched-india-price-specs-sale-date/)
 

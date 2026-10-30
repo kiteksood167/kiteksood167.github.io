@@ -8,6 +8,7 @@ image_alt: "An opened smartphone showing its battery during a repair"
 category: Guides
 also_in: [Phones]
 tags: [battery, android, iphone, tips]
+affiliate: true
 ---
 
 If your phone struggles to last the day, you don't always need a new one. A few settings changes can add hours to battery life, and a few habits can keep your battery healthy for years. Here are the tips that actually work, and a few myths to stop believing.
@@ -71,6 +72,10 @@ Software updates often include battery optimisations and bug fixes for drain pro
 - **"Fast charging damages the battery."** Phones manage fast charging carefully, and the speed drops as the battery fills. Heat is the bigger concern, not the charger speed.
 
 > **When is it time for a new battery?** If your phone shows battery health below about 80%, or it shuts down at 15–20%, a battery replacement at an authorised service centre is usually much cheaper than a new phone.
+
+{% include buy.html name="20000mAh power bank" query="20000mAh power bank fast charging" note="Charge your phone on the go" %}
+
+{% include buy.html name="USB-C fast charger" query="USB-C PD fast charger 33W" note="Match the wattage your phone supports" %}
 
 **Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
 

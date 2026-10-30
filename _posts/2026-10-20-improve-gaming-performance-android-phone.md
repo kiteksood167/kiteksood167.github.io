@@ -7,6 +7,7 @@ image_alt: "Hands holding a smartphone in landscape playing a battle royale game
 category: Gaming
 also_in: [Phones, Guides]
 tags: [gaming, android, bgmi, free fire, performance, tips]
+affiliate: true
 ---
 
 Nothing ruins a match like sudden lag or a phone that turns into a hand warmer. You can't turn a budget phone into a gaming flagship, but you can usually get noticeably smoother gameplay with the right settings and a few habits. Here's what actually works.
@@ -69,6 +70,8 @@ Game updates often include performance fixes for specific phones, and system upd
 - **Don't use GFX tools or modded game files** to unlock settings. They can get your account banned in games like BGMI and Free Fire.
 - **Don't root your phone** just for gaming. It can break security and banking apps, and void your warranty.
 - **Don't keep the phone at 100% brightness** for hours. It adds heat and drains the battery fast.
+
+{% include buy.html name="Phone cooler fan" query="mobile phone cooler fan gaming" note="Keeps the phone cool in long sessions" %}
 
 **Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/) · [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/)
 
