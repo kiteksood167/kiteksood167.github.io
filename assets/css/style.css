@@ -522,3 +522,5 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .sources-box li { margin: 4px 0; color: var(--muted); }
 .sources-box a { color: inherit; text-decoration: underline; text-underline-offset: 2px; overflow-wrap: anywhere; }
 .sources-box a:hover { color: var(--accent, inherit); }
+.sources-flag { font-size: .8rem; color: var(--muted); font-style: italic; }
+.sources-note { margin: 10px 0 0; font-size: .8rem; color: var(--muted); }

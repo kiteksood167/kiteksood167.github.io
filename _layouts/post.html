@@ -45,8 +45,10 @@ layout: default
     <aside class="sources-box" aria-label="Sources">
       <p class="sources-label">Sources</p>
       <ul>
-        {% for s in page.sources %}<li>{% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener nofollow">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</li>{% endfor %}
+        {% assign unlinked = false %}
+        {% for s in page.sources %}<li>{% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener nofollow">{{ s.name }}</a>{% else %}{{ s.name }}{% unless s.name contains "Prices" or s.name contains "listings" %}{% assign unlinked = true %} <span class="sources-flag">(link not found)</span>{% endunless %}{% endif %}</li>{% endfor %}
       </ul>
+      {% if unlinked %}<p class="sources-note">We couldn't find a direct link for sources marked "link not found". Details credited to them were cross-checked with other reports where possible, but treat them with care and check the brand's official site before you buy.</p>{% endif %}
     </aside>
     {% endif %}
 
