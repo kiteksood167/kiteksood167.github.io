@@ -5,6 +5,9 @@ description: "Ordered a phone online? Check the box seal, IMEI, model and warran
 date: 2026-10-30 08:54:00 +0530
 category: Guides
 also_in: [Phones]
+image: /assets/images/check-new-phone-genuine-before-accepting-delivery.jpg
+image_alt: "A man at his front door closely checking the seal on a new phone box while a delivery agent waits with a handheld device"
+image_credit: "Illustration"
 tags: [buying guide, online shopping, IMEI, open box delivery, Sanchar Saathi, Flipkart, Amazon, fake phone]
 affiliate: true
 ---
@@ -33,7 +36,10 @@ Do this the day before so you're not rushing at the door:
 - **Check what's in the box.** Many phones now ship without a charger, so read the "In the box" section of the listing. A missing charger isn't a problem if the listing never included one.
 - **Keep a working phone ready** to send an SMS and to record the unboxing.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-unboxing-recorded-on-second-phone.jpg" alt="A man opening a new phone box at a table while a second phone on a tripod records the unboxing" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## The doorstep checklist
 
@@ -57,7 +63,10 @@ The Department of Telecommunications (DoT) runs a free **Know Your Mobile (KYM)*
 
 You can also check on the Sanchar Saathi website or the Sanchar Saathi app for Android and iOS. The reply shows the brand and model linked to that IMEI. If it shows a different phone, says the IMEI is invalid, or flags it as blacklisted, don't accept the delivery. DoT has urged buyers to use this check because tampered and duplicate IMEIs are used on fake and stolen phones.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-dialer-imei-check-box-label.jpg" alt="A hand dialling on a new phone next to its box with a label sticker, and a second phone showing an SMS chat" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ### 5. Switch it on and check the basics
 
