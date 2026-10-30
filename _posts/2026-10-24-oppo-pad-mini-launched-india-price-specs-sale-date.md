@@ -10,6 +10,13 @@ image_alt: "A small lavender tablet with a colourful wallpaper and a white stylu
 image_credit: "Illustration, not the actual product"
 tags: [oppo, oppo pad mini, tablets, compact tablets, flipkart, launch]
 affiliate: true
+sources:
+  - name: "91mobiles: OPPO Pad Mini debuts in India"
+    url: "https://www.91mobiles.com/hub/oppo-pad-mini-launched-india-price-specifications/"
+  - name: "TeleCom Talk: OPPO Pad Mini launched for Rs 94,999"
+    url: "https://telecomtalk.info/oppopadmini-launch-for-rs94999-to-takeon-appleipadmini/1013133/"
+  - name: "Notebookcheck: OPPO launches compact OLED tablet with 144Hz matte display"
+    url: "https://www.notebookcheck.net/Oppo-launches-flagship-compact-OLED-tablet-with-144Hz-matte-display-and-Snapdragon-8-Gen-5.1431107.0.html"
 ---
 
 OPPO has launched the Pad Mini in India, a small 8.8-inch Android tablet with a matte OLED screen and a flagship Snapdragon 8 Gen 5 chip. It was announced on October 22 alongside the Find X10 phones and costs ₹94,999. Sales start on October 29, and pre-orders are already open.

@@ -10,6 +10,8 @@ image_alt: "Three smartphones showing racing and battle royale games next to a g
 image_credit: "Illustration, not the actual product"
 tags: [gaming phones, buying guide, iqoo neo 10r, realme p4 pro, motorola edge 60 pro, realme narzo power, infinix gt 30 pro]
 affiliate: true
+sources:
+  - name: "Prices: Amazon.in, Flipkart and price-tracker listings, October 2026"
 ---
 
 Phone prices in India have climbed through 2026, so ₹30,000 buys less gaming power than it did a year ago. The good news is that a few phones with genuinely fast chips, big batteries and high-refresh screens still sit under that line. Here are five worth your money right now, and who each one suits.

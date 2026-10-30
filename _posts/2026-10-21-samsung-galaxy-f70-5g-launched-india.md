@@ -10,6 +10,13 @@ category: Launches
 also_in: [Phones]
 tags: [samsung, galaxy f70 5g, smartphones, budget phones, flipkart, launch]
 affiliate: true
+sources:
+  - name: "Smartprix: Galaxy F70 5G India launch set for October 18"
+    url: "https://www.smartprix.com/bytes/samsung-galaxy-f70-5g-india-launch-set-for-october-18-heres-everything-we-know/"
+  - name: "LatestLY: Samsung Galaxy F70 5G price in India"
+    url: "https://www.latestly.com/technology/samsung-galaxy-f70-5g-price-in-india-7651904.html"
+  - name: "SamMobile (Galaxy F70 5G launch coverage)"
+    url: "https://www.sammobile.com/?p=16683059"
 ---
 
 Samsung has launched the Galaxy F70 5G in India, a budget phone priced from ₹19,999 that brings a 50MP main camera with optical image stabilisation (OIS) and a Super AMOLED screen. It went on sale on October 20 through Flipkart. If it sounds familiar, that's because it shares most of its hardware with the Galaxy A17 5G.

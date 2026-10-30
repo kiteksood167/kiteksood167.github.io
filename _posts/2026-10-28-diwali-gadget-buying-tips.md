@@ -10,6 +10,9 @@ category: Guides
 also_in: [Phones, Accessories]
 tags: [Diwali sale, online shopping, buying guide, bank offers, no-cost EMI, exchange offer, Amazon, Flipkart]
 affiliate: true
+sources:
+  - name: "Business Today: Is no-cost EMI really cost-free?"
+    url: "https://www.businesstoday.in/personal-finance/banking/story/festive-shopping-is-no-cost-emi-really-cost-free-heres-hidden-math-behind-free-money-deals-496769-2025-10-03"
 ---
 
 Diwali falls on 8 November this year, and the festive sales are in full swing. Amazon's Great Indian Festival has been running since 8 October, and Flipkart's Big Bang Diwali Sale starts today, 28 October. A big "70% off" banner doesn't always mean a good deal, though. These tips will help you work out what you'll really pay before you click Buy.

@@ -10,6 +10,10 @@ category: Global
 also_in: [Tablets]
 tags: [tablets, budget tablet, ipad, galaxy tab, fire tablet, buying guide]
 affiliate: true
+sources:
+  - name: "MacRumors: 12th-generation iPad"
+    url: "https://macrumors.com/2026/07/22/12th-generation-ipad-rumor-recap"
+  - name: "TechRadar (Amazon Fire tablet coverage)"
 ---
 
 You don't need to spend $500 to get a good tablet. Under $300 you can get an iPad when it's on sale, a Samsung tablet with seven years of updates, or a perfectly good streaming screen for under $100. Here are the five best options right now, and how to choose between them before Black Friday.

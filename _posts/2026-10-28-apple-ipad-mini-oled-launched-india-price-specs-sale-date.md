@@ -10,6 +10,11 @@ category: Launches
 also_in: [Tablets]
 affiliate: true
 tags: [apple, ipad mini, ipad, tablets, oled, a20 pro, launch]
+sources:
+  - name: "Beebom: Apple launches OLED iPad mini in India"
+    url: "https://gadgets.beebom.com/news/apple-oled-ipad-mini-launched-in-india-key-specs-price-sale-date"
+  - name: "Smartprix: New iPad mini brings OLED to India from Rs 82,900"
+    url: "https://www.smartprix.com/bytes/apple-ipad-mini-2026-oled-india-price-starts-at-rs-82900/"
 ---
 
 Apple has launched a new iPad mini in India, and it's the biggest update the small tablet has had in years. It gets an 8.5-inch OLED screen for the first time, the A20 Pro chip and IP67 water resistance. Prices start at **₹82,900**, pre-orders open tonight, and it goes on sale on **November 6**.

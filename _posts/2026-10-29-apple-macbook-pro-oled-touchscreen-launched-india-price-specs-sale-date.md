@@ -10,6 +10,14 @@ image: /assets/images/apple-macbook-pro-oled-touchscreen-launched-india-price-sp
 image_alt: "A space-black laptop with a colourful OLED screen and a small pill-shaped cutout at the top, on a reflective stage lit in green and orange"
 image_credit: "Illustration, not the actual product"
 tags: [apple, macbook pro, laptops, oled, touchscreen, m5 pro, m5 max, launch]
+sources:
+  - name: "Gizmochina: MacBook Pro with PROLED XDR Display India price"
+    url: "https://www.gizmochina.com/2026/10/28/apple-macbook-pro-with-proled-xdr-display-india-price/"
+  - name: "Gizbot: Apple launches touchscreen MacBook Pro, from Rs 3,49,900"
+    url: "https://www.gizbot.com/laptop/news/apple-launches-touchscreen-macbook-pro-with-oled-screen-price-starts-from-rs-3-49-900-129487.html"
+  - name: "TechCrunch: Apple launches its new touchscreen MacBook Pro"
+    url: "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  - name: "FoneArena and Business Standard (India pricing and sale date coverage)"
 ---
 
 Apple has launched the **MacBook Pro with PROLED XDR Display** in India, its first Mac with a touchscreen and its first laptop with an OLED screen. It comes in 14-inch and 16-inch sizes with M5 Pro or M5 Max chips. Prices start at **₹3,49,900**, pre-orders are open, and the first units reach Indian customers and stores on **November 9**.

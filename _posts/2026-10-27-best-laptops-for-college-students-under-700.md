@@ -9,6 +9,10 @@ category: Global
 also_in: [Laptops]
 tags: [laptops, college, students, budget laptops, macbook neo, dell xps 13, chromebook plus, back to school, buying guide, usa, uk]
 affiliate: true
+sources:
+  - name: "Tom's Guide (laptop reviews and battery tests)"
+  - name: "RTINGS (laptop reviews)"
+  - name: "Prices: Amazon US, Best Buy and Apple store listings, October 2026"
 ---
 
 A college laptop has to handle four years of papers, research tabs, video lectures and late-night streaming, and it has to survive being carried across campus every day. This year a $700 budget buys more than it used to, thanks to two strong new 13-inch laptops from Apple and Dell, even though rising memory prices have pushed some models up. Here are the picks worth your money in October 2026, plus a cheaper Chromebook option.

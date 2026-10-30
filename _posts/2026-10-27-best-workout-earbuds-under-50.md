@@ -10,6 +10,8 @@ category: Global
 also_in: [Audio]
 tags: [workout earbuds, sports earbuds, budget earbuds, jlab go sport plus, soundcore p31i, soundcore p30i, tozo nc9, buying guide, usa, uk]
 affiliate: true
+sources:
+  - name: "Specs and battery claims: manufacturer product pages; prices: Amazon US listings, October 2026"
 ---
 
 Workout earbuds have two jobs that regular earbuds often fail at: staying in your ears during burpees and sprints, and surviving a steady supply of sweat. You don't need $250 Powerbeats Pro 2 to get either one. Here are the best sweat-resistant earbuds you can buy for under $50 in October 2026, plus one step-up pair if you want ear hooks and serious waterproofing.

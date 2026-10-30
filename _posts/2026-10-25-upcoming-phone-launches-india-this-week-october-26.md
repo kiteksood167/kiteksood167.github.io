@@ -10,6 +10,15 @@ image: /assets/images/upcoming-phone-launches-india-this-week-october-26.jpg
 image_alt: "Five smartphones standing in a row in front of a glowing calendar grid with one highlighted day, lit in green and orange"
 image_credit: "Illustration, not the actual products"
 tags: [upcoming phones, infinix, apple, iqoo, xiaomi, motorola, smartphones, launch]
+sources:
+  - name: "Smartprix: Infinix GT 50 Pro India launch set for October 27"
+    url: "https://www.smartprix.com/bytes/infinix-gt-50-pro-india-launch-set-for-october-27-flipkart-availability-confirmed/"
+  - name: "Macworld: Apple teases Pro and Tell event on October 28"
+    url: "https://macworld.com/article/3264015/apple-teases-pro-and-tell-event-on-october-28.html"
+  - name: "Digit: iQOO 16 India launch confirmed at IMC 2026"
+    url: "https://www.digit.in/news/mobile-phones/iqoo-16-india-launch-confirmed-at-imc-2026-check-expected-price-specifications-and-more-details.html"
+  - name: "Beebom: Motorola Signature 27 India launch confirmed for next month"
+    url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-timeline-confirmed"
 ---
 
 It's a quiet week for phone launches in India. Only one new phone has a confirmed India launch date, the Infinix GT 50 Pro on October 27, and Apple's "Pro and Tell" event follows a day later. Here's what's confirmed, plus three big flagships that are officially coming to India but don't have a date yet.

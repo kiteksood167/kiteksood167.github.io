@@ -9,6 +9,8 @@ affiliate: true
 image: /assets/images/best-diwali-gift-gadgets-under-5000.jpg
 image_alt: "Wireless earbuds, a smartwatch, a power bank, a portable speaker, a smart speaker and a TV streaming stick on a table with diyas, marigolds and gold gift boxes"
 image_credit: "Illustration, not the actual products"
+sources:
+  - name: "Prices: Amazon.in, Flipkart and brand store listings, October 2026"
 ---
 
 A ₹5,000 budget opens up a better class of Diwali gift: earbuds with strong noise cancelling, a smartwatch with built-in GPS, or a smart speaker that a parent will use every day. With Diwali on 8 November and festive sales still running, here are six gadgets that are worth the money, each checked against current Indian prices.

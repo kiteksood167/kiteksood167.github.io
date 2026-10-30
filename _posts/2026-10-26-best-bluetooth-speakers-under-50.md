@@ -10,6 +10,10 @@ category: Global
 also_in: [Audio]
 tags: [bluetooth speakers, portable speakers, budget audio, jbl go 4, jbl clip 5, tribit stormbox micro 2, soundcore select 4 go, buying guide, usa, uk]
 affiliate: true
+sources:
+  - name: "RTINGS: Best Bluetooth speakers under $50"
+    url: "https://www.rtings.com/speaker/reviews/best/by-price/bluetooth-under-50"
+  - name: "Prices: Amazon US listings, October 2026"
 ---
 
 You don't need to spend $100 or more to get a portable speaker that survives the beach, the shower and a backpack. In 2026 the sub-$50 market is full of small, waterproof speakers from JBL, Anker's Soundcore brand and Tribit, and the differences come down to size, battery life and how much bass you expect from something that fits in a jacket pocket. Here are the ones worth buying in October 2026, plus one that's worth waiting for on sale.

@@ -10,6 +10,13 @@ category: Launches
 also_in: [Phones]
 tags: [apple, iphone duo, foldable phones, smartphones, launch]
 affiliate: true
+sources:
+  - name: "Beebom: Apple iPhone Duo price in India officially revealed"
+    url: "https://gadgets.beebom.com/news/apple-iphone-duo-price-in-india-officially-revealed"
+  - name: "Business Today: iPhone Duo pre-order begins"
+    url: "https://www.businesstoday.in/technology/news/story/iphone-duo-pre-order-begins-today-check-price-and-how-to-book-561902-2026-10-16"
+  - name: "Outlook Money: iPhone Duo pre-orders in India"
+    url: "https://www.outlookmoney.com/news/iphone-duo-pre-orders-to-begin-today-in-india-key-things-to-know"
 ---
 
 Apple's first foldable phone, the iPhone Duo, went on sale in India today, October 23. Apple announced it on September 9 and opened pre-orders on October 16. Prices start at ₹2,99,900, making it the most expensive iPhone Apple has ever sold here.

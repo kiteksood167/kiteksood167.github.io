@@ -9,6 +9,8 @@ category: Accessories
 also_in: [Audio, Wearables, Smart Home]
 tags: [Diwali gifts, gift ideas, budget gadgets, earbuds, smartwatch, power bank, Bluetooth speaker, smart plug]
 affiliate: true
+sources:
+  - name: "Prices: Amazon.in, Flipkart and brand store listings, October 2026"
 ---
 
 With Diwali on 8 November, a ₹2,000 budget is the sweet spot for gifts to friends, siblings and colleagues. It's enough for a gadget people will use every day, not a gimmick that ends up in a drawer. Here are six picks from well-known brands, each checked against current Indian prices.

@@ -9,6 +9,8 @@ tags: [smartwatch, budget smartwatch, buying guide, Redmi, realme, CMF]
 affiliate: true
 last_modified_at: 2026-10-28 14:30:00 +0530
 update_note: "Prices refreshed for late October, and the realme Watch 5 with built-in GPS added as a new pick."
+sources:
+  - name: "Prices: Amazon.in and Flipkart listings, October 2026"
 ---
 
 Under ₹5,000 you can now get an AMOLED screen, Bluetooth calling and a week or more of battery on almost any smartwatch. The real differences are built-in GPS, battery life and how well the companion app works. Here are five watches that are good value right now, and how to pick between them.

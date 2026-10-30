@@ -9,6 +9,13 @@ image_credit: "Illustration"
 category: Phones
 news: true
 tags: [apple, iphone, ios 27, ios 27.2, siri ai, software update, news]
+sources:
+  - name: "TidBITS: OS 27.2 gives Siri AI a memory"
+    url: "https://tidbits.com/2026/10/26/os-27-2-gives-siri-ai-a-memory-and-brings-small-improvements/"
+  - name: "Business Today: Apple rolls out iOS 27.2"
+    url: "https://www.businesstoday.in/technology/news/story/apple-rolls-out-ios-27-2-update-smarter-siri-ai-new-messages-features-and-more-563858-2026-10-27"
+  - name: "Macworld: iOS 27.2 features"
+    url: "https://macworld.com/article/3269963/these-ios-27-2-features-will-make-you-want-to-download-the-latest-updates-right-away.html"
 ---
 
 Apple has released iOS 27.2, the first big update to iOS 27 since it arrived in September. It became available around midnight on October 27, India time, and brings a more capable Siri AI, new suggestions in Messages and several app upgrades, along with bug fixes and security patches.

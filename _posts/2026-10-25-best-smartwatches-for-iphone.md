@@ -9,6 +9,11 @@ image_alt: "Four smartwatches with fitness watch faces next to a smartphone on a
 image_credit: "Illustration, not the actual products"
 tags: [smartwatch, iphone, apple watch, series 12, apple watch se 3, ultra 4, garmin, amazfit, buying guide, usa, uk]
 affiliate: true
+sources:
+  - name: "MacRumors: Apple Watch Series 12 price"
+    url: "https://macrumors.com/2026/09/10/apple-watch-series-12-46mm-price-increase"
+  - name: "PhoneArena: Apple Watch Series 12 (42mm) specs"
+    url: "https://www.phonearena.com/phones/Apple-Watch-Series-12-42mm_id13051"
 ---
 
 If you own an iPhone, the smartwatch question is simpler than it is on Android, because the Apple Watch is built to work with it and most big Android watches don't work with iPhones at all. But "just buy an Apple Watch" still leaves you choosing between three models, and a couple of non-Apple watches are worth a look if you hate charging every night. Here's what to buy in October 2026, and why.

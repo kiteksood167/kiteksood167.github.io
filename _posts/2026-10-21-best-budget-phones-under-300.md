@@ -8,6 +8,10 @@ category: Global
 also_in: [Phones]
 tags: [smartphones, budget phones, buying guide, samsung, motorola, usa, uk]
 affiliate: true
+sources:
+  - name: "Tom's Guide: Best phones under $300"
+    url: "https://www.tomsguide.com/best-picks/best-cheap-phones-under-300-dollars"
+  - name: "Prices: Amazon US and brand store listings, October 2026"
 ---
 
 Buying a cheap phone got harder in 2026. Motorola raised the prices of its whole Moto G lineup in the spring, and several of last year's favorites have either gone up in price or quietly disappeared from stores. The good news is that $300 still buys a phone with a big 120Hz or AMOLED screen, all-day battery life and 5G, as long as you know where the compromises are.

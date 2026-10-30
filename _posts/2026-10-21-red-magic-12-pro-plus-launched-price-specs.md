@@ -9,6 +9,11 @@ category: Gaming
 also_in: [Launches, Phones, Global]
 tags: [red magic, redmagic 12 pro plus, gaming phones, nubia, launch]
 affiliate: true
+sources:
+  - name: "Smartprix: Red Magic 12 Pro+ specifications"
+    url: "https://www.smartprix.com/mobiles/red-magic-12-pro-plus-ppd1dma9kb71"
+  - name: "Mezha: Redmagic 12 Pro+ released"
+    url: "https://mezha.ua/en/news/redmagic-12-pro-plus-released-316223/"
 ---
 
 Red Magic has launched the Red Magic 12 Pro+, its new flagship gaming phone. It combines the Snapdragon 8 Elite Extreme Gen 6 chip with a 185Hz screen, a liquid cooling system with a built-in fan, an 8,400mAh battery and 700Hz shoulder triggers. It's on sale in China first, and here's what it costs, what it offers and what we know about availability outside China.

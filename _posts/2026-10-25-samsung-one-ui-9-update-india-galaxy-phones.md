@@ -9,6 +9,12 @@ image: /assets/images/samsung-one-ui-9-update-india-galaxy-phones.jpg
 image_alt: "Three smartphones on a reflective surface showing a glowing update icon, with green and orange light particles flowing into them"
 image_credit: "Illustration, not the actual products"
 tags: [samsung, galaxy, one ui 9, android 17, software update, news]
+sources:
+  - name: "Beebom: One UI 9 stable for Galaxy Z Fold 7 and Z Flip 7 in India"
+    url: "https://gadgets.beebom.com/news/one-ui-9-stable-galaxy-z-fold-7-z-flip-7-rolling-out-india"
+  - name: "Beebom: Stable One UI 9 for Galaxy A35, M56, F17 and M17 in India"
+    url: "https://gadgets.beebom.com/news/stable-one-ui-9-update-rolls-out-samsung-galaxy-a35-m56-f17-m17-india"
+  - name: "SamMobile, Sammy Guru, Tech Times, The Hans India and iTechify (rollout reports)"
 ---
 
 Samsung's One UI 9 update, based on Android 17, is spreading to more Galaxy phones in India. The Galaxy M47 joined the list this week, and Samsung has also published an official list of phones and tablets that will get the update, so here is where things stand for Indian owners.

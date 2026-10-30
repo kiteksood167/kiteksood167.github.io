@@ -10,6 +10,13 @@ image_alt: "A lavender phone with a wide camera bar and a white phone with a sin
 image_credit: "Illustration, not the actual products"
 tags: [pixel 10a, iphone 17e, comparison, google, apple, budget phones, usa, uk]
 affiliate: true
+sources:
+  - name: "Tom's Guide: iPhone 17e vs Pixel 10a face-off"
+    url: "https://www.tomsguide.com/phones/i-put-the-iphone-17e-vs-pixel-10a-through-a-7-round-face-off-heres-the-winner"
+  - name: "9to5Google: Pixel 10a price hike"
+    url: "https://9to5google.com/2026/10/02/google-pixel-10a-price-hike/"
+  - name: "Android Central: iPhone 17e vs Google Pixel 10a"
+    url: "https://www.androidcentral.com/phones/apple-iphone/iphone-17e-vs-google-pixel-10a"
 ---
 
 The Google Pixel 10a and Apple iPhone 17e were the two best phones you could buy for around $500 to $600 this spring. Both have since got more expensive. Apple raised the iPhone 17e to **$699** on September 9, and Google raised the Pixel 10a to **$599** on October 2. With 256GB of storage, they now cost exactly the same. Here's which one is worth your money.

@@ -9,6 +9,11 @@ affiliate: true
 image: /assets/images/best-noise-cancelling-headphones-under-100.jpg
 image_alt: "Three over-ear wireless headphones in black, beige and light grey on a bright desk by a window"
 image_credit: "Illustration, not the actual product"
+sources:
+  - name: "SoundGuys: Best noise cancelling headphones under $100"
+    url: "https://soundguys.com/noise-cancelling-headphones-100-7142"
+  - name: "RTINGS: Best noise cancelling headphones under $100"
+    url: "https://www.rtings.com/headphones/reviews/best/noise-cancelling-headphones-under-100"
 ---
 
 You no longer need to spend $300 or more to block out a noisy commute or open-plan office. In October 2026, several over-ear headphones with active noise cancellation (ANC) sell for under $100, and a few of them come close to the premium models on battery life and features. Here are the ones worth buying, and what you give up compared with a flagship pair.

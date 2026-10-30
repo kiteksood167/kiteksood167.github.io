@@ -11,6 +11,11 @@ category: Launches
 also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphones, flagship phones, launch]
 affiliate: true
+sources:
+  - name: "TechEnclave: OPPO launches Find X10 phones in India from Rs 1,39,999"
+    url: "https://techenclave.com/news/items/oppo-launches-find-x10-phones-in-india-from-1-39-999-alongside-pad-mini-and-enco-x4"
+  - name: "Digit: Find X10 Pro Max and Find X10 India launch, price and specs"
+    url: "https://www.digit.in/news/mobile-phones/oppo-find-x10-pro-max-x10-india-launch-tomorrow-price-in-india-specs-and-everything-else-you-should-know.html"
 ---
 
 OPPO has launched the **Find X10** and **Find X10 Pro Max** in India, with prices starting at **₹1,39,999**. The Pro Max is the headline phone, with three 200MP rear cameras tuned with Hasselblad and an 8,000mAh battery, and both phones go on sale on **October 29**.

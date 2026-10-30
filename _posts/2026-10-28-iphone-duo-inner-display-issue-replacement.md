@@ -10,6 +10,13 @@ category: Phones
 news: true
 affiliate: true
 tags: [apple, iphone duo, foldable phones, display, replacement, news]
+sources:
+  - name: "Macworld: iPhone Duo hinge issue explained"
+    url: "https://macworld.com/article/3269038/iphone-duo-hinge-issue-whats-wrong-with-apples-folding-phone-and-how-to-fix-it.html"
+  - name: "TweakTown: Apple confirms iPhone Duo inner screen issue"
+    url: "https://www.tweaktown.com/news/114315/apple-confirms-iphone-duo-inner-screen-cracking-issue-within-days-of-global-launch/index.html"
+  - name: "Khaleej Times: Apple says it will replace affected iPhone Duo units"
+    url: "https://www.khaleejtimes.com/business/tech/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-2"
 ---
 
 Apple has confirmed that some iPhone Duo units have a problem with the inner folding display, less than a week after its first foldable went on sale in India. The company says only a small number of phones are affected, and that owners who see display problems should contact AppleCare for a replacement.

@@ -10,6 +10,13 @@ category: Phones
 news: true
 affiliate: true
 tags: [ai plus, ai+ smartphone, nova 2, pulse 2, price hike, budget phones, news]
+sources:
+  - name: "Beebom: Ai+ Pulse 2 and Nova 2 prices to be hiked by up to Rs 3,000"
+    url: "https://gadgets.beebom.com/news/aiplus-pulse-2-nova-2-series-prices-to-be-hiked-in-india"
+  - name: "Beebom: India smartphone price hike roundup"
+    url: "https://gadgets.beebom.com/guides/india-smartphone-price-hike-roundup"
+  - name: "91mobiles: Ai+ Nova 2 and Pulse 2 price hike"
+    url: "https://www.91mobiles.com/hub/ai-nova-2-pulse-2-series-price-in-india/"
 ---
 
 Ai+ Smartphone, the budget phone brand backed by former Realme India chief Madhav Sheth, says it will raise the prices of several of its phones in India from **November 15, 2026**. Select variants will cost **₹1,000 to ₹3,000 more**. If you were planning to buy one, the next two weeks are your window to pay the current price.

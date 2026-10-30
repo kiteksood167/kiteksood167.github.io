@@ -9,6 +9,11 @@ category: "Smart Home"
 also_in: [Launches, Global]
 tags: [apple, apple tv 4k, streaming devices, smart tv, launch]
 affiliate: true
+sources:
+  - name: "Business Today: Apple launches new Apple TV 4K in India at Rs 39,900"
+    url: "https://www.businesstoday.in/technology/news/story/apple-launches-new-apple-tv-4k-in-india-at-rs-39900-with-siri-ai-and-faster-performance-561367-2026-10-13"
+  - name: "Free Press Journal: Apple TV 4K and HomePod mini 2 India pricing"
+    url: "https://www.freepressjournal.in/tech/apple-homeview-apple-tv-4k-homepod-mini-2-launched-in-india-price-features-more"
 ---
 
 Apple has launched a new Apple TV 4K, the fourth generation of its streaming box, with a faster A19 chip, hands-free Siri with Apple Intelligence and a remote you can find with your iPhone. In India it costs ₹39,900, which makes it far more expensive than before. Here's what's new and who it actually makes sense for.

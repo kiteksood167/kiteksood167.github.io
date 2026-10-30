@@ -9,6 +9,11 @@ category: Launches
 also_in: [Phones, Global]
 tags: [poco, poco x8s, xiaomi, smartphones, compact phones, launch]
 affiliate: true
+sources:
+  - name: "GSMArena: Xiaomi Poco X8s specifications"
+    url: "https://www.gsmarena.com/xiaomi_poco_x8s_5g-15038.php"
+  - name: "Smartprix: Poco X8s"
+    url: "https://www.smartprix.com/mobiles/poco-x8s-ppd1cfv34l3q"
 ---
 
 Poco has unveiled the Poco X8s, a compact phone with a 6.35-inch OLED screen, the Snapdragon 7 Gen 4 chip, a big 6,330mAh battery and 100W fast charging. It has gone up for pre-order in Vietnam first, with deliveries starting in early November. Poco hasn't announced an India launch yet. Here's what is confirmed so far.

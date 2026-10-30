@@ -11,6 +11,13 @@ category: Launches
 also_in: [Phones, Gaming]
 tags: [infinix, infinix gt 50 pro, smartphones, gaming phones, flipkart, launch]
 affiliate: true
+sources:
+  - name: "GSMArena: Infinix GT 50 Pro goes official in India"
+    url: "https://gsmarena.com/the_infinix_gt_50_pro_goes_official_in_india-news-75224.php"
+  - name: "Smartprix: Infinix GT 50 Pro India launch set for October 27"
+    url: "https://www.smartprix.com/bytes/infinix-gt-50-pro-india-launch-set-for-october-27-flipkart-availability-confirmed/"
+  - name: "91mobiles: Infinix GT 50 Pro announced"
+    url: "https://www.91mobiles.com/hub/infinix-gt-50-pro-announced-specifications-features/"
 ---
 
 Infinix has now launched the **GT 50 Pro** in India at **₹69,999** for 12GB + 256GB, sold as a bundle with gaming accessories. That's far above the ₹35,000–₹40,000 that pre-launch reports guessed. The first sale is on **October 30 at 12 PM** on Flipkart. The phone has a MediaTek Dimensity 8400 Ultimate chip, a 144Hz AMOLED screen, visible liquid cooling and a 6,500mAh battery.

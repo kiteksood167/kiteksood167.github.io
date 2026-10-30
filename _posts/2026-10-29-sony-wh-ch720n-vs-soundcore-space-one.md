@@ -10,6 +10,11 @@ category: Global
 also_in: [Audio]
 tags: [headphones, noise cancelling, anc, comparison, sony, soundcore, anker, usa, uk]
 affiliate: true
+sources:
+  - name: "GSMArena: Sony WH-CH720N review"
+    url: "https://www.gsmarena.com/sony_whch720n_wireless_headphones_review-news-58407.php"
+  - name: "Trusted Reviews: Soundcore Space One review"
+    url: "https://www.trustedreviews.com/reviews/soundcore-space-one"
 ---
 
 The Sony WH-CH720N and the Soundcore Space One are two of the most popular noise cancelling headphones you can buy for under $100. Both block steady noise well, last a long time on a charge and connect to two devices at once. They differ in weight, sound, extras and call quality, and those differences decide which one suits you.

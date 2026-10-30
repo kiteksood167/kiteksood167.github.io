@@ -9,6 +9,8 @@ category: Accessories
 also_in: [Guides, Phones]
 tags: [power bank, buying guide, fast charging, Xiaomi, Ambrane, magnetic power bank]
 affiliate: true
+sources:
+  - name: "Prices: Amazon.in, Flipkart and brand store listings, October 2026"
 ---
 
 A good power bank costs less than a single phone repair, yet most people pick one by looking only at the mAh number. Capacity matters, but so do the watts, the ports and the weight you're happy to carry every day. Here's how to choose, and six power banks worth buying in India right now.

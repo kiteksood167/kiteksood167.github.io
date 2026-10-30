@@ -12,6 +12,14 @@ tags: [apple, macbook pro, ipad mini, imac, apple event, launch]
 last_modified_at: 2026-10-29 18:48:00 +0530
 update_note: "Apple's first touchscreen MacBook Pro with an OLED display is official, from ₹3,49,900 in India; it reaches India on November 9."
 affiliate: true
+sources:
+  - name: "Macworld: Apple teases Pro and Tell event on October 28"
+    url: "https://macworld.com/article/3264015/apple-teases-pro-and-tell-event-on-october-28.html"
+  - name: "TechCrunch: Apple launches its new touchscreen MacBook Pro"
+    url: "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  - name: "Beebom: Apple launches OLED iPad mini in India"
+    url: "https://gadgets.beebom.com/news/apple-oled-ipad-mini-launched-in-india-key-specs-price-sale-date"
+  - name: "Engadget and 9to5Mac (event coverage)"
 ---
 
 Apple has officially confirmed its next hardware event, called **"Pro and Tell"**, for **Wednesday, October 28, 2026**. The name points strongly at new MacBook Pro laptops. Reports also expect a new iPad mini and an updated iMac, which would make this one of Apple's most important Mac launches in years.

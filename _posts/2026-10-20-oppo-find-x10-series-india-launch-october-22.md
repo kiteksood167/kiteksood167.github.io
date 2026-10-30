@@ -10,6 +10,11 @@ category: Launches
 also_in: [Phones]
 tags: [oppo, find x10, find x10 pro max, smartphone, flagship phone, launch]
 affiliate: true
+sources:
+  - name: "MySmartPrice: Find X10 and Find X10 Pro Max to launch in India on October 22"
+    url: "https://www.mysmartprice.com/personal-tech/mobiles/mobiles-news/oppo-find-x10-find-x10-pro-max-to-launch-in-india-on-october-22-offers-features-and-more/"
+  - name: "Digit: Find X10 Pro Max and Find X10 India launch this week"
+    url: "https://www.digit.in/news/mobile-phones/oppo-find-x10-pro-max-and-find-x10-india-launch-this-week-check-expected-price-specifications-and-more.html"
 ---
 
 > **Update (October 22):** The Find X10 series is now official in India. See the [official India prices, specs and sale date](/oppo-find-x10-launched-india-price-specs-sale-date/).
