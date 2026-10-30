@@ -10,6 +10,19 @@ image: /assets/images/motorola-signature-27-india-launch-november-expected-price
 image_alt: "A black phone and an olive green phone with textured backs and large square camera modules, standing on a dark stage with warm lights"
 image_credit: "Illustration, not the actual product"
 tags: [motorola, motorola signature 27, flagship phones, snapdragon 8 elite extreme gen 6, upcoming phones, launch]
+sources:
+  - name: "Digit: Motorola Signature 27 to launch next week"
+    url: "https://www.digit.in/news/mobile-phones/motorola-signature-27-to-launch-next-week-how-much-it-may-cost-and-what-it-might-offer.html"
+  - name: "Digit: Signature 27 India launch next month"
+    url: "https://www.digit.in/news/mobile-phones/motorola-signature-27-india-launch-next-month-snapdragon-8-elite-extreme-gen-6-to-expected-price-in-india-what-you-need-to-know.html"
+  - name: "Beebom: Signature 27 India launch confirmed for next month"
+    url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-timeline-confirmed"
+  - name: "GSMArena: When Motorola's Signature 27 is landing in India"
+    url: "https://www.gsmarena.com/heres_when_motorolas_signature_27_is_landing_in_india-news-75247.php"
+  - name: "My Mobile India: Motorola Signature 27 India launch"
+    url: "https://www.mymobileindia.com/motorola-signature-27-india-launch/"
+  - name: "Beebom: Motorola Signature launched in India"
+    url: "https://gadgets.beebom.com/news/motorola-signature-launched-in-india-key-specs-price-availability"
 ---
 
 Motorola has confirmed that the **Signature 27** is coming to India **this November**. Its India website now carries a Signature 27 page that says "coming this November", and the company calls it its fastest Android phone yet. It runs on Qualcomm's new **Snapdragon 8 Elite Extreme Gen 6** chip and has a **200MP periscope zoom camera**. Motorola hasn't announced the exact India date or the price.

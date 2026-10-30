@@ -10,6 +10,12 @@ image: /assets/images/cert-in-apple-security-warning-update-iphone-mac.jpg
 image_alt: "A phone, a tablet and a laptop on a dark desk, each screen showing a glowing red shield with a warning sign"
 image_credit: "Illustration, not the actual products"
 tags: [apple, iphone, ipad, mac, cert-in, security, software update, news]
+sources:
+  - name: "Outlook Money: CERT-In flags high-risk Apple vulnerabilities"
+    url: "https://www.outlookmoney.com/news/iphone-ipad-and-mac-users-alert-cert-in-flags-high-risk-apple-vulnerabilities"
+  - name: "Business Standard (CERT-In advisory coverage)"
+  - name: "CERT-In (Indian Computer Emergency Response Team)"
+    url: "https://www.cert-in.org.in/"
 ---
 
 India's cyber security agency, **CERT-In**, has issued a **high-severity** warning for Apple users, saying several flaws in iPhone, iPad, Mac, Apple Watch, Apple Vision Pro and Safari software could let attackers run malicious code or steal sensitive data. The fix is simple: install the latest software update for your device.

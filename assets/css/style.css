@@ -514,3 +514,11 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 }
 
 @media (max-width: 720px) { html.mnav-open .cat-nav { display: none; } }
+
+/* Sources box */
+.sources-box { margin: 32px 0 8px; padding: 16px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); font-size: .88rem; }
+.sources-label { margin: 0 0 8px; font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+.sources-box ul { margin: 0; padding-left: 18px; }
+.sources-box li { margin: 4px 0; color: var(--muted); }
+.sources-box a { color: inherit; text-decoration: underline; text-underline-offset: 2px; overflow-wrap: anywhere; }
+.sources-box a:hover { color: var(--accent, inherit); }

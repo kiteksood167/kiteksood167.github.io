@@ -10,6 +10,11 @@ image: /assets/images/black-friday-2026-tech-deals-how-to-spot-real-discount.jpg
 image_alt: "A laptop, headphones, a smartwatch and a phone on a dark table, each with a blank red or yellow sale tag"
 image_credit: "Illustration"
 tags: [black friday, cyber monday, deals, shopping tips, amazon, usa, uk]
+sources:
+  - name: "Which?: Only one in seven deals worth buying on Black Friday"
+    url: "https://www.which.co.uk/policy-and-insight/article/only-one-in-seven-deals-worth-buying-on-black-friday-which-finds-aVYGM0J8z4Yf"
+  - name: "Yahoo Shopping: When is Amazon's Black Friday sale in 2026?"
+    url: "https://shopping.yahoo.com/deals/articles/amazon-black-friday-sale-2026-210011043.html"
 ---
 
 **Black Friday 2026 falls on Friday, November 27**, the day after Thanksgiving, and **Cyber Monday is November 30**. In practice, the sales start much earlier: Amazon and other big retailers usually begin rolling out holiday deals in early November. That gives you nearly a month of "limited-time" offers, and not all of them are real bargains.

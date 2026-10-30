@@ -10,6 +10,17 @@ image_alt: "A man at his front door closely checking the seal on a new phone box
 image_credit: "Illustration"
 tags: [buying guide, online shopping, IMEI, open box delivery, Sanchar Saathi, Flipkart, Amazon, fake phone]
 affiliate: true
+sources:
+  - name: "Flipkart: Open Box Delivery terms"
+    url: "https://www.flipkart.com/pages/obd-tnc"
+  - name: "Zoutons: Flipkart Open Box Delivery OTP rules"
+    url: "https://zoutons.com/news/flipkart-open-box-delivery-otp-rules-2026"
+  - name: "FoneArena: DoT advises KYM verification to check mobile authenticity"
+    url: "https://www.fonearena.com/blog/469511/dot-advise-use-kym-verification-mobile-authenticity.html"
+  - name: "Sanchar Saathi (Department of Telecommunications)"
+    url: "https://sancharsaathi.gov.in/"
+  - name: "National Consumer Helpline"
+    url: "https://consumerhelpline.gov.in/"
 ---
 
 Festive sale phones are arriving at doorsteps across India right now, and most of them are exactly what buyers ordered. But every season brings stories of a soap bar instead of a phone, a refurbished unit sold as new, or the wrong variant in the box. The moment that matters most is before you hand over the delivery OTP, because once you do, getting a refund or replacement becomes much harder.

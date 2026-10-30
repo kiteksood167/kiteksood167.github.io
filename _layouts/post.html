@@ -41,6 +41,15 @@ layout: default
       {{ content }}
     </div>
 
+    {% if page.sources and page.sources.size > 0 %}
+    <aside class="sources-box" aria-label="Sources">
+      <p class="sources-label">Sources</p>
+      <ul>
+        {% for s in page.sources %}<li>{% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener nofollow">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</li>{% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
     {% include share.html %}
 
     {% include author-box.html %}
