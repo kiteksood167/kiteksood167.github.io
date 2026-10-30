@@ -1,6 +1,7 @@
 ---
 title: "How to Improve Gaming Performance on Your Android Phone"
-description: "Lag, heating and frame drops in BGMI or Free Fire? These settings and habits help any Android phone run games smoother, without risky hacks."
+seo_title: "Boost Gaming Performance on Android: 6 Easy Fixes"
+description: "Game lagging or phone heating up in BGMI or Free Fire? 6 easy fixes to boost gaming performance on any Android phone, no root or risky booster apps."
 date: 2026-10-20 04:24:00 +0530
 image: /assets/images/improve-gaming-performance-android-phone.jpg
 image_alt: "Hands holding a smartphone in landscape playing a battle royale game"
