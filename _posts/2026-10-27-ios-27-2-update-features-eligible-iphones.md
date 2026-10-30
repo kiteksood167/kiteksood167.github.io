@@ -78,7 +78,7 @@ If it doesn't show up right away, check again later; it can take a little while 
 
 Also install the update even if you don't care about the new features, because Apple says it includes security fixes. Keeping your iPhone patched is the simplest way to stay safe from known bugs.
 
-**Related reading:** [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/) · [12 Simple Ways to Make Your Phone Battery Last Longer](/make-phone-battery-last-longer/)
+**Related reading:** [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/) · [12 Simple Ways to Make Your Phone Battery Last Longer](/make-phone-battery-last-longer/) · [CERT-In Warns iPhone, iPad and Mac Users: Update Now to Fix High-Risk Flaws](/cert-in-apple-security-warning-update-iphone-mac/)
 
 ## The bottom line
 
