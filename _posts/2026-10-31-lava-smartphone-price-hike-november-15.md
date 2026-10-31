@@ -4,7 +4,7 @@ seo_title: "Lava Phone Price Hike From November 15"
 description: "Lava will raise prices across its smartphone range by up to ₹3,000 from November 15, citing memory shortages. What it means and whether to buy now."
 date: 2026-10-31 13:47:00 +0530
 image: /assets/images/lava-smartphone-price-hike-november-15.jpg
-image_alt: "Budget smartphones on a shop counter with a red upward arrow and a calendar page showing the 15th"
+image_alt: "Three budget smartphones on a shop counter with a glowing red upward arrow and a desk calendar with the 15th circled"
 image_credit: "Illustration, not the actual products"
 category: Phones
 news: true
@@ -35,7 +35,10 @@ In its statement, reported by NewsBytes, Lava said that "in the current industry
 
 Lava hasn't published a model-by-model list of new prices yet. Aaj Tak, which also reported the hike, says budget and mid-range phones will be affected and names the **Lava Virat Curve 5G** among the phones that will get costlier. "Up to ₹3,000" means that's the maximum: many models are likely to go up by less.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-memory-chips-tweezers-price-tag.jpg" alt="Tweezers lifting a memory chip from an open phone circuit board, next to a price tag with a red upward arrow" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Why phones keep getting more expensive
 
@@ -51,7 +54,10 @@ Budget phones feel this the most, because memory makes up a bigger share of thei
 
 > **Tip:** Note today's price of the phone you want on Amazon or Flipkart, or take a screenshot. If it goes up after November 15, you'll know exactly how much you saved or lost, and you can compare it fairly with other phones.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/woman-comparing-two-phones-laptop-sofa.jpg" alt="A woman on a sofa comparing two phones while a laptop shows phone listings on a shopping site" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 {% include buy.html name="Lava 5G smartphones" query="Lava 5G smartphone" note="Check today's price before the November 15 hike" %}
 
