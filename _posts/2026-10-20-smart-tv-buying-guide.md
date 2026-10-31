@@ -8,6 +8,11 @@ category: "Smart Home"
 also_in: [Guides]
 tags: [smart tv, tv buying guide, oled, qled, smart home]
 affiliate: true
+sources:
+  - name: "Dolby: Dolby Vision"
+    url: "https://www.dolby.com/technologies/dolby-vision/"
+  - name: "HDMI Licensing: HDMI specification overview (4K120, VRR, ALLM)"
+    url: "https://www.hdmi.org/spec/hdmi2_1"
 ---
 
 TV shopping is full of confusing labels: 4K, QLED, Mini LED, OLED, HDR10+, Dolby Vision, 120Hz. Some of these make a huge difference to what you see, and some are mostly marketing. This guide explains which ones matter, so you can choose the right TV for your room and budget.

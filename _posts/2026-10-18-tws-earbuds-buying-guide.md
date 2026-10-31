@@ -9,6 +9,11 @@ category: Audio
 also_in: [Guides]
 tags: [earbuds, TWS, audio, buying guide]
 affiliate: true
+sources:
+  - name: "Sony: LDAC developer site"
+    url: "https://www.sony.co.jp/en/Products/LDAC/"
+  - name: "Bluetooth SIG: LE Audio"
+    url: "https://www.bluetooth.com/learn-about-bluetooth/feature-enhancements/le-audio/"
 ---
 
 True wireless (TWS) earbuds are now available from under ₹1,000 to well over ₹20,000. The spec sheets are full of terms like ANC, ENC, LDAC, low latency and "50 hours playback". This guide explains what each one means, so you know what's worth paying for.

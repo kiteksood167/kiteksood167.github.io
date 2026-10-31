@@ -8,6 +8,9 @@ category: Global
 also_in: [Phones]
 tags: [smartphones, unlocked phones, carriers, buying guide, usa, uk]
 affiliate: true
+sources:
+  - name: "FCC: Cell phone unlocking FAQs"
+    url: "https://www.fcc.gov/consumers/guides/cell-phone-unlocking-faqs"
 ---
 
 In the US, UK and many other countries, you can buy a phone in two ways: directly from your mobile carrier, often with monthly payments, or "unlocked" from a store or the manufacturer. The carrier deal usually looks cheaper on day one. Whether it actually is depends on how long you keep the phone and how much freedom you want.

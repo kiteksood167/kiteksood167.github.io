@@ -9,6 +9,11 @@ category: Gaming
 also_in: [Phones, Guides]
 tags: [gaming, android, bgmi, free fire, performance, tips]
 affiliate: true
+sources:
+  - name: "Android Developers: Game Mode API and interventions"
+    url: "https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions"
+  - name: "Android Help: Get the most life from your Android device's battery"
+    url: "https://support.google.com/android/answer/7664692?hl=en"
 ---
 
 Nothing ruins a match like sudden lag or a phone that turns into a hand warmer. You can't turn a budget phone into a gaming flagship, but you can usually get noticeably smoother gameplay with the right settings and a few habits. Here's what actually works.

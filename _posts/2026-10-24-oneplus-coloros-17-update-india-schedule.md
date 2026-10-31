@@ -15,7 +15,8 @@ sources:
     url: "https://gadgets.beebom.com/news/oneplus-confirms-coloros-17-rollout-timeline-for-these-phones"
   - name: "The Tech Outlook: OnePlus 13 series and 15R get stable ColorOS 17 in India"
     url: "https://www.thetechoutlook.com/news/os/oneplus-13-13s-13r-and-15r-start-receiving-stable-coloros-17-update-in-india/"
-  - name: "9to5Google (OnePlus community post coverage)"
+  - name: "Android Headlines: OnePlus expands Android 17 rollout with ColorOS"
+    url: "https://www.androidheadlines.com/2026/10/oneplus-expands-android-17-rollout-to-more-phones-replacing-oxygenos-with-coloros.html"
 ---
 
 OnePlus has started rolling out its Android 17 update in India, and it arrives as ColorOS 17 instead of OxygenOS. The OnePlus 15 and OnePlus Pad 4 are first in line, almost a week earlier than the October 29 date OnePlus had announced, with more phones and tablets following through early 2027.

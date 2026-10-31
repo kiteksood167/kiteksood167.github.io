@@ -10,8 +10,12 @@ also_in: [Laptops]
 tags: [laptops, college, students, budget laptops, macbook neo, dell xps 13, chromebook plus, back to school, buying guide, usa, uk]
 affiliate: true
 sources:
-  - name: "Tom's Guide (laptop reviews and battery tests)"
-  - name: "RTINGS (laptop reviews)"
+  - name: "Tom's Guide: MacBook Neo battery life tested"
+    url: "https://www.tomsguide.com/computing/macbooks/macbook-neo-battery-life-tested-we-cant-believe-the-results"
+  - name: "Tom's Guide: Best budget laptops"
+    url: "https://www.tomsguide.com/best-picks/best-budget-laptops"
+  - name: "RTINGS: Best budget laptops"
+    url: "https://www.rtings.com/laptop/reviews/best/budget"
   - name: "Prices: Amazon US, Best Buy and Apple store listings, October 2026"
 ---
 

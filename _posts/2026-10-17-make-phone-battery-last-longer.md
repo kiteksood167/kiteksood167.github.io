@@ -9,6 +9,13 @@ category: Guides
 also_in: [Phones]
 tags: [battery, android, iphone, tips]
 affiliate: true
+sources:
+  - name: "Apple: Batteries – Maximizing Performance"
+    url: "https://www.apple.com/batteries/maximizing-performance/"
+  - name: "Android Help: Get the most life from your Android device's battery"
+    url: "https://support.google.com/android/answer/7664692?hl=en"
+  - name: "Battery University: How to prolong lithium-based batteries"
+    url: "https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries"
 ---
 
 If your phone struggles to last the day, you don't always need a new one. A few settings changes can add hours to battery life, and a few habits can keep your battery healthy for years. Here are the tips that actually work, and a few myths to stop believing.

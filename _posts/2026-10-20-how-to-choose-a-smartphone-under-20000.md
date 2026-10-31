@@ -9,6 +9,11 @@ category: Phones
 also_in: [Guides]
 tags: [smartphones, budget phones, buying guide]
 affiliate: true
+sources:
+  - name: "JEDEC: Universal Flash Storage (UFS)"
+    url: "https://www.jedec.org/standards-documents/focus/flash/universal-flash-storage-ufs"
+  - name: "USB-IF: USB Power Delivery"
+    url: "https://www.usb.org/usb-charger-pd"
 ---
 
 The ₹15,000–₹20,000 segment is the most crowded part of the Indian phone market. Every brand launches something here every few weeks, and every box is covered in big numbers. The trouble is that the biggest numbers on the box are often the ones that matter least.

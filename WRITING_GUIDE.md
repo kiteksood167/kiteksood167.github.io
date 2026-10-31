@@ -88,3 +88,17 @@ When you change facts in a published post (official price announced, price chang
 - For an important change, also add `update_note: "One plain sentence saying what changed"` in double quotes, for example `update_note: "Infinix GT 50 Pro is now official in India at ₹69,999, with the first sale on October 30 on Flipkart."`. It shows as a green "Updated" box at the top of the post and, for 3 days, in the slim bar at the top of every page (readers can close it). Keep it under about 110 characters and only state confirmed facts.
 - Don't add `update_note` for small fixes like typos or extra internal links.
 - If several posts change because of the same news (for example a launch price that also appears in a roundup), add `update_note` only to the main post, so the update bar doesn't repeat the same news. All updated posts still appear on /updates/ (Recent updates page) for 30 days.
+
+## Sources box (required on every post, added Oct 2026)
+Every post must list the sources its facts came from in the front matter, so the "Sources" box shows at the end of the post:
+```
+sources:
+  - name: "Site: short article title"
+    url: "https://full-link-to-the-exact-article-or-official-page"
+```
+- Use the exact article or official page you used (brand page, support page, official spec, or a named news article), not a homepage or a vague "rollout reports".
+- Every entry needs a working `url`. Only price-list entries may go without one, written like `name: "Prices: Amazon.in and Flipkart listings, October 2026"`.
+- 2–5 sources per post is normal. Evergreen guides should cite official pages (for example Apple/Google support, USB-IF, Bluetooth SIG, JEDEC).
+
+## Owner's take
+Kitek may add his own opinion to a post. Put it under a `## Our take` heading exactly as he approves it (grammar fixed only), never invented by the writer.

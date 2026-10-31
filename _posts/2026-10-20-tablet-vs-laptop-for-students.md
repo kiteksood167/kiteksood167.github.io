@@ -8,6 +8,9 @@ category: Tablets
 also_in: [Laptops, Guides]
 tags: [tablet, laptop, students, study, buying guide]
 affiliate: true
+sources:
+  - name: "Microsoft: Windows 11 specs and system requirements"
+    url: "https://www.microsoft.com/en-us/windows/windows-11-specifications"
 ---
 
 Many students today wonder whether a tablet can replace a laptop. For some courses it absolutely can, and it's lighter, cheaper and lasts longer on battery. For others, a tablet will frustrate you by the second semester. Here's how to tell which group you're in.

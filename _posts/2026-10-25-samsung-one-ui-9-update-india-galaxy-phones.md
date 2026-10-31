@@ -14,7 +14,12 @@ sources:
     url: "https://gadgets.beebom.com/news/one-ui-9-stable-galaxy-z-fold-7-z-flip-7-rolling-out-india"
   - name: "Beebom: Stable One UI 9 for Galaxy A35, M56, F17 and M17 in India"
     url: "https://gadgets.beebom.com/news/stable-one-ui-9-update-rolls-out-samsung-galaxy-a35-m56-f17-m17-india"
-  - name: "SamMobile, Sammy Guru, Tech Times, The Hans India and iTechify (rollout reports)"
+  - name: "SamMobile: Galaxy S26 One UI 9 stable rollout begins"
+    url: "https://www.sammobile.com/news/proper-galaxy-s26-one-ui-9-stable-update-rollout-begun/"
+  - name: "Sammy Fans: Galaxy M56, A35, F17 and M17 get One UI 9"
+    url: "https://www.sammyfans.com/2026/10/27/samsung-galaxy-m56-a35-f17-and-m17-get-one-ui-9-stable-update/amp/"
+  - name: "91mobiles: One UI 9 stable update for Galaxy S26"
+    url: "https://www.91mobiles.com/hub/one-ui-9-stable-update-rollout-galaxy-s26-series/"
 ---
 
 Samsung's One UI 9 update, based on Android 17, is spreading to more Galaxy phones in India. The Galaxy M47 joined the list this week, and Samsung has also published an official list of phones and tablets that will get the update, so here is where things stand for Indian owners.

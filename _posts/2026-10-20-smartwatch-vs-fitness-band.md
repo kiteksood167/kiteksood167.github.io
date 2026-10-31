@@ -8,6 +8,9 @@ category: Wearables
 also_in: [Guides]
 tags: [smartwatch, fitness band, wearables, buying guide]
 affiliate: true
+sources:
+  - name: "Apple Support: Monitor your heart rate with Apple Watch"
+    url: "https://support.apple.com/en-us/120277"
 ---
 
 Smartwatches and fitness bands both count your steps, track your sleep and show notifications, so it's easy to think they're the same thing. They aren't. The right choice depends on whether you want a mini phone on your wrist or a simple tracker you can forget about for two weeks.

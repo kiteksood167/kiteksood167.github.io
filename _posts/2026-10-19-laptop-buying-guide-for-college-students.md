@@ -9,6 +9,11 @@ category: Laptops
 also_in: [Guides]
 tags: [laptops, students, buying guide]
 affiliate: true
+sources:
+  - name: "Microsoft: Windows 11 specs and system requirements"
+    url: "https://www.microsoft.com/en-us/windows/windows-11-specifications"
+  - name: "Tom's Guide: Best budget laptops"
+    url: "https://www.tomsguide.com/best-picks/best-budget-laptops"
 ---
 
 A college laptop needs to survive four years of assignments, online classes, late-night Netflix and maybe some coding or design work. Spend too little and it slows down by the second year. Spend too much and you pay for gaming features you'll never use.

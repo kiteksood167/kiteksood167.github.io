@@ -9,6 +9,15 @@ category: Accessories
 also_in: [Phones, Guides]
 tags: [fast charging, charger, usb-c, power delivery, accessories]
 affiliate: true
+sources:
+  - name: "USB-IF: USB Power Delivery"
+    url: "https://www.usb.org/usb-charger-pd"
+  - name: "Apple Support: Fast charge your iPhone"
+    url: "https://support.apple.com/en-us/102574"
+  - name: "Qualcomm: Quick Charge"
+    url: "https://www.qualcomm.com/products/features/quick-charge"
+  - name: "Battery University: How to prolong lithium-based batteries"
+    url: "https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries"
 ---
 
 Your phone says "67W fast charging", but with your friend's charger it crawls. You buy a "65W" charger, and it's still not fast. Fast charging is confusing because brands use different standards. This guide explains it simply, so you can pick the right charger the first time.
