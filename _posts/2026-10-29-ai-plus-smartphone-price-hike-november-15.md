@@ -67,7 +67,7 @@ Ai+ is far from alone. Memory chips have become much more expensive in 2026 as A
 
 {% include buy.html name="Ai+ Nova 2 5G" query="Ai+ Nova 2 5G" note="Check the price before the November 15 hike" %}
 
-**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Upcoming Phone Launches in India This Week (October 26 to November 1)](/upcoming-phone-launches-india-this-week-october-26/)
+**Related reading:** [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Upcoming Phone Launches in India This Week (October 26 to November 1)](/upcoming-phone-launches-india-this-week-october-26/)
 
 ## The bottom line
 
