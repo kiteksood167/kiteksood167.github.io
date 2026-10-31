@@ -107,7 +107,7 @@ Buying from the brand's official store on Amazon or Flipkart, or a well-rated se
 
 {% include buy.html name="Tempered glass screen protector" query="tempered glass screen protector" note="Put it on right after you check the screen" %}
 
-**Related reading:** [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
+**Related reading:** [How to Sell Your Old Phone Safely in India](/sell-old-phone-safely-india-steps/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
 
