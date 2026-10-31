@@ -87,6 +87,20 @@ If you want to write notes on the screen with a pen, look at the 11-inch **Kindl
 
 The new **Kids** versions start at around $180 and come with a kid-friendly cover and a 12-month Amazon Kids+ subscription.
 
+## Our take
+
+**Kindle or phone for reading?**
+
+I like to read books on a Kindle or e-reader because it's more comfortable for long reading sessions. It's lightweight and easy to carry, it has long battery life, and I can store thousands of books on one device. Its screen is also designed to be easier on the eyes than a regular phone screen. For occasional reading, though, a phone is more convenient.
+
+**Is the Colorsoft worth $90 more than the Paperwhite?**
+
+If you mostly read novels and regular books, the Kindle Paperwhite is enough. Its text is sharp, and its battery lasts longer. The extra $90 for the Colorsoft is only worth it if you read a lot of comics, magazines or illustrated books.
+
+**Is it worth paying $20 to remove ads?**
+
+For me, paying $20 extra to remove ads isn't worth it, because the ads don't disturb the reading experience much. I'd rather save that $20.
+
 > **Tip:** Don't pay full price if you can wait a few weeks. Kindles are usually discounted around Black Friday and Cyber Monday, so check the price history before you buy and make sure a "deal" is on the 2026 model, not last year's.
 
 ## Should you buy a 2024 Paperwhite instead?
