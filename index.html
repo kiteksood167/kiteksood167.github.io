@@ -27,7 +27,7 @@ description: "Honest, simple tech buying guides, new phone launches and tips for
     <div class="feat-grid">
       <a class="feat-lead" href="{{ lead.url | relative_url }}">
         <div class="card-cover cat-{{ lc | slugify }}{% if lead.image %} has-img{% endif %}" aria-hidden="true">
-          {% if lead.image %}<img src="{{ lead.image | relative_url }}" width="1600" height="900" fetchpriority="high" alt="{{ lead.image_alt | default: lead.title | escape }}">{% else %}{% include cat-icon.html cat=lc %}{% endif %}
+          {% if lead.image %}<img src="{{ lead.image | relative_url }}" srcset="{% include cover-srcset.html src=lead.image %}" sizes="(max-width: 720px) 100vw, 680px" width="1600" height="900" fetchpriority="high" alt="{{ lead.image_alt | default: lead.title | escape }}">{% else %}{% include cat-icon.html cat=lc %}{% endif %}
         </div>
         <div class="feat-lead-body">
           <span class="chip chip-sm">{% if lead.featured %}Featured{% else %}Latest{% endif %} · {{ lc }}</span>
@@ -47,7 +47,7 @@ description: "Honest, simple tech buying guides, new phone launches and tips for
           {% assign pc = p.category | default: 'Guides' %}
         <a class="feat-item" href="{{ p.url | relative_url }}">
           <div class="feat-thumb card-cover cat-{{ pc | slugify }}{% if p.image %} has-img{% endif %}" aria-hidden="true">
-            {% if p.image %}<img src="{% include thumb.html src=p.image %}" width="720" height="405" alt="{{ p.image_alt | default: p.title | escape }}" loading="lazy" decoding="async">{% else %}{% include cat-icon.html cat=pc %}{% endif %}
+            {% if p.image %}<img src="{% include thumb.html src=p.image %}" srcset="{% include card-srcset.html src=p.image %}" sizes="(max-width: 600px) 40vw, 200px" width="720" height="405" alt="{{ p.image_alt | default: p.title | escape }}" loading="lazy" decoding="async">{% else %}{% include cat-icon.html cat=pc %}{% endif %}
           </div>
           <div class="feat-item-body">
             <span class="feat-cat cat-{{ pc | slugify }}">{{ pc }}</span>

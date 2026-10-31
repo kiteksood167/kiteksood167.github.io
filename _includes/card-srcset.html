@@ -1,0 +1,7 @@
+{%- comment -%}srcset for a card image: 400w small and 720w thumb copies when they exist.{%- endcomment -%}
+{%- assign s = include.src | replace: '/assets/images/', '/assets/images/sm/' -%}
+{%- assign t = include.src | replace: '/assets/images/', '/assets/images/thumbs/' -%}
+{%- assign sh = site.static_files | where: "path", s -%}
+{%- assign th = site.static_files | where: "path", t -%}
+{%- if sh.size > 0 %}{{ s | relative_url }} 400w, {% endif -%}
+{%- if th.size > 0 %}{{ t | relative_url }} 720w{% else %}{{ include.src | relative_url }} 1600w{% endif -%}
