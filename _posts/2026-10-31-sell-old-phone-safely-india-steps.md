@@ -7,7 +7,7 @@ category: Guides
 also_in: [Phones]
 affiliate: true
 image: /assets/images/sell-old-phone-safely-india-steps.jpg
-image_alt: "A man at a table holding an old phone showing a reset screen, with a new phone box and a SIM ejector pin beside it"
+image_alt: "A man at a table holding an old phone showing a reset progress screen, with a new phone in its box, a phone case and a SIM ejector pin beside it"
 image_credit: "Illustration"
 tags: [buying guide, sell old phone, factory reset, data privacy, exchange offer, Sanchar Saathi, Android, iPhone]
 sources:
@@ -35,7 +35,10 @@ A factory reset wipes the phone completely, so start with a backup.
 
 If you're moving to a new phone of the same type, most phones also offer a direct transfer during setup, which is often quicker.
 
-<!-- inline image 1 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-to-phone-data-transfer-cloud-backup.jpg" alt="Two phones held side by side with files, photos and contacts transferring from the old phone to the new one, and a laptop showing a cloud backup" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## 2. Save anything that isn't in the cloud
 
@@ -87,7 +90,10 @@ If you sell to a stranger, meet in a busy public place, don't hand over the phon
 
 Include the original box, charger (if you have it) and the purchase bill. Buyers trust a phone more when the IMEI on the box matches the phone. For a private sale, write a short note with both names, the date, the phone's model and IMEI, and the price, and have both people sign it. It's a simple record that the phone changed hands on that date.
 
-<!-- inline image 2 -->
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/selling-phone-box-bill-shop-counter.jpg" alt="A seller handing over a phone box and printed bill at a mobile shop counter while the buyer checks the phone" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Quick checklist
 
