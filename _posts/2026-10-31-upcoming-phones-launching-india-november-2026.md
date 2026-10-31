@@ -88,6 +88,30 @@ Xiaomi India has teased a launch on X without giving a date, and reports say onl
 - a 7,000mAh battery with 100W wired and 50W wireless charging
 - three rear cameras: 200MP main, 50MP ultrawide and 200MP telephoto
 
+## Our take
+
+**Can the Motorola Signature 27 challenge the iPhone and Samsung?**
+
+Yes, in my view, the Motorola Signature 27 can challenge both the iPhone and Samsung. Its premium design, camera hardware and display are outstanding.
+
+But a real comparison isn't only about specifications. Samsung's and Apple's camera processing, video recording, software and ecosystem also matter a lot.
+
+The most interesting part is that Motorola has made a big jump in specifications this time. Motorola can give Samsung and Apple tough competition on hardware, but I'll give my final verdict only after testing its camera processing, video quality and real-world performance.
+
+**Is the Xiaomi 18 Pro worth ₹1 lakh?**
+
+My advice is that before spending ₹1 lakh, you should compare it with other phones on the market, like the Samsung Galaxy Ultra, the iPhone Pro Max and the Motorola Signature 27. Don't buy it just for its 200MP camera and bigger battery.
+
+**Should you buy in the Diwali sale or wait?**
+
+If you don't need a new phone urgently, compare prices again after the Diwali sale. Don't buy in a rush just because it's Diwali.
+
+My final suggestion:
+
+- **If you're getting a genuine discount**, go for it in the Diwali sale.
+- **If it's only a normal discount**, wait until November or December.
+- **If buying a phone isn't urgent**, wait until January 2027.
+
 > **Tip:** If you're buying a phone under ₹30,000, don't wait for these. They're all flagships at ₹70,000 or more. If you're spending ₹70,000 or more, wait until the Signature 27's India price is out in November, because a new launch often pushes older flagships into sale prices.
 
 Also keep an eye on budget phones: some brands are raising prices from November 15, including [Lava](/lava-smartphone-price-hike-november-15/) and [AI+](/ai-plus-smartphone-price-hike-november-15/).
