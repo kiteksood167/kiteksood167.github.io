@@ -66,7 +66,7 @@ plugins:
 defaults:
   - scope: { path: "", type: posts }
     values: { layout: post }
-  - scope: { path: "" }
+  - scope: { path: "", type: pages }
     values: { layout: page, image: /assets/og-default.jpg }   # default share image for pages without their own
 
 exclude:

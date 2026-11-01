@@ -32,6 +32,7 @@
   {% if page.url == "/" %}{% assign ptitle = site.title | append: ": Tech Buying Guides, Launches & Tips" %}{% else %}{% assign ptitle = page.seo_title | default: page.title | default: site.title %}{% endif %}
   <title>{% if page.url != "/" and ptitle.size <= 46 %}{{ ptitle | escape }} | {{ site.title }}{% else %}{{ ptitle | escape }}{% endif %}</title>
   {% seo title=false %}
+  {% unless page.image %}<meta property="og:image" content="{{ '/assets/og-default.jpg' | absolute_url }}"><meta name="twitter:image" content="{{ '/assets/og-default.jpg' | absolute_url }}">{% endunless %}
   {% if page.noindex %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-image-preview:large">{% endif %}
   <meta name="theme-color" content="#ff5a1f">
   {% if page.layout == "post" %}{% assign bc = page.category | default: 'Guides' %}
