@@ -71,6 +71,11 @@ Karbonn hasn't confirmed the processor, the camera sensors, or the RAM and stora
 
 > **Tip:** Wait for the official price and the full spec sheet before you decide. The processor and RAM matter more for day-to-day speed than the battery size, and Karbonn hasn't shared those yet.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/older-man-video-call-student-helping-phone.jpg" alt="An older man on a video call on his phone while a young man next to him smiles and helps, sitting on a sofa at home" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Who should consider it
 
 The Rebel series looks aimed at first-time smartphone buyers, students and older users who want a phone that lasts long on a charge, has a headphone jack and doesn't come full of unwanted apps. If you mainly use WhatsApp, YouTube and UPI payments, those are the right priorities.
