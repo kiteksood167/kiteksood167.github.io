@@ -3,6 +3,9 @@ title: "Karbonn Rebel and Rebel Pro 5G Launching in India on November 2: What We
 seo_title: "Karbonn Rebel, Rebel Pro 5G India Launch: Nov 2"
 description: "Karbonn returns with the Rebel and Rebel Pro 5G on November 2. Confirmed specs, big batteries, Android 16, Amazon sale, and what the price could be."
 date: 2026-11-01 18:41:00 +0530
+image: /assets/images/karbonn-rebel-rebel-pro-5g-india-launch-november-2.jpg
+image_alt: "Two budget smartphones in maroon and blue on a stage, each showing a full battery icon, under green and orange spotlights"
+image_credit: "Illustration, not the actual phones"
 category: Launches
 also_in: [Phones]
 tags: [karbonn, karbonn rebel, karbonn rebel pro 5g, smartphones, budget phones, amazon, launch]
@@ -50,6 +53,11 @@ We'll update this post once Karbonn announces the prices, variants and first sal
 | RAM and storage | Not confirmed | Not confirmed |
 
 Karbonn hasn't confirmed the processor, the camera sensors, or the RAM and storage options for either phone. A tipster has named a Unisoc chip for the Rebel Pro, but that isn't official, so we've left it out of the table. The refresh rate of the standard Rebel's screen also hasn't been confirmed.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/budget-phone-headphone-jack-full-battery.jpg" alt="A budget smartphone on a wooden table showing a full battery icon, with wired earphones plugged into its headphone jack" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What's new
 
