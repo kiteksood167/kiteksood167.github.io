@@ -13,14 +13,14 @@
 #  post  = optional link to one of our own articles about the phone.
 # ------------------------------------------------------------
 
-updated: "October 2026"
+updated: "November 2026"
 
 phones:
   # ---------- Under ₹15,000 ----------
   - name: Samsung Galaxy A07
     brand: Samsung
     os: android
-    price: 12889
+    price: 11499
     chip: MediaTek Helio G99
     screen: 6.74" LCD, 90Hz
     size: 6.74
@@ -36,7 +36,7 @@ phones:
   - name: Moto G06 Power
     brand: Motorola
     os: android
-    price: 12700
+    price: 11999
     chip: MediaTek Helio G81 Extreme
     screen: 6.88" LCD, 120Hz
     size: 6.88
@@ -68,7 +68,7 @@ phones:
   - name: Lava Virat V1 5G
     brand: Lava
     os: android
-    price: 11799
+    price: 12999
     chip: Unisoc T8200
     screen: 6.75" LCD, 120Hz
     size: 6.75
@@ -180,12 +180,28 @@ phones:
     updates: 2
     fiveg: true
     query: Oppo K14x 5G
+  - name: Realme Narzo 100x 5G
+    brand: Realme
+    os: android
+    price: 19498
+    chip: MediaTek Dimensity 6300
+    screen: 6.8" LCD, 144Hz
+    size: 6.8
+    mah: 8000
+    charge: 45W
+    cam: 50MP main
+    gaming: 2
+    camera: 2
+    display: 2
+    updates: 2
+    fiveg: true
+    query: Realme Narzo 100x 5G
 
   # ---------- ₹20,000 – ₹30,000 ----------
   - name: iQOO Neo 10R
     brand: iQOO
     os: android
-    price: 24000
+    price: 24400
     chip: Snapdragon 8s Gen 3
     screen: 6.78" 1.5K AMOLED, 144Hz
     size: 6.78
@@ -202,7 +218,7 @@ phones:
   - name: Infinix GT 30 Pro
     brand: Infinix
     os: android
-    price: 26000
+    price: 31999
     chip: MediaTek Dimensity 8350 Ultimate
     screen: 6.78" AMOLED, 144Hz
     size: 6.78
@@ -236,7 +252,7 @@ phones:
   - name: Samsung Galaxy M47
     brand: Samsung
     os: android
-    price: 26999
+    price: 25999
     chip: Snapdragon 6 Gen 3
     screen: 6.65" FHD+ AMOLED, 120Hz
     size: 6.65
@@ -252,7 +268,7 @@ phones:
   - name: Motorola Edge 60 Pro
     brand: Motorola
     os: android
-    price: 29500
+    price: 28499
     chip: MediaTek Dimensity 8350 Extreme
     screen: 6.7" 1.5K pOLED, 120Hz
     size: 6.7
@@ -285,6 +301,22 @@ phones:
     note: 10,001mAh battery, easily two days of use
     query: realme narzo power 5G 10001mAh
     post: /best-gaming-phones-under-30000/
+  - name: Nothing Phone (4b)
+    brand: Nothing
+    os: android
+    price: 29999
+    chip: Snapdragon 6 Gen 4
+    screen: 6.77" FHD+ AMOLED, 120Hz
+    size: 6.77
+    mah: 6000
+    charge: 33W
+    cam: 50MP main with OIS
+    gaming: 3
+    camera: 3
+    display: 3
+    updates: 3
+    fiveg: true
+    query: Nothing Phone 4b
 
   # ---------- ₹30,000 – ₹45,000 ----------
   - name: Motorola Edge 70 Fusion
@@ -323,7 +355,7 @@ phones:
   - name: OnePlus Nord CE6
     brand: OnePlus
     os: android
-    price: 35999
+    price: 34999
     chip: Snapdragon 7s Gen 4
     screen: 6.78" 1.5K AMOLED, 144Hz
     size: 6.78
@@ -355,7 +387,7 @@ phones:
   - name: Motorola Edge 70 Pro
     brand: Motorola
     os: android
-    price: 37990
+    price: 39999
     chip: MediaTek Dimensity 8500 Extreme
     screen: 6.8" 1.5K AMOLED, 144Hz
     size: 6.8
@@ -390,8 +422,8 @@ phones:
   - name: OnePlus Nord 6
     brand: OnePlus
     os: android
-    price: 46999
-    chip: Snapdragon 8s Gen 3
+    price: 44999
+    chip: Snapdragon 8s Gen 4
     screen: 6.78" AMOLED, 165Hz
     size: 6.78
     mah: 9000
@@ -423,7 +455,7 @@ phones:
   - name: Google Pixel 10a
     brand: Google
     os: android
-    price: 55999
+    price: 49999
     chip: Google Tensor G4
     screen: 6.3" pOLED, 120Hz
     size: 6.3
@@ -437,10 +469,11 @@ phones:
     fiveg: true
     note: Seven years of updates and Google's photo processing
     query: Google Pixel 10a
+    post: /pixel-10a-vs-iphone-17e/
   - name: Realme 16 Pro+
     brand: Realme
     os: android
-    price: 51299
+    price: 53999
     chip: Snapdragon 7 Gen 4
     screen: 6.79" 1.5K AMOLED, 144Hz
     size: 6.79
@@ -456,7 +489,7 @@ phones:
   - name: Motorola Edge 70 Max
     brand: Motorola
     os: android
-    price: 52649
+    price: 52490
     chip: Snapdragon 8 Gen 5
     screen: 6.8" QHD+ AMOLED, 144Hz
     size: 6.8
@@ -488,7 +521,7 @@ phones:
   - name: Oppo Reno15 Pro Mini
     brand: Oppo
     os: android
-    price: 57999
+    price: 59999
     chip: MediaTek Dimensity 8450
     screen: 6.32" 1.5K AMOLED, 120Hz
     size: 6.32
@@ -517,12 +550,28 @@ phones:
     updates: 4
     fiveg: true
     query: OnePlus 15R
+  - name: Vivo V80
+    brand: Vivo
+    os: android
+    price: 62999
+    chip: Snapdragon 7 Gen 4
+    screen: 6.59" 1.5K AMOLED, 144Hz
+    size: 6.59
+    mah: 7200
+    charge: 90W
+    cam: 50MP main with OIS + 3x telephoto
+    gaming: 3
+    camera: 4
+    display: 4
+    updates: 4
+    fiveg: true
+    query: Vivo V80 5G
 
   # ---------- ₹65,000 – ₹1,20,000 ----------
   - name: Samsung Galaxy S26 FE
     brand: Samsung
     os: android
-    price: 67889
+    price: 72999
     chip: Samsung Exynos 2500
     screen: 6.7" AMOLED, 120Hz
     size: 6.7
@@ -557,7 +606,7 @@ phones:
   - name: Google Pixel 11
     brand: Google
     os: android
-    price: 77878
+    price: 77648
     chip: Google Tensor G6
     screen: 6.3" OLED, 120Hz
     size: 6.3
@@ -571,6 +620,41 @@ phones:
     updates: 5
     fiveg: true
     query: Google Pixel 11
+  - name: Apple iPhone 17e
+    brand: Apple
+    os: ios
+    price: 79900
+    chip: Apple A19
+    screen: 6.1" OLED, 60Hz
+    size: 6.1
+    mah: 4005
+    battery_score: 4
+    charge: 20W wired, 15W MagSafe
+    cam: 48MP main with OIS
+    gaming: 4
+    camera: 3
+    display: 3
+    updates: 5
+    fiveg: true
+    note: Cheapest current iPhone
+    query: Apple iPhone 17e
+    post: /pixel-10a-vs-iphone-17e/
+  - name: OnePlus 15
+    brand: OnePlus
+    os: android
+    price: 85999
+    chip: Snapdragon 8 Elite Gen 5
+    screen: 6.78" 1.5K LTPO AMOLED, 165Hz
+    size: 6.78
+    mah: 7300
+    charge: 120W wired, 50W wireless
+    cam: 50MP main with OIS + periscope zoom
+    gaming: 5
+    camera: 4
+    display: 5
+    updates: 4
+    fiveg: true
+    query: OnePlus 15 5G
   - name: Samsung Galaxy S26
     brand: Samsung
     os: android
@@ -647,7 +731,7 @@ phones:
   - name: Samsung Galaxy S26 Ultra
     brand: Samsung
     os: android
-    price: 154999
+    price: 139999
     chip: Snapdragon 8 Elite Gen 5
     screen: 6.9" Dynamic AMOLED 2X, 120Hz
     size: 6.9
@@ -667,9 +751,9 @@ phones:
     os: android
     price: 159999
     chip: Snapdragon 8 Elite Gen 5
-    screen: 6.82" LTPO AMOLED, 120Hz
+    screen: 6.82" LTPO AMOLED, 144Hz
     size: 6.82
-    mah: 6000
+    mah: 6600
     battery_score: 4
     charge: 90W
     cam: 50MP main + 200MP periscope
@@ -704,7 +788,7 @@ phones:
     chip: Snapdragon 8 Elite Gen 5
     screen: 6.82" LTPO AMOLED, 144Hz
     size: 6.82
-    mah: 7005
+    mah: 7050
     battery_score: 5
     charge: 100W
     cam: 200MP main + 10x telephoto
@@ -758,7 +842,7 @@ phones:
     chip: Apple A20 Pro
     screen: 7.6" foldable OLED + 5.4" outer, 120Hz
     size: 7.6
-    mah: 0
+    mah: 4883
     battery_score: 4
     charge: Fast charging, MagSafe/Qi2 25W
     cam: 48MP main + 48MP ultra-wide + 2x telephoto
