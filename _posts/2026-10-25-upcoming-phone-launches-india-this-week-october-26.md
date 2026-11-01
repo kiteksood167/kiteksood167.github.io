@@ -1,9 +1,9 @@
 ---
 title: "Upcoming Phone Launches in India This Week (October 26 to November 1)"
 seo_title: "Upcoming Phone Launches in India This Week"
-description: "Infinix GT 50 Pro launches on October 27 and Apple holds its event on October 28. Plus the big flagships confirmed for India that still have no date."
+description: "Infinix GT 50 Pro launched on October 27 and Apple showed a touchscreen MacBook Pro on October 28. Plus the flagships confirmed for India with no date yet."
 date: 2026-10-25 18:43:00 +0530
-last_modified_at: 2026-10-27 14:19:00 +0530
+last_modified_at: 2026-11-01 10:10:00 +0530
 category: Launches
 also_in: [Phones]
 image: /assets/images/upcoming-phone-launches-india-this-week-october-26.jpg
@@ -30,7 +30,7 @@ It's a quiet week for phone launches in India. Only one new phone has a confirme
 | Date | What's launching | Status |
 |---|---|---|
 | Tuesday, October 27 | Infinix GT 50 Pro (gaming phone) | Launched at ₹69,999; first sale October 30 on Flipkart |
-| Wednesday, October 28 | Apple "Pro and Tell" event (Macs and iPads expected, no phones) | Event confirmed by Apple; products not confirmed |
+| Wednesday, October 28 | Apple "Pro and Tell" event (Macs and iPads, no phones) | Held; touchscreen OLED MacBook Pro announced from ₹3,49,900 |
 | No date yet | iQOO 16, Xiaomi 18 Pro, Motorola Signature 27 | India launch confirmed, date and price not announced |
 
 Apart from the Infinix GT 50 Pro, prices are still unannounced, so be careful with "India price" claims you see on social media before launch day.
@@ -63,6 +63,8 @@ Apple has confirmed an event called "Pro and Tell" on Wednesday, October 28, at 
 
 No new iPhones are expected. Reports point to redesigned MacBook Pro models with OLED touchscreens, an updated iMac and a new iPad mini, but Apple hasn't confirmed any products. India prices usually appear on Apple's India website soon after an announcement. Our [Apple event preview](/apple-pro-and-tell-event-october-28-what-to-expect/) has the details.
 
+**Update, November 1:** Apple announced the M6 14-inch MacBook Pro (from ₹2,39,900), an OLED iPad mini (from ₹82,900) and an M6 iMac by press release on October 27. At the event itself it showed its first touchscreen MacBook Pro with an OLED display, starting at ₹3,49,900 in India, with India sales from November 9. Our updated [Apple event post](/apple-pro-and-tell-event-october-28-what-to-expect/) has the full India prices and links to each launch.
+
 ## Confirmed for India, date not announced
 
 <figure class="inline-figure">
@@ -88,4 +90,4 @@ If you're about to buy a mid-range gaming phone, note that the GT 50 Pro launche
 
 ## The bottom line
 
-This week brings one new phone to India, the Infinix GT 50 Pro on October 27, and Apple's October 28 event, which is expected to be about Macs and iPads rather than iPhones. The bigger story is further ahead: the iQOO 16, Xiaomi 18 Pro and Motorola Signature 27 are all confirmed for India, but their dates and prices are still unknown. We'll cover each one as soon as the brand makes it official.
+This week brings one new phone to India, the Infinix GT 50 Pro on October 27, and Apple's October 28 event, which brought new Macs and an iPad mini rather than iPhones. The bigger story is further ahead: the iQOO 16, Xiaomi 18 Pro and Motorola Signature 27 are all confirmed for India, but their dates and prices are still unknown. We'll cover each one as soon as the brand makes it official. For the month ahead, see our [phones launching in India in November 2026](/upcoming-phones-launching-india-november-2026/) list.

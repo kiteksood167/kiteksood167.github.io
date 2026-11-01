@@ -92,6 +92,8 @@ It's currently around ₹4,350 on Croma, so it's the most expensive watch here. 
 
 > **Tip:** Smartwatch prices in India drop sharply during big sales. If the watch you want is close to its launch price, check Amazon and Flipkart again during the next sale event, as discounts of ₹500–₹1,000 are common in this segment.
 
+Buying a watch as a gift? Our [best Diwali gift gadgets under ₹5,000](/best-diwali-gift-gadgets-under-5000/) list has more ideas in the same budget.
+
 ## Which one should you buy?
 
 <figure class="inline-figure">

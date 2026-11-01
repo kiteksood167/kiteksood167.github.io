@@ -83,6 +83,8 @@ A 5,000mAh battery is the standard now, and some phones go bigger. Fast charging
 
 > **Before you click "Buy":** Check the chip benchmark, real RAM (not virtual), UFS storage, AMOLED + 120Hz, OIS on the main camera, the years of updates promised, and whether the charger is included.
 
+Replacing an old phone? Read [how to sell your old phone safely](/sell-old-phone-safely-india-steps/) so your data doesn't go with it.
+
 Also watch for **bank offers** and **exchange offers** during sales. These often cut ₹1,000–₹3,000 off the price, which can bump you into a better phone.
 
 {% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Filter by 8GB RAM and AMOLED to shortlist quickly" %}

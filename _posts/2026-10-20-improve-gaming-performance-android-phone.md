@@ -79,6 +79,8 @@ Game updates often include performance fixes for specific phones, and system upd
 
 {% include buy.html name="Phone cooler fan" query="mobile phone cooler fan gaming" note="Keeps the phone cool in long sessions" %}
 
+If your phone still struggles after these tweaks, it may be time to upgrade. Our [iQOO Neo 10R vs Realme P4 Pro comparison](/iqoo-neo-10r-vs-realme-p4-pro/) looks at two popular gaming phones around ₹30,000.
+
 **Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/) · [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/)
 
 ## The bottom line

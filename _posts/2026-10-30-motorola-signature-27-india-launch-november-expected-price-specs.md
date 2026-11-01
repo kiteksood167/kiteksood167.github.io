@@ -103,7 +103,7 @@ The biggest upgrades are the much faster chip, the 200MP zoom camera and, if the
 
 We'll update this page as soon as Motorola announces the India date, price and full specs.
 
-**Related reading:** [Upcoming Phone Launches in India This Week](/upcoming-phone-launches-india-this-week-october-26/) · [Best Gaming Phones Under ₹30,000](/best-gaming-phones-under-30000/)
+**Related reading:** [Upcoming Phone Launches in India This Week](/upcoming-phone-launches-india-this-week-october-26/) · [Best Gaming Phones Under ₹30,000](/best-gaming-phones-under-30000/) · [Upcoming Phones Launching in India in November 2026](/upcoming-phones-launching-india-november-2026/)
 
 ## The bottom line
 

@@ -1,8 +1,9 @@
 ---
 title: "Samsung One UI 9 Update in India: Which Galaxy Phones Have It So Far"
 seo_title: "One UI 9 Update in India: Galaxy Phone List"
-description: "Samsung's Android 17-based One UI 9 update is now reaching more Galaxy phones in India. See which models have it, which are next and how to install it."
+description: "Samsung's Android 17-based One UI 9 is now on Galaxy S, Z, A, M and F phones in India. See which models have it, which are next and how to install it."
 date: 2026-10-25 14:40:00 +0530
+last_modified_at: 2026-11-01 10:05:00 +0530
 category: Phones
 news: true
 image: /assets/images/samsung-one-ui-9-update-india-galaxy-phones.jpg
@@ -18,6 +19,8 @@ sources:
     url: "https://www.sammobile.com/news/proper-galaxy-s26-one-ui-9-stable-update-rollout-begun/"
   - name: "Sammy Fans: Galaxy M56, A35, F17 and M17 get One UI 9"
     url: "https://www.sammyfans.com/2026/10/27/samsung-galaxy-m56-a35-f17-and-m17-get-one-ui-9-stable-update/amp/"
+  - name: "Cashify: Stable One UI 9 rolls out for Galaxy M56, M17, F17 and A35 in India"
+    url: "https://www.cashify.in/news/stable-one-ui-9-update-rolls-out-for-galaxy-m56-m17-f17-and-a35-in-india"
   - name: "91mobiles: One UI 9 stable update for Galaxy S26"
     url: "https://www.91mobiles.com/hub/one-ui-9-stable-update-rollout-galaxy-s26-series/"
 ---
@@ -44,14 +47,17 @@ The update has been reaching India in waves since late September. Many of these 
 | Galaxy S24, S24+, S24 Ultra, S24 FE | From October 12, 2026 |
 | Galaxy Z Fold 6, Z Flip 6 | From October 13, 2026 |
 | Galaxy M47 | From October 23, 2026 |
+| Galaxy A35, M56, M17, F17 | From October 27, 2026 |
 
-Dates are when the rollout started in India, based on reports from SamMobile, Sammy Guru, Tech Times and Beebom.
+Dates are when the rollout started in India, based on reports from SamMobile, Sammy Guru, Tech Times, Beebom and Cashify.
+
+**Update, November 1:** The Galaxy A35, M56, M17 and F17 started getting stable One UI 9 in India around October 27, according to Beebom, Sammy Fans and Cashify. The download is about 2.2 to 2.7 GB depending on the model.
 
 ## Which phones are next
 
 Samsung's official list also names the Galaxy S23 and S23 Ultra, Z Fold 5 and Z Flip 5, and the Galaxy A57, A55, A54, A36 and A25. On tablets, it includes the Galaxy Tab S11, Tab S10 and Tab S9 families, the Tab S6 Lite (2024), Tab A11 and Tab Active 5 Pro.
 
-The Galaxy S23 series, A36 and A56 started getting stable One UI 9 in Europe and Indonesia around October 19 to 21. India is expected to follow for these phones, but Samsung has not confirmed a date. For the S23 series, this is likely its last big Android version upgrade, though security updates will continue.
+The Galaxy S23 series, A36 and A56 started getting stable One UI 9 in Europe and Indonesia around October 19 to 21. Sammy Fans reported on October 21 that the rollout for these phones was expanding to India, but Samsung hasn't announced an India date, so if you own one, check your software update settings. For the S23 series, this is likely its last big Android version upgrade, though security updates will continue.
 
 ## What changes on your phone
 
@@ -88,4 +94,4 @@ Some Galaxy AI features vary by model, so older or cheaper phones may not get ev
 
 ## The bottom line
 
-If you own a Galaxy S26, S25, S24, Z Fold 7, Z Flip 7, Z Fold 6, Z Flip 6 or M47 in India, One UI 9 should already be available or arriving soon, so check your software update settings. Owners of the S23 series and newer Galaxy A phones are next, but Samsung has not shared India dates yet. The update is free, and it is worth installing once it reaches your phone.
+If you own a Galaxy S26, S25, S24, Z Fold 7, Z Flip 7, Z Fold 6, Z Flip 6, M47, A35, M56, M17 or F17 in India, One UI 9 should already be available or arriving soon, so check your software update settings. Owners of the S23 series and newer Galaxy A phones are next, but Samsung has not shared India dates yet. The update is free, and it is worth installing once it reaches your phone.

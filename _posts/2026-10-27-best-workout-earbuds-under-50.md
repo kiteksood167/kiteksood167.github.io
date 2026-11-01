@@ -97,7 +97,7 @@ The Soundcore Sport X20 costs more, at around $70 on Amazon in October 2026, but
 - **You sweat a lot or train in the rain:** TOZO NC9.
 - **You just need cheap gym buds:** Soundcore P30i.
 
-**Related reading:** [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Bluetooth Speakers Under $50 in 2026: Small, Waterproof and Loud Enough](/best-bluetooth-speakers-under-50/)
+**Related reading:** [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Bluetooth Speakers Under $50 in 2026: Small, Waterproof and Loud Enough](/best-bluetooth-speakers-under-50/) · [Sony WH-CH720N vs Soundcore Space One: Which to Buy](/sony-wh-ch720n-vs-soundcore-space-one/)
 
 ## The bottom line
 
