@@ -85,11 +85,11 @@ Yes, it's possible, but Karbonn can't rely on its Indian identity alone. To comp
 
 **Under ₹15,000, do a big battery and clean software matter more than the processor?**
 
-Yes, definitely! For a phone under ₹15,000, good battery life and a clean, ad-free experience matter more to most people than a super-powerful processor. As long as the phone runs smoothly, that's what really counts.
+I think battery life and a clean software experience matter more in this price range. Nobody wants a phone that keeps showing ads or needs charging twice a day. A decent processor that handles everyday tasks smoothly is more than enough.
 
 **Would I recommend the Karbonn Rebel to a parent or first-time buyer?**
 
-Yes, I would consider it, especially for someone who just needs a phone for calls, WhatsApp and everyday use. But first I'd want to make sure it's easy to use, reliable and backed by good service support.
+I'd say yes, as long as it's easy to use, has good battery life and works smoothly. For parents or first-time users, a simple and reliable phone is what matters most.
 
 **Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/)
 
