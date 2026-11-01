@@ -81,7 +81,7 @@ The closest rivals are other Indian brands chasing the same buyers. **Lava** pho
 
 **Can Karbonn win back a place against Xiaomi, Realme and Samsung?**
 
-Yes, it's possible, but Karbonn can't rely on its Indian identity alone. To compete with these established brands, it will need better technology, competitive pricing, reliable after-sales service and strong customer support.
+Yes, it is possible, but Karbonn can't depend only on its Indian identity. It will need better technology, competitive pricing, good after-sales service and strong customer support to compete with these big brands.
 
 **Under ₹15,000, do a big battery and clean software matter more than the processor?**
 
