@@ -92,6 +92,20 @@ Both promise three Android upgrades and four years of security updates, so there
 
 > **Tip:** The Neo 10R is now more than 18 months old and some variants go in and out of stock. If you buy one, check that the seller is Amazon, Flipkart or iQOO itself, and that the listing shows a full manufacturer's warranty. Listings with unusually low prices from unknown sellers are the ones to avoid.
 
+## Our take
+
+**iQOO Neo 10R or Realme P4 Pro?**
+
+I'd choose the iQOO Neo 10R, because its Snapdragon 8s Gen 3 processor is more powerful and better suited to heavy gaming and multitasking. For me, gaming performance matters more than battery life or the selfie camera.
+
+**Is AI-boosted smoothness as good as a faster chip?**
+
+In my view, the smoothness that AI adds is good, but it can't replace real processor power. For heavy gaming, a powerful chipset is more reliable, especially in long gaming sessions.
+
+**What matters most in a gaming phone?**
+
+For me, performance and heat control are the most important, because I want my phone to run smoothly without lagging during long gaming sessions.
+
 ## Which one should you buy?
 
 - **Buy the iQOO Neo 10R if** gaming performance comes first. It's the faster phone, it handles heavy games with more headroom, and it's often cheaper when it's in stock.
