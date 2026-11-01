@@ -69,6 +69,20 @@ Third-party caller ID apps such as Truecaller can still be used alongside CNAP. 
 
 > **Tip:** Treat the caller name like a hint, not a guarantee. If someone claiming to be from your bank, a courier or a government office asks for an OTP, PIN or payment, hang up and call back on the number printed on the official website or your card, whatever name was on the screen.
 
+## Our take
+
+**Will CNAP reduce the need for apps like Truecaller?**
+
+Yes. Now that CNAP is here, Truecaller's basic caller ID feature will matter less. But for spam detection, scam alerts and call blocking, people may still want Truecaller.
+
+**Will showing the caller's name really reduce spam and fraud calls?**
+
+Seeing the caller's name will make it easier to decide whether to pick up an unknown call, but it can't stop spam and fraud completely. Scammers will find other ways to trick people, so awareness and spam detection will still be important.
+
+**Is it fine for your name to show on other people's screens?**
+
+In my view, seeing the caller's name on screen is useful, but privacy matters too. People should have control over what personal information is shown to others.
+
 ## What to do next
 
 1. **Nothing to switch on.** CNAP is on by default on 4G and 5G, so just keep your phone and operator service as usual.
