@@ -3,6 +3,9 @@ title: "Caller Name Display (CNAP) Starts in India From November 1: What Changes
 seo_title: "CNAP Caller Name Display in India Explained"
 description: "Telecom operators must show the caller's registered name on 4G and 5G calls from November 1 under a DoT order. How CNAP works and what it means for you."
 date: 2026-11-01 13:39:00 +0530
+image: /assets/images/cnap-caller-name-display-india-november-1.jpg
+image_alt: "A smartphone on a dark desk showing an incoming call screen with a blurred caller name, green answer and orange decline buttons"
+image_credit: "Illustration"
 category: Phones
 news: true
 tags: [cnap, caller id, dot, jio, airtel, vi, bsnl, spam calls, news]
@@ -35,11 +38,21 @@ Here is how the name shown on your screen is decided:
 
 The name travels through the telecom network itself. The caller's operator shares the registered name with your operator, which then displays it. According to the order, operators must not keep the looked-up name after the call ends.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/woman-smiling-incoming-call-caller-name.jpg" alt="A smiling young woman at home looking at an incoming call on her phone in warm orange and green light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Who is affected
 
 The order covers **4G and 5G mobile networks**, which means users of Jio, Airtel, Vi and BSNL on those networks. **2G, 3G and landline calls are not covered yet**: the DoT says it will look at them separately.
 
 The circular does not list phone models, and it doesn't mention any phone settings or software updates you need. Whether you see the name depends on the network supporting the service, so it may not show up on every call from day one. The order also doesn't cover WhatsApp or other internet calls, which work through apps rather than the phone network.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-scam-call-warning-shield.jpg" alt="A ringing phone on a table with a glowing orange warning shield above it and a hooded figure on a call in the background" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What it means for you
 
