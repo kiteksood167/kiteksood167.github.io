@@ -3,6 +3,9 @@ title: "Nothing OS 5.0 Update Rolls Out to Phone (4a) and (3a) Series: What's Ne
 seo_title: "Nothing OS 5.0 Update for Phone (4a) and (3a)"
 description: "Nothing OS 5.0, based on Android 17, is rolling out to the Phone (4a), (4a) Pro, (3a) and (3a) Pro. Here's what's new and when other Nothing phones get it."
 date: 2026-11-02 13:51:00 +0530
+image: /assets/images/nothing-os-5-update-phone-4a-3a-series.jpg
+image_alt: "A phone with a transparent back and glowing light strips next to a phone showing a software update progress bar"
+image_credit: "Illustration, not the actual phones"
 category: Phones
 news: true
 tags: [nothing, nothing os 5, android 17, software update, phone 4a, phone 3a, cmf, news]
@@ -26,6 +29,11 @@ Nothing has started rolling out the stable **Nothing OS 5.0** update, based on *
 ## What happened
 
 Nothing confirmed on its official community forum that the Nothing OS 5.0 general release is now rolling out to these four phones. The flagship **Phone (3)** got the same update first, in mid-October. The rollout is staggered, so not every phone gets the update notification on the same day. Some owners may have to wait a few days.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-quick-settings-panel-hand-neon.jpg" alt="A hand adjusting the brightness slider in a phone quick settings panel with round toggle icons" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What's new in Nothing OS 5.0
 
@@ -54,6 +62,11 @@ According to Nothing's roadmap, as reported by GSMArena and Cashify, other Nothi
 | Phone (4b), CMF Phone 2 Pro | Expected mid-January 2027 |
 
 Dates for the later phones are Nothing's planned timelines and can shift. If your phone isn't on this list, Nothing hasn't shared a date for it yet.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-update-download-charging-wifi-desk.jpg" alt="A charging phone on a desk showing a Wi-Fi icon, a download arrow and a progress bar, next to a cup of tea" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## How to get the update
 
