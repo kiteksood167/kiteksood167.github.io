@@ -92,6 +92,20 @@ Close rivals to compare once prices are out:
 - **Apple MacBook Air M5 (13-inch):** launched in India in March 2026 at ₹1,19,900 for 16GB RAM and 512GB storage. It's a little heavier at 1.23 kg and runs macOS. Pick it if you already use an iPhone or need Mac-only apps.
 - **Asus Zenbook 14 OLED (UX3405):** the older model. If it gets a price cut after the new one arrives, it can still be a good deal for buyers who don't need the newest chips or the Ceraluminum finish.
 
+## Our take
+
+**Which processor would you choose: Snapdragon, AMD or Intel?**
+
+I will choose AMD because it gives good performance, better multitasking and the best value for its price.
+
+**Battery life or performance in a thin and light laptop?**
+
+For me, battery life is more important, because the main use of a thin and light laptop is portability. But good performance is also important, so that daily tasks can be done easily.
+
+**Is a laptop around ₹1.3 lakh worth it, or the MacBook Air?**
+
+In my view, a ₹1.3 lakh laptop is only worth it when you need that performance. For students and office users, I will choose the MacBook Air, because its battery life, portability and performance are much better.
+
 **Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Apple MacBook Pro With OLED Touchscreen Launched in India: Price, Specs and Sale Date](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/)
 
 ## The bottom line
