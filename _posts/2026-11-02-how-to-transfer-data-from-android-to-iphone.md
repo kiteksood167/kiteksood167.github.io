@@ -96,6 +96,20 @@ You can activate your SIM or eSIM during the transfer. If you're moving an eSIM 
 - **Only some content arrived, or the iPhone says it's full:** erase the iPhone and run the transfer again, after checking your data fits.
 - **Something is missing afterward:** add your Google account on the iPhone (in Settings, under your mail accounts) to bring in contacts, calendars and mail, and install Google Photos to see your backed-up pictures.
 
+## Our take
+
+**Have you ever switched from Android to iPhone?**
+
+I haven't personally switched phones, but I feel the hardest data to move safely is WhatsApp chats and photos.
+
+**What's the most important data to move when you switch phones?**
+
+From my perspective, WhatsApp chats and photos are the most important, because they hold important memories and personal information. Contacts are equally important too.
+
+**Is a backup really needed before the transfer?**
+
+Yes, absolutely. A backup before the transfer is important so that data isn't lost. If the transfer fails, we can safely recover photos and important files.
+
 **Related reading:** [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/) · [Pixel 10a vs iPhone 17e: Which to Buy After the Price Hikes](/pixel-10a-vs-iphone-17e/)
 
 ## The bottom line
