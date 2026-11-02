@@ -1,8 +1,9 @@
 ---
-title: "Karbonn Rebel and Rebel Pro 5G Launching in India on November 2: What We Know"
-seo_title: "Karbonn Rebel, Rebel Pro 5G India Launch: Nov 2"
-description: "Karbonn returns with the Rebel and Rebel Pro 5G on November 2. Confirmed specs, big batteries, Android 16, Amazon sale, and what the price could be."
+title: "Karbonn Rebel and Rebel Pro Launched in India: Price, Specs and Sale Date"
+seo_title: "Karbonn Rebel, Rebel Pro Price in India and Sale Date"
+description: "Karbonn Rebel launched at ₹11,999 and Rebel Pro at ₹12,499 in India, with Helio G81, big batteries and Android 16. Sale on Amazon from November 4."
 date: 2026-11-01 18:41:00 +0530
+last_modified_at: 2026-11-02 19:35:00 +0530
 image: /assets/images/karbonn-rebel-rebel-pro-5g-india-launch-november-2.jpg
 image_alt: "Two budget smartphones in maroon and blue on a stage, each showing a full battery icon, under green and orange spotlights"
 image_credit: "Illustration, not the actual phones"
@@ -10,6 +11,10 @@ category: Launches
 also_in: [Phones]
 tags: [karbonn, karbonn rebel, karbonn rebel pro 5g, smartphones, budget phones, amazon, launch]
 sources:
+  - name: "Digit: Karbonn Rebel Pro and Rebel launched in India, price and specs"
+    url: "https://www.digit.in/news/mobile-phones/karbonn-rebel-pro-and-rebel-launched-in-india-check-price-specs-and-more-details.html"
+  - name: "Beebom: Karbonn Rebel and Rebel Pro launched in India, specs, price and sale date"
+    url: "https://gadgets.beebom.com/news/karbonn-rebel-rebel-pro-launched-in-india-specs-price-sale-date"
   - name: "Beebom: Karbonn Rebel and Rebel Pro 5G launch date in India confirmed"
     url: "https://gadgets.beebom.com/news/karbonn-rebel-rebel-pro-5g-launch-date-in-india-key-specs-confirmed"
   - name: "My Mobile India: Karbonn Rebel Pro and Rebel 5G specs and colours revealed"
@@ -18,25 +23,27 @@ sources:
     url: "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-november-2-november-8"
 ---
 
-Karbonn, the Indian phone brand that was everywhere a decade ago, is coming back with two budget phones: the **Karbonn Rebel** and the **Karbonn Rebel Pro 5G**. Both launch in India on **November 2, 2026** and will be sold on Amazon. Karbonn has already confirmed the big batteries, Android 16 and a no-bloatware promise, but not the price.
+Karbonn, the Indian phone brand that was everywhere a decade ago, is coming back with two budget phones: the **Karbonn Rebel** and the **Karbonn Rebel Pro**. Both launched in India on **November 2, 2026** at ₹11,999 and ₹12,499, and they go on sale on Amazon on November 4. They bring big batteries, Android 16 and a no-bloatware promise.
 
 <!--more-->
 
-The launch date and the key specs come from Karbonn's own product pages on Amazon India, as reported by Beebom and My Mobile India. Anything not listed there is marked as unconfirmed below.
+> **Update (November 2, 2026):** Karbonn has launched both phones. The **Rebel costs ₹11,999** and the **Rebel Pro costs ₹12,499**, and both go on sale on **Amazon on November 4 at 12 noon**. A ₹1,000 bank discount brings them to ₹10,999 and ₹11,499. Both use the **MediaTek Helio G81** chip. The price table and specs below have been updated.
+
+The prices, sale date and specs come from Karbonn's launch announcement and its Amazon India product pages, as reported by Digit, Beebom and My Mobile India. Anything not confirmed is marked below.
 
 ## Price and availability in India
 
-| Model | Price | Status |
+| Model | Launch price | With bank offer |
 |---|---|---|
-| Karbonn Rebel | Not announced yet | Launching November 2 |
-| Karbonn Rebel Pro 5G | Not announced yet | Launching November 2 |
+| Karbonn Rebel | ₹11,999 | ₹10,999 |
+| Karbonn Rebel Pro | ₹12,499 | ₹11,499 |
 
-- **Launch date:** Monday, November 2, 2026 (Karbonn hasn't shared a launch time)
-- **Where to buy:** Amazon India, where both phones already have product pages
-- **Sale date and launch offers:** not announced yet
-- **Expected price:** Karbonn hasn't said. Early reports and retail chatter point to a starting price of under ₹15,000, but treat that as an estimate until the official announcement
+The last column is the effective price with the ₹1,000 bank discount.
 
-We'll update this post once Karbonn announces the prices, variants and first sale date.
+- **Launched:** Monday, November 2, 2026
+- **First sale:** November 4, 2026, from 12 noon, on Amazon India only
+- **Launch offer:** ₹1,000 off with a bank discount
+- **RAM and storage:** the launch reports list one price per phone and don't break it down by RAM or storage, so check the Amazon listing for the exact variant
 
 ## Key specifications
 
@@ -49,10 +56,12 @@ We'll update this post once Karbonn announces the prices, variants and first sal
 | Updates | 2 Android upgrades, 2 years of security patches | 2 Android upgrades, 2 years of security patches |
 | Headphone jack | Yes, 3.5mm | Yes, 3.5mm |
 | Colours | Silver, Gold, Blue | Maroon, Golden, Blue, Ash |
-| Processor | Not confirmed | Not confirmed |
+| Processor | MediaTek Helio G81 | MediaTek Helio G81 |
+| Rear camera | 50MP main | 64MP main |
+| Front camera | Not confirmed | 16MP |
 | RAM and storage | Not confirmed | Not confirmed |
 
-Karbonn hasn't confirmed the processor, the camera sensors, or the RAM and storage options for either phone. A tipster has named a Unisoc chip for the Rebel Pro, but that isn't official, so we've left it out of the table. The refresh rate of the standard Rebel's screen also hasn't been confirmed.
+Both phones use the MediaTek Helio G81, an entry-level chip that is fine for calls, WhatsApp, YouTube and UPI but not for heavy gaming. The Helio G81 is a 4G chipset, and the launch reports don't mention 5G, so check the Amazon listing before you buy if 5G matters to you. The refresh rate of the standard Rebel's screen and its selfie camera still haven't been confirmed.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/budget-phone-headphone-jack-full-battery.jpg" alt="A budget smartphone on a wooden table showing a full battery icon, with wired earphones plugged into its headphone jack" loading="lazy">
@@ -69,7 +78,7 @@ Karbonn hasn't confirmed the processor, the camera sensors, or the RAM and stora
 
 **The Pro gets a smoother screen.** The Rebel Pro's 120Hz display should make scrolling look smoother than a basic 60Hz panel. Both phones have HD+ resolution, not Full HD, so text and video won't look as sharp as on some rivals.
 
-> **Tip:** Wait for the official price and the full spec sheet before you decide. The processor and RAM matter more for day-to-day speed than the battery size, and Karbonn hasn't shared those yet.
+> **Tip:** Use the ₹1,000 bank offer on the first sale if you can, and check the RAM and storage on the Amazon page before you pay. At this price, compare it with Lava and Ai+ phones before Lava's and Ai+'s price hikes on November 15.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/older-man-video-call-student-helping-phone.jpg" alt="An older man on a video call on his phone while a young man next to him smiles and helps, sitting on a sofa at home" loading="lazy">
@@ -100,4 +109,4 @@ I'd say yes, as long as it's easy to use, has good battery life and works smooth
 
 ## The bottom line
 
-The Karbonn Rebel and Rebel Pro 5G launch in India on November 2 with big 7,000mAh and 6,000mAh batteries, Android 16 without bloatware and a headphone jack, and they'll be sold on Amazon. The price, processor and camera details are still unknown. If Karbonn lands under ₹15,000 as reports suggest, these could be sensible picks for basic everyday use, but compare them with Lava and Ai+ before you buy.
+The Karbonn Rebel (₹11,999) and Rebel Pro (₹12,499) are now official, with big 7,000mAh and 6,000mAh batteries, Android 16 without bloatware, a headphone jack and the Helio G81 chip. They go on sale on Amazon on November 4. They're sensible picks for basic everyday use and long battery life, but the chip is modest and 5G support isn't confirmed, so compare them with Lava and Ai+ before you buy.
