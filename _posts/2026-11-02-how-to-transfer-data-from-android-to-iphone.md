@@ -2,6 +2,9 @@
 title: "How to Transfer Data from Android to iPhone"
 description: "Switching to iPhone? How to move photos, contacts, messages and WhatsApp chats from Android with Move to iOS, what won't transfer, and quick fixes."
 date: 2026-11-02 08:46:00 +0530
+image: /assets/images/how-to-transfer-data-from-android-to-iphone.jpg
+image_alt: "Photos, videos and chat bubbles flowing from a green-lit phone to an orange-lit phone on a dark desk"
+image_credit: "Illustration"
 category: Global
 also_in: [Phones, Guides]
 tags: [android to iphone, move to ios, iphone setup, data transfer, whatsapp, esim, how-to]
@@ -31,6 +34,11 @@ A little prep avoids the most common headaches, including having to wipe your ne
 - **Update Chrome and WhatsApp** on the Android phone. Apple says Chrome needs to be current for your bookmarks to come across.
 - **Back up to Google too.** Turn on Google Photos backup and make sure contacts and calendars sync to your Google account. It's a free safety net if anything gets skipped.
 - **Sort out two-factor codes.** If you use an authenticator app, export or sync your codes before you switch, or you could be locked out of accounts.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/two-phones-data-transfer-progress-hands.jpg" alt="Two hands holding two charging phones while photos and files move from one to the other, with a progress bar on the new phone" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Method 1: Move to iOS (works with most Android phones)
 
@@ -67,6 +75,11 @@ Apple's support page also lists a newer path that skips the app on compatible ph
 | Accessibility and display settings, voice memos | |
 
 Some free apps that exist on both stores can be matched, and you can download them from the App Store once setup is done. Everything else you'll need to find and install yourself. Expect to sign in to most apps again, and keep your banking passwords handy, because many banking apps only allow one registered device at a time.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/new-phone-chats-photos-restoring.jpg" alt="A new phone showing a chat with photos still loading, next to an old phone with a dark screen, both plugged in" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## How to move WhatsApp chats
 
