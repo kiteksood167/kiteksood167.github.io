@@ -47,7 +47,7 @@ The last column is the effective price with the ₹1,000 bank discount.
 
 ## Key specifications
 
-| Spec | Karbonn Rebel | Karbonn Rebel Pro 5G |
+| Spec | Karbonn Rebel | Karbonn Rebel Pro |
 |---|---|---|
 | Display | 6.75-inch HD+, 650 nits | 6.7-inch HD+ LCD, 120Hz, 720 nits peak |
 | Battery | 7,000mAh | 6,000mAh |
@@ -89,7 +89,7 @@ Both phones use the MediaTek Helio G81, an entry-level chip that is fine for cal
 
 The Rebel series looks aimed at first-time smartphone buyers, students and older users who want a phone that lasts long on a charge, has a headphone jack and doesn't come full of unwanted apps. If you mainly use WhatsApp, YouTube and UPI payments, those are the right priorities.
 
-The closest rivals are other Indian brands chasing the same buyers. **Lava** phones also focus on clean Android in the budget segment, and **Ai+** sells its Nova 2 5G series in a similar price range. Note that both Lava and Ai+ have announced price hikes of up to ₹3,000 from November 15, so the Rebel's final price will matter a lot.
+The closest rivals are other Indian brands chasing the same buyers. **Lava** phones also focus on clean Android in the budget segment, and **Ai+** sells its Nova 2 5G series in a similar price range. Note that both Lava and Ai+ have announced price hikes of up to ₹3,000 from November 15, so check their prices against the Rebel's ₹11,999 to ₹12,499 before you decide.
 
 ## Our take
 
