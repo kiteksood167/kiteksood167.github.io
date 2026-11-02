@@ -3,6 +3,9 @@ title: "Asus Zenbook 14 (UX3480) Launching in India on November 5: What We Know"
 seo_title: "Asus Zenbook 14 UX3480 India Launch Nov 5"
 description: "Asus Zenbook 14 (UX3480) launches in India on November 5 with Snapdragon X, AMD and Intel options, a Ceraluminum body and EMI from ₹7,333."
 date: 2026-11-02 19:26:00 +0530
+image: /assets/images/asus-zenbook-14-ux3480-india-launch-november-5.jpg
+image_alt: "A thin light-blue 14-inch laptop half open on a dark reflective stage, its screen showing a blue and orange wave, with green and orange neon arcs behind"
+image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Laptops]
 tags: [asus, asus zenbook 14, zenbook 14 ux3480, laptops, thin and light laptops, launch]
@@ -56,6 +59,11 @@ For a rough idea, 18 payments of ₹7,333 add up to about ₹1.32 lakh. That's o
 
 RAM, storage and the exact list of India models haven't been confirmed. Abroad, the Zenbook 14 UX3480 is sold with 16GB or 24GB of memory and 512GB or 1TB of storage, but India configurations could be different.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/laptop-usb-c-cable-ports-closeup-neon.jpg" alt="Close-up of a hand plugging a USB-C cable into the side of a thin silver laptop with HDMI and USB-C ports, in green and orange light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## What's new
 
 **The Ceraluminum body.** Asus first used this ceramic-coated aluminium on its pricier Zenbook S models. Asus says it resists scratches, wear and fingerprints, and it carries the three colours across the whole body. Bringing it to the regular Zenbook 14 is the biggest design change over the older Zenbook 14 OLED (UX3405).
@@ -69,6 +77,11 @@ RAM, storage and the exact list of India models haven't been confirmed. Abroad, 
 **Light weight with a big battery claim.** At around 1.1 kg (for the lightest model) and 1.39 cm thick, it's easy to carry all day. The 33-hour battery figure is Asus's own lab claim. Real use with browsing, video calls and higher screen brightness will be lower.
 
 > **Tip:** Wait for the India price list on November 5 before deciding. If the Snapdragon model is much cheaper, check that every app you need (especially office, exam or college software) runs on Windows on Arm. If you're not sure, the AMD or Intel model is the safer pick.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/woman-working-laptop-cafe-night-neon.jpg" alt="A smiling young woman working on a light silver laptop in a café at night, with coffee, a notebook and green and orange neon lights behind her" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Who should consider it
 
