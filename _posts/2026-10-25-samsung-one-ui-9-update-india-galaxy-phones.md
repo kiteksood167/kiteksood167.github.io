@@ -4,6 +4,7 @@ seo_title: "One UI 9 Update in India: Galaxy Phone List"
 description: "Samsung's Android 17-based One UI 9 is now on Galaxy S, Z, A, M and F phones in India. See which models have it, which are next and how to install it."
 date: 2026-10-25 14:40:00 +0530
 last_modified_at: 2026-11-01 10:05:00 +0530
+update_note: "One UI 9 is now rolling out to the Galaxy A35, M56, M17 and F17 in India."
 category: Phones
 news: true
 image: /assets/images/samsung-one-ui-9-update-india-galaxy-phones.jpg

@@ -4,6 +4,7 @@ seo_title: "Upcoming Phone Launches in India This Week"
 description: "Infinix GT 50 Pro launched on October 27 and Apple showed a touchscreen MacBook Pro on October 28. Plus the flagships confirmed for India with no date yet."
 date: 2026-10-25 18:43:00 +0530
 last_modified_at: 2026-11-01 10:10:00 +0530
+update_note: "Added what Apple announced in late October, including the touchscreen OLED MacBook Pro."
 category: Launches
 also_in: [Phones]
 image: /assets/images/upcoming-phone-launches-india-this-week-october-26.jpg

@@ -4,6 +4,7 @@ seo_title: "Karbonn Rebel, Rebel Pro Price in India and Sale Date"
 description: "Karbonn Rebel launched at ₹11,999 and Rebel Pro at ₹12,499 in India, with Helio G81, big batteries and Android 16. Sale on Amazon from November 4."
 date: 2026-11-01 18:41:00 +0530
 last_modified_at: 2026-11-02 19:35:00 +0530
+update_note: "Karbonn Rebel and Rebel Pro launched at ₹11,999 and ₹12,499, on sale on Amazon from November 4."
 image: /assets/images/karbonn-rebel-rebel-pro-5g-india-launch-november-2.jpg
 image_alt: "Two budget smartphones in maroon and blue on a stage, each showing a full battery icon, under green and orange spotlights"
 image_credit: "Illustration, not the actual phones"
@@ -27,7 +28,6 @@ Karbonn, the Indian phone brand that was everywhere a decade ago, is coming back
 
 <!--more-->
 
-> **Update (November 2, 2026):** Karbonn has launched both phones. The **Rebel costs ₹11,999** and the **Rebel Pro costs ₹12,499**, and both go on sale on **Amazon on November 4 at 12 noon**. A ₹1,000 bank discount brings them to ₹10,999 and ₹11,499. Both use the **MediaTek Helio G81** chip. The price table and specs below have been updated.
 
 The prices, sale date and specs come from Karbonn's launch announcement and its Amazon India product pages, as reported by Digit, Beebom and My Mobile India. Anything not confirmed is marked below.
 
