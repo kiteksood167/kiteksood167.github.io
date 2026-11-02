@@ -79,6 +79,20 @@ If nothing shows up, wait a few days and check again. Because the rollout comes 
 
 > **Tip:** Nothing says your phone may use more battery and feel warmer for a while after a big update, and that this settles down once the update finishes its work in the background. Give it a day or two before you judge battery life. If it still drains fast after that, our guide on [making your phone battery last longer](/make-phone-battery-last-longer/) can help.
 
+## Our take
+
+**What do you think of the Nothing Phone's design?**
+
+I find the Nothing Phone's design (the transparent back and Glyph lights) very unique and stylish. It's not just for show, because the Glyph lights are also useful for notifications and charging status.
+
+**Do you install big updates right away?**
+
+I usually wait a few days to see if there are any bugs or battery issues. After that, I check reviews and then install the update.
+
+**How important are software updates when you buy a phone?**
+
+For me, software updates are very important, because they keep the phone secure and up to date. I prefer phones that get software and security updates for 4 to 5 years.
+
 ## What it means for you
 
 If you own a Phone (3a) or (4a) series phone, this is a free and fairly big update: the split Quick Settings and Expanded Dark theme change how the phone feels every day, and Dual-view Video adds a new camera trick. If you're thinking about buying a Phone (3a) or (4a) model, it's good to know that it already runs Android 17 and has more Nothing OS updates on the way.
