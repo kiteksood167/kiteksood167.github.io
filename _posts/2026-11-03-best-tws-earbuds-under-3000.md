@@ -111,6 +111,20 @@ On paper they're the best buds in this list. OnePlus rates the ANC at **up to 52
 
 Our [TWS earbuds buying guide](/tws-earbuds-buying-guide/) explains each of these specs in more detail.
 
+## Our take
+
+**What matters most in earbuds under ₹3,000: sound quality, ANC or battery life?**
+
+For me, the most important things are sound quality and battery life. Having ANC is also good, so that I can enjoy music without any outside noise disturbing me.
+
+**Is ANC really useful at this price, or just a marketing feature?**
+
+From my perspective, ANC is not completely useless in a ₹3,000 budget, but its impact is limited in this range. Sometimes it is only a marketing feature, so I will give more importance to sound quality and battery life.
+
+**Would you spend ₹500–1,000 more for a known brand like OnePlus?**
+
+I would happily spend ₹500–1,000 more to choose a trusted brand like OnePlus. Better sound quality, build and service support are more important than extra features.
+
 **Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/)
 
 ## The bottom line
