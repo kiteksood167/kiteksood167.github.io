@@ -49,6 +49,23 @@ phones:
     updates: 1
     fiveg: false
     query: Moto G06 Power
+  - name: Karbonn Rebel
+    brand: Karbonn
+    os: android
+    price: 11999
+    chip: MediaTek Helio G81
+    screen: 6.75" HD+ LCD
+    size: 6.75
+    mah: 7000
+    charge: 18W
+    cam: 50MP main
+    gaming: 1
+    camera: 2
+    display: 1
+    updates: 2
+    fiveg: false
+    query: Karbonn Rebel
+    post: /karbonn-rebel-rebel-pro-5g-india-launch-november-2/
   - name: Poco C81
     brand: Poco
     os: android
