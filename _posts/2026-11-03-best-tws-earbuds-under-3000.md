@@ -2,6 +2,9 @@
 title: "Best TWS Earbuds Under ₹3,000 in India"
 description: "The best TWS earbuds under ₹3,000 in India right now, from OnePlus, Realme and CMF, with ANC, battery life and current prices compared."
 date: 2026-11-03 08:49:00 +0530
+image: /assets/images/best-tws-earbuds-under-3000.jpg
+image_alt: "Five pairs of wireless earbuds in black, white, light blue, mint green and navy charging cases lined up on a dark grey table"
+image_credit: "Illustration, not the actual products"
 category: Audio
 also_in: [Guides]
 tags: [TWS earbuds, earbuds under 3000, ANC earbuds, OnePlus Nord Buds 3 Pro, OnePlus Nord Buds 4, Realme Buds T310, CMF Buds Neo, OnePlus Nord Buds 3r]
@@ -58,6 +61,11 @@ Realme markets the driver as bass-focused, so this pair suits listeners who like
 
 {% include buy.html name="Realme Buds T310" query="realme Buds T310" note="Up to 46dB ANC, 40 hours total, 45ms game mode" %}
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/white-earbuds-case-charging-usb-c-desk.jpg" alt="White wireless earbuds in an open charging case plugged into a USB-C cable on a wooden desk, next to a notebook and a phone" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 3. CMF Buds Neo: best battery life with ANC
 
 The CMF Buds Neo from Nothing's budget brand launched in August at ₹1,999 and currently sell for around **₹1,800** on Flipkart. They stand out for their design, with a two-tone case and colourful eartips.
@@ -87,6 +95,11 @@ The Nord Buds 4 launched in June at ₹3,299 (₹3,099 introductory price) and s
 On paper they're the best buds in this list. OnePlus rates the ANC at **up to 52dB**, and battery at up to 13 hours per bud and **54 hours with the case** with ANC off (27 hours with ANC on). A 10-minute charge gives up to 11 hours. You also get Bluetooth 6.1, dual-device connection, six mics, a 47ms game mode and IP55.
 
 **Best for:** buyers who can stretch by ₹200 to ₹300 or wait for a bank offer.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/man-earbuds-phone-metro-train.jpg" alt="A young man wearing a black wireless earbud and smiling at his phone while sitting on a metro train" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What to look for under ₹3,000
 
