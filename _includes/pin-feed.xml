@@ -6,9 +6,15 @@
   <description>{{ include.title | xml_escape }} from {{ site.title }}</description>
   <language>en</language>
   <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml"/>
+  {%- comment -%}
+    Pinterest auto-publish is switched OFF (3 Nov 2026, owner's decision): pins are made by hand
+    as vertical 1000x1500 graphics, and these feeds were creating duplicate pins. The feeds stay
+    valid but list no posts. To switch auto-publish back on, delete the "break" line below.
+  {%- endcomment -%}
   {% assign cats = include.cats | split: "," %}
   {% assign n = 0 %}
   {% for post in site.posts %}
+    {% break %}
     {% if n >= 25 %}{% break %}{% endif %}
     {% unless post.image %}{% continue %}{% endunless %}
     {% unless cats contains post.category %}{% continue %}{% endunless %}
