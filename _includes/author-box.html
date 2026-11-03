@@ -5,5 +5,6 @@
     <p class="author-name"><a href="{{ '/about/' | relative_url }}">{{ site.data.author.name }}</a></p>
     <p class="author-role">{{ site.data.author.role }}</p>
     <p class="author-bio">{{ site.data.author.bio }}</p>
+    {% if site.data.author.linkedin %}<p class="author-links"><a href="{{ site.data.author.linkedin }}" rel="me noopener" target="_blank">LinkedIn</a> · <a href="{{ '/about/' | relative_url }}">About the author</a></p>{% endif %}
   </div>
 </aside>

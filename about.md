@@ -14,7 +14,7 @@ Tech shopping in India is confusing. Every week there's a new launch, every box 
 <div class="about-author">
   <img src="/assets/images/authors/kitek-sood.jpg" alt="Kitek Sood" width="140" height="140">
   <div>
-    <p><strong>Kitek Sood</strong> — Web &amp; App Developer, Founder of GadgetGyaan</p>
+    <p><strong>Kitek Sood</strong> — Founder of GadgetGyaan, Web &amp; App Developer · <a href="https://www.linkedin.com/in/kitek-sood-6566a69b/" rel="me noopener" target="_blank">LinkedIn</a></p>
     <p>I'm a web and app developer. I spend my working days building websites and apps, and my free time following phones, laptops and gadgets. I started GadgetGyaan because buying tech has become confusing — every box is covered in big numbers, and most "reviews" sound like ads. Here I explain what actually matters, in plain language, so you can buy with confidence.</p>
   </div>
 </div>
@@ -22,6 +22,7 @@ Tech shopping in India is confusing. Every week there's a new launch, every box 
 ## As featured on
 
 - **Connectively** — Kitek's insights were included in [Must-Have Smart Home Devices for the 2026 Holiday Season](https://blog.connectively.us/must-have-smart-home-devices-for-the-2026-holiday-season/) (October 2026).
+- **Emailchaser** — Kitek's tips on spotting fake emails are quoted in the expert section of their [reverse email lookup guide](https://www.emailchaser.com/reverse-email-lookup#expert-take-heading) (October 2026).
 
 ## What we write about
 

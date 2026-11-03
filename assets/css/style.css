@@ -286,6 +286,7 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .author-name a { text-decoration: none; color: var(--ink); }
 .author-role { font-size: .85rem; color: var(--accent); font-weight: 600; margin: 2px 0 8px !important; }
 .author-bio { font-size: .92rem; color: var(--ink-2); }
+.author-links { font-size: .88rem; margin-top: .3rem; }
 .about-author { display: flex; gap: 20px; align-items: flex-start; margin: 8px 0 28px; }
 .about-author img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex: none; margin: 0; }
 .about-author p { margin: 0 0 .7em; }
