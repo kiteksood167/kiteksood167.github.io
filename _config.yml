@@ -76,6 +76,7 @@ exclude:
   - _drafts_queue
   - WRITING_GUIDE.md
   - assets/images/README.md
+  - tools
 
 logo: /assets/icon-512.png
 
