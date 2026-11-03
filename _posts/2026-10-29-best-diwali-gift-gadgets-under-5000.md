@@ -112,7 +112,7 @@ It works in Hindi as well as English. It needs Wi-Fi and the Alexa app on someon
 
 Before you pay, compare the final checkout price with the price history and bank offers. Our [Diwali gadget buying tips](/diwali-gadget-buying-tips/) explain how.
 
-**Related reading:** [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
+**Related reading:** [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Best TWS Earbuds Under ₹3,000 in India](/best-tws-earbuds-under-3000/)
 
 ## The bottom line
 
