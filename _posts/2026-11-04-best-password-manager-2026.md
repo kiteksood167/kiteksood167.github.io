@@ -112,6 +112,20 @@ For your most important accounts, such as your password manager, email and bank,
 
 {% include buy.html name="USB-C security keys (FIDO2)" query="FIDO2 security key USB-C NFC" store="us" note="Hardware two-factor keys for your password manager and email" %}
 
+## Our take
+
+**Do you use a password manager, or save passwords in the browser/phone?**
+
+Yes, I use a password manager because it keeps my passwords secure, and it helps me create a strong password for every account.
+
+**Free or paid password manager: is paying worth it for normal users?**
+
+For normal users, a free password manager is enough. If you need more features and security, choosing a paid plan is a good idea.
+
+**What's your one tip to keep online accounts safe?**
+
+Set a unique and strong password for each account, and always keep two-factor authentication turned on.
+
 **Related reading:** [How to Transfer Data from Android to iPhone](/how-to-transfer-data-from-android-to-iphone/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
 ## The bottom line
