@@ -6,7 +6,7 @@ date: 2026-11-05 22:35:00 +0530
 category: Smart Home
 also_in: [Guides]
 image: /assets/images/best-43-inch-smart-tv-india.jpg
-image_alt: "A slim 43-inch TV on a wall in an Indian living room, lit by diyas with green and orange glow"
+image_alt: "A slim TV on a wooden TV unit with diyas and marigolds, glowing green and orange in an Indian living room"
 image_credit: "Illustration, not the actual products"
 tags: [smart tv, 43 inch tv, 4k tv, qled, google tv, diwali, xiaomi, philips, hisense, samsung]
 affiliate: true
@@ -61,7 +61,7 @@ It runs Hisense's own **VIDAA** software. The main apps are there, but the app s
 {% include buy.html name="Hisense E75Q 43-inch 4K QLED (43E75Q)" query="Hisense 43E75Q 43 inch QLED" note="About ₹29,990, 48W sound, QLED" %}
 
 <figure class="inline-figure">
-  <img width="1200" height="675" src="/assets/images/family-watching-cricket-43-inch-tv.jpg" alt="An Indian family on a sofa watching a cricket match on a 43-inch TV in a warmly lit living room" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/family-watching-cricket-43-inch-tv.jpg" alt="A family watching a cricket match on a TV in a warmly lit bedroom" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ The Samsung Crystal UHD UE86AH costs the most of our five picks at around **₹3
 If your budget stretches further, Sony's **BRAVIA 2 II** (K-43S25M2) is the premium option at this size, with Google TV and four HDMI ports. ProductHunter listed it at **₹52,240** in July, nearly double our other picks, so check the current price before you decide.
 
 <figure class="inline-figure">
-  <img width="1200" height="675" src="/assets/images/tv-remote-app-grid-screen.jpg" alt="A hand pointing a TV remote at a screen showing a grid of streaming app tiles" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/tv-remote-app-grid-screen.jpg" alt="A hand pointing a TV remote at a screen showing a grid of colourful app tiles" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
