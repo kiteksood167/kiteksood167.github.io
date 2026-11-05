@@ -3,6 +3,8 @@ title: "Motorola Signature 27 India Launch Confirmed for November: Expected Pric
 seo_title: "Motorola Signature 27 India Launch: Price & Specs"
 description: "Motorola has confirmed the Signature 27 for India this November, with a Snapdragon 8 Elite Extreme Gen 6 chip and 200MP zoom camera. Expected price and specs."
 date: 2026-10-30 18:48:00 +0530
+last_modified_at: 2026-11-05 23:20:00 +0530
+update_note: "Added the US launch price ($1,599.99) and the official specs, which replace the leaked ones."
 category: Launches
 also_in: [Phones]
 affiliate: true
@@ -21,6 +23,8 @@ sources:
     url: "https://www.gsmarena.com/heres_when_motorolas_signature_27_is_landing_in_india-news-75247.php"
   - name: "My Mobile India: Motorola Signature 27 India launch"
     url: "https://www.mymobileindia.com/motorola-signature-27-india-launch/"
+  - name: "Android Headlines: Motorola Signature 27 is official with a $1,599 price tag"
+    url: "https://www.androidheadlines.com/motorola-signature-27-launch"
   - name: "Beebom: Motorola Signature launched in India"
     url: "https://gadgets.beebom.com/news/motorola-signature-launched-in-india-key-specs-price-availability"
 ---
@@ -28,6 +32,8 @@ sources:
 Motorola has confirmed that the **Signature 27** is coming to India **this November**. Its India website now carries a Signature 27 page that says "coming this November", and the company calls it its fastest Android phone yet. It runs on Qualcomm's new **Snapdragon 8 Elite Extreme Gen 6** chip and has a **200MP periscope zoom camera**. Motorola hasn't announced the exact India date or the price.
 
 <!--more-->
+
+**Update, November 5:** The Signature 27 is now official in the US at **$1,599.99** (about ₹1.4 lakh at today's exchange rate, before Indian taxes) for 12GB + 512GB, with pre-orders from November 19. Motorola has also confirmed the full specs: a 6.8-inch 1.5K 120Hz tandem OLED, a **7,000mAh** battery, 90W wired and 50W wireless charging, and IP68 and IP69 protection. India's price and date still haven't been announced. See our [Motorola Signature 27 US launch post](/motorola-signature-27-launch-us-price-specs/) for the full spec sheet.
 
 The phone launches globally on **November 5**, which Motorola announced on its X account, according to Digit. Some reports say India gets it the same day, but Motorola's own India page only says November, so we'd treat any exact India date as unconfirmed until the brand announces it.
 
@@ -54,6 +60,8 @@ Motorola first showed the phone at Qualcomm's Snapdragon Summit in September, an
 </figure>
 
 ## Expected specs (not confirmed)
+
+*These were the leaks before launch. The official specs from the US launch differ in places: the screen is 1.5K at 120Hz, not 2K at 165Hz, and the battery is 7,000mAh. India models usually match, but Motorola hasn't confirmed the India variants yet.*
 
 Leaks and reports fill in the rest, but Motorola hasn't confirmed any of these yet:
 
