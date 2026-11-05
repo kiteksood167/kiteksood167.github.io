@@ -37,6 +37,8 @@ A simple rule: measure the distance from your sofa to the TV wall.
 
 Most people who upgrade say they wish they'd gone one size bigger.
 
+Shopping for a bedroom or small living room? See our picks for the [best 43-inch smart TVs in India](/best-43-inch-smart-tv-india/).
+
 ## 2. Resolution: 4K is the standard
 
 At 43 inches and above, choose **4K (Ultra HD)**. Full HD is only worth it on small, cheaper TVs. **8K** TVs exist, but there's very little 8K content, so they aren't worth the extra money for most people.
