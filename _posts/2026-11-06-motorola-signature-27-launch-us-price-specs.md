@@ -2,7 +2,7 @@
 title: "Motorola Signature 27 Launched at $1,599: Specs, Release Date and Is It Worth It?"
 seo_title: "Motorola Signature 27: $1,599 Price, Specs, Release"
 description: "Motorola's Signature 27 is official at $1,599 with a Snapdragon 8 Elite Extreme Gen 6, 200MP zoom and 7 years of updates. Pre-orders open November 19."
-date: 2026-11-05 23:20:00 +0530
+date: 2026-11-06 07:45:00 +0530
 category: Global
 also_in: [Launches, Phones]
 affiliate: true
