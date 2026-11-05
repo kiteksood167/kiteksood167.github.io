@@ -106,7 +106,26 @@ Our [smart TV buying guide](/smart-tv-buying-guide/) explains panel types, HDR a
 
 ## Our take
 
-<!-- Kitek's answers go here, grammar fixes only -->
+**What kind of home or room is a 43-inch TV right for?**
+
+In my opinion, a 43-inch smart TV is a versatile option for Indian homes, especially for people who have a medium-size room and limited space.
+
+**What do you look at first when buying a TV: brand, screen quality, sound or price?**
+
+In my view, these should be the priorities before purchasing a TV:
+
+1. **Screen quality:** 4K resolution, colours, brightness and picture clarity.
+2. **Price:** the best features within your budget.
+3. **Brand:** reliability, warranty and after-sales service.
+4. **Sound:** clear audio and good loudness.
+
+My first priority will be screen quality, because a TV's main purpose is to show a good picture.
+
+**Your one piece of advice for someone buying a TV in the Diwali sale?**
+
+My only advice: don't purchase a TV only after seeing the discount in the Diwali sale.
+
+Always check the TV's picture quality, actual specifications, warranty and after-sales service. Choose a TV with 4K resolution, good brightness and smart features within your budget.
 
 **Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [New Apple TV 4K (2026) Launched in India at ₹39,900](/apple-tv-4k-2026-india-price-features/)
 
