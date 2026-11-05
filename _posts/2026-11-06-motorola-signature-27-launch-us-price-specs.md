@@ -96,7 +96,15 @@ That's a lot for a Motorola. You're paying flagship-plus money for the zoom came
 
 ## Our take
 
-<!-- Kitek's answers go here, grammar fixes only -->
+**Would you buy this phone at $1,599, or does the price feel too high?**
+
+In my opinion, $1,599 is too much for this phone. Even if it comes with a premium design, a powerful camera, a periscope zoom and fast charging, at this price it has to compete with the top flagship phones.
+
+I personally will not purchase it at $1,599 unless its camera, performance and overall experience are noticeably better than the competition.
+
+**Which matters more to you: the 200MP zoom camera or 7 years of updates?**
+
+For me, 7 years of software updates is more important. The 200MP zoom camera is good, but long-term software support keeps the phone secure, updated and useful for years.
 
 **Related reading:** [Pixel 10a vs iPhone 17e: Which to Buy After the Price Hikes](/pixel-10a-vs-iphone-17e/) · [Unlocked vs Carrier Phones: Which Should You Buy in 2026?](/unlocked-vs-carrier-phones/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
