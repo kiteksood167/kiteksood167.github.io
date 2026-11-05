@@ -7,7 +7,7 @@ category: Global
 also_in: [Launches, Phones]
 affiliate: true
 image: /assets/images/motorola-signature-27-launch-us-price-specs.jpg
-image_alt: "A charcoal and an olive green phone with woven backs and large square camera modules on a dark stage with green and orange rim light"
+image_alt: "A charcoal and an olive green phone with woven backs and large square camera modules on a round stage, with a green and orange neon ring behind"
 image_credit: "Illustration, not the actual product"
 tags: [motorola, motorola signature 27, flagship phones, snapdragon 8 elite extreme gen 6, launch, usa, uk]
 sources:
@@ -63,7 +63,7 @@ These are Motorola's official specs, as reported by Android Headlines and Techae
 | **Software** | Android 17, 7 OS upgrades and up to 7 years of security updates |
 
 <figure class="inline-figure">
-  <img width="1200" height="675" src="/assets/images/phone-zoom-camera-rooftop-temple-sunset.jpg" alt="A man on a rooftop at sunset zooming his phone camera into a distant domed temple, shown sharply on the screen" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-zoom-clock-tower-city-dusk.jpg" alt="A hand holding a phone up at a city skyline at dusk, the screen showing a sharp zoomed-in view of a distant clock tower" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -76,6 +76,11 @@ These are Motorola's official specs, as reported by Android Headlines and Techae
 **Software support.** Seven OS upgrades and up to seven years of security patches match what Google and Samsung promise for their flagships. It's also the first Motorola phone to support **GrapheneOS**, the privacy-focused version of Android, which Motorola developed with the GrapheneOS Foundation.
 
 **What's missing.** The screen tops out at 120Hz with 1.5K resolution, not the 2K panel some leaks suggested. And despite Qi2-ready wireless charging, there are no magnets built in, so MagSafe-style accessories need a magnetic case.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/olive-phone-wireless-charging-pad-desk.jpg" alt="An olive green phone charging on a glowing wireless charging pad, with a USB-C charger beside it on a dark desk" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 > **Tip:** The Signature 27 goes on sale on November 26, right before Black Friday on November 27. Brand-new flagships rarely get big discounts in their first week, but retailers sometimes add gift cards or free accessories, so compare Motorola.com, Amazon and Best Buy before you pre-order. Our guide on [how to spot a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) explains what to check.
 
