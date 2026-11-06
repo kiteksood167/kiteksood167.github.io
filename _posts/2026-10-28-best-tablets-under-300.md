@@ -108,6 +108,8 @@ It runs Amazon's Fire OS, not standard Android, so there's no Google Play Store,
 
 > **Tip:** Black Friday is on November 27 this year, and tablets are among the most heavily discounted gadgets. If you don't need one right now, add your pick to a wish list and compare its price with the last few months before you buy.
 
+Torn between the regular iPad and the iPad Air? Our [iPad vs iPad Air comparison](/ipad-vs-ipad-air-which-to-buy/) explains what the extra money gets you.
+
 **Related reading:** [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/) · [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/) · [Which Kindle Should You Buy in 2026? Kindle vs Paperwhite vs Colorsoft](/which-kindle-to-buy-2026/)
 
 ## The bottom line
