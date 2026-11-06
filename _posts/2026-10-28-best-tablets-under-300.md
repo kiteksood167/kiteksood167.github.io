@@ -3,6 +3,8 @@ title: "Best Tablets Under $300 in 2026: iPad, Galaxy Tab and Budget Picks"
 seo_title: "Best Tablets Under $300 in 2026"
 description: "The best tablets under $300 right now, from the A16 iPad on sale to Samsung's Galaxy Tab A11+ and a $75 Fire tablet, with prices and who each suits."
 date: 2026-10-28 20:38:00 +0530
+last_modified_at: 2026-11-06 19:10:00 +0530
+update_note: "Corrected the iPad's list price to $449, after Apple's June 2026 price rise."
 image: /assets/images/best-tablets-under-300.jpg
 image_alt: "Four tablets of different sizes with colourful screens lined up on a wooden desk next to a stylus and a blank price tag"
 image_credit: "Illustration, not the actual products"
@@ -11,6 +13,8 @@ also_in: [Tablets]
 tags: [tablets, budget tablet, ipad, galaxy tab, fire tablet, buying guide]
 affiliate: true
 sources:
+  - name: "9to5Mac: Apple announces significant price increases for MacBooks, iPads and more"
+    url: "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/"
   - name: "MacRumors: 12th-generation iPad"
     url: "https://macrumors.com/2026/07/22/12th-generation-ipad-rumor-recap"
   - name: "TechRadar (Amazon Fire tablet coverage)"
@@ -24,7 +28,7 @@ You don't need to spend $500 to get a good tablet. Under $300 you can get an iPa
 
 | Tablet | Price (late Oct 2026) | Screen | Chip | Storage | Best for |
 |---|---|---|---|---|---|
-| Apple iPad (A16, 11th gen) | $349 list, often $299 on Amazon | 11" Liquid Retina, 2360 x 1640 | Apple A16 | 128GB | Best overall if you can catch the sale |
+| Apple iPad (A16, 11th gen) | $449 list since June (was $349) | 11" Liquid Retina, 2360 x 1640 | Apple A16 | 128GB | Best overall if you can catch the sale |
 | Samsung Galaxy Tab A11+ | $249.99, often near $200 | 11" LCD, 1920 x 1200, 90Hz | MediaTek Dimensity 7300 | 128GB or 256GB + microSD | Best Android tablet |
 | Samsung Galaxy Tab A9+ | $219 list, often $130 to $150 | 11" LCD, 1920 x 1200, 90Hz | Snapdragon 695 | 64GB or 128GB + microSD | Best under $150 |
 | Lenovo Tab M11 | around $150 | 11" LCD, 90Hz | MediaTek Helio G88 | 64GB or 128GB + microSD | Note-taking on a budget |
@@ -34,7 +38,7 @@ Prices move a lot in the weeks before Black Friday, so check the current price b
 
 ## 1. Apple iPad (A16): best overall
 
-The 11th-generation iPad launched in March 2025 at $349 for 128GB, and Amazon regularly drops it to $299, as it did in May this year according to MacRumors. At that price, nothing else here comes close. The A16 chip handles games, video editing and split-screen apps easily, and the 11-inch screen is sharp and bright.
+The 11th-generation iPad launched in March 2025 at $349 for 128GB, and Amazon dropped it to $299 in May this year, according to MacRumors. **Update:** Apple raised its list price to **$449** on June 25, according to 9to5Mac, so it now only fits this budget if a big Black Friday or retailer deal brings it close to $300. If it does, nothing else here comes close. The A16 chip handles games, video editing and split-screen apps easily, and the 11-inch screen is sharp and bright.
 
 You also get Touch ID, USB-C, a 12MP front camera in landscape position for video calls, and support for the Apple Pencil (USB-C) and Magic Keyboard Folio. iPads also get software updates for many years, so this one should stay useful for a long time.
 
@@ -42,7 +46,7 @@ The downsides are small but real. It doesn't support Apple Intelligence, the scr
 
 **Best for:** students, families and anyone who already uses an iPhone.
 
-{% include buy.html name="Apple iPad (A16, 128GB)" query="Apple iPad 11 inch A16 128GB" store="us" note="List $349; wait for $299 if you can" %}
+{% include buy.html name="Apple iPad (A16, 128GB)" query="Apple iPad 11 inch A16 128GB" store="us" note="List $449 since June; only buy near $300 on a big sale" %}
 
 ## 2. Samsung Galaxy Tab A11+: best Android tablet
 
@@ -114,4 +118,4 @@ Torn between the regular iPad and the iPad Air? Our [iPad vs iPad Air comparison
 
 ## The bottom line
 
-For most people, the **Apple iPad (A16)** is the best tablet under $300, as long as you buy it during one of its frequent $299 sales. If you prefer Android or want to spend less, the **Samsung Galaxy Tab A11+** is the best choice, with a capable chip and seven years of updates. For a cheap streaming screen, get the **Galaxy Tab A9+** or wait for the **Fire HD 10** to drop under $100. If handwriting notes matters most, the **Lenovo Tab M11** with its pen is the cheapest option.
+If a big sale brings it close to $300, the **Apple iPad (A16)** is the best tablet here, but its list price is now $449. If you prefer Android or want to spend less, the **Samsung Galaxy Tab A11+** is the best choice, with a capable chip and seven years of updates. For a cheap streaming screen, get the **Galaxy Tab A9+** or wait for the **Fire HD 10** to drop under $100. If handwriting notes matters most, the **Lenovo Tab M11** with its pen is the cheapest option.
