@@ -66,6 +66,23 @@ phones:
     fiveg: false
     query: Karbonn Rebel
     post: /karbonn-rebel-rebel-pro-5g-india-launch-november-2/
+  - name: Karbonn Rebel Pro
+    brand: Karbonn
+    os: android
+    price: 12499
+    chip: MediaTek Helio G81
+    screen: 6.7" HD+ LCD, 120Hz
+    size: 6.7
+    mah: 6000
+    charge: 20W
+    cam: 64MP main
+    gaming: 1
+    camera: 2
+    display: 2
+    updates: 2
+    fiveg: false
+    query: Karbonn Rebel Pro
+    post: /karbonn-rebel-rebel-pro-5g-india-launch-november-2/
   - name: Poco C81
     brand: Poco
     os: android
@@ -116,6 +133,22 @@ phones:
     query: Realme P4s Lite
 
   # ---------- ₹15,000 – ₹20,000 ----------
+  - name: Samsung Galaxy A08
+    brand: Samsung
+    os: android
+    price: 18499
+    chip: MediaTek Helio G99+
+    screen: 6.7" HD+ LCD, 90Hz
+    size: 6.7
+    mah: 6000
+    charge: 25W
+    cam: 50MP main
+    gaming: 1
+    camera: 2
+    display: 1
+    updates: 4
+    fiveg: false
+    query: Samsung Galaxy A08
   - name: Samsung Galaxy F70 5G
     brand: Samsung
     os: android
