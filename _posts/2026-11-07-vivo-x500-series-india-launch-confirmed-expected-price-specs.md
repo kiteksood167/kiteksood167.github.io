@@ -96,7 +96,7 @@ The Motorola Signature 27, also confirmed for India this month, is a strong alte
 
 <!-- Kitek's answers go here, grammar fixes only -->
 
-**Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Motorola Signature 27 India Launch Confirmed for November: Expected Price and Specs](/motorola-signature-27-india-launch-november-expected-price-specs/) · [Sell Your Old Phone Safely in India](/sell-old-phone-safely-india-steps/)
+**Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Motorola Signature 27 India Launch Confirmed for November: Expected Price and Specs](/motorola-signature-27-india-launch-november-expected-price-specs/) · [How to Sell Your Old Phone Safely in India: 9 Steps Before You Hand It Over](/sell-old-phone-safely-india-steps/)
 
 ## The bottom line
 
