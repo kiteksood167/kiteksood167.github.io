@@ -3,6 +3,8 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
+last_modified_at: 2026-11-07 10:20:00 +0530
+update_note: "Added the Vivo X500 India teaser and Amazon/Flipkart pages."
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
 image_credit: "Illustration, not the actual products"
@@ -67,6 +69,8 @@ Vivo hasn't announced an India date, but a Smartprix report, cited by GSMArena, 
 | Software | OriginOS 7 (Android 17) | OriginOS 7 (Android 17) | OriginOS 7 (Android 17) |
 
 These are the China specs. The Indian models are expected to be the same, but Vivo hasn't confirmed that, or any India price.
+
+**Update, November 7:** Vivo has started teasing the X500 series on its India website, and launch pages are live on Amazon and Flipkart. A tipster points to November 25. See our [Vivo X500 India launch post](/vivo-x500-series-india-launch-confirmed-expected-price-specs/) for the latest.
 
 ## iQOO 16: coming to India, but probably not in November
 
