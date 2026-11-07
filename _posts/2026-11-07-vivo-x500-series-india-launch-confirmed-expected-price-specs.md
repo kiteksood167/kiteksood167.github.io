@@ -61,7 +61,7 @@ These are the specs of the phones sold in China. India models usually match, but
 The **X500 Pro Max** is the one to watch. Its 200MP periscope camera and the Gen 2 Ultra extender, which My Mobile India says works only with the Pro Max, are aimed squarely at people who shoot concerts, wildlife and sport.
 
 <figure class="inline-figure">
-  <img width="1200" height="675" src="/assets/images/phone-telephoto-extender-concert-tripod.jpg" alt="A phone with a long telephoto lens extender on a small tripod, zoomed onto a distant concert stage" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-telephoto-extender-concert-tripod.jpg" alt="A phone with a large telephoto extender lens on a tripod at a concert, its screen showing a zoomed-in view of the band on stage" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Other reports suggest a wider range, from about ₹60,000 to ₹1 lakh, so treat
 > **Tip:** If you're thinking of pre-booking at a shop, ask whether the booking amount is fully refundable and get it in writing. Prices aren't announced yet, and you don't want to be locked in if the final price is higher than expected.
 
 <figure class="inline-figure">
-  <img width="1200" height="675" src="/assets/images/phone-smartwatch-desk-charging-night.jpg" alt="A flagship phone and a round smartwatch charging side by side on a dark desk" loading="lazy">
+  <img width="1200" height="675" src="/assets/images/phone-smartwatch-desk-charging-night.jpg" alt="A green phone with a large round camera module and a round smartwatch charging on glowing wireless pads on a dark desk" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
