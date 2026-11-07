@@ -94,7 +94,13 @@ If that's out of reach, the 16GB Acer Aspire 3 at the top of this list is the be
 
 ## Our take
 
-<!-- Kitek's answers go here, grammar fixes only -->
+**What do you look at first when buying a laptop under ₹50,000?**
+
+First, I look at the processor and RAM — at a minimum, an Intel Core i5 or Ryzen 5, 16GB of RAM, and a 512GB SSD. The battery should also be good.
+
+**Would you suggest a Windows laptop to students, or something else like a Chromebook or MacBook?**
+
+For students, I would suggest a Windows laptop, as it offers better performance, software compatibility, and good value for money within a budget of ₹50,000.
 
 **Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/)
 
