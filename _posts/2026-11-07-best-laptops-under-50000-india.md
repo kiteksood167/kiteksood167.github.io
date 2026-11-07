@@ -2,7 +2,7 @@
 title: "Best Laptops Under ₹50,000 in India (November 2026): What You Can Actually Get"
 seo_title: "Best Laptops Under ₹50,000 in India (Nov 2026)"
 description: "Laptop prices have jumped in 2026, so ₹50,000 buys less than before. Our picks with current Amazon prices, what to avoid, and when to stretch to ₹60,000."
-date: 2026-11-07 13:55:00 +0530
+date: 2026-11-07 14:00:00 +0530
 category: Laptops
 also_in: [Guides]
 affiliate: true
