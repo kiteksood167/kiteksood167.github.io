@@ -9,7 +9,13 @@ category: Gaming
 also_in: [Launches, Phones, Global]
 tags: [red magic, redmagic 12 pro plus, gaming phones, nubia, launch]
 affiliate: true
+last_modified_at: 2026-11-08 11:55:00 +0530
+update_note: "The global Red Magic 12 Pro is now official from $949 / £799 / €899, with sales from November 18. It charges at 80W instead of 120W."
 sources:
+  - name: "Android Headlines: The REDMAGIC 12 Pro launches globally, sales go live Nov. 18"
+    url: "https://www.androidheadlines.com/2026/11/the-redmagic-12-pro-launches-globally-sales-go-live-nov-18.html"
+  - name: "ShiftDelete: RedMagic 12 Pro global launch, price and 80W charging"
+    url: "https://shiftdelete.net/en/redmagic-12-pro"
   - name: "Smartprix: Red Magic 12 Pro+ specifications"
     url: "https://www.smartprix.com/mobiles/red-magic-12-pro-plus-ppd1dma9kb71"
   - name: "Mezha: Redmagic 12 Pro+ released"
@@ -32,6 +38,16 @@ Dollar conversions vary between reports because of exchange rates.
 
 - **Launched:** in China in mid-October 2026
 - **Global launch:** GSMArena reports that the phone will launch globally as the Red Magic 12 Pro, with global pricing and availability due on November 3. Red Magic hasn't announced Indian pricing.
+**Update, November 8:** The global version, called the **Red Magic 12 Pro**, was announced on November 3. It costs:
+
+| Variant | US | UK | EU |
+|---|---|---|---|
+| 12GB + 256GB | $949 | £799 | €899 |
+| 16GB + 512GB | $1,049 | £889 | €999 |
+| 16GB + 1TB | $1,199 | £1,059 | €1,199 |
+
+Early bird vouchers run from **November 12 to 17**, and open sales start on **November 18** in North America, the UK, most of the EU and parts of Asia Pacific and the Middle East, according to Android Headlines and ShiftDelete. The main difference from the China model is charging: the global phone charges at **80W instead of 120W**, and it also supports 80W wireless charging. The base price is about $250 more than last year's Red Magic 11 Pro. India isn't on the launch list, so there's still no official Indian price or service support.
+
 - **Imports:** some third-party import sites are already listing global units at around $1,299. Imported phones may not come with local warranty or service.
 
 ## Key specifications
@@ -74,7 +90,7 @@ The Red Magic 12 Pro+ is for serious mobile gamers who want the best sustained p
   <figcaption>Illustration</figcaption>
 </figure>
 
-If you're in India, wait for Red Magic's global launch details and check whether official sales and service support are available here before buying. And if you just want better gaming on the phone you already own, a few settings and habits make a big difference.
+If you're in India, note that the global launch doesn't include India yet, so check whether official sales and service support are available here before buying. And if you just want better gaming on the phone you already own, a few settings and habits make a big difference.
 
 > **Tip:** A fan and a big battery help, but heat is still the main enemy of gaming performance. Avoid playing while fast charging without bypass charging, remove thick cases during long sessions, and keep the phone out of direct sunlight.
 
@@ -84,4 +100,4 @@ If you're in India, wait for Red Magic's global launch details and check whether
 
 ## The bottom line
 
-The Red Magic 12 Pro+ is one of the most extreme gaming phones yet, with a 185Hz notch-free screen, liquid cooling with a fan, an 8,400mAh battery and 120W charging. It's on sale in China from CNY 6,999, and a global version is expected in early November. Indian buyers should wait for official pricing and service details before importing one.
+The Red Magic 12 Pro+ is one of the most extreme gaming phones yet, with a 185Hz notch-free screen, liquid cooling with a fan, an 8,400mAh battery and 120W charging. It's on sale in China from CNY 6,999, and the global Red Magic 12 Pro costs from $949, £799 or €899, with sales from November 18. Indian buyers should wait for official pricing and service details before importing one.
