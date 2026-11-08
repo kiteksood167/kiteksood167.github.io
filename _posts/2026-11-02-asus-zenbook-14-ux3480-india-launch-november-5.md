@@ -1,8 +1,10 @@
 ---
-title: "Asus Zenbook 14 (UX3480) Launching in India on November 5: What We Know"
-seo_title: "Asus Zenbook 14 UX3480 India Launch Nov 5"
-description: "Asus Zenbook 14 (UX3480) launches in India on November 5 with Snapdragon X, AMD and Intel options, a Ceraluminum body and EMI from ₹7,333."
+title: "Asus Zenbook 14 (UX3480) Launched in India: Price, Specs and Availability"
+seo_title: "Asus Zenbook 14 UX3480 Price in India, Specs"
+description: "Asus Zenbook 14 (UX3480) launched in India from ₹1,36,990 with Snapdragon X, AMD Ryzen AI 7 and Intel Core Ultra 9 options. Prices, specs and stores."
 date: 2026-11-02 19:26:00 +0530
+last_modified_at: 2026-11-08 10:30:00 +0530
+update_note: "Asus Zenbook 14 (UX3480) is now on sale in India from ₹1,36,990; added prices for all three models."
 image: /assets/images/asus-zenbook-14-ux3480-india-launch-november-5.jpg
 image_alt: "A thin light-blue 14-inch laptop half open on a dark reflective stage, its screen showing a blue and orange wave, with green and orange neon arcs behind"
 image_credit: "Illustration, not the actual product"
@@ -10,6 +12,10 @@ category: Launches
 also_in: [Laptops]
 tags: [asus, asus zenbook 14, zenbook 14 ux3480, laptops, thin and light laptops, launch]
 sources:
+  - name: "Digit: Asus Zenbook 14 with 33-hour battery life launched in India"
+    url: "https://www.digit.in/news/laptops/asus-zenbook-14-with-33-hour-battery-life-launched-in-india-check-price-features-and-more-details.html"
+  - name: "Analytics Insight: Asus Zenbook 14 launched in India, price starts at Rs 1.36 lakh"
+    url: "https://www.analyticsinsight.net/news/asus-zenbook-14-launched-in-india-price-starts-at-rs-136-lakh"
   - name: "FoneArena: Asus Zenbook 14 (UX3480) to launch in India on November 5"
     url: "https://www.fonearena.com/blog/495809/asus-zenbook-14-ux3480-india-launch-date.html"
   - name: "PCQuest: Asus Zenbook 14 India launch set for November 5 with three processor options"
@@ -22,26 +28,27 @@ sources:
     url: "https://www.etvbharat.com/en/technology/apple-macbook-air-2026-launched-in-india-price-specifications-enn26030401257"
 ---
 
-Asus is bringing its new **Zenbook 14 (UX3480)** to India on **November 5, 2026, at 12 noon**. It's a thin and light 14-inch laptop with a choice of three chip makers, Qualcomm, AMD and Intel, and a new Ceraluminum body that Asus says resists scratches and smudges. Here's everything Asus has confirmed so far, and what is still unknown.
+> **Update (November 8):** The Zenbook 14 (UX3480) launched in India on November 5 at **₹1,36,990** (Snapdragon X), **₹1,56,990** (AMD Ryzen AI 7 345) and **₹1,67,990** (Intel Core Ultra 9 Series 3). It's sold on the Asus e-shop, Asus stores, Amazon, Croma, Reliance Digital and Vijay Sales. Full details are in the price section below.
+
+Asus launched its new **Zenbook 14 (UX3480)** in India on **November 5, 2026**. It's a thin and light 14-inch laptop with a choice of three chip makers, Qualcomm, AMD and Intel, and a new Ceraluminum body that Asus says resists scratches and smudges. Here are the India prices, the specs and what is still unknown.
 
 <!--more-->
 
-The launch date, chips, colours, weight and EMI offers below come from Asus India's launch announcement, as reported by FoneArena, PCQuest and MobiGyaan. Display and port details come from Asus's own spec page in another market, and we've marked them clearly.
+The India prices and stores come from launch reports by Digit and Analytics Insight. The chips, colours and weight come from Asus India's launch announcement, as reported by FoneArena, PCQuest and MobiGyaan. Display and port details come from Asus's own spec page in another market, and we've marked them clearly.
 
 ## Price and availability in India
 
-Asus has **not announced India prices yet**. They should be revealed at the launch on November 5. What Asus has shared is the financing it will offer:
-
-| Offer | Monthly amount | Tenure |
+| Model | Processor | India price |
 |---|---|---|
-| No-cost EMI (zero interest) | From ₹7,333 a month | Up to 18 months |
-| Low-cost EMI (small extra cost) | From ₹6,234 a month | Up to 24 months |
+| Zenbook 14 UX3480QA | Qualcomm Snapdragon X | ₹1,36,990 |
+| Zenbook 14 UX3480KA | AMD Ryzen AI 7 345 | ₹1,56,990 |
+| Zenbook 14 UX3480AA | Intel Core Ultra 9 (Series 3) | ₹1,67,990 |
 
-For a rough idea, 18 payments of ₹7,333 add up to about ₹1.32 lakh. That's our own arithmetic, not an Asus price, so treat it only as a hint of where the range could start.
+The launch reports don't break the prices down by RAM or storage, so check the exact configuration on the listing before you buy.
 
-- **Launch date:** November 5, 2026, 12 noon IST
-- **Sale date:** not announced yet
-- **Where to buy:** Asus has pointed buyers to its India website. Other online stores and retail partners haven't been confirmed yet.
+- **Launched:** November 5, 2026
+- **Where to buy:** Asus e-shop, Asus Exclusive Stores, Amazon, Croma, Reliance Digital, Vijay Sales and other authorised retailers
+- **EMI:** Analytics Insight reports no-cost EMI from ₹7,611 a month for 18 months, and low-cost EMI from ₹6,471 a month for up to 24 months
 
 ## Key specifications
 
@@ -49,7 +56,7 @@ For a rough idea, 18 payments of ₹7,333 add up to about ₹1.32 lakh. That's o
 |---|---|
 | Processor options | Qualcomm Snapdragon X, AMD Ryzen AI 7 345, or up to Intel Core Ultra 9 (Series 3) |
 | AI engine (NPU) | Up to 50 TOPS on selected models |
-| Display | 14-inch 16:10 OLED, 1920 x 1200 on the models Asus lists abroad (India panels not confirmed) |
+| Display | 14-inch OLED touchscreen: 3K, 120Hz, up to 1,100 nits HDR on the Intel model; Full HD+ 60Hz on the AMD and Snapdragon models (per Analytics Insight) |
 | Weight | From about 1.1 kg |
 | Thickness | 1.39 cm |
 | Battery life (Asus claim) | Up to 33 hours, depending on model and use |
@@ -57,7 +64,7 @@ For a rough idea, 18 payments of ₹7,333 add up to about ₹1.32 lakh. That's o
 | Colours | Arctic Blue, Komodo Coral, Zabriskie Beige |
 | Ports (Intel model, per Asus spec page abroad) | Thunderbolt 4 USB-C, USB-C 10Gbps, USB-A, HDMI 2.1, audio jack |
 
-RAM, storage and the exact list of India models haven't been confirmed. Abroad, the Zenbook 14 UX3480 is sold with 16GB or 24GB of memory and 512GB or 1TB of storage, but India configurations could be different.
+RAM and storage for each India model haven't been confirmed in the launch reports. Abroad, the Zenbook 14 UX3480 is sold with 16GB or 24GB of memory and 512GB or 1TB of storage, but India configurations could be different.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/laptop-usb-c-cable-ports-closeup-neon.jpg" alt="Close-up of a hand plugging a USB-C cable into the side of a thin silver laptop with HDMI and USB-C ports, in green and orange light" loading="lazy">
@@ -76,7 +83,7 @@ RAM, storage and the exact list of India models haven't been confirmed. Abroad, 
 
 **Light weight with a big battery claim.** At around 1.1 kg (for the lightest model) and 1.39 cm thick, it's easy to carry all day. The 33-hour battery figure is Asus's own lab claim. Real use with browsing, video calls and higher screen brightness will be lower.
 
-> **Tip:** Wait for the India price list on November 5 before deciding. If the Snapdragon model is much cheaper, check that every app you need (especially office, exam or college software) runs on Windows on Arm. If you're not sure, the AMD or Intel model is the safer pick.
+> **Tip:** The Snapdragon model is ₹20,000 cheaper than the AMD one. Before you pick it, check that every app you need (especially office, exam or college software) runs on Windows on Arm. If you're not sure, the AMD or Intel model is the safer pick.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/woman-working-laptop-cafe-night-neon.jpg" alt="A smiling young woman working on a light silver laptop in a café at night, with coffee, a notebook and green and orange neon lights behind her" loading="lazy">
@@ -87,7 +94,7 @@ RAM, storage and the exact list of India models haven't been confirmed. Abroad, 
 
 The Zenbook 14 (UX3480) suits students and office workers who want a light Windows laptop with an OLED screen and long battery life, and who care about a body that won't scratch easily.
 
-Close rivals to compare once prices are out:
+Close rivals to compare:
 
 - **Apple MacBook Air M5 (13-inch):** launched in India in March 2026 at ₹1,19,900 for 16GB RAM and 512GB storage. It's a little heavier at 1.23 kg and runs macOS. Pick it if you already use an iPhone or need Mac-only apps.
 - **Asus Zenbook 14 OLED (UX3405):** the older model. If it gets a price cut after the new one arrives, it can still be a good deal for buyers who don't need the newest chips or the Ceraluminum finish.
@@ -110,4 +117,4 @@ In my view, a ₹1.3 lakh laptop is only worth it when you need that performance
 
 ## The bottom line
 
-The Asus Zenbook 14 (UX3480) brings a tougher Ceraluminum body, an OLED screen and a choice of Snapdragon, AMD or Intel chips to India on November 5. The specs look right for a light everyday laptop, but price will decide everything. The EMI figures hint at a start near ₹1.3 lakh, which would put it against the MacBook Air M5. We'll update this post with official prices, models and sale details after the launch.
+The Asus Zenbook 14 (UX3480) brings a tougher Ceraluminum body, an OLED screen and a choice of Snapdragon, AMD or Intel chips to India, priced from ₹1,36,990 to ₹1,67,990. That puts even the cheapest model above the MacBook Air M5's ₹1,19,900 launch price, so buy it if you want Windows, an OLED touchscreen and the Ceraluminum finish. If you just need a good laptop for college or office work, our [best laptops under ₹50,000](/best-laptops-under-50000-india/) cost far less.

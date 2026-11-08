@@ -1,5 +1,5 @@
 ---
-title: "Best Diwali Gift Gadgets Under ₹5,000"
+title: "Best Diwali Gift Gadgets Under ₹5,000 in India (2026)"
 description: "Six Diwali gift gadgets under ₹5,000 in India: ANC earbuds, a GPS smartwatch, a fast power bank, a JBL speaker, an Echo Dot and a Fire TV Stick."
 date: 2026-10-29 15:30:00 +0530
 category: Accessories
@@ -112,7 +112,7 @@ It works in Hindi as well as English. It needs Wi-Fi and the Alexa app on someon
 
 Before you pay, compare the final checkout price with the price history and bank offers. Our [Diwali gadget buying tips](/diwali-gadget-buying-tips/) explain how.
 
-**Related reading:** [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Best TWS Earbuds Under ₹3,000 in India](/best-tws-earbuds-under-3000/)
+**Related reading:** [Best Diwali Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Best TWS Earbuds Under ₹3,000 in India (2026)](/best-tws-earbuds-under-3000/)
 
 ## The bottom line
 

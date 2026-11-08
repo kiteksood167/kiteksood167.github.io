@@ -1,5 +1,5 @@
 ---
-title: "Best TWS Earbuds Under ₹3,000 in India"
+title: "Best TWS Earbuds Under ₹3,000 in India (2026)"
 description: "The best TWS earbuds under ₹3,000 in India right now, from OnePlus, Realme and CMF, with ANC, battery life and current prices compared."
 date: 2026-11-03 08:49:00 +0530
 image: /assets/images/best-tws-earbuds-under-3000.jpg
@@ -125,7 +125,7 @@ From my perspective, ANC is not completely useless in a ₹3,000 budget, but its
 
 I would happily spend ₹500–1,000 more to choose a trusted brand like OnePlus. Better sound quality, build and service support are more important than extra features.
 
-**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/)
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best Diwali Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/)
 
 ## The bottom line
 

@@ -1,6 +1,6 @@
 ---
-title: "Best Smartwatches Under ₹5,000 in India (October 2026)"
-description: "Five smartwatches under ₹5,000 worth buying now, from a ₹2,000 AMOLED starter watch to GPS models for runners, with current prices and who each suits."
+title: "Best Smartwatches Under ₹5,000 in India (2026)"
+description: "Five smartwatches under ₹5,000 in India worth buying now, from a ₹2,000 AMOLED starter watch to GPS models for runners, with current prices and who each suits."
 date: 2026-10-20 08:46:00 +0530
 image: /assets/images/best-smartwatches-under-5000.jpg
 image_alt: "Four budget smartwatches, two square and two round, with colourful screens"
@@ -109,7 +109,7 @@ Buying a watch as a gift? Our [best Diwali gift gadgets under ₹5,000](/best-di
 
 {% include buy.html name="Redmi Watch Move" query="Redmi Watch Move" note="Best under ₹2,500: AMOLED and Bluetooth calling" %}
 
-**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Diwali Gift Gadgets Under ₹2,000](/best-diwali-gift-gadgets-under-2000/)
+**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Diwali Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/)
 
 ## The bottom line
 

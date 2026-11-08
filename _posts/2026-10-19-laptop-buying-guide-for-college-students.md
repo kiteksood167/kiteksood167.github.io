@@ -1,7 +1,7 @@
 ---
 title: "Laptop Buying Guide for College Students in India: What Specs You Really Need"
 seo_title: "Laptop Buying Guide for College Students (India)"
-description: "Engineering, commerce or arts — the right laptop depends on your course, not the shopkeeper's pitch. A plain-English guide to processors, RAM, SSDs and screens."
+description: "How to choose a laptop for college in India by course: a plain-English guide to the processor, RAM, SSD and screen that engineering, commerce or arts needs."
 date: 2026-10-19 10:00:00 +0530
 image: /assets/images/laptops-two-people-typing.jpg
 image_alt: "Two people typing on silver laptops on a marble desk, seen from above"
@@ -81,7 +81,7 @@ If you carry it to college every day, aim for under **1.6 kg** and a real-world 
 
 For current picks and prices, see our [best laptops under ₹50,000 in India](/best-laptops-under-50000-india/).
 
-**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Asus Zenbook 14 (UX3480) Launching in India on November 5: What We Know](/asus-zenbook-14-ux3480-india-launch-november-5/)
+**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Asus Zenbook 14 (UX3480) Launched in India: Price, Specs and Availability](/asus-zenbook-14-ux3480-india-launch-november-5/)
 
 ## The bottom line
 

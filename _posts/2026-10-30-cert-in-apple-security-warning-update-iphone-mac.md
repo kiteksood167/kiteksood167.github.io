@@ -79,7 +79,7 @@ If your iPhone is too old to get iOS 27.2, check whether it can install iOS 26.7
 
 For what else the latest iPhone update brings, see our guide to [iOS 27.2 features and eligible iPhones](/ios-27-2-update-features-eligible-iphones/).
 
-**Related reading:** [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/) · [How to Check a New Phone Is Genuine Before You Accept the Delivery](/check-new-phone-genuine-before-accepting-delivery/)
+**Related reading:** [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/) · [How to Check a New Phone Is Genuine Before You Accept the Delivery](/check-new-phone-genuine-before-accepting-delivery/) · [Caller Name Display (CNAP) Starts in India From November 1: What Changes for You](/cnap-caller-name-display-india-november-1/)
 
 ## The bottom line
 

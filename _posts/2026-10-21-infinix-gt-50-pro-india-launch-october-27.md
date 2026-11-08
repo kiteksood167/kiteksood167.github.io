@@ -93,7 +93,7 @@ If you mainly want gaming performance, these cost about half as much (prices at 
 
 {% include buy.html name="Infinix GT 50 Pro" query="Infinix GT 50 Pro" note="₹69,999 with bundled gaming accessories" %}
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/)
 
 ## The bottom line
 

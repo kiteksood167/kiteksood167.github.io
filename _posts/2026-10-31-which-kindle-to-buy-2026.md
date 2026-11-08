@@ -107,7 +107,7 @@ For me, paying $20 extra to remove ads isn't worth it, because the ads don't dis
 
 Probably not. TechRadar points out that the 2024 Paperwhite now sells at the same list price as the 2026 model, which is thinner and lighter. A 2024 model only makes sense if you find it at a real discount or prefer one of its colors.
 
-**Related reading:** [Best Tablets Under $300 in 2026: iPad, Galaxy Tab and Budget Picks](/best-tablets-under-300/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
+**Related reading:** [Best Tablets Under $300 in 2026: iPad, Galaxy Tab and Budget Picks](/best-tablets-under-300/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) · [iPad vs iPad Air: Which iPad Should You Buy in 2026?](/ipad-vs-ipad-air-which-to-buy/)
 
 ## The bottom line
 

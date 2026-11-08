@@ -80,7 +80,7 @@ If you're in India, wait for Red Magic's global launch details and check whether
 
 {% include buy.html name="Phone cooler fan" query="mobile phone cooler fan gaming" note="Better sustained gaming on the phone you have" %}
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Best Gaming Phones Under ₹30,000 in India (October 2026)](/best-gaming-phones-under-30000/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/)
 
 ## The bottom line
 

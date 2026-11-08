@@ -46,7 +46,7 @@ Check for files that a normal backup can miss: call recordings, downloaded PDFs,
 
 ## 3. Move your banking and authenticator apps
 
-Banking and UPI apps are tied to your SIM and device, so set them up on the new phone first and confirm they work. If you use an authenticator app for two-step verification, transfer or re-link those accounts **before** you reset the old phone, or you could lock yourself out.
+Banking and UPI apps are tied to your SIM and device, so set them up on the new phone first and confirm they work. If you use an authenticator app for two-step verification, transfer or re-link those accounts **before** you reset the old phone, or you could lock yourself out. If you keep your logins in a password manager, check that you can sign in to it on the new phone first; our guide to the [best password managers](/best-password-manager-2026/) explains how they work.
 
 ## 4. Sign out of your Google account or Apple ID
 

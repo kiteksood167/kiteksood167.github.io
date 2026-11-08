@@ -77,7 +77,7 @@ For most people in India, though, ₹39,900 is a lot for a streaming box. If you
 
 {% include buy.html name="Apple TV 4K (2026)" query="Apple TV 4K" note="Check availability; India sales start November 13" %}
 
-**Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/)
+**Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Best 43 Inch Smart TV in India This Diwali (November 2026)](/best-43-inch-smart-tv-india/) · [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 

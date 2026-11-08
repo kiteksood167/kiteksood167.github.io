@@ -79,7 +79,7 @@ Calls depend on microphones, not speakers. Earbuds with **multiple mics per bud*
 
 {% include buy.html name="ANC earbuds under ₹5,000" query="ANC TWS earbuds under 5000" note="Check the ANC strength in dB and real call tests" %}
 
-**Related reading:** [Best Smartwatches Under ₹5,000 in India (October 2026)](/best-smartwatches-under-5000/) · [Best TWS Earbuds Under ₹3,000 in India](/best-tws-earbuds-under-3000/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/)
+**Related reading:** [Best Smartwatches Under ₹5,000 in India (2026)](/best-smartwatches-under-5000/) · [Best TWS Earbuds Under ₹3,000 in India (2026)](/best-tws-earbuds-under-3000/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/)
 
 ## The bottom line
 

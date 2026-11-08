@@ -1,8 +1,10 @@
 ---
-title: "Best Gaming Phones Under ₹30,000 in India (October 2026)"
+title: "Best Gaming Phones Under ₹30,000 in India (November 2026)"
 seo_title: "Best Gaming Phones Under ₹30,000 in India"
-description: "Five gaming phones under ₹30,000 in India for October 2026, from the Snapdragon 8s Gen 3 iQOO Neo 10R to a 10,001mAh Realme, with prices and key specs."
+description: "Five gaming phones under ₹30,000 in India for November 2026, from the Snapdragon 8s Gen 3 iQOO Neo 10R to a 10,001mAh Realme, with prices and key specs."
 date: 2026-10-24 08:49:00 +0530
+last_modified_at: 2026-11-08 10:35:00 +0530
+update_note: "Prices rechecked for November: Realme P4 Pro is now about ₹28,800 and Infinix GT 30 Pro about ₹24,700."
 category: Gaming
 also_in: [Phones]
 image: /assets/images/best-gaming-phones-under-30000.jpg
@@ -11,7 +13,7 @@ image_credit: "Illustration, not the actual product"
 tags: [gaming phones, buying guide, iqoo neo 10r, realme p4 pro, motorola edge 60 pro, realme narzo power, infinix gt 30 pro]
 affiliate: true
 sources:
-  - name: "Prices: Amazon.in, Flipkart and price-tracker listings, October 2026"
+  - name: "Prices: Amazon.in, Flipkart and price-tracker listings, November 2026"
 ---
 
 Phone prices in India have climbed through 2026, so ₹30,000 buys less gaming power than it did a year ago. The good news is that a few phones with genuinely fast chips, big batteries and high-refresh screens still sit under that line. Here are five worth your money right now, and who each one suits.
@@ -24,15 +26,15 @@ Memory chips (RAM and storage) have become much more expensive because AI data c
 
 ## Quick comparison
 
-| Phone | Price (Oct 2026) | Chip | Screen | Battery / charging | Best for |
+| Phone | Price (Nov 2026) | Chip | Screen | Battery / charging | Best for |
 |---|---|---|---|---|---|
 | iQOO Neo 10R | around ₹24,000 (8GB+128GB) | Snapdragon 8s Gen 3 | 6.78" 1.5K AMOLED, 144Hz | 6,400mAh / 80W | Raw performance |
-| Realme P4 Pro | around ₹26,000–29,000 | Snapdragon 7 Gen 4 | 6.8" AMOLED, 144Hz | 7,000mAh / 80W | Smooth 144fps-style gaming |
+| Realme P4 Pro | around ₹28,800 (8GB+128GB) | Snapdragon 7 Gen 4 | 6.8" AMOLED, 144Hz | 7,000mAh / 80W | Smooth 144fps-style gaming |
 | Motorola Edge 60 Pro | around ₹29,500 (8GB+256GB) | Dimensity 8350 Extreme | 6.7" 1.5K pOLED, 120Hz | 6,000mAh / 90W | Tough all-rounder |
 | Realme Narzo Power 5G | around ₹29,999 (8GB+256GB) | Dimensity 7400 Ultra | 6.8" AMOLED, 144Hz | 10,001mAh / 80W | Battery life |
-| Infinix GT 30 Pro | around ₹25,000–27,000 | Dimensity 8350 Ultimate | 6.78" AMOLED, 144Hz | 5,500mAh / 45W | Shoulder triggers |
+| Infinix GT 30 Pro | around ₹24,700 (8GB+256GB) | Dimensity 8350 Ultimate | 6.78" AMOLED, 144Hz | 5,500mAh / 45W | Shoulder triggers |
 
-Prices are the lowest listed on major Indian stores and price trackers in October 2026. Older models in particular go in and out of stock, and prices can swing by a few thousand rupees in a week, so check before you buy.
+Prices are the lowest listed on major Indian stores and price trackers in early November 2026. Older models in particular go in and out of stock, and prices can swing by a few thousand rupees in a week, so check before you buy.
 
 ## 1. iQOO Neo 10R: the most power for the money
 
@@ -48,13 +50,13 @@ The catch: the cameras are only average, and stock of some variants is patchy. T
 
 The Realme P4 Pro runs on the **Snapdragon 7 Gen 4**, which is a step below the Neo 10R's chip in raw power. What makes it interesting for gamers is Realme's separate **HyperVision AI chip**, which the brand says can boost supported games to 144fps at 1.5K resolution. It also supports bypass charging, which powers the phone directly from the charger while you play, so the battery heats up less.
 
-You get a 6.8-inch 144Hz AMOLED screen, a 7,000mAh battery with 80W charging, and a vapour chamber cooling system. It launched at ₹24,999, but Realme raised prices in 2026, and it now sells for around ₹26,000 to ₹29,000 depending on the variant and store.
+You get a 6.8-inch 144Hz AMOLED screen, a 7,000mAh battery with 80W charging, and a vapour chamber cooling system. It launched at ₹24,999, but Realme raised prices in 2026, and it now sells for around ₹28,800 for 8GB+128GB and about ₹31,000 for 256GB (November 2026), so only the base model fits this budget.
 
 ## 3. Motorola Edge 60 Pro: the tough all-rounder
 
 Not everyone wants a phone that looks like a gaming phone. The Edge 60 Pro uses MediaTek's **Dimensity 8350 Extreme**, which handles popular games well, inside a slim, curved design with a 6.7-inch 1.5K pOLED screen.
 
-Its biggest strengths are outside gaming: IP68 and IP69 water and dust resistance, MIL-STD-810H durability testing, a 6,000mAh battery, 90W wired charging and even 15W wireless charging, which is rare at this price. The screen tops out at 120Hz rather than 144Hz, but most games don't go beyond 120fps anyway. It's around ₹29,500 for 8GB+256GB.
+Its biggest strengths are outside gaming: IP68 and IP69 water and dust resistance, MIL-STD-810H durability testing, a 6,000mAh battery, 90W wired charging and even 15W wireless charging, which is rare at this price. The screen tops out at 120Hz rather than 144Hz, but most games don't go beyond 120fps anyway. It's around ₹29,500 for 8GB+256GB (November 2026).
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/gaming-phone-landscape-hands-battery.jpg" alt="Hands holding a smartphone sideways to play a shooter game with a full battery icon, in a dark room lit by green and orange neon" loading="lazy">
@@ -78,7 +80,7 @@ The **Dimensity 7400 Ultra** chip is the least powerful on this list. It runs ev
 
 The GT 30 Pro is the only phone here with built-in **shoulder triggers**, touch-sensitive buttons on the edge that you can map to actions like shooting or aiming. In shooters, that frees your thumbs for moving and looking around. It uses the **Dimensity 8350 Ultimate**, the same chip family as the Motorola, plus a 144Hz AMOLED screen and bypass charging.
 
-The battery is smaller at 5,500mAh, and 45W charging is slower than the rest of this list. Infinix sells a magnetic cooler separately as part of its GT Gaming Kit. Prices vary between stores, so only buy it if you find it for around ₹25,000 to ₹27,000.
+The battery is smaller at 5,500mAh, and 45W charging is slower than the rest of this list. Infinix sells a magnetic cooler separately as part of its GT Gaming Kit. It sells for around ₹24,700 for 8GB+256GB and about ₹27,000 for 12GB+256GB (November 2026).
 
 > **Tip:** Before you buy, check which frame rates your favourite game actually supports on that phone. Games like BGMI unlock high-fps modes only on specific chips, so the screen's 144Hz figure doesn't guarantee 144fps in every title. Bank offers during sales can also cut ₹2,000–3,000 off, which can push a ₹32,000 phone under your budget.
 

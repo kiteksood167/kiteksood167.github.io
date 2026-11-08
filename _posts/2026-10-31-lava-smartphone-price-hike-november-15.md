@@ -63,7 +63,7 @@ Budget phones feel this the most, because memory makes up a bigger share of thei
 
 We'll update this post when Lava shares the new price list.
 
-**Related reading:** [Ai+ Phones Get Costlier From November 15: Up to ₹3,000 Price Hike](/ai-plus-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [How to Sell Your Old Phone Safely in India](/sell-old-phone-safely-india-steps/)
+**Related reading:** [Ai+ Phones Get Costlier From November 15: Up to ₹3,000 Price Hike](/ai-plus-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Karbonn Rebel and Rebel Pro Launched in India: Price, Specs and Sale Date](/karbonn-rebel-rebel-pro-5g-india-launch-november-2/)
 
 ## The bottom line
 

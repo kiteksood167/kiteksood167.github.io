@@ -92,7 +92,7 @@ At these prices, the competition is tough:
 
 {% include buy.html name="OPPO Find X10 Pro Max" query="OPPO Find X10 Pro Max" note="₹1,99,999" %}
 
-**Related reading:** [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [OPPO Pad Mini Launched in India: Price, Specs and Sale Date](/oppo-pad-mini-launched-india-price-specs-sale-date/)
+**Related reading:** [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/) · [Vivo X500 Series India Launch Teased: Expected Date, Price and Specs](/vivo-x500-series-india-launch-confirmed-expected-price-specs/) · [OPPO Pad Mini Launched in India: Price, Specs and Sale Date](/oppo-pad-mini-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 
