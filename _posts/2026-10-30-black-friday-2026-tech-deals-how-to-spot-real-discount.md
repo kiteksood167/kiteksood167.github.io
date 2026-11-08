@@ -107,7 +107,7 @@ Brand-new phones rarely get big discounts at retailers, though carriers often ru
 
 If a Kindle is on your Black Friday list, our guide on [which Kindle to buy in 2026](/which-kindle-to-buy-2026/) explains the differences between the models.
 
-**Related reading:** [Best Noise-Cancelling Headphones Under $100](/best-noise-cancelling-headphones-under-100/) · [Best Tablets Under $300](/best-tablets-under-300/) · [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/)
+**Related reading:** [Best Noise-Cancelling Headphones Under $100](/best-noise-cancelling-headphones-under-100/) · [Best 65 Inch TV in 2026: Top Picks Before Black Friday](/best-65-inch-tv-2026/) · [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/)
 
 ## The bottom line
 
