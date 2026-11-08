@@ -4,7 +4,7 @@ seo_title: "OnePlus ColorOS 17 (Android 17) Update: November Dates"
 description: "OnePlus phones now get ColorOS 17 instead of OxygenOS. Here are the Android 17 update dates for the OnePlus 12, 13R, Open, Nord 6 and Pad 3, and which phones wait till 2027."
 date: 2026-11-08 18:45:00 +0530
 image: /assets/images/oneplus-coloros-17-update-november-dates.jpg
-image_alt: "A phone showing a software update progress screen on a dark desk with green and orange light"
+image_alt: "A phone standing on a dark desk showing a glowing software update progress ring at 70%, with green and orange light behind it"
 image_credit: "Illustration, not the actual phone"
 category: Phones
 news: true
@@ -48,6 +48,11 @@ The exact November dates come from the updated schedule reported by Android Head
 
 According to Cashify, the **OnePlus 10 Pro, 10T, 10R, 11R**, the original **OnePlus Pad** and **Pad Go** are not on the list.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-translucent-home-screen-widgets-hand.jpg" alt="A hand holding a phone with a colourful home screen of translucent glass-like widgets and app icons" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## What's new in ColorOS 17
 
 - **New design:** OnePlus calls it "Living Flow Design", with see-through layers, lighting effects and smoother animations.
@@ -57,6 +62,11 @@ According to Cashify, the **OnePlus 10 Pro, 10T, 10R, 11R**, the original **OneP
 
 > **Tip:** Back up your phone and charge it to at least 50% before you install a big update like this. Download it only from **Settings > System & Updates > Software update**. There's no "OxygenOS 17" file, so any website offering one is fake.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-scam-call-warning-shield-tea.jpg" alt="A phone on a wooden table showing an incoming call screen with a red warning shield, next to a cup of tea" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## How to check for the update
 
 1. Open **Settings**.
@@ -65,8 +75,18 @@ According to Cashify, the **OnePlus 10 Pro, 10T, 10R, 11R**, the original **OneP
 
 If you don't see it yet, wait a few days. OnePlus releases updates in batches.
 
+## Our take
+
+**OnePlus has replaced OxygenOS with ColorOS. Is that good or bad for OnePlus users?**
+
+In my view, this is detrimental to OnePlus's original identity. The clean UI and smooth experience of OxygenOS were what defined OnePlus. While ColorOS offers more features, the unique OnePlus experience could be diminished.
+
+**Should you install a big update as soon as it arrives, or wait a few days?**
+
+My advice is not to install a major update as soon as it's released. Wait for 7 to 15 days so that any initial bugs or battery issues can be identified. It's better to update only after reliable reviews are available.
+
 **Related reading:** [Nothing OS 5.0 Update Rolls Out to Phone (4a) and (3a) Series](/nothing-os-5-update-phone-4a-3a-series/) · [Samsung One UI 9 Update in India: Which Galaxy Phones Have It So Far](/samsung-one-ui-9-update-india-galaxy-phones/) · [How to Sell Your Old Phone Safely in India: 9 Steps Before You Hand It Over](/sell-old-phone-safely-india-steps/)
 
 ## The bottom line
 
-OnePlus phones are switching from OxygenOS to **ColorOS 17**, based on Android 17. The **OnePlus 13R** got it from November 5, and the **OnePlus 12 (November 17), Pad 3 (November 18), Open (November 24) and Nord 6 and Nord CE6 (November 26)** are next. The 12R, 11 and Nord 5 follow in December, and older Nord phones in early 2027. When it arrives, back up your phone and install it from Settings.
+OnePlus phones are switching from OxygenOS to **ColorOS 17**, based on Android 17. The **OnePlus 13R** got it from November 5, and the **OnePlus 12 (November 17), Pad 3 (November 18), Open (November 24) and Nord 6 and Nord CE6 (November 26)** are next. The 12R, 11 and Nord 5 follow in December, and older Nord phones in early 2027. When it arrives, back up your phone and install it from Settings, ideally after waiting a week or two for early bugs to be fixed.
