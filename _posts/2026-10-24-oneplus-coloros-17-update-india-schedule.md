@@ -6,6 +6,8 @@ date: 2026-10-24 13:46:00 +0530
 category: Phones
 also_in: [Tablets]
 news: true
+last_modified_at: 2026-11-08 11:40:00 +0530
+update_note: "Exact November dates added: OnePlus 13R (Nov 5), OnePlus 12 (Nov 17), Pad 3 (Nov 18), Open (Nov 24), Nord 6 and Nord CE6 (Nov 26)."
 image: /assets/images/oneplus-coloros-17-update-india-schedule.jpg
 image_alt: "A smartphone and a tablet both showing a software update progress ring at 60%, lit by green and orange neon"
 image_credit: "Illustration, not the actual product"
@@ -17,6 +19,10 @@ sources:
     url: "https://www.thetechoutlook.com/news/os/oneplus-13-13s-13r-and-15r-start-receiving-stable-coloros-17-update-in-india/"
   - name: "Android Headlines: OnePlus expands Android 17 rollout with ColorOS"
     url: "https://www.androidheadlines.com/2026/10/oneplus-expands-android-17-rollout-to-more-phones-replacing-oxygenos-with-coloros.html"
+  - name: "Android Headlines: OnePlus Android 17 rollout dates for November confirmed"
+    url: "https://www.androidheadlines.com/2026/11/heres-when-your-oneplus-phone-gets-android-17.html"
+  - name: "Cashify: OxygenOS 17 release date and supported devices"
+    url: "https://www.cashify.in/oxygenos-17-release-date-supported-devices-all-details"
 ---
 
 OnePlus has started rolling out its Android 17 update in India, and it arrives as ColorOS 17 instead of OxygenOS. The OnePlus 15 and OnePlus Pad 4 are first in line, almost a week earlier than the October 29 date OnePlus had announced, with more phones and tablets following through early 2027.
@@ -58,7 +64,14 @@ OnePlus India has shared this schedule. Dates after October are windows, not exa
 | December 2026 | OnePlus 12R (incl. Genshin Impact Edition), OnePlus 11, Nord 5, Nord CE6 Lite, Nord CE5 | OnePlus Pad 2, Pad Go 2 |
 | Q1 2027 | Nord 4, N6, N6x, N6 Lite | OnePlus Pad Lite |
 
+**Update, November 8:** The November dates are now more exact. According to the updated schedule reported by Android Headlines on November 5, the **OnePlus 13R** gets ColorOS 17 from **November 5**, the **OnePlus 12** from **November 17**, the **OnePlus Pad 3** from **November 18**, the **OnePlus Open** from **November 24**, and the **Nord 6 and Nord CE6** from **November 26**. The December and early-2027 groups haven't got exact dates yet. Cashify reports that the OnePlus 10 Pro, 10T, 10R, 11R, the original OnePlus Pad and the Pad Go are not on the list.
+
 If your model is not in this list, it is not confirmed for Android 17. OnePlus has said older models outside the Android 17 plan will keep getting maintenance support on their current software.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-scam-call-warning-shield-tea.jpg" alt="A phone on a wooden table showing an incoming call screen with a red warning shield, next to a cup of tea" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Do you have to switch?
 
@@ -77,8 +90,18 @@ OnePlus said in July that moving to ColorOS is optional for existing owners and 
 
 > **Tip:** Before installing, back up your photos and chats, connect to Wi-Fi (this is a large download), and charge your phone to at least 50%. The first day after a big update, the phone may feel warm and the battery may drain faster while it re-optimises apps. That usually settles within a day or two.
 
+## Our take
+
+**OnePlus has replaced OxygenOS with ColorOS. Is that good or bad for OnePlus users?**
+
+In my view, this is detrimental to OnePlus's original identity. The clean UI and smooth experience of OxygenOS were what defined OnePlus. While ColorOS offers more features, the unique OnePlus experience could be diminished.
+
+**Should you install a big update as soon as it arrives, or wait a few days?**
+
+My advice is not to install a major update as soon as it's released. Wait for 7 to 15 days so that any initial bugs or battery issues can be identified. It's better to update only after reliable reviews are available.
+
 **Related reading:** [Nothing OS 5.0 Update Rolls Out to Phone (4a) and (3a) Series: What's New](/nothing-os-5-update-phone-4a-3a-series/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Samsung One UI 9 Update in India: Which Galaxy Phones Have It So Far](/samsung-one-ui-9-update-india-galaxy-phones/)
 
 ## The bottom line
 
-ColorOS 17 is now rolling out in India, starting with the OnePlus 15 and Pad 4, with the OnePlus 13, 13s and 15R next on October 30 and Nord and older models through early 2027. It is a big visual change because OxygenOS is going away, but OnePlus says switching is optional. Back up first, update on Wi-Fi, and if you prefer a stable phone over new features, it is fine to wait a little before you install it.
+ColorOS 17 is now rolling out in India, starting with the OnePlus 15 and Pad 4, with the OnePlus 13, 13s and 15R following on October 30. In November, the OnePlus 13R (Nov 5), OnePlus 12 (Nov 17), Pad 3 (Nov 18), Open (Nov 24) and Nord 6 and CE6 (Nov 26) get it, with older models through early 2027. It is a big visual change because OxygenOS is going away, but OnePlus says switching is optional. Back up first, update on Wi-Fi, and if you prefer a stable phone over new features, it is fine to wait a little before you install it.
