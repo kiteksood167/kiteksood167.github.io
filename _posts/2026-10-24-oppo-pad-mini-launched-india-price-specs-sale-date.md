@@ -92,7 +92,7 @@ Two alternatives to compare:
 
 {% include buy.html name="OPPO Pad Mini" query="OPPO Pad Mini" note="8.8-inch OLED, ₹94,999" %}
 
-**Related reading:** [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
+**Related reading:** [Best Tablets for Students in India Under ₹20,000](/best-tablets-for-students-under-20000/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 
