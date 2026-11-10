@@ -7,6 +7,9 @@ category: Global
 also_in: [Wearables]
 tags: [apple watch se 3, galaxy watch 8, galaxy watch 9, smartwatch, comparison, black friday, usa, uk]
 affiliate: true
+image: /assets/images/apple-watch-se-vs-samsung-galaxy-watch.jpg
+image_alt: "A square smartwatch and a round smartwatch with colourful watch faces side by side on a dark surface with green and orange light"
+image_credit: "Illustration, not the actual products"
 sources:
   - name: "MacRumors: Apple Watch SE 3 buying advice and features"
     url: "https://www.macrumors.com/roundup/apple-watch-se"
@@ -51,6 +54,11 @@ Samsung launched the Galaxy Watch 9 in July 2026 at $379.99 for the Bluetooth mo
 
 Both watches come in GPS-only and cellular versions. The SE 3 cellular models support 5G in select countries and are listed at around $299 (40mm) and $329 (44mm).
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/smartwatch-heart-rate-evening-run-park.jpg" alt="A runner's wrist with a smartwatch showing a heart rate graph on an evening park path lit by green and orange street lights" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Apple Watch SE 3: what you get
 
 The SE 3, launched in September 2025, closed most of the gap with Apple's pricier watches. It uses the same S10 chip as Apple's Ultra 3, so apps and Siri respond quickly. It also gained the always-on display, which earlier SE models lacked, plus the double-tap and wrist-flick gestures for answering or dismissing things without touching the screen.
@@ -69,6 +77,11 @@ The catch is that some of the best health features are Samsung-phone only. Samsu
 
 > **Tip:** Check prices against the list price before you buy. Both watches are discounted often, and the SE 3 has sold for around $199 at Amazon several times this year, so a "$50 off" Black Friday tag may be the normal sale price rather than a special deal.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/smartwatch-phone-sleep-data-bedside.jpg" alt="A smartwatch showing heart rate and a phone showing sleep data side by side on a bedside table under a lamp" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Which one should you buy?
 
 **Buy the Apple Watch SE 3 if** you have an iPhone, want the cheapest way into the Apple Watch, and mainly care about notifications, workouts, and sleep tracking. It's the better value of the two on list price.
@@ -80,6 +93,16 @@ The catch is that some of the best health features are Samsung-phone only. Samsu
 {% include buy.html name="Apple Watch SE 3" query="Apple Watch SE 3 GPS" store="us" note="For iPhone owners. List price from $249." %}
 
 {% include buy.html name="Samsung Galaxy Watch 8" query="Samsung Galaxy Watch 8 Bluetooth" store="us" note="For Android phones. Often discounted below its $349.99 list price." %}
+
+## Our take
+
+**Is "Apple Watch SE for iPhone users, Galaxy Watch for Android users" the right rule, or are there exceptions?**
+
+Yes, generally, the Apple Watch SE is a good option for iPhone users, while the Galaxy Watch is a good choice for Android users. The exception: the Galaxy Watch is not properly compatible with the iPhone, and the Apple Watch is not properly compatible with Android devices.
+
+**What matters most in a budget smartwatch: health tracking, battery or design?**
+
+Health tracking matters most, then battery life, and then design.
 
 **Related reading:** [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
