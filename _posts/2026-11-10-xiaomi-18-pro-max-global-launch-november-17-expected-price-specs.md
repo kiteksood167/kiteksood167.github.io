@@ -97,6 +97,10 @@ Xiaomi has teased the **Xiaomi 18 Pro** for India, but it isn't clear whether In
 
 The rear screen on the Xiaomi 18 Pro is useful. It allows for high-quality selfies using the main camera and lets you view notifications. It's not just a gimmick, but it's also not an essential feature for the average user.
 
+**At what price in India would you recommend a phone like the Xiaomi 18 Pro?**
+
+In my opinion, the Xiaomi 18 Pro would be an excellent deal at ₹85,000 to ₹90,000. You could even consider it up to ₹95,000, but I wouldn't recommend it at a price above ₹1 lakh.
+
 **Related reading:** [Motorola Signature 27 Launched at $1,599: Specs, Release Date and Is It Worth It?](/motorola-signature-27-launch-us-price-specs/) · [Vivo X500 Series India Launch Teased: Expected Date, Price and Specs](/vivo-x500-series-india-launch-confirmed-expected-price-specs/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
 ## The bottom line
