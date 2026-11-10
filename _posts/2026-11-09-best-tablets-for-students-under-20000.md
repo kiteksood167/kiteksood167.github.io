@@ -5,6 +5,9 @@ date: 2026-11-09 08:49:00 +0530
 category: Tablets
 also_in: [Guides]
 affiliate: true
+image: /assets/images/best-tablets-for-students-under-20000.jpg
+image_alt: "Three slim tablets in grey, blue and silver with orange, blue and green wallpapers on a dark desk with green and orange light"
+image_credit: "Illustration, not the actual products"
 tags: [tablets, students, budget tablet, redmi pad 2, lenovo idea tab, oneplus pad lite, oppo pad se, online classes, india]
 sources:
   - name: "Fonearena: Redmi Pad 2 launched in India, price and specifications"
@@ -57,6 +60,11 @@ Its biggest advantage is software support. Lenovo promised two Android upgrades 
 
 {% include buy.html name="Lenovo Idea Tab (Wi-Fi, with Pen)" query="Lenovo Idea Tab with Pen Wi-Fi 128GB" note="Around ₹18,000 to ₹21,000; check the pen is included" %}
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/tablet-online-lecture-stylus-notes-desk.jpg" alt="A student's hands taking notes with a stylus on a tablet split between an online lecture video and a notes page, with a notebook and desk lamp" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 3. OnePlus Pad Lite: best battery for long lecture days
 
 The **OnePlus Pad Lite** is built for watching. It has the biggest battery here at **9,340mAh** with faster **33W** charging, four speakers, and OnePlus's clean OxygenOS software. That makes it a strong choice for recorded lectures, YouTube classes and streaming after study hours.
@@ -80,6 +88,11 @@ That SIM slot is useful if you study on the bus, in a hostel with weak Wi-Fi, or
 
 > **Tip:** Before you pay, check four things on the listing: RAM (4GB, 6GB or 8GB), Wi-Fi or LTE, whether a pen is in the box, and the seller. The same tablet name can cover very different versions, and the cheapest listing is often the 4GB Wi-Fi model.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/tablet-keyboard-case-hostel-study-desk.jpg" alt="A tablet in a keyboard case on a hostel study desk with books, a notebook, earbuds and a water bottle" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## What to avoid
 
 - **64GB storage.** Apps, downloaded lectures and PDFs fill it quickly. Get 128GB at least.
@@ -87,6 +100,16 @@ That SIM slot is useful if you study on the bus, in a hostel with weak Wi-Fi, or
 - **Small 8-inch tablets for study.** They're fine for reading, but too cramped for split-screen notes and video classes.
 
 If you're still deciding between a tablet and a laptop, our guide on [tablet vs laptop for students](/tablet-vs-laptop-for-students/) explains which one suits which course.
+
+## Our take
+
+**Is a tablet or a laptop better for studying, and which students should buy a tablet?**
+
+A tablet is best for online classes, reading PDFs and taking handwritten notes. For coding, assignments, projects and multitasking, you should get a laptop.
+
+**What do you check first in a tablet under ₹20,000: screen, battery, stylus or performance?**
+
+First and foremost, I look at the screen quality, as the display is the most important factor for studying and watching videos. After that, I check the performance, battery and stylus support. I would definitely make sure it has at least 6GB of RAM and 128GB of storage.
 
 **Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Best Laptops Under ₹50,000 in India (November 2026)](/best-laptops-under-50000-india/)
 
