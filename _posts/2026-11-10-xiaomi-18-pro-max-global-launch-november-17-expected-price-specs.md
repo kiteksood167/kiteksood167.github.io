@@ -5,8 +5,8 @@ description: "Xiaomi has confirmed a November 17 global launch in Paris for the 
 date: 2026-11-10 15:30:00 +0530
 category: Global
 also_in: [Launches, Phones]
-image: /assets/images/flagship-triple-camera-closeup.jpg
-image_alt: "Close-up of a white phone's circular triple-camera module with flash"
+image: /assets/images/xiaomi-18-pro-max-global-launch-november-17-expected-price-specs.jpg
+image_alt: "A white phone and a blue phone with large round camera modules and small rear screens on a dark stage with green and orange neon lines"
 image_credit: "Illustration, not the actual product"
 tags: [xiaomi, xiaomi 18 pro, xiaomi 18 pro max, leica, flagship phones, snapdragon 8 elite gen 6, launch, usa, uk, europe]
 sources:
@@ -49,6 +49,11 @@ Global prices and the exact global specs will be announced at the event.
 
 Both phones also have a **privacy display** that narrows the viewing angle so people next to you can't read your screen, and a small **screen on the back**, which you can use as a selfie viewfinder or for widgets and notifications.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-zoom-photo-eiffel-tower-night.jpg" alt="A hand holding up a phone at night by a river, its screen showing a sharp zoomed-in photo of the lit-up Eiffel Tower" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## What may change for the global version
 
 Global versions of Chinese phones often have smaller batteries because of shipping and certification rules, and early reports suggest the Xiaomi 18 Pro series is no different:
@@ -71,6 +76,11 @@ Xiaomi's flagships usually cost much more in Europe than in China once taxes are
 
 > **Tip:** Don't pre-order from a third-party import seller before the official launch. Wait for Xiaomi's own store and authorised retailers in your country, so you get the right model, a local warranty and any launch offers.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-rear-screen-selfie-preview-hand.jpg" alt="A hand holding a blue phone backwards, its small rear screen next to the cameras showing a selfie preview" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Will it come to India?
 
 Xiaomi has teased the **Xiaomi 18 Pro** for India, but it isn't clear whether India is part of the Paris event. A tipster cited by The Tech Outlook expects an Indian launch in **December 2026** and says the Pro Max may not come to India at all. Treat that as a rumour until Xiaomi confirms it.
@@ -80,6 +90,12 @@ Xiaomi has teased the **Xiaomi 18 Pro** for India, but it isn't clear whether In
 **Wait if** you want a dual 200MP camera setup with strong zoom, a very bright screen and a big battery, and you're in Europe or the UK, where Xiaomi sells its flagships officially.
 
 **Look elsewhere if** you're in the US. Xiaomi doesn't officially sell its phones there, so you'd have no local warranty, and some carrier bands may not work. The Motorola Signature 27, on sale from November 26, is the closest official alternative with a 200MP zoom camera.
+
+## Our take
+
+**Is a small screen on the back of a phone useful, or just a gimmick?**
+
+The rear screen on the Xiaomi 18 Pro is useful. It allows for high-quality selfies using the main camera and lets you view notifications. It's not just a gimmick, but it's also not an essential feature for the average user.
 
 **Related reading:** [Motorola Signature 27 Launched at $1,599: Specs, Release Date and Is It Worth It?](/motorola-signature-27-launch-us-price-specs/) · [Vivo X500 Series India Launch Teased: Expected Date, Price and Specs](/vivo-x500-series-india-launch-confirmed-expected-price-specs/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
