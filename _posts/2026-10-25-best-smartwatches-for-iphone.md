@@ -104,7 +104,7 @@ The limits are the ones you'd expect at this price. Message replies don't work o
 
 Black Friday is about a month away, and Apple Watches are usually among the most discounted gadgets. If none of these is near the prices above, waiting a few weeks could save you money.
 
-**Related reading:** [Smartwatch vs Fitness Band: Which Should You Buy?](/smartwatch-vs-fitness-band/) · [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [How to Transfer Data from Android to iPhone](/how-to-transfer-data-from-android-to-iphone/)
+**Related reading:** [Smartwatch vs Fitness Band: Which Should You Buy?](/smartwatch-vs-fitness-band/) · [Apple Watch SE vs Samsung Galaxy Watch: Which Budget Smartwatch to Buy](/apple-watch-se-vs-samsung-galaxy-watch/) · [How to Transfer Data from Android to iPhone](/how-to-transfer-data-from-android-to-iphone/)
 
 ## The bottom line
 
