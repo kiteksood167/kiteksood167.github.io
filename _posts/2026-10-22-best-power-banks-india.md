@@ -11,6 +11,8 @@ tags: [power bank, buying guide, fast charging, Xiaomi, Ambrane, magnetic power 
 affiliate: true
 sources:
   - name: "Prices: Amazon.in, Flipkart and brand store listings, October 2026"
+last_modified_at: 2026-11-10 13:55:00 +0530
+update_note: "Checked the Xiaomi 5i 67W price for November and linked our tablet and laptop guides."
 ---
 
 A good power bank costs less than a single phone repair, yet most people pick one by looking only at the mAh number. Capacity matters, but so do the watts, the ports and the weight you're happy to carry every day. Here's how to choose, and six power banks worth buying in India right now.
@@ -75,7 +77,7 @@ The Ambrane Stylo Pro packs 27,000mAh and sells for around ₹2,400 on Ambrane's
 
 ### 4. Xiaomi Power Bank 5i 20000 67W: best for fast charging
 
-Launched in India in July 2026 at ₹3,499, the 5i now sells for around ₹3,200. It's the most practical all-rounder here: up to 67W output, a built-in USB-C cable plus a USB-C port and a USB-A port, and a digital display showing battery level and charging status. It also refills itself quickly, at up to 65W. 67W is also enough for many tablets and some thin laptops.
+Launched in India in July 2026 at ₹3,499, the 5i sells for around ₹3,200 on Amazon (November 2026). It's the most practical all-rounder here: up to 67W output, a built-in USB-C cable plus a USB-C port and a USB-A port, and a digital display showing battery level and charging status. It also refills itself quickly, at up to 65W. 67W is also enough for many tablets and some thin laptops, including the student tablets in our [best tablets under ₹20,000 guide](/best-tablets-for-students-under-20000/).
 
 {% include buy.html name="Xiaomi Power Bank 5i 20000mAh 67W" query="Xiaomi Power Bank 5i 20000mAh 67W" note="67W output, built-in cable and digital display" %}
 
@@ -85,7 +87,7 @@ If you use a MagSafe-compatible iPhone (or an Android phone with magnetic Qi2 su
 
 ### 6. Xiaomi Power Bank 20000 165W: best for laptops
 
-This is the one to get if you want to top up a laptop on the move. It launched in September 2026 at an introductory ₹4,999 and costs around ₹5,000 now. One USB-C port gives up to 120W, a second gives up to 45W, and there's a 22.5W USB-A port plus a braided built-in cable that doubles as a carry loop. A colour screen shows input and output speeds. It's overkill if you only charge a phone.
+This is the one to get if you want to top up a laptop on the move. It launched in September 2026 at an introductory ₹4,999 and costs around ₹5,000 now. One USB-C port gives up to 120W, a second gives up to 45W, and there's a 22.5W USB-A port plus a braided built-in cable that doubles as a carry loop. A colour screen shows input and output speeds. It's overkill if you only charge a phone, but a good match for the thin laptops in our [best laptops under ₹50,000 list](/best-laptops-under-50000-india/), most of which charge over USB-C.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/power-bank-laptop-airport.jpg" alt="An open backpack at an airport gate with a black power bank charging a laptop through a braided USB-C cable" loading="lazy">
