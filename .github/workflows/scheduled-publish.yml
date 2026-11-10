@@ -1,0 +1,44 @@
+name: Publish scheduled posts
+
+# Jekyll skips posts dated in the future. This job runs every hour and, when a
+# post's date has just passed, asks GitHub Pages to rebuild so it goes live
+# without anyone pushing. Post dates are in IST (+0530).
+on:
+  schedule:
+    - cron: "5 * * * *"     # every hour at :05 UTC (:35 IST)
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find posts that became due in the last 70 minutes
+        id: due
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import glob, re, datetime as dt
+          now = dt.datetime.now(dt.timezone.utc)
+          due = []
+          for f in glob.glob("_posts/*.md"):
+              head = open(f, encoding="utf-8").read().split("---")[1]
+              m = re.search(r"^date:\s*(\d{4}-\d\d-\d\d \d\d:\d\d:\d\d) ([+-]\d{4})", head, re.M)
+              if not m:
+                  continue
+              t = dt.datetime.strptime(m.group(1) + " " + m.group(2), "%Y-%m-%d %H:%M:%S %z")
+              if now - dt.timedelta(minutes=70) < t <= now:
+                  due.append(f)
+          print("files=" + " ".join(due))
+          print("build=" + ("yes" if due else "no"))
+          PY
+      - name: Rebuild GitHub Pages
+        if: steps.due.outputs.build == 'yes' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "Due: ${{ steps.due.outputs.files }}"
+          gh api -X POST "repos/${{ github.repository }}/pages/builds"
