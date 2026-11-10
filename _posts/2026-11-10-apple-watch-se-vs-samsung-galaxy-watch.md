@@ -102,7 +102,7 @@ Yes, generally, the Apple Watch SE is a good option for iPhone users, while the 
 
 **What matters most in a budget smartwatch: health tracking, battery or design?**
 
-Health tracking matters most, then battery life, and then design.
+Health tracking is the most important aspect, followed by battery life, and then design.
 
 **Related reading:** [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
