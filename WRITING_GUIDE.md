@@ -8,6 +8,19 @@ published: false
 
 Every post (written by a person or by the scheduled writing task) follows these rules.
 
+## Publishing pace — READ FIRST (owner's decision, 10 Nov 2026)
+
+Google indexed only 10 of ~70 pages on 10 Nov 2026 ("Crawled - currently not indexed": 58). There is no technical block; the site is new and was publishing 2–3 posts a day, many of them launch news that bigger sites already cover. From now on:
+
+1. **At most ONE new post per day**, counted across all tasks (morning, midday news, evening launch). Before creating a post, run `ls _posts | grep "^$(date +%Y-%m-%d)"` (IST date). If a post already exists for today, do NOT create another one.
+2. **The morning post from `_data/content_plan.yml` is the default daily post.** Buying guides, comparisons and how-tos are the priority.
+3. **Midday news task: do not create new posts.** Put the news into the most relevant existing post as an `**Update, <Month Day>:**` note (plus `last_modified_at` and `update_note` in the front matter). If there is no relevant post, skip it.
+4. **Evening launch task: update first, new post only for a major launch.** First check `grep -ril "<model name>" _posts` (including China/global names of the same phone). If a post exists, add an Update note instead. A NEW launch post is allowed only for a major launch from a big brand (Apple, Samsung, Google, OnePlus, Xiaomi, Vivo, Oppo, Motorola, Realme, Nothing and similar) with official price or an officially confirmed date, AND only if no other post was published that day. If today's slot is taken, add the launch to the November upcoming-launches post as an update instead.
+5. **Never post the owner's "Our take" answers yourself.** Leave the section out; the owner adds his answers later.
+6. **Future-dated posts are fine.** `.github/workflows/scheduled-publish.yml` rebuilds the site every hour at :05 UTC (:35 IST), so a post with a future `date:` goes live by itself shortly after that time. Always use IST (`+0530`) in `date:`.
+7. **Do not touch Search Console from a task** (no "Validate fix", no indexing requests). The owner or the interactive assistant does that, once per URL.
+8. Spend spare effort on **improving existing posts**: refresh prices, add internal links between related posts, fix outdated facts. That helps indexing more than new posts.
+
 ## Audience
 Two audiences, one per post:
 - **India posts** (Launches, Phones, Laptops, Audio, Wearables, Tablets, Gaming, Accessories, Smart Home, Guides): Indian buyers, prices in rupees (₹), Amazon.in links, Indian sale seasons, brands and availability in India.
@@ -43,7 +56,7 @@ Exactly one per post:
 - **Launches**: news-style posts on newly launched (or officially confirmed upcoming) phones and gadgets in India: official price, key specs, sale date, offers, and who it suits. Written by the daily launch task.
 - India topic categories: Phones, Laptops, Audio, Wearables, Tablets, Gaming, Accessories, Smart Home, Guides.
 - **Global**: worldwide readers (US/UK), any gadget topic.
-The main daily task alternates India and Global days; the launch task posts separately every evening.
+The main daily task alternates India and Global days. The launch and news tasks mostly update existing posts now (see "Publishing pace" at the top): at most one new post per day in total.
 
 ## Launch posts (category Launches)
 - Only cover a launch confirmed by the brand or by at least two reliable tech news sources. Never report leaks or rumours as facts; if a detail is rumoured, say so or leave it out.
