@@ -5,6 +5,8 @@ category: "Accessories"
 blurb: "Chargers, power banks, cables, cases and the small add-ons that make your gadgets better."
 seo_title: "Phone Accessories: Chargers, Power Banks & Cables"
 description: "Chargers, power banks, cables, cases and the small add-ons that make your gadgets better."
+noindex: true
+sitemap: false
 permalink: /category/accessories/
 redirect_from:
   - /category-accessories/

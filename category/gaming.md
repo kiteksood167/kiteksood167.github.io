@@ -5,6 +5,8 @@ category: "Gaming"
 blurb: "Gaming phones, gaming laptops, consoles and accessories — performance explained simply."
 seo_title: "Gaming Phones, Laptops & Tips"
 description: "Gaming phones, gaming laptops, consoles and accessories — performance explained simply."
+noindex: true
+sitemap: false
 permalink: /category/gaming/
 redirect_from:
   - /category-gaming/
