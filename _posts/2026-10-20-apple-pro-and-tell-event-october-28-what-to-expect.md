@@ -20,11 +20,15 @@ sources:
   - name: "Beebom: Apple launches OLED iPad mini in India"
     url: "https://gadgets.beebom.com/news/apple-oled-ipad-mini-launched-in-india-key-specs-price-sale-date"
   - name: "Engadget and 9to5Mac (event coverage)"
+noindex: true
+sitemap: false
 ---
 
 Apple has officially confirmed its next hardware event, called **"Pro and Tell"**, for **Wednesday, October 28, 2026**. The name points strongly at new MacBook Pro laptops. Reports also expect a new iPad mini and an updated iMac, which would make this one of Apple's most important Mac launches in years.
 
 <!--more-->
+
+> **This event has happened.** For the latest details, read: [Apple MacBook Pro with OLED touchscreen launched in India](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/).
 
 Here's what Apple has confirmed so far, what's only reported, and when to watch from India.
 

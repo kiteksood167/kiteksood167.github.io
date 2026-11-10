@@ -20,11 +20,15 @@ sources:
     url: "https://www.digit.in/news/mobile-phones/iqoo-16-india-launch-confirmed-at-imc-2026-check-expected-price-specifications-and-more-details.html"
   - name: "Beebom: Motorola Signature 27 India launch confirmed for next month"
     url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-timeline-confirmed"
+noindex: true
+sitemap: false
 ---
 
 It's a quiet week for phone launches in India. Only one new phone has a confirmed India launch date, the Infinix GT 50 Pro on October 27, and Apple's "Pro and Tell" event follows a day later. Here's what's confirmed, plus three big flagships that are officially coming to India but don't have a date yet.
 
 <!--more-->
+
+> **This event has happened.** For the latest details, read: [Upcoming phones launching in India in November 2026](/upcoming-phones-launching-india-november-2026/).
 
 ## This week at a glance
 

@@ -2,7 +2,7 @@
 title: "Xiaomi 18 Pro and 18 Pro Max Global Launch on November 17: Expected Price and Specs"
 seo_title: "Xiaomi 18 Pro Global Launch Nov 17: Price & Specs"
 description: "Xiaomi has confirmed a November 17 global launch in Paris for the 18 Pro and 18 Pro Max. China specs, prices, what may change globally, and India plans."
-date: 2026-11-10 15:30:00 +0530
+date: 2026-11-17 09:00:00 +0530
 category: Global
 also_in: [Launches, Phones]
 image: /assets/images/xiaomi-18-pro-max-global-launch-november-17-expected-price-specs.jpg
