@@ -6,6 +6,9 @@ category: Wearables
 also_in: [Guides]
 tags: [fitness band, fitness bands under 3000, Huawei Band 10, Huawei Band 11, Samsung Galaxy Fit3, Pebble Qore, screenless fitness tracker]
 affiliate: true
+image: /assets/images/best-fitness-bands-under-3000.jpg
+image_alt: "Three slim fitness bands in black, pink and grey on a dark surface, two showing step count and heart rate screens, with green and orange light"
+image_credit: "Illustration, not the actual products"
 sources:
   - name: "Huawei: Band 10 official specifications"
     url: "https://consumer.huawei.com/en/wearables/band10/specs/"
@@ -61,6 +64,11 @@ The big win is battery: Pebble claims **up to 45 days** on a charge. The downsid
 
 > **Tip:** Fitness band prices in India swing by ₹500 to ₹1,500 within the same month. Check a price tracker before you buy, and don't be impressed by a "60% off" label: the MRP on most of these bands is far above what anyone actually pays.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/fitness-band-steps-morning-walk-park.jpg" alt="A wrist wearing a black fitness band showing a step count during a sunrise walk in a park" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 3. Samsung Galaxy Fit3: best for Samsung phone owners
 
 The Galaxy Fit3 launched in India in February 2024 at ₹4,999. Its price moves a lot: it was around **₹3,500** on Amazon in late October 2026 and has been as low as ₹2,699, but some colours were back above ₹4,000 in November. Wait for a dip before you buy.
@@ -92,6 +100,11 @@ Search for fitness bands under ₹3,000 on Flipkart or Amazon and you'll see doz
 
 If you'd rather have a screen you can call from and a bigger display, our [best smartwatches under ₹5,000](/best-smartwatches-under-5000/) guide covers that side of the budget.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/fitness-band-sleep-tracking-bedside-phone.jpg" alt="A fitness band showing a sleep screen on a wrist resting on a pillow, with a phone showing a sleep chart on the bedside table" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## How to choose
 
 - **Display or no display:** A screen lets you see the time, notifications and live heart rate. Screenless bands last much longer but depend fully on your phone.
@@ -100,6 +113,16 @@ If you'd rather have a screen you can call from and a bigger display, our [best 
 - **Battery claims:** Brands quote the best case. Expect roughly half with always-on display, frequent notifications or continuous SpO2 tracking switched on.
 
 Not sure whether a band is enough for you? Our [smartwatch vs fitness band](/smartwatch-vs-fitness-band/) explainer walks through the trade-offs.
+
+## Our take
+
+**Should you buy a fitness band for ₹3,000, or spend a little more on a smartwatch?**
+
+If you only need fitness and health tracking for ₹3,000, a fitness band is a better choice. However, if you want calling, a larger display and more features, spend a bit more and get a smartwatch.
+
+**What matters most in a fitness band: battery, accuracy or the screen?**
+
+In my view, accuracy (for steps, heart rate and sleep tracking) is the most important aspect, because the primary function of a fitness band is health tracking.
 
 **Related reading:** [Smartwatch vs Fitness Band: Which Should You Buy?](/smartwatch-vs-fitness-band/) · [Best Smartwatches Under ₹5,000 in India (2026)](/best-smartwatches-under-5000/)
 
