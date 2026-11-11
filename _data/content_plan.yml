@@ -9,17 +9,10 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-10
-  audience: Global
-  category: Global
-  title: "Apple Watch SE vs Samsung Galaxy Watch: Which Budget Smartwatch to Buy"
-  slug: apple-watch-se-vs-samsung-galaxy-watch
-  image: apple-watch-se-vs-samsung-galaxy-watch.jpg
-
 - date: 2026-11-11
   audience: India
   category: Wearables
-  title: "Best Fitness Bands Under ₹3,000 in India"
+  title: "Best Fitness Bands Around ₹3,000 in India (2026)"
   slug: best-fitness-bands-under-3000
   image: best-fitness-bands-under-3000.jpg
 
