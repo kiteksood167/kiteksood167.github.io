@@ -247,7 +247,7 @@ a.chip:hover { border-color: var(--ink); }
 .footer-legal a { color: var(--muted); text-decoration: none; }
 .footer-legal a:hover { color: var(--accent); }
 @media (max-width: 900px) { .footer-grid { grid-template-columns: 1fr 1fr; } .f-nl { grid-column: 1 / -1; } }
-@media (max-width: 560px) { .footer-grid { grid-template-columns: 1fr; gap: 26px; } .f-nl { grid-column: auto; } .footer-bottom { flex-direction: column; align-items: flex-start; } }
+@media (max-width: 560px) { .footer-grid { grid-template-columns: 1fr; gap: 26px; } .f-list { grid-template-columns: 1fr 1fr; column-gap: 16px; } .f-nl { grid-column: auto; } .footer-bottom { flex-direction: column; align-items: flex-start; } }
 
 /* Fixes */
 .cat-svg { width: 56px; height: 56px; color: rgba(255,255,255,.95); filter: drop-shadow(0 6px 14px rgba(0,0,0,.18)); }
