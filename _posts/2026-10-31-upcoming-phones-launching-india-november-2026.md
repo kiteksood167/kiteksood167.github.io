@@ -3,8 +3,7 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
-last_modified_at: 2026-11-07 10:20:00 +0530
-update_note: "Added the Vivo X500 India teaser and Amazon/Flipkart pages."
+last_modified_at: 2026-11-12 18:53:00 +0530
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
 image_credit: "Illustration, not the actual products"
@@ -12,6 +11,8 @@ category: Launches
 also_in: [Phones]
 tags: [upcoming phones, motorola signature 27, vivo x500, iqoo 16, xiaomi 18 pro, flagship phones, launch]
 sources:
+  - name: "My Mobile India: Vivo X500 series India launch date officially confirmed for November 26"
+    url: "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
   - name: "GSMArena: When the Vivo X500 series could launch in India"
     url: "https://gsmarena.com/heres_when_the_vivo_x500_series_could_launch_in_india-news-75233.php"
   - name: "Digit: Xiaomi 18 Pro India launch timeline, price and specs tipped"
@@ -24,16 +25,18 @@ sources:
     url: "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-october-26-november-1"
 ---
 
-November looks like a flagship month in India. Motorola has confirmed the Signature 27 for this month, and Vivo's X500 series is tipped for late November. Two more big phones, the iQOO 16 and Xiaomi 18 Pro, are officially headed to India but may slip to December. Here's what's confirmed, what's only rumoured, and whether it's worth waiting.
+November looks like a flagship month in India. Motorola has confirmed the Signature 27 for this month, and Vivo has confirmed November 26 for its X500 series. Two more big phones, the iQOO 16 and Xiaomi 18 Pro, are officially headed to India but may slip to December. Here's what's confirmed, what's only rumoured, and whether it's worth waiting.
 
 <!--more-->
+
+**Update, November 12:** Vivo has officially confirmed that the X500 series launches in India on **November 26**, with the Vivo Watch GT 2 arriving the same day, according to My Mobile India and Business Today. Prices are still unannounced. Details in our [Vivo X500 India launch post](/vivo-x500-series-india-launch-confirmed-expected-price-specs/).
 
 ## November 2026 at a glance
 
 | Phone | Expected in India | Status | Expected price |
 |---|---|---|---|
 | Motorola Signature 27 | November (global launch November 5) | India launch confirmed by Motorola, exact date not announced | Not announced; estimates range from ₹70,000 to about ₹1 lakh |
-| Vivo X500, X500 Pro, X500 Pro Max | Late November | Tipped by reports, not confirmed by Vivo | Not announced |
+| Vivo X500, X500 Pro, X500 Pro Max | November 26 | Launch date confirmed by Vivo | Not announced |
 | iQOO 16 | Not announced (reports say December or early 2027) | India launch confirmed by iQOO, date not announced | Not announced; a tipster suggests above ₹1 lakh |
 | Xiaomi 18 Pro | Not announced (expected around December) | Xiaomi India has hinted at it, no date | Not announced; expected around ₹1 lakh |
 
@@ -57,7 +60,7 @@ There's no official price yet. Estimates range from about ₹70,000 to close to 
   <figcaption>Illustration</figcaption>
 </figure>
 
-## Vivo X500 series: tipped for late November
+## Vivo X500 series: confirmed for November 26
 
 Vivo hasn't announced an India date, but a Smartprix report, cited by GSMArena, says the **X500, X500 Pro and X500 Pro Max** will reach India towards the end of November. The phones are already out in China, so the hardware is known:
 
@@ -124,4 +127,4 @@ Also keep an eye on budget phones: some brands are raising prices from November 
 
 ## The bottom line
 
-The Motorola Signature 27 is the one November flagship you can count on, with the Vivo X500 series likely to follow at the end of the month. The iQOO 16 and Xiaomi 18 Pro are confirmed or hinted for India, but probably in December. None of them has an India price yet, so if you're planning to spend on a flagship, waiting a few weeks makes sense.
+The Motorola Signature 27 is the one November flagship you can count on, with the Vivo X500 series now confirmed for November 26. The iQOO 16 and Xiaomi 18 Pro are confirmed or hinted for India, but probably in December. None of them has an India price yet, so if you're planning to spend on a flagship, waiting a few weeks makes sense.
