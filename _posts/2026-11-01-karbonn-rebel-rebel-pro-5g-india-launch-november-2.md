@@ -9,6 +9,7 @@ image: /assets/images/karbonn-rebel-rebel-pro-5g-india-launch-november-2.jpg
 image_alt: "Two budget smartphones in maroon and blue on a stage, each showing a full battery icon, under green and orange spotlights"
 image_credit: "Illustration, not the actual phones"
 category: Launches
+affiliate: true
 also_in: [Phones]
 tags: [karbonn, karbonn rebel, karbonn rebel pro 5g, smartphones, budget phones, amazon, launch]
 sources:
@@ -44,6 +45,10 @@ The last column is the effective price with the ₹1,000 bank discount.
 - **First sale:** November 4, 2026, from 12 noon, on Amazon India only
 - **Launch offer:** ₹1,000 off with a bank discount
 - **RAM and storage:** the launch reports list one price per phone and don't break it down by RAM or storage, so check the Amazon listing for the exact variant
+
+{% include buy.html name="Karbonn Rebel" query="Karbonn Rebel smartphone" note="₹11,999 at launch; Amazon India only" %}
+
+{% include buy.html name="Karbonn Rebel Pro 5G" query="Karbonn Rebel Pro 5G" note="₹12,499 at launch; Amazon India only" %}
 
 ## Key specifications
 

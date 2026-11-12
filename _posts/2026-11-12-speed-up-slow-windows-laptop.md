@@ -7,6 +7,7 @@ image: /assets/images/speed-up-slow-windows-laptop.jpg
 image_alt: "A laptop on a dark desk with a glowing speedometer on its screen, showing a faster Windows PC"
 image_credit: "Illustration"
 category: Global
+affiliate: true
 also_in: [Laptops, Guides]
 tags: [windows 11, slow laptop, speed up pc, startup apps, storage sense, task manager, ssd upgrade, how-to]
 sources:
@@ -130,6 +131,8 @@ Be aware that upgrades cost more than usual right now because of a global memory
 | New laptop | see our under-$700 guide | Laptop is 6+ years old or can't run Windows 11 |
 
 Swapping a hard drive for an SSD is the most dramatic upgrade you can make, and it's also the clearest win at today's prices. Paying close to $300 for RAM on an old laptop is harder to justify when a new machine isn't much more. If you decide to replace it, our guide to the [best laptops for college students under $700](/best-laptops-for-college-students-under-700/) covers good-value options, and Black Friday is close, so read up on [how to spot a real discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) before you buy.
+
+{% include buy.html name="1TB NVMe SSD (laptop)" query="1TB NVMe M.2 SSD laptop" store="us" note="Around $155–$230 in November 2026; check your laptop takes an M.2 NVMe drive first" %}
 
 ## Our take
 

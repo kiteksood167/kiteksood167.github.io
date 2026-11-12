@@ -9,6 +9,7 @@ image: /assets/images/asus-zenbook-14-ux3480-india-launch-november-5.jpg
 image_alt: "A thin light-blue 14-inch laptop half open on a dark reflective stage, its screen showing a blue and orange wave, with green and orange neon arcs behind"
 image_credit: "Illustration, not the actual product"
 category: Launches
+affiliate: true
 also_in: [Laptops]
 tags: [asus, asus zenbook 14, zenbook 14 ux3480, laptops, thin and light laptops, launch]
 sources:
@@ -49,6 +50,8 @@ The launch reports don't break the prices down by RAM or storage, so check the e
 - **Launched:** November 5, 2026
 - **Where to buy:** Asus e-shop, Asus Exclusive Stores, Amazon, Croma, Reliance Digital, Vijay Sales and other authorised retailers
 - **EMI:** Analytics Insight reports no-cost EMI from ₹7,611 a month for 18 months, and low-cost EMI from ₹6,471 a month for up to 24 months
+
+{% include buy.html name="Asus Zenbook 14 (UX3480)" query="Asus Zenbook 14 UX3480" note="From ₹1,36,990 (Snapdragon X); check the model number before you buy" %}
 
 ## Key specifications
 
