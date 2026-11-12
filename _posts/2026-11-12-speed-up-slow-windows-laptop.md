@@ -131,6 +131,20 @@ Be aware that upgrades cost more than usual right now because of a global memory
 
 Swapping a hard drive for an SSD is the most dramatic upgrade you can make, and it's also the clearest win at today's prices. Paying close to $300 for RAM on an old laptop is harder to justify when a new machine isn't much more. If you decide to replace it, our guide to the [best laptops for college students under $700](/best-laptops-for-college-students-under-700/) covers good-value options, and Black Friday is close, so read up on [how to spot a real discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) before you buy.
 
+## Our take
+
+**What's the first thing you do when your laptop slows down?**
+
+First, I go to Task Manager to check which program is using a large amount of RAM or CPU. Then, I close any unnecessary programs and restart the laptop.
+
+**Is it better to upgrade the SSD or RAM in an old laptop, or buy a new one?**
+
+If the rest of the laptop is in good condition, upgrading the SSD and RAM is a better and cheaper option. However, if the laptop is very old, it would be more sensible to get a new one.
+
+**What's your one habit or tip to keep a laptop fast?**
+
+I regularly delete unnecessary files and keep startup apps disabled so that the laptop runs fast and smoothly.
+
 **Related reading:** [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/) · [Best Password Manager in 2026: Free and Paid Picks](/best-password-manager-2026/)
 
 ## The bottom line
