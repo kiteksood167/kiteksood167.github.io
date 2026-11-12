@@ -1,0 +1,117 @@
+{%- comment -%}
+  Instant search overlay. The header search icon opens it (Ctrl/Cmd+K or "/" too).
+  Results come from /search.json and update as you type. Without JavaScript the icon
+  still goes to the full /search/ page.
+{%- endcomment -%}
+<div class="qs" id="qs" hidden>
+  <div class="qs-backdrop" data-qs-close></div>
+  <div class="qs-panel" role="dialog" aria-modal="true" aria-label="Search GadgetGyaan">
+    <form class="qs-bar" action="{{ '/search/' | relative_url }}" method="get" role="search">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <label class="sr-only" for="qs-input">Search the blog</label>
+      <input id="qs-input" name="q" type="search" placeholder="Search phones, earbuds, laptops..." autocomplete="off" enterkeyhint="search">
+      <button type="button" class="qs-close" data-qs-close aria-label="Close search">Esc</button>
+    </form>
+    <div class="qs-body">
+      <p class="qs-status" id="qs-status" aria-live="polite"></p>
+      <div class="qs-results" id="qs-results" role="listbox"></div>
+    </div>
+  </div>
+</div>
+<script>
+(function () {
+  var wrap = document.getElementById('qs'), input = document.getElementById('qs-input'),
+      status = document.getElementById('qs-status'), box = document.getElementById('qs-results'),
+      posts = null, loading = false, active = -1, lastFocus = null, timer;
+  var SUGGEST = ['Phone Finder', 'earbuds', 'iPhone', 'laptop', 'Samsung', 'tablet'];
+  function norm(s) { return (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[₹,]/g, ' '); }
+  function load() {
+    if (posts || loading) return; loading = true; status.textContent = 'Loading…';
+    fetch('{{ "/search.json" | relative_url }}?v={{ site.time | date: "%s" }}')
+      .then(function (r) { return r.json(); })
+      .then(function (d) { posts = d; render(input.value.trim()); })
+      .catch(function () { status.textContent = 'Search could not load. Please try again.'; loading = false; });
+  }
+  function suggestions() {
+    box.textContent = ''; active = -1;
+    status.textContent = 'Popular searches';
+    var row = document.createElement('div'); row.className = 'qs-chips';
+    SUGGEST.forEach(function (w) {
+      var b = document.createElement('button'); b.type = 'button'; b.className = 'chip'; b.textContent = w;
+      b.addEventListener('click', function () {
+        if (w === 'Phone Finder') { location.href = '{{ "/phone-finder/" | relative_url }}'; return; }
+        input.value = w; render(w); input.focus();
+      });
+      row.appendChild(b);
+    });
+    box.appendChild(row);
+  }
+  function render(q) {
+    if (!posts) return;
+    box.textContent = ''; active = -1;
+    var terms = norm(q).split(/\s+/).filter(Boolean);
+    if (!terms.length) { suggestions(); return; }
+    var hits = [];
+    posts.forEach(function (p) {
+      var title = norm(p.title), rest = norm([p.description, p.tags, p.category].join(' ')), s = 0;
+      for (var i = 0; i < terms.length; i++) {
+        if (title.indexOf(terms[i]) > -1) s += 3; else if (rest.indexOf(terms[i]) > -1) s += 1; else return;
+      }
+      hits.push({ p: p, s: s });
+    });
+    hits.sort(function (a, b) { return b.s - a.s; });
+    if (!hits.length) { status.textContent = 'No posts found for "' + q + '". Try a shorter word or a brand name.'; return; }
+    status.textContent = hits.length + (hits.length === 1 ? ' result' : ' results');
+    hits.slice(0, 8).forEach(function (h, i) {
+      var p = h.p, a = document.createElement('a');
+      a.className = 'qs-hit'; a.href = p.url; a.setAttribute('role', 'option'); a.id = 'qs-o' + i;
+      if (p.thumb) { var img = document.createElement('img'); img.src = p.thumb; img.alt = ''; img.width = 96; img.height = 54; img.loading = 'lazy'; a.appendChild(img); }
+      var b = document.createElement('div'), m = document.createElement('span'), t = document.createElement('strong');
+      m.className = 'qs-meta'; m.textContent = p.category + ' · ' + p.date; t.textContent = p.title;
+      b.appendChild(t); b.appendChild(m); a.appendChild(b); box.appendChild(a);
+    });
+    if (hits.length > 8) {
+      var all = document.createElement('a'); all.className = 'qs-all';
+      all.href = '{{ "/search/" | relative_url }}?q=' + encodeURIComponent(q);
+      all.textContent = 'See all ' + hits.length + ' results →'; box.appendChild(all);
+    }
+  }
+  function move(d) {
+    var items = box.querySelectorAll('.qs-hit, .qs-all'); if (!items.length) return;
+    if (active > -1 && items[active]) items[active].classList.remove('is-active');
+    active = (active + d + items.length) % items.length;
+    items[active].classList.add('is-active'); items[active].scrollIntoView({ block: 'nearest' });
+    input.setAttribute('aria-activedescendant', items[active].id || '');
+  }
+  function open(e) {
+    if (e) e.preventDefault();
+    lastFocus = document.activeElement; wrap.hidden = false;
+    document.documentElement.classList.add('qs-open');
+    setTimeout(function () { input.focus(); input.select(); }, 10);
+    load(); if (posts) render(input.value.trim());
+  }
+  function close() {
+    wrap.hidden = true; document.documentElement.classList.remove('qs-open');
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+  document.querySelectorAll('.header-search, a[href="{{ "/search/" | relative_url }}"]').forEach(function (a) {
+    if (a.closest('.qs')) return; a.addEventListener('click', open);
+  });
+  wrap.querySelectorAll('[data-qs-close]').forEach(function (el) { el.addEventListener('click', close); });
+  input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(function () { render(input.value.trim()); }, 120); });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown') { e.preventDefault(); move(1); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); move(-1); }
+    else if (e.key === 'Enter') {
+      var items = box.querySelectorAll('.qs-hit, .qs-all');
+      if (active > -1 && items[active]) { e.preventDefault(); location.href = items[active].href; }
+      else if (items.length && input.value.trim()) { e.preventDefault(); location.href = items[0].href; }
+    }
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && !wrap.hidden) { close(); return; }
+    var t = e.target, typing = t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable);
+    if ((e.key === 'k' && (e.ctrlKey || e.metaKey)) || (e.key === '/' && !typing)) { if (wrap.hidden) open(e); }
+  });
+})();
+</script>

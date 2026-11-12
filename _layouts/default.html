@@ -186,5 +186,6 @@
       <p class="footer-legal"><a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a><a href="{{ '/disclosure/' | relative_url }}">Affiliate Disclosure</a></p>
     </div>
   </footer>
+  {% unless page.url == "/search/" %}{% include search-overlay.html %}{% endunless %}
 </body>
 </html>
