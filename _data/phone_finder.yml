@@ -233,7 +233,7 @@ phones:
   - name: Realme Narzo 100x 5G
     brand: Realme
     os: android
-    price: 19498
+    price: 24499
     chip: MediaTek Dimensity 6300
     screen: 6.8" LCD, 144Hz
     size: 6.8
@@ -405,7 +405,7 @@ phones:
   - name: OnePlus Nord CE6
     brand: OnePlus
     os: android
-    price: 34999
+    price: 37999
     chip: Snapdragon 7s Gen 4
     screen: 6.78" 1.5K AMOLED, 144Hz
     size: 6.78
@@ -418,6 +418,22 @@ phones:
     updates: 4
     fiveg: true
     query: OnePlus Nord CE6
+  - name: Nothing Phone (4a)
+    brand: Nothing
+    os: android
+    price: 36480
+    chip: Snapdragon 7s Gen 4
+    screen: 6.78" AMOLED, 120Hz
+    size: 6.78
+    mah: 5400
+    charge: 50W
+    cam: 50MP main with OIS + 50MP 3.5x periscope
+    gaming: 3
+    camera: 4
+    display: 4
+    updates: 3
+    fiveg: true
+    query: Nothing Phone 4a
   - name: Vivo T5 Pro
     brand: Vivo
     os: android
@@ -621,7 +637,7 @@ phones:
   - name: Samsung Galaxy S26 FE
     brand: Samsung
     os: android
-    price: 72999
+    price: 65890
     chip: Samsung Exynos 2500
     screen: 6.7" AMOLED, 120Hz
     size: 6.7
@@ -673,7 +689,7 @@ phones:
   - name: Apple iPhone 17e
     brand: Apple
     os: ios
-    price: 79900
+    price: 74990
     chip: Apple A19
     screen: 6.1" OLED, 60Hz
     size: 6.1
