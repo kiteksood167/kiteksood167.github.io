@@ -3,7 +3,7 @@
   an `update_note` (newest first, up to 5). With more than one update it shows
   them one at a time, switching every 6 seconds (paused on hover/focus and for
   readers who prefer reduced motion), with a counter and a "next" button.
-  Readers can close it; it comes back only when a new update is added.
+  Readers can close it; it comes back after 24 hours or when a new update is added.
 {%- endcomment -%}
 {%- assign now_s = site.time | date: '%s' | plus: 0 -%}
 {%- assign ups = site.posts | where_exp: "p", "p.update_note" | where_exp: "p", "p.last_modified_at" | sort: "last_modified_at" | reverse -%}
@@ -37,10 +37,14 @@
   var bar = document.getElementById('update-bar');
   if (!bar) return;
   var key = bar.getAttribute('data-key');
-  try { if (localStorage.getItem('gg_upd_closed') === key) { bar.hidden = true; return; } } catch (e) {}
+  // A closed bar stays hidden for 24 hours, or until a new update is added.
+  try {
+    var c = JSON.parse(localStorage.getItem('gg_upd_closed2') || 'null');
+    if (c && c.k === key && Date.now() - c.t < 86400000) { bar.hidden = true; return; }
+  } catch (e) {}
   bar.querySelector('.update-bar-x').addEventListener('click', function () {
     bar.hidden = true;
-    try { localStorage.setItem('gg_upd_closed', key); } catch (e) {}
+    try { localStorage.setItem('gg_upd_closed2', JSON.stringify({ k: key, t: Date.now() })); } catch (e) {}
   });
   var items = bar.querySelectorAll('.update-bar-link');
   if (items.length < 2) return;
