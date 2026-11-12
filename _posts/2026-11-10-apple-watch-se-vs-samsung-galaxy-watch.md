@@ -104,7 +104,7 @@ Yes, generally, the Apple Watch SE is a good option for iPhone users, while the 
 
 Health tracking is the most important aspect, followed by battery life, and then design.
 
-**Related reading:** [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
+**Related reading:** [Best Smartwatches for iPhone in 2026](/best-smartwatches-for-iphone/) · [Best Fitness Bands Around ₹3,000 in India (2026)](/best-fitness-bands-under-3000/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
 ## The bottom line
 

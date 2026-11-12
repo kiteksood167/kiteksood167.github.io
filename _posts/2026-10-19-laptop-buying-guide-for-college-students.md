@@ -81,7 +81,7 @@ If you carry it to college every day, aim for under **1.6 kg** and a real-world 
 
 For current picks and prices, see our [best laptops under ₹50,000 in India](/best-laptops-under-50000-india/).
 
-**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Asus Zenbook 14 (UX3480) Launched in India: Price, Specs and Availability](/asus-zenbook-14-ux3480-india-launch-november-5/)
+**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [How to Speed Up a Slow Windows Laptop: 10 Fixes That Work](/speed-up-slow-windows-laptop/) · [Asus Zenbook 14 (UX3480) Launched in India: Price, Specs and Availability](/asus-zenbook-14-ux3480-india-launch-november-5/)
 
 ## The bottom line
 

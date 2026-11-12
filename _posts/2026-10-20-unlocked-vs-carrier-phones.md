@@ -1,5 +1,6 @@
 ---
 title: "Unlocked vs Carrier Phones: Which Should You Buy in 2026?"
+seo_title: "Unlocked vs Carrier Phones: Which to Buy (2026)"
 description: "Buying a phone from your carrier looks cheaper, but the monthly deal can lock you in for years. Here's how to decide between unlocked and carrier phones."
 date: 2026-10-20 01:30:00 +0530
 image: /assets/images/unlocked-vs-carrier-phones.jpg

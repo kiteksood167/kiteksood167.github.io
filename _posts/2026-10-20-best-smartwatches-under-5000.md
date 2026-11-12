@@ -109,7 +109,7 @@ Buying a watch as a gift? Our [best Diwali gift gadgets under ₹5,000](/best-di
 
 {% include buy.html name="Redmi Watch Move" query="Redmi Watch Move" note="Best under ₹2,500: AMOLED and Bluetooth calling" %}
 
-**Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Diwali Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/)
+**Related reading:** [Best Fitness Bands Around ₹3,000 in India (2026)](/best-fitness-bands-under-3000/) · [Apple Watch SE vs Samsung Galaxy Watch: Which Budget Smartwatch to Buy](/apple-watch-se-vs-samsung-galaxy-watch/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/)
 
 ## The bottom line
 
