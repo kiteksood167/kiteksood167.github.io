@@ -38,7 +38,8 @@ layout: default
     {% include ad.html slot="top" %}
 
     <div class="prose">
-      {{ content }}
+      {% assign h2parts = content | split: '<h2' %}
+      {% if h2parts.size > 4 and page.news != true and page.category != "Launches" and page.category != "Global" %}{% for part in h2parts %}{% if forloop.first %}{{ part }}{% else %}{% if forloop.index == 4 %}{% include newsletter.html uid="-mid" %}{% endif %}<h2{{ part }}{% endif %}{% endfor %}{% else %}{{ content }}{% endif %}
     </div>
 
     {% if page.sources and page.sources.size > 0 %}
