@@ -46,9 +46,9 @@ The last column is the effective price with the ₹1,000 bank discount.
 - **Launch offer:** ₹1,000 off with a bank discount
 - **RAM and storage:** the launch reports list one price per phone and don't break it down by RAM or storage, so check the Amazon listing for the exact variant
 
-{% include buy.html name="Karbonn Rebel" query="Karbonn Rebel smartphone" note="₹11,999 at launch; Amazon India only" %}
+{% include buy.html name="Karbonn Rebel" query="Karbonn Rebel smartphone" note="₹11,999 at launch; Amazon India only" flipkart="no" %}
 
-{% include buy.html name="Karbonn Rebel Pro 5G" query="Karbonn Rebel Pro 5G" note="₹12,499 at launch; Amazon India only" %}
+{% include buy.html name="Karbonn Rebel Pro 5G" query="Karbonn Rebel Pro 5G" note="₹12,499 at launch; Amazon India only" flipkart="no" %}
 
 ## Key specifications
 

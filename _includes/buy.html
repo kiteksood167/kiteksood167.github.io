@@ -3,6 +3,7 @@
   Usage in a post:
   include buy.html name="Product name" query="search words" note="optional short note"
   Add store="us" for Global posts (links to Amazon.com instead of Amazon.in).
+  Add flipkart="no" for Amazon-exclusive products (hides the Flipkart button).
   (wrapped in the usual curly-brace-percent tags)
   Your Associates tags are added automatically once set in _config.yml.
 {% endcomment %}
@@ -19,7 +20,7 @@
   </div>
   <div class="buy-btns">
     <a class="btn" href="{{ href }}" target="_blank" rel="sponsored nofollow noopener">Check price on Amazon</a>
-    {% if include.store != "us" and site.flipkart_affid and site.flipkart_affid != "" %}
+    {% if include.store != "us" and include.flipkart != "no" and site.flipkart_affid and site.flipkart_affid != "" %}
     <a class="btn btn-alt" href="https://www.flipkart.com/search?q={{ q }}&affid={{ site.flipkart_affid }}" target="_blank" rel="sponsored nofollow noopener">Check on Flipkart</a>
     {% endif %}
   </div>
