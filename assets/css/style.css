@@ -543,3 +543,5 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .sources-box a:hover { color: var(--accent, inherit); }
 .sources-flag { font-size: .8rem; color: var(--muted); font-style: italic; }
 .sources-note { margin: 10px 0 0; font-size: .8rem; color: var(--muted); }
+
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 0 8px; }
