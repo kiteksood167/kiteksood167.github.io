@@ -4,8 +4,6 @@ title: "How We Research and Update Our Guides"
 seo_title: "How We Research Our Guides"
 permalink: /how-we-research/
 description: "How GadgetGyaan researches buying guides: where prices and specs come from, how we update posts, what we test ourselves, and how we handle mistakes."
-noindex: true
-sitemap: false
 ---
 
 GadgetGyaan is run by **Kitek Sood**, a web and app developer based in India. This page explains exactly how our guides are put together, so you can decide how much to trust them.
@@ -25,7 +23,7 @@ Images on our posts are illustrations unless the caption says otherwise. We don'
 
 ## How we use AI tools
 
-[DRAFT: Kitek to confirm this wording] We use AI tools to help with research, first drafts and images. Every price, spec and claim is checked against the sources listed at the end of the post, and the opinions under "Our take" are always Kitek's own.
+We use AI tools to help with research, first drafts and images. Every price, spec and claim is checked against the sources listed at the end of the post, and the opinions under "Our take" are always Kitek's own.
 
 ## How we keep guides up to date
 

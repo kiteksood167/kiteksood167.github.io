@@ -36,6 +36,7 @@ Tech shopping in India is confusing. Every week there's a new launch, every box 
 - Global guides use **US dollar prices** and products that are widely available in the US and UK.
 - We explain our reasoning so you can make your own decision.
 - We update guides when things change.
+- Read exactly how we research, test and update our guides on our [How we research](/how-we-research/) page.
 - When we use affiliate links, we say so clearly. Commissions never decide what we recommend. Read our [affiliate disclosure](/disclosure/).
 
 ## Get in touch

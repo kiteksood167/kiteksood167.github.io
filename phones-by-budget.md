@@ -4,8 +4,6 @@ title: "Best Phones by Budget in India (November 2026)"
 seo_title: "Best Phones by Budget in India"
 permalink: /phones-by-budget/
 description: "Every phone in our Phone Finder, sorted by budget from under ₹15,000 to over ₹1 lakh, with chip, battery and camera at a glance, plus our buying guides."
-noindex: true
-sitemap: false
 ---
 {% assign pf = site.data.phone_finder %}
 Looking for a new phone? This page lists every phone we track, sorted by budget, with the specs that matter most. Prices are what we saw on Amazon and Flipkart in **{{ pf.updated }}**, and they change often, so check the live price before you buy.

@@ -52,7 +52,7 @@ a { color: inherit; }
 h1, h2, h3 { font-family: var(--font-head); line-height: 1.15; letter-spacing: -0.02em; }
 .muted { color: var(--muted); }
 .wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
-.wrap.narrow { max-width: 740px; }
+.wrap.narrow { max-width: 860px; }
 .section { padding: 48px 16px; }
 
 /* Header */
