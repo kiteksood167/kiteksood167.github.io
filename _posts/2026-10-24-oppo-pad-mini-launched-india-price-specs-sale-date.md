@@ -10,6 +10,8 @@ image_alt: "A small lavender tablet with a colourful wallpaper and a white stylu
 image_credit: "Illustration, not the actual product"
 tags: [oppo, oppo pad mini, tablets, compact tablets, flipkart, launch]
 affiliate: true
+last_modified_at: 2026-11-13 11:00:00 +0530
+update_note: "The Pad Mini is now on sale on Flipkart at ₹94,999 (checked 13 Nov). Apple's new iPad mini with OLED has also launched, so we've added a side-by-side comparison."
 sources:
   - name: "91mobiles: OPPO Pad Mini debuts in India"
     url: "https://www.91mobiles.com/hub/oppo-pad-mini-launched-india-price-specifications/"
@@ -19,7 +21,7 @@ sources:
     url: "https://www.notebookcheck.net/Oppo-launches-flagship-compact-OLED-tablet-with-144Hz-matte-display-and-Snapdragon-8-Gen-5.1431107.0.html"
 ---
 
-OPPO has launched the Pad Mini in India, a small 8.8-inch Android tablet with a matte OLED screen and a flagship Snapdragon 8 Gen 5 chip. It was announced on October 22 alongside the Find X10 phones and costs ₹94,999. Sales start on October 29, and pre-orders are already open.
+OPPO has launched the Pad Mini in India, a small 8.8-inch Android tablet with a matte OLED screen and a flagship Snapdragon 8 Gen 5 chip. It was announced on October 22 alongside the Find X10 phones and costs ₹94,999. It went on sale on October 29 and is now available on Flipkart and OPPO's online store.
 
 <!--more-->
 
@@ -33,8 +35,8 @@ OPPO is selling just one version in India, the "Matte Display Edition", in a sin
 | OPPO Pad Mini Smart Case (sold separately) | ₹3,999 |
 | OPPO Pencil 3 Pro stylus (sold separately) | ₹7,999 |
 
-- **Sale date:** Thursday, October 29, 2026 (pre-orders are open now on OPPO's India website)
-- **Where to buy:** OPPO's online store and Flipkart
+- **Sale date:** Thursday, October 29, 2026 (on sale now)
+- **Where to buy:** OPPO's online store and Flipkart. Flipkart listed it at ₹94,999 with bank offers when we checked on November 13.
 
 **Launch offers** (for a limited period that started on October 22, as reported by Indian tech sites):
 
@@ -86,9 +88,28 @@ The Pad Mini is for people who want a premium, pocket-sized Android tablet for r
 Two alternatives to compare:
 
 - **OnePlus Pad 4:** a much bigger 13.2-inch tablet with a faster Snapdragon 8 Elite Gen 5 chip and a 13,380mAh battery. It starts at ₹59,999 for 8GB/256GB, about ₹35,000 less than the Pad Mini, though it's far less portable.
-- **Apple iPad mini:** the best-known small tablet. The current model, with an 8.3-inch screen and A17 Pro chip, launched in India in 2024 at ₹49,900. Apple is holding a launch event on October 28, and a new iPad mini is widely expected, but Apple hasn't confirmed it yet.
+- **Apple iPad mini (2026):** Apple launched a new iPad mini with an 8.5-inch OLED screen and the A20 Pro chip on October 28. It starts at ₹82,900 in India and went on sale on November 6. See the comparison below.
 
-> **Tip:** If you're torn between the Pad Mini and an iPad mini, wait for Apple's October 28 event before you pre-order. The OPPO goes on sale a day later, on October 29, so you'll know what Apple has announced and at what price before you have to decide.
+## OPPO Pad Mini vs iPad mini (2026)
+
+These are now the two premium small tablets in India. Here's how they compare on paper:
+
+| | OPPO Pad Mini | iPad mini (2026) |
+|---|---|---|
+| Starting price | ₹94,999 (8GB/256GB) | ₹82,900 (128GB), ₹94,900 (256GB) |
+| Screen | 8.8" OLED, matte, up to 144Hz | 8.5" OLED, 60Hz (matte nano-texture glass costs ₹12,000 extra) |
+| Chip | Snapdragon 8 Gen 5 | A20 Pro |
+| Thickness | About 5.46mm | 5.4mm |
+| Water resistance | Not listed | IP67 |
+| Charging | 67W SUPERVOOC | USB-C |
+| Cellular option | No, Wi-Fi only | Yes, on pricier models |
+| Stylus | OPPO Pencil 3 / 3 Pro (Pencil 3 Pro free at launch) | Apple Pencil Pro or Pencil (USB-C), sold separately |
+
+**Pick the OPPO Pad Mini** if you want a smoother 144Hz screen with a matte finish built in, much faster charging, and you use an OPPO or OnePlus phone. At the same 256GB storage, it costs almost the same as the iPad mini.
+
+**Pick the iPad mini** if you use an iPhone, want a cheaper 128GB starting point, need mobile data built in, or want IP67 water resistance and Apple's long software support.
+
+The prices above are launch prices. Bank offers change often, so compare the final price on both before you buy.
 
 {% include buy.html name="OPPO Pad Mini" query="OPPO Pad Mini" note="8.8-inch OLED, ₹94,999" %}
 
@@ -96,4 +117,4 @@ Two alternatives to compare:
 
 ## The bottom line
 
-The OPPO Pad Mini brings something different to Indian tablet buyers: a thin, light 8.8-inch tablet with a matte 144Hz OLED screen, a flagship Snapdragon chip and fast 67W charging. The catch is the price. At ₹94,999, it costs well over the OnePlus Pad 4 and nearly twice what the current iPad mini cost at launch. The free stylus and case help, but it makes the most sense if you want the best small Android tablet and use an OPPO phone. Everyone else should compare it with Apple's next iPad mini first.
+The OPPO Pad Mini brings something different to Indian tablet buyers: a thin, light 8.8-inch tablet with a matte 144Hz OLED screen, a flagship Snapdragon chip and fast 67W charging. The catch is the price. At ₹94,999, it costs well over the OnePlus Pad 4 and about the same as a 256GB iPad mini (2026). It makes the most sense if you want the best small Android tablet and use an OPPO or OnePlus phone. iPhone users are better off with the new iPad mini.
