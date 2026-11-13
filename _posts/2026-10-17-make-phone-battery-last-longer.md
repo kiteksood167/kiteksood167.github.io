@@ -84,7 +84,7 @@ Software updates often include battery optimisations and bug fixes for drain pro
 
 {% include buy.html name="USB-C fast charger" query="USB-C PD fast charger 33W" note="Match the wattage your phone supports" %}
 
-**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Phone Overheating? 10 Simple Fixes That Actually Work](/phone-overheating-fixes/)
 
 ## The bottom line
 

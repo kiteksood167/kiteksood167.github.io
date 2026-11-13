@@ -9,13 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-12
-  audience: Global
-  category: Global
-  title: "How to Speed Up a Slow Windows Laptop: 10 Fixes That Work"
-  slug: speed-up-slow-windows-laptop
-  image: speed-up-slow-windows-laptop.jpg
-
 - date: 2026-11-13
   audience: India
   category: Phones
