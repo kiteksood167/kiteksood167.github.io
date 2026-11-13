@@ -9,6 +9,8 @@ image_credit: "Illustration, not the actual product"
 category: Launches
 also_in: [Tablets]
 affiliate: true
+last_modified_at: 2026-11-13 11:30:00 +0530
+update_note: "The new iPad mini has been on sale in India since November 6. On November 13, Amazon listed it at ₹82,900 (128GB Wi-Fi) and ₹94,900 (256GB Wi-Fi), the same as Apple's prices."
 tags: [apple, ipad mini, ipad, tablets, oled, a20 pro, launch]
 sources:
   - name: "Beebom: Apple launches OLED iPad mini in India"
@@ -17,7 +19,7 @@ sources:
     url: "https://www.smartprix.com/bytes/apple-ipad-mini-2026-oled-india-price-starts-at-rs-82900/"
 ---
 
-Apple has launched a new iPad mini in India, and it's the biggest update the small tablet has had in years. It gets an 8.5-inch OLED screen for the first time, the A20 Pro chip and IP67 water resistance. Prices start at **₹82,900**, pre-orders open tonight, and it goes on sale on **November 6**.
+Apple has launched a new iPad mini in India, and it's the biggest update the small tablet has had in years. It gets an 8.5-inch OLED screen for the first time, the A20 Pro chip and IP67 water resistance. Prices start at **₹82,900**, and it has been on sale since **November 6**.
 
 <!--more-->
 
@@ -35,7 +37,7 @@ Apple announced the new iPad mini on October 27 with a press release, a day befo
 | 512GB Wi-Fi + Cellular | ₹1,36,900 | ₹1,48,900 |
 
 - **Pre-orders:** from October 28 at 10:40 PM IST, on Apple's India website and the Apple Store app
-- **Sale date:** Friday, November 6, 2026
+- **Sale date:** Friday, November 6, 2026 (on sale now)
 - **Colours:** Midnight and Starlight
 - **Price change:** the base model costs ₹13,000 more than the previous iPad mini, which started at ₹69,900, according to Beebom
 
@@ -76,7 +78,7 @@ The nano-texture glass, which cuts reflections, is an extra ₹12,000 and is onl
 
 **Speakers in the display.** Apple has moved the speakers into the display assembly, which it calls Acoustic Display. We'll need reviews to know how they sound.
 
-> **Tip:** If you only want a small tablet for reading and video, the older iPad mini may get cheaper now that the new one is out. Check prices again after November 6 before you decide.
+> **Tip:** If you only want a small tablet for reading and video, the older iPad mini may get cheaper now that the new one is out. Compare its current price with the new model before you decide.
 
 ## Who should consider it
 
