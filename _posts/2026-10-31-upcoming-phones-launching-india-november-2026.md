@@ -62,7 +62,7 @@ There's no official price yet. Estimates range from about ₹70,000 to close to 
 
 ## Vivo X500 series: confirmed for November 26
 
-Vivo hasn't announced an India date, but a Smartprix report, cited by GSMArena, says the **X500, X500 Pro and X500 Pro Max** will reach India towards the end of November. The phones are already out in China, so the hardware is known:
+Vivo has confirmed that the **X500, X500 Pro and X500 Pro Max** launch in India on **November 26**. The phones are already out in China, so the hardware is known:
 
 | | X500 | X500 Pro | X500 Pro Max |
 |---|---|---|---|
