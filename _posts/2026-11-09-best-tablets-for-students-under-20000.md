@@ -111,6 +111,18 @@ A tablet is best for online classes, reading PDFs and taking handwritten notes. 
 
 First and foremost, I look at the screen quality, as the display is the most important factor for studying and watching videos. After that, I check the performance, battery and stylus support. I would definitely make sure it has at least 6GB of RAM and 128GB of storage.
 
+**Which tablet from this list would you pick for yourself?**
+
+In my view, within a ₹20,000 budget, the Lenovo Idea Tab would be the best choice for me, especially if you're interested in making handwritten notes. If you're not interested in a stylus, the Redmi Pad 2 is also a good choice.
+
+**What's the biggest mistake students make when buying a tablet?**
+
+The biggest mistake people make is buying a tablet based on its price and looks. If you're a student buying it for study, you should definitely look for at least 128GB of storage, a good battery, a decent display and support for a stylus (pen).
+
+**Have you used a tablet for study or work yourself?**
+
+Yes. It's very convenient for students to study and do daily work on a tablet. Making notes, reading PDFs and attending online classes are much easier on a tablet than on a laptop.
+
 **Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Best Laptops Under ₹50,000 in India (November 2026)](/best-laptops-under-50000-india/)
 
 ## The bottom line
