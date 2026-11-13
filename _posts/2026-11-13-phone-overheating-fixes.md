@@ -140,6 +140,20 @@ If you notice any of these, stop using and charging the phone straight away, and
 
 If the battery is simply old and worn, our list of [simple ways to make your phone battery last longer](/make-phone-battery-last-longer/) covers the settings that protect battery health.
 
+## Our take
+
+**When does your phone get hot the most: gaming, charging or in the sun?**
+
+My phone gets hot mostly while gaming and charging, especially when both happen at the same time. Using the phone in direct sunlight can also increase its temperature.
+
+**What do you do to cool down a hot phone?**
+
+I stop using my phone for some time, unplug the charger and also remove its cover. Then I place the phone somewhere with cool air so that it can cool down naturally.
+
+**Do you use your phone while it's charging, or avoid it?**
+
+I try to avoid using my phone while charging, especially for gaming and heavy tasks. This way, the phone doesn't get too hot and the battery health stays better.
+
 **Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/)
 
 ## The bottom line
