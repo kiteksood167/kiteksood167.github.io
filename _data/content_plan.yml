@@ -9,13 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-13
-  audience: India
-  category: Phones
-  title: "Phone Overheating? 10 Simple Fixes That Actually Work"
-  slug: phone-overheating-fixes
-  image: phone-overheating-fixes.jpg
-
 - date: 2026-11-14
   audience: Global
   category: Global
