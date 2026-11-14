@@ -2,6 +2,9 @@
 title: "Best Robot Vacuums Under $300 in 2026"
 description: "The best robot vacuums under $300 right now: Roborock Q7 M5+, Dreame D20 Air Plus and MOVA S10, with current US prices and what each one misses."
 date: 2026-11-14 08:48:00 +0530
+image: /assets/images/best-robot-vacuums-under-300.jpg
+image_alt: "A round robot vacuum gliding across a wooden living room floor at night, leaving green and orange light trails"
+image_credit: "Illustration, not an actual product"
 category: Global
 also_in: [Smart Home, Guides]
 tags: [robot vacuum, roborock q7 m5, dreame d20 air plus, mova s10, black friday, budget, usa]
@@ -47,6 +50,11 @@ Prices change almost daily in November, so check the listing before you buy.
 
 **Expect basic mopping.** At this price, mopping means a damp pad dragged behind the robot. It's fine for wiping dust off hard floors, but it won't scrub dried stains, and you fill the water tank by hand.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/robot-vacuum-self-emptying-dock-living-room.jpg" alt="A robot vacuum parked in a tall self-emptying dock beside a sofa in a living room" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## 1. Roborock Q7 M5+: best overall under $300
 
 The **Roborock Q7 M5** is RTINGS' top budget robot vacuum, and the **Q7 M5+** is the same robot bundled with a self-emptying dock. Its LiDAR maps up to four floors, so it works in a multi-story home if you carry it between levels.
@@ -82,6 +90,11 @@ It also has a better mop than most budget robots: a vibrating pad that lifts abo
 {% include buy.html name="MOVA S10 robot vacuum" query="MOVA S10 robot vacuum LiDAR" store="us" note="Often under $200" %}
 
 > **Tip:** Before the first run, spend five minutes "robot-proofing" each room: lift phone chargers and cables off the floor, tuck in curtain cords and move shoes. None of these budget robots reliably avoid small objects, and a tangled cable is the most common reason a robot gets stuck. Then use the app's no-go zones for pet bowls and rug tassels.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/robot-vacuum-under-bed-pet-hair.jpg" alt="A robot vacuum cleaning pet hair under a bed and around chair legs on a wooden floor" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## What you won't get under $300
 
