@@ -107,6 +107,20 @@ Be realistic about the limits of this price range:
 
 If any of these matter, it's worth watching Black Friday prices on step-up models, but check the price history first so you don't pay for a fake discount.
 
+## Our take
+
+**Do you use a robot vacuum, or would you buy one? Why?**
+
+I don't use one yet, but I want to buy it in the future. It will save time and clean the house automatically, especially the places that are difficult for us to reach.
+
+**Is a self-emptying dock necessary, or is a robot without a dock fine?**
+
+In my view, a self-emptying dock is better because we don't have to empty the dustbin again and again. But if your budget is low, a robot vacuum without a dock is also a good option.
+
+**Under $300, what matters most to you: suction, mopping or mapping?**
+
+With a $300 budget, I would give the most importance to mapping, so that the robot can clean the whole house efficiently and doesn't miss any area. The suction should also be good.
+
 **Related reading:** [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) · [Best 65 Inch TV in 2026: Top Picks Before Black Friday](/best-65-inch-tv-2026/)
 
 ## The bottom line
