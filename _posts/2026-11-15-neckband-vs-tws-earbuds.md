@@ -131,6 +131,20 @@ At the same ₹1,800 to ₹2,000 budget, TWS earbuds like the Realme Buds T310 a
 - **Gifting a parent or first-time user:** neckband. It's simpler, with no pairing confusion between two buds and a case.
 - **Want the latest ANC and features:** TWS, especially above ₹2,500.
 
+## Our take
+
+**Do you use a neckband or TWS earbuds? Why?**
+
+I prefer TWS earbuds because they are lightweight, compact and easy to carry.
+
+**For calls and long battery life, which one do you think is better?**
+
+For calls and long battery life, I consider a neckband better, because its battery backup is good and it is comfortable during calls.
+
+**If someone has a ₹2,000 budget, what would you suggest?**
+
+I would suggest a neckband, especially the OnePlus Bullets Wireless Z3. In a ₹2,000 budget, it is the best option for good battery life, fast charging and daily calls.
+
 **Related reading:** [TWS Earbuds Buying Guide: ANC, Codecs, Battery and Mics Explained Simply](/tws-earbuds-buying-guide/) · [Best TWS Earbuds Under ₹3,000 in India (2026)](/best-tws-earbuds-under-3000/)
 
 ## The bottom line
