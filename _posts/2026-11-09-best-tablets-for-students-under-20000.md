@@ -123,7 +123,7 @@ The biggest mistake people make is buying a tablet based on its price and looks.
 
 Yes. It's very convenient for students to study and do daily work on a tablet. Making notes, reading PDFs and attending online classes are much easier on a tablet than on a laptop.
 
-**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Best Laptops Under ₹50,000 in India (November 2026)](/best-laptops-under-50000-india/)
+**Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Best Laptops Under ₹50,000 in India (November 2026)](/best-laptops-under-50000-india/) · [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/)
 
 ## The bottom line
 

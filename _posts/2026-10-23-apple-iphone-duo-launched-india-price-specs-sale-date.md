@@ -91,7 +91,7 @@ Two close alternatives:
 
 {% include buy.html name="Apple iPhone Duo" query="Apple iPhone Duo" note="From ₹2,99,900; on sale from October 23, stock limited" %}
 
-**Related reading:** [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Apple Admits iPhone Duo Inner Screen Problem: What Owners in India Should Do](/iphone-duo-inner-display-issue-replacement/)
+**Related reading:** [OPPO Find X10 and Find X10 Pro Max Launched in India: Price, Specs and Sale Date](/oppo-find-x10-launched-india-price-specs-sale-date/) · [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/) · [Apple Admits iPhone Duo Inner Screen Problem: What Owners in India Should Do](/iphone-duo-inner-display-issue-replacement/)
 
 ## The bottom line
 

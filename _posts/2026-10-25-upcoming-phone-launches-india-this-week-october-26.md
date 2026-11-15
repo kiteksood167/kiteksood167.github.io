@@ -66,9 +66,9 @@ That's far above the ₹35,000–₹40,000 that pre-launch reports guessed. We'v
 
 Apple has confirmed an event called "Pro and Tell" on Wednesday, October 28, at 10 AM Pacific time, which is **10:30 PM IST** in India. Recent reports say it will be a hands-on session for invited journalists in Los Angeles rather than a normal keynote, and Apple hasn't announced a public livestream.
 
-No new iPhones are expected. Reports point to redesigned MacBook Pro models with OLED touchscreens, an updated iMac and a new iPad mini, but Apple hasn't confirmed any products. India prices usually appear on Apple's India website soon after an announcement. Our [Apple event preview](/apple-pro-and-tell-event-october-28-what-to-expect/) has the details.
+No new iPhones are expected. Reports point to redesigned MacBook Pro models with OLED touchscreens, an updated iMac and a new iPad mini, but Apple hasn't confirmed any products. India prices usually appear on Apple's India website soon after an announcement. Our [MacBook Pro OLED launch post](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/) has what Apple actually announced.
 
-**Update, November 1:** Apple announced the M6 14-inch MacBook Pro (from ₹2,39,900), an OLED iPad mini (from ₹82,900) and an M6 iMac by press release on October 27. At the event itself it showed its first touchscreen MacBook Pro with an OLED display, starting at ₹3,49,900 in India, with India sales from November 9. Our updated [Apple event post](/apple-pro-and-tell-event-october-28-what-to-expect/) has the full India prices and links to each launch.
+**Update, November 1:** Apple announced the M6 14-inch MacBook Pro (from ₹2,39,900), an OLED iPad mini (from ₹82,900) and an M6 iMac by press release on October 27. At the event itself it showed its first touchscreen MacBook Pro with an OLED display, starting at ₹3,49,900 in India, with India sales from November 9. Our [MacBook Pro OLED launch post](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/) has the full India prices and specs.
 
 ## Confirmed for India, date not announced
 
@@ -91,7 +91,7 @@ If you're about to buy a mid-range gaming phone, note that the GT 50 Pro launche
 
 > **Tip:** If you pre-booked the GT 50 Pro expecting a lower price, check that your booking amount is refundable before you decide, and compare it with cheaper rivals such as our [best gaming phones under ₹30,000](/best-gaming-phones-under-30000/) picks.
 
-**Related reading:** [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/) · [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/)
+**Related reading:** [Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale Date](/infinix-gt-50-pro-india-launch-october-27/) · [Apple MacBook Pro With OLED Touchscreen Launched in India: Price, Specs and Sale Date](/apple-macbook-pro-oled-touchscreen-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 

@@ -99,7 +99,7 @@ Both sizes fast charge to 50% in about 30 minutes, according to Apple, and run m
 
 {% include buy.html name="Apple MacBook Air (M5)" query="Apple MacBook Air M5" note="A cheaper Mac for students and everyday work" %}
 
-**Related reading:** [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
+**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
 
 ## The bottom line
 

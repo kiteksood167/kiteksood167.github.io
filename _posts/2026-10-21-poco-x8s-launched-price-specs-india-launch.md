@@ -79,7 +79,7 @@ If you need a phone in India right now, the **Poco X8 5G** is already on sale fr
 
 {% include buy.html name="Poco X8 5G" query="Poco X8 5G" note="On sale in India now; the X8s isn't here yet" %}
 
-**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [OPPO Find X10 Series Launching in India on October 22: What We Know](/oppo-find-x10-series-india-launch-october-22/)
+**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/)
 
 ## The bottom line
 

@@ -1,7 +1,7 @@
 ---
 title: "Ai+ Phones Get Costlier From November 11: Up to ₹3,000 Price Hike"
 seo_title: "Ai+ Phone Price Hike Moved to November 11"
-description: "Ai+ has moved its price hike forward to November 11. Old and new prices of every Pulse 2 and Nova 2 variant, and whether to buy before November 10."
+description: "Ai+ moved its India price hike forward to November 11. See the old and new prices of every Pulse 2 and Nova 2 variant, up to ₹3,000 more."
 last_modified_at: 2026-11-08 11:50:00 +0530
 update_note: "Ai+ has brought the price hike forward from November 15 to November 11 and published the new price of every variant."
 date: 2026-10-29 13:40:00 +0530
@@ -97,7 +97,7 @@ Ai+ is far from alone. Memory chips have become much more expensive in 2026 as A
 
 {% include buy.html name="Ai+ Nova 2 5G" query="Ai+ Nova 2 5G" note="Current prices apply until November 10" %}
 
-**Related reading:** [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Upcoming Phone Launches in India This Week (October 26 to November 1)](/upcoming-phone-launches-india-this-week-october-26/)
+**Related reading:** [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/)
 
 ## The bottom line
 

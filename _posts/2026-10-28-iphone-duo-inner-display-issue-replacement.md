@@ -74,7 +74,7 @@ If you were planning to buy an iPhone Duo, there's no harm in waiting a few week
 
 Our [iPhone Duo launch post](/apple-iphone-duo-launched-india-price-specs-sale-date/) has the full India prices, specs and close rivals, including Samsung's Galaxy Z Fold8.
 
-**Related reading:** [Apple 'Pro and Tell' Event on October 28: What to Expect and India Time](/apple-pro-and-tell-event-october-28-what-to-expect/) · [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/)
+**Related reading:** [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/) · [CERT-In Warns iPhone, iPad and Mac Users: Update Now to Fix High-Risk Flaws](/cert-in-apple-security-warning-update-iphone-mac/)
 
 ## The bottom line
 
