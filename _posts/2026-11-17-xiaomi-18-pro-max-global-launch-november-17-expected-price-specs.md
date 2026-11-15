@@ -18,6 +18,8 @@ sources:
     url: "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/xiaomi-18-pro-series-global-launch-confirmed-for-november-17-in-paris-three-colour-options-revealed/"
   - name: "Beebom: Xiaomi 18 Pro and 18 Pro Max launched in China"
     url: "https://gadgets.beebom.com/news/xiaomi-18-pro-xiaomi-18-pro-max-launched-in-china-key-specs-price-availability"
+  - name: "FlickOnClick: Xiaomi Watch S5, Smart Band 11 and Clip earbuds to launch on November 17"
+    url: "https://www.flickonclick.com/xiaomi-watch-s5-smart-band-11-clip-earbuds-global-launch-november-17/"
   - name: "XimiTime: Xiaomi 18 Pro series launches with Snapdragon 8 Elite Gen 6 and up to 8,500mAh battery"
     url: "https://ximitime.com/xiaomi-18-pro-series-launches-with-snapdragon-8-elite-gen-6-and-up-to-8500mah-battery-100841/"
 ---
@@ -31,6 +33,7 @@ Xiaomi has confirmed that the **Xiaomi 18 Pro** and **18 Pro Max** will launch g
 - **Date and place:** November 17, Paris. Xiaomi announced it on X with the line "See you in Paris on November 17th", and its livestream pages list the same time.
 - **Models:** the Xiaomi 18 Pro and 18 Pro Max. There's no regular Xiaomi 18 at this event; Android Headlines reports it will come later.
 - **Colours:** White, Cosmic Blue and Velvet Red, according to Beebom and The Tech Outlook.
+- **Other devices at the event:** Xiaomi is also bringing the **Xiaomi Watch S5** (41mm), the **Smart Band 11**, its first clip-on earbuds called **Xiaomi Clip**, and the **Xiaomi Robot Vacuum 6 Max**, plus some home appliances, according to FlickOnClick. None of these has been confirmed for India yet.
 
 Global prices and the exact global specs will be announced at the event.
 
