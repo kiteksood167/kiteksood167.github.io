@@ -3,6 +3,8 @@ title: "Poco X8s Launched: Price, Specs and India Launch — What We Know"
 seo_title: "Poco X8s Launched: Price, Specs & India Launch"
 description: "Poco X8s is official with a compact 6.35-inch OLED, Snapdragon 7 Gen 4, 6,330mAh battery and 100W charging. Price, specs and India launch status."
 date: 2026-10-21 11:24:00 +0530
+last_modified_at: 2026-11-15 12:45:00 +0530
+update_note: "Checked the Poco X8s India launch again: still not confirmed, and the tipped India price has changed."
 image: /assets/images/poco-x8s-launched-price-specs-india-launch.jpg
 image_alt: "Illustration of compact phones in white and light blue with triple rear cameras"
 category: Launches
@@ -14,11 +16,17 @@ sources:
     url: "https://www.gsmarena.com/xiaomi_poco_x8s_5g-15038.php"
   - name: "Smartprix: Poco X8s"
     url: "https://www.smartprix.com/mobiles/poco-x8s-ppd1cfv34l3q"
+  - name: "Beebom Gadgets: Poco X8s specifications and market status"
+    url: "https://gadgets.beebom.com/mobile/poco-x8s"
+  - name: "Bajaj Finserv: Poco X8s price in India"
+    url: "https://www.bajajfinserv.in/poco-x8s-price-in-india"
 ---
 
 Poco has unveiled the Poco X8s, a compact phone with a 6.35-inch OLED screen, the Snapdragon 7 Gen 4 chip, a big 6,330mAh battery and 100W fast charging. It has gone up for pre-order in Vietnam first, with deliveries starting in early November. Poco hasn't announced an India launch yet. Here's what is confirmed so far.
 
 <!--more-->
+
+**Update, November 15:** Poco still hasn't announced an India launch date or Indian price for the X8s, and there is no Flipkart teaser for it yet. Beebom lists the phone as "not released in India". Smartprix now shows an expected India price of around ₹42,999, up from its earlier estimate of ₹23,999, but this is an estimate, not an official figure.
 
 ## Price and availability
 
@@ -33,7 +41,16 @@ Poco has unveiled the Poco X8s, a compact phone with a 6.35-inch OLED screen, th
 
 ## India launch: not confirmed yet
 
-Poco has **not** announced an India launch date or Indian prices for the X8s. Price-tracking site Smartprix lists it as an upcoming phone with an expected India price of around ₹23,999, but that is an estimate, not an official figure. The phone has passed certifications with a global model number, which usually means more markets are coming, but nothing is official for India yet.
+As of November 15, 2026, Poco has **not** announced an India launch date or Indian prices for the X8s, and there is no Flipkart microsite or teaser for it yet. Here's what is confirmed and what is only tipped:
+
+| | Status (November 15, 2026) |
+|---|---|
+| India launch date | Not announced |
+| Official India price | Not announced |
+| Expected India price | Around ₹42,999, Smartprix estimate (it showed ₹23,999 earlier) |
+| Where it's on sale | Vietnam (pre-orders) and other global markets |
+
+The phone has passed certifications with a global model number, which usually means more markets are coming, but nothing is official for India yet. Treat any India price you see as a guess until Poco confirms it.
 
 Vietnam prices don't tell us much about Indian pricing, because phone prices often differ a lot between countries. We'll update this post once Poco confirms the India launch.
 

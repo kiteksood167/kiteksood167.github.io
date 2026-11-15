@@ -58,14 +58,38 @@
   slug: best-gaming-controllers-india
   image: best-gaming-controllers-india.jpg
 
+# Black Friday is Nov 27. Link /black-friday-2026-tech-deals-how-to-spot-real-discount/, /best-budget-phones-under-300/, /unlocked-vs-carrier-phones/. Use only deals and prices found in research on the day; never invent prices.
 - date: 2026-11-23
+  audience: Global
+  category: Global
+  title: "Black Friday 2026 Phone Deals: Which Discounts Are Actually Worth It"
+  slug: black-friday-2026-phone-deals-worth-it
+  image: black-friday-2026-phone-deals-worth-it.jpg
+
+# Quora demand. Use _data/phone_finder.yml for picks, then check current prices on Amazon/Flipkart. Link /how-to-choose-a-smartphone-under-20000/, /phone-finder/ and /phones-by-budget/.
+- date: 2026-11-24
+  audience: India
+  category: Phones
+  title: "Best Phones Under ₹20,000 in India (November 2026)"
+  slug: best-phones-under-20000-india
+  image: best-phones-under-20000-india.jpg
+
+- date: 2026-11-25
   audience: Global
   category: Global
   title: "Best Tech Gifts Under $50 in 2026: Holiday Gift Ideas"
   slug: best-tech-gifts-under-50
   image: best-tech-gifts-under-50.jpg
 
-- date: 2026-11-24
+# Builds on /improve-gaming-performance-android-phone/ and /best-gaming-phones-under-30000/. Only list phones whose 90/120fps BGMI support is confirmed by a source.
+- date: 2026-11-26
+  audience: India
+  category: Gaming
+  title: "How to Get 90 or 120fps in BGMI: Settings and Phones That Support It"
+  slug: bgmi-90-120-fps-settings-phones
+  image: bgmi-90-120-fps-settings-phones.jpg
+
+- date: 2026-11-27
   audience: India
   category: Smart Home
   title: "Echo Dot vs Echo Pop: Which Alexa Speaker to Buy in India"
