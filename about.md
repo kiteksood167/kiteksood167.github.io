@@ -19,6 +19,15 @@ Tech shopping in India is confusing. Every week there's a new launch, every box 
   </div>
 </div>
 
+### My gadgets
+
+I've been into gadgets since around 2011, when Nokia launched its first Windows Phones. Since then I've followed phones and gadgets closely and kept trying new ones that make everyday life easier.
+
+- **Phones:** My first phone was a Nokia 2626. After that I used Motorola, Redmi (Redmi Note 4) and POCO phones, and before my current phone I used the OnePlus 6T. My main phone today is the OnePlus 9RT, which I've been using since January 2022.
+- **Laptops:** For work I use a Windows laptop, an ASUS Vivobook S14. I also have a MacBook Pro M1, and before the ASUS I used a Dell laptop.
+- **Everyday tech:** I also use earbuds, a smartwatch, a Mi smart TV and a Mi 10,000mAh power bank every day, basically the gadgets most of us need in daily life.
+- **Helping friends and family:** Most of the time, when friends or family want to buy a gadget, they ask me first. Five or six years ago, I helped one of my cousins choose a laptop that matched what he needed, and I regularly help them pick mobile phones too.
+
 ## As featured on
 
 - **Connectively** — Kitek's insights were included in [Must-Have Smart Home Devices for the 2026 Holiday Season](https://blog.connectively.us/must-have-smart-home-devices-for-the-2026-holiday-season/) (October 2026).
