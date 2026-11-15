@@ -3,8 +3,8 @@ title: "Vivo X500 Series India Launch Teased: Expected Date, Price and Specs"
 seo_title: "Vivo X500 India Launch: Date, Price & Specs"
 description: "Vivo X500, X500 Pro and X500 Pro Max launch in India on November 26. Confirmed details, expected prices, China specs and Amazon/Flipkart pages."
 date: 2026-11-07 10:15:00 +0530
-last_modified_at: 2026-11-12 18:53:00 +0530
-update_note: "Vivo has confirmed the X500 series India launch for November 26, along with the Watch GT 2."
+last_modified_at: 2026-11-15 18:45:00 +0530
+update_note: "Newer tips put the X500 series much higher, from about ₹1.2 lakh; prices are still unofficial until November 26."
 category: Launches
 also_in: [Phones]
 affiliate: true
@@ -13,6 +13,10 @@ image_alt: "Three premium phones with large round camera modules in black, silve
 image_credit: "Illustration, not the actual products"
 tags: [vivo, vivo x500, vivo x500 pro, vivo x500 pro max, flagship phones, camera phones, upcoming phones, launch]
 sources:
+  - name: "Digit: Vivo X500 series India launch set for Nov 26, expected price"
+    url: "https://www.digit.in/news/mobile-phones/vivo-x500-pro-max-x500-pro-x500-india-launch-set-for-nov-26-check-expected-price-specs-and-more.html"
+  - name: "Udaipur Times: Vivo X500 series box prices leaked ahead of November 26 launch"
+    url: "https://udaipurtimes.com/our-lifestyle/vivo-x500-series-price-leak-india-launch/cid19527439.htm"
   - name: "My Mobile India: Vivo X500 series India launch date officially confirmed for November 26"
     url: "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
   - name: "Business Today: Vivo X500 series India launch on November 26"
@@ -32,6 +36,8 @@ sources:
 Vivo has started teasing the **X500 series** in India. Its India website now shows the X500 phones, a new **Zeiss telephoto extender** and the **Vivo Watch GT 2**, and launch pages have gone live on **Amazon** and **Flipkart**. Vivo hasn't announced the launch date or prices yet, but a well-known tipster says the phones arrive on **November 25**.
 
 <!--more-->
+
+**Update, November 15:** Newer leaks point to much higher India prices than earlier tips. Digit reports a tipster's estimate of about ₹1,19,999 for the X500, ₹1,49,999 for the X500 Pro and ₹1,59,999 for the X500 Pro Max (12GB + 256GB), and a leak of box MRPs starts at ₹1,69,999. MRP is the maximum printed price, and selling prices are usually lower. None of this is official; Vivo will announce prices on November 26.
 
 **Update, November 12:** Vivo has now officially confirmed the India launch date: the X500 series arrives on **November 26, 2026**, one day later than the tipped November 25. My Mobile India and Business Today report a 12 PM IST launch, and PhoneBunch and My Mobile India say all three models (X500, X500 Pro and X500 Pro Max) are coming, with the **Vivo Watch GT 2** launching the same day. Prices are still unannounced and will be revealed at the event.
 
@@ -85,7 +91,15 @@ Vivo hasn't announced India prices. In China, the X500 Pro starts at **CNY 6,499
 | X500 Pro | around ₹93,000 |
 | X500 Pro Max | around ₹1,00,000 |
 
-Other reports suggest a wider range, from about ₹60,000 to ₹1 lakh, so treat all of these as estimates until launch day.
+Newer tips (as of November 15) are much higher. Digit reports these estimates for the 12GB + 256GB models:
+
+| Model | Newer tipped India price |
+|---|---|
+| X500 | around ₹1,19,999 |
+| X500 Pro | around ₹1,49,999 |
+| X500 Pro Max | around ₹1,59,999 (512GB: around ₹1,79,999) |
+
+A separate leak of box MRPs (the maximum printed price, not the selling price) starts at ₹1,69,999 for the X500. Treat all of these as estimates until Vivo announces prices on November 26.
 
 > **Tip:** If you're thinking of pre-booking at a shop, ask whether the booking amount is fully refundable and get it in writing. Prices aren't announced yet, and you don't want to be locked in if the final price is higher than expected.
 
@@ -120,4 +134,4 @@ If you are thinking of using it with a flagship phone like the Vivo X500, this c
 
 ## The bottom line
 
-Vivo has officially started teasing the **X500, X500 Pro and X500 Pro Max** for India, with pages live on Amazon and Flipkart, and has now confirmed the India launch for **November 26**. Prices aren't official yet; a tipster expects roughly ₹79,000 to ₹1 lakh. The X500 Pro Max, with its 200MP periscope camera and 8,000mAh battery, is the model camera fans should watch. We'll update this page as soon as Vivo announces the details.
+Vivo has officially started teasing the **X500, X500 Pro and X500 Pro Max** for India, with pages live on Amazon and Flipkart, and has now confirmed the India launch for **November 26**. Prices aren't official yet; the latest tips range from about ₹1.2 lakh to ₹1.6 lakh, up from earlier estimates of ₹79,000 to ₹1 lakh. The X500 Pro Max, with its 200MP periscope camera and 8,000mAh battery, is the model camera fans should watch. We'll update this page as soon as Vivo announces the details.
