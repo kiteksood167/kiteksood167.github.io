@@ -108,7 +108,7 @@ The Motorola Signature 27, also confirmed for India this month, is a strong alte
 
 In my view, within a budget of ₹80,000–₹1 lakh, the Vivo X500, Samsung, and OnePlus are all strong options, but the choice will depend on your priorities.
 
-An important point: The Vivo X500 series has been launched in global markets, but the reported date for its India launch is November 25, 2026. It would be best to wait for the official pricing in India to be confirmed.
+An important point: The Vivo X500 series has been launched in global markets, but the reported date for its India launch is November 26, 2026 (now confirmed by Vivo). It would be best to wait for the official pricing in India to be confirmed.
 
 **Is a telephoto extender lens useful or just a gimmick?**
 
