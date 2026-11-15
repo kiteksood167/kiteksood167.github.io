@@ -83,7 +83,7 @@ Both phones use the MediaTek Helio G81, an entry-level chip that is fine for cal
 
 **The Pro gets a smoother screen.** The Rebel Pro's 120Hz display should make scrolling look smoother than a basic 60Hz panel. Both phones have HD+ resolution, not Full HD, so text and video won't look as sharp as on some rivals.
 
-> **Tip:** Use the ₹1,000 bank offer on the first sale if you can, and check the RAM and storage on the Amazon page before you pay. At this price, compare it with Lava and Ai+ phones before Lava's and Ai+'s price hikes on November 15.
+> **Tip:** Use the ₹1,000 bank offer on the first sale if you can, and check the RAM and storage on the Amazon page before you pay. At this price, compare it with Lava and Ai+ phones, keeping in mind that both brands raised their prices in November.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/older-man-video-call-student-helping-phone.jpg" alt="An older man on a video call on his phone while a young man next to him smiles and helps, sitting on a sofa at home" loading="lazy">
@@ -94,7 +94,7 @@ Both phones use the MediaTek Helio G81, an entry-level chip that is fine for cal
 
 The Rebel series looks aimed at first-time smartphone buyers, students and older users who want a phone that lasts long on a charge, has a headphone jack and doesn't come full of unwanted apps. If you mainly use WhatsApp, YouTube and UPI payments, those are the right priorities.
 
-The closest rivals are other Indian brands chasing the same buyers. **Lava** phones also focus on clean Android in the budget segment, and **Ai+** sells its Nova 2 5G series in a similar price range. Note that both Lava and Ai+ have announced price hikes of up to ₹3,000 from November 15, so check their prices against the Rebel's ₹11,999 to ₹12,499 before you decide.
+The closest rivals are other Indian brands chasing the same buyers. **Lava** phones also focus on clean Android in the budget segment, and **Ai+** sells its Nova 2 5G series in a similar price range. Note that Ai+ raised prices on select models from November 11 and Lava raised prices by up to ₹3,000 from November 15, so check their current prices against the Rebel's ₹11,999 to ₹12,499 before you decide.
 
 ## Our take
 

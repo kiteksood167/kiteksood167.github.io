@@ -3,6 +3,8 @@ title: "Lava Phones to Get Costlier by Up to ₹3,000 From November 15"
 seo_title: "Lava Phone Price Hike From November 15"
 description: "Lava will raise prices across its smartphone range by up to ₹3,000 from November 15, citing memory shortages. What it means and whether to buy now."
 date: 2026-10-31 13:47:00 +0530
+last_modified_at: 2026-11-15 14:30:00 +0530
+update_note: "Lava's price hike of up to ₹3,000 is now in effect from November 15; model-wise prices are still not published."
 image: /assets/images/lava-smartphone-price-hike-november-15.jpg
 image_alt: "Three budget smartphones on a shop counter with a glowing red upward arrow and a desk calendar with the 15th circled"
 image_credit: "Illustration, not the actual products"
@@ -20,6 +22,8 @@ sources:
 Lava, the Indian smartphone brand, will raise the prices of its phones by **up to ₹3,000** from **November 15, 2026**. The company says the increase covers its smartphone portfolio and blames the ongoing shortage of memory chips.
 
 <!--more-->
+
+**Update, November 15:** The price revision is now in effect from today, as Lava announced. When we checked on November 15, Lava still hadn't published a model-by-model list of new prices, so check the current price of the exact model on Amazon, Flipkart or Lava's store before you buy, and compare it with similar phones from other brands.
 
 ## What Lava said
 
@@ -59,7 +63,7 @@ Budget phones feel this the most, because memory makes up a bigger share of thei
   <figcaption>Illustration</figcaption>
 </figure>
 
-{% include buy.html name="Lava 5G smartphones" query="Lava 5G smartphone" note="Check today's price before the November 15 hike" %}
+{% include buy.html name="Lava 5G smartphones" query="Lava 5G smartphone" note="New prices apply from November 15; check the current price" %}
 
 We'll update this post when Lava shares the new price list.
 

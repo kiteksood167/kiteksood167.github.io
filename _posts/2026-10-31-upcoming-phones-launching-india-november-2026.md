@@ -121,7 +121,7 @@ My final suggestion:
 
 > **Tip:** If you're buying a phone under ₹30,000, don't wait for these. They're all flagships at ₹70,000 or more. If you're spending ₹70,000 or more, wait until the Signature 27's India price is out in November, because a new launch often pushes older flagships into sale prices.
 
-Also keep an eye on budget phones: some brands are raising prices from November 15, including [Lava](/lava-smartphone-price-hike-november-15/) and [AI+](/ai-plus-smartphone-price-hike-november-15/).
+Also keep an eye on budget phones: some brands have raised prices this month, including [Lava](/lava-smartphone-price-hike-november-15/) (from November 15) and [AI+](/ai-plus-smartphone-price-hike-november-15/) (from November 11).
 
 **Related reading:** [Motorola Signature 27 India Launch Confirmed for November](/motorola-signature-27-india-launch-november-expected-price-specs/) · [Infinix GT 50 Pro Launched in India at ₹69,999](/infinix-gt-50-pro-india-launch-october-27/)
 
