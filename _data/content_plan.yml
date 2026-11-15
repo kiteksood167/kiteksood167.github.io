@@ -9,13 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-14
-  audience: Global
-  category: Global
-  title: "Best Robot Vacuums Under $300 in 2026"
-  slug: best-robot-vacuums-under-300
-  image: best-robot-vacuums-under-300.jpg
-
 - date: 2026-11-15
   audience: India
   category: Audio
@@ -36,3 +29,31 @@
   title: "Best Gaming Laptops Under ₹70,000 in India"
   slug: best-gaming-laptops-under-70000
   image: best-gaming-laptops-under-70000.jpg
+
+- date: 2026-11-19
+  audience: Global
+  category: Global
+  title: "Best Video Doorbells Under $150 in 2026"
+  slug: best-video-doorbells-under-150
+  image: best-video-doorbells-under-150.jpg
+
+- date: 2026-11-20
+  audience: India
+  category: Tablets
+  title: "Tablet Buying Guide: 8 Specs That Actually Matter"
+  slug: tablet-buying-guide-india
+  image: tablet-buying-guide-india.jpg
+
+- date: 2026-11-21
+  audience: Global
+  category: Global
+  title: "PS5 vs Nintendo Switch 2: Which Console to Buy This Holiday"
+  slug: ps5-vs-nintendo-switch-2
+  image: ps5-vs-nintendo-switch-2.jpg
+
+- date: 2026-11-22
+  audience: India
+  category: Gaming
+  title: "Best Gaming Controllers for Phone and PC in India (2026)"
+  slug: best-gaming-controllers-india
+  image: best-gaming-controllers-india.jpg
