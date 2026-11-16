@@ -9,13 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-15
-  audience: India
-  category: Audio
-  title: "Neckband vs TWS Earbuds: Which Should You Buy?"
-  slug: neckband-vs-tws-earbuds
-  image: neckband-vs-tws-earbuds.jpg
-
 - date: 2026-11-16
   audience: Global
   category: Global
