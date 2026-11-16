@@ -119,6 +119,20 @@ Watch out for listings that just say "AirPods 4" without "Active Noise Cancellat
 - **Office, home and casual listening:** AirPods 5. They're comfortable for hours and cost about $70 less than Pro 3 on sale.
 - **Tight budget:** AirPods 5 at $129, or a clearance AirPods 4 with ANC if it's clearly cheaper. If you use Android, look beyond AirPods entirely; our [best noise cancelling headphones under $100](/best-noise-cancelling-headphones-under-100/) roundup is a good start.
 
+## Our take
+
+**Would you pay extra for noise cancellation, or are basic earbuds enough?**
+
+Yes, if the noise cancellation is good, I would happily pay extra. It is useful during travel and calls.
+
+**Silicone ear tips or an open fit: which do you find better?**
+
+I consider earbuds with silicone tips better, because they fit perfectly in the ear and let in less outside noise.
+
+**What do you check before buying earbuds in a Black Friday sale?**
+
+First, I check the sound quality, battery backup, noise cancellation and comfort. I also compare reviews and the discount.
+
 **Related reading:** [Best Workout Earbuds Under $50 in 2026: Sweatproof Picks That Stay Put](/best-workout-earbuds-under-50/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
 ## The bottom line
