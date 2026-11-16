@@ -19,7 +19,10 @@ Google indexed only 10 of ~70 pages on 10 Nov 2026 ("Crawled - currently not ind
 5. **Never post the owner's "Our take" answers yourself.** Leave the section out; the owner adds his answers later.
 6. **Future-dated posts are fine.** `.github/workflows/scheduled-publish.yml` rebuilds the site every hour at :05 UTC (:35 IST), so a post with a future `date:` goes live by itself shortly after that time. Always use IST (`+0530`) in `date:`.
 7. **Do not touch Search Console from a task** (no "Validate fix", no indexing requests). The owner or the interactive assistant does that, once per URL.
-8. **No posts about China-only or global-only launches (owner's rule, 16 Nov 2026).** If a phone or gadget has launched only in China, or only globally (US/Europe/other markets) and not in India, do NOT create a new post about it in any category, including Global. Write about it only once its India launch is officially confirmed (date or price). Until then, at most add a short line to an existing post (for example the month's upcoming-launches post) if it is clearly relevant to Indian buyers.
+8. **China-only launches: no posts; global launches: only if US buyers can buy it (owner's rule, 16 Nov 2026).**
+   - A phone or gadget launched **only in China**: never write a post about it (no Launches post, no Global post). Write about it only once its India launch is officially confirmed (date or price), or once it is officially sold in the US.
+   - A **global launch** (US/UK) is fine as a Global post (`category: Global`), but only for products officially sold in the US, ideally on Amazon.com, so the post can carry a `store="us"` buy button once it is on sale (Apple, Samsung, Google, Motorola, OnePlus, Nothing, Sony, Bose, Anker and similar). Skip brands that don't sell officially in the US (for example Xiaomi, Vivo, OPPO, Realme, iQOO phones); cover them only when they launch in India.
+   - Global buying guides and comparisons of products already on Amazon.com earn more than launch news, so prefer those on Global days. The one-post-per-day limit still applies to everything.
 9. Spend spare effort on **improving existing posts**: refresh prices, add internal links between related posts, fix outdated facts. That helps indexing more than new posts.
 
 ## Audience
@@ -65,7 +68,7 @@ The main daily task alternates India and Global days. The launch and news tasks 
 - Include: official India price for each variant, launch/sale date, where to buy, launch offers, 5–8 key specs in a table, who it's for, and 1–2 close rivals at similar prices.
 - 500–900 words is fine for launch posts.
 - Add a buy button only once the product is actually on sale.
-- Never write a launch post (or a Global post) about a phone or gadget launched only in China or only outside India. Wait for an official India launch date or price (see "Publishing pace", rule 8).
+- Never write a post about a phone or gadget launched only in China. Global (US/UK) launches go in category Global only if the product is officially sold in the US (see "Publishing pace", rule 8).
 
 ## News posts (midday task, added Oct 2026)
 - Written by the midday news task. Covers gadget news that is NOT a new launch: price cuts and new prices in India, big sale announcements with confirmed dates, major software updates (Android, iOS, One UI and similar) and which phones get them, new features rolled out to popular devices, recalls or safety warnings, and policy or rule changes that affect gadget buyers. New launches stay with the evening launch task.
