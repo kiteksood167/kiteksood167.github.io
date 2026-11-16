@@ -1,7 +1,8 @@
 # Sidebar 'Top picks' by topic. in = India posts (Amazon.in/Flipkart), us = Global posts (Amazon.com).
 # Products are copied from the buy boxes already in each guide. Regenerate if those change.
+# No India vacuum guide yet, so India vacuum posts show no picks box. India speaker posts reuse the earbuds picks.
 earbuds:
-  in:
+  in: &id001
     guide: /best-tws-earbuds-under-3000/
     title: Best TWS Earbuds Under ₹3,000 in India (2026)
     picks:
@@ -49,16 +50,7 @@ headphones:
       query: CMF Headphone Pro
       store: us
 speakers:
-  in:
-    guide: /best-tws-earbuds-under-3000/
-    title: Best TWS Earbuds Under ₹3,000 in India (2026)
-    picks:
-    - name: OnePlus Nord Buds 3 Pro
-      query: OnePlus Nord Buds 3 Pro
-    - name: Realme Buds T310
-      query: realme Buds T310
-    - name: OnePlus Nord Buds 3r
-      query: OnePlus Nord Buds 3r
+  in: *id001
   us:
     guide: /best-bluetooth-speakers-under-50/
     title: 'Best Bluetooth Speakers Under $50 in 2026: Small, Waterproof and Loud Enough'
@@ -185,16 +177,6 @@ power:
       query: Motorola Moto G 2026 unlocked
       store: us
 vacuum:
-  in:
-    guide: /best-43-inch-smart-tv-india/
-    title: Best 43 Inch Smart TV in India This Diwali (November 2026)
-    picks:
-    - name: Xiaomi FX 43-inch 4K Fire TV (L43MB-FIN)
-      query: Xiaomi FX 43 inch 4K Fire TV L43MB-FIN
-    - name: Hisense E75Q 43-inch 4K QLED (43E75Q)
-      query: Hisense 43E75Q 43 inch QLED
-    - name: Philips 8100 Series 43-inch 4K QLED Google TV (43PQT8100/94)
-      query: Philips 43PQT8100/94
   us:
     guide: /best-robot-vacuums-under-300/
     title: Best Robot Vacuums Under $300 in 2026

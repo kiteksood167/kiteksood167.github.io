@@ -1,7 +1,7 @@
 ---
-title: "Best 43 Inch Smart TV in India This Diwali (November 2026)"
-seo_title: "Best 43 Inch Smart TV in India This Diwali"
-description: "The best 43-inch smart TVs in India this Diwali, from ₹22,800 to ₹34,000: Xiaomi, Philips, Hisense and Samsung picks, with current prices and specs."
+title: "Best 43 Inch Smart TV in India (November 2026)"
+seo_title: "Best 43 Inch Smart TV in India (Nov 2026)"
+description: "The best 43-inch smart TVs in India in November 2026, from ₹22,800 to ₹34,000: Xiaomi, Philips, Hisense and Samsung picks, with current prices and specs."
 date: 2026-11-05 22:35:00 +0530
 category: Smart Home
 also_in: [Guides]
