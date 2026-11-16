@@ -3,6 +3,9 @@ title: "AirPods Pro 3 vs AirPods 4 (and AirPods 5): Which to Buy This Black Frid
 seo_title: "AirPods Pro 3 vs AirPods 4 vs AirPods 5"
 description: "AirPods Pro 3 vs AirPods 4 and the new AirPods 5: noise cancellation, fit, battery and Black Friday prices compared, so you buy the right pair."
 date: 2026-11-16 08:46:00 +0530
+image: /assets/images/airpods-pro-3-vs-airpods-4.jpg
+image_alt: "Two pairs of white wireless earbuds with open charging cases on a dark desk, one pair with silicone ear tips and one without"
+image_credit: "Illustration, not the actual products"
 category: Global
 also_in: [Audio]
 tags: [airpods pro 3, airpods 4, airpods 5, apple, earbuds, comparison, black friday, usa, uk]
@@ -63,11 +66,21 @@ AirPods 5 (like AirPods 4) rest in the outer ear with no tips. They feel lighter
 
 > **Tip:** If you've never been able to wear tipless AirPods (they fall out) or you've never liked in-ear tips (they feel blocked), that history matters more than any spec in this article. Buy from a store with an easy return window, and test the fit during the first few days.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/woman-wearing-earbud-silicone-tip-profile.jpg" alt="Side profile of a woman wearing a white wireless earbud with a silicone ear tip" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 ## Noise cancellation and sound
 
 On noisy commutes, flights and open offices, AirPods Pro 3 are in a different league. Apple says they cancel twice as much noise as AirPods Pro 2 and up to three times as much as AirPods 5. Reviews from Tom's Guide and BGR also rate the Pro 3's sound quality ahead of AirPods 5.
 
 AirPods 5's ANC is still a useful upgrade. It takes the edge off traffic, fans and engine hum, and Apple's Adaptive Audio and Conversation Awareness work on all three models. Just don't expect open-ear earbuds to shut out a crying baby on a plane.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/man-earbuds-noise-cancelling-city-bus-night.jpg" alt="A man wearing white wireless earbuds looking out of a city bus window at night" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Battery life
 
