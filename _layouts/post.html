@@ -21,7 +21,8 @@ layout: default
     </div>
   </header>
 
-  <div class="wrap narrow">
+  <div class="post-layout">
+  <div class="wrap narrow post-main">
     {% if page.image %}
     <figure class="post-cover">
       <img src="{{ page.image | relative_url }}" srcset="{% include cover-srcset.html src=page.image %}" sizes="(max-width: 800px) 100vw, 760px" width="1600" height="900" fetchpriority="high" alt="{{ page.image_alt | default: page.title | escape }}">
@@ -77,6 +78,8 @@ layout: default
       </div>
     </section>
     {% endif %}
+  </div>
+  {% include sidebar.html %}
   </div>
 </article>
 {% include share-script.html %}

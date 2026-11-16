@@ -1,0 +1,76 @@
+{% comment %}
+  Post sidebar (desktop only, hidden under 1100px).
+  Topic comes from the post's category, also_in and tags; set `sidebar_topic:` in front matter to override.
+  Picks come from _data/sidebar_picks.yml. Global posts use the US (Amazon.com) picks.
+{% endcomment %}
+{% capture src %}{{ page.category }} {{ page.also_in | join: ' ' }} {{ page.tags | join: ' ' }} {{ page.title }}{% endcapture %}
+{% assign src = src | downcase %}
+{% assign topic = page.sidebar_topic %}
+{% unless topic %}
+  {% if src contains 'vacuum' %}{% assign topic = 'vacuum' %}
+  {% elsif src contains 'speaker' %}{% assign topic = 'speakers' %}
+  {% elsif src contains 'headphone' %}{% assign topic = 'headphones' %}
+  {% elsif src contains 'earbud' or src contains 'neckband' or src contains 'airpods' or src contains 'tws' or src contains 'audio' %}{% assign topic = 'earbuds' %}
+  {% elsif src contains ' tv' or src contains 'television' %}{% assign topic = 'tv' %}
+  {% elsif src contains 'tablet' or src contains 'ipad' %}{% assign topic = 'tablets' %}
+  {% elsif src contains 'watch' or src contains 'wearable' or src contains 'fitness band' %}{% assign topic = 'wearables' %}
+  {% elsif src contains 'laptop' or src contains 'macbook' or src contains 'windows' %}{% assign topic = 'laptops' %}
+  {% elsif src contains 'power bank' or src contains 'charging' %}{% assign topic = 'power' %}
+  {% else %}{% assign topic = 'phones' %}{% endif %}
+{% endunless %}
+{% if page.category == 'Global' %}{% assign reg = 'us' %}{% else %}{% assign reg = 'in' %}{% endif %}
+{% assign box = site.data.sidebar_picks[topic][reg] %}
+<aside class="post-sidebar" aria-label="Sidebar">
+  <div class="sb-top">
+  <section class="sb-card">
+    <p class="sb-label">Popular guides</p>
+    <ol class="sb-list">
+      {% if reg == 'us' %}{% assign pop = "black-friday-2026-tech-deals-how-to-spot-real-discount,airpods-pro-3-vs-airpods-4,best-65-inch-tv-2026,best-noise-cancelling-headphones-under-100,best-robot-vacuums-under-300" | split: ',' %}
+      {% else %}{% assign pop = "how-to-choose-a-smartphone-under-20000,best-tws-earbuds-under-3000,best-laptops-under-50000-india,best-43-inch-smart-tv-india,neckband-vs-tws-earbuds" | split: ',' %}{% endif %}
+      {% assign n = 0 %}
+      {% for s in pop %}{% assign u = '/' | append: s | append: '/' %}{% if u != page.url %}{% assign hit = site.posts | where: 'url', u | first %}{% if hit and n < 4 %}{% assign n = n | plus: 1 %}<li><a href="{{ hit.url | relative_url }}">{{ hit.seo_title | default: hit.title }}</a></li>{% endif %}{% endif %}{% endfor %}
+    </ol>
+  </section>
+
+  <section class="sb-card sb-wa">
+    <p class="sb-label">Get updates</p>
+    <span>New guides and launch news on WhatsApp. No spam.</span>
+    <a class="btn btn-sm sb-wa-btn" href="{{ site.whatsapp_channel_url }}" target="_blank" rel="noopener">Join WhatsApp Channel</a>
+  </section>
+  </div>
+  <div class="sb-sticky">
+  {% if box and box.picks.size > 0 %}
+  <section class="sb-card sb-picks">
+    <p class="sb-label">Top picks</p>
+    <ul>
+      {% for p in box.picks %}
+      {% capture q %}{{ p.query | default: p.name | url_encode }}{% endcapture %}
+      <li>
+        <strong>{{ p.name }}</strong>
+        <span class="sb-btns">
+          {% if p.store == 'us' %}
+          <a class="btn btn-sm" href="https://www.amazon.com/s?k={{ q }}{% if site.amazon_tag_us != '' %}&tag={{ site.amazon_tag_us }}{% endif %}" target="_blank" rel="sponsored nofollow noopener">Amazon</a>
+          {% else %}
+          <a class="btn btn-sm" href="https://www.amazon.in/s?k={{ q }}{% if site.amazon_tag != '' %}&tag={{ site.amazon_tag }}{% endif %}" target="_blank" rel="sponsored nofollow noopener">Amazon</a>
+          {% if p.flipkart != 'no' and site.flipkart_affid and site.flipkart_affid != '' %}<a class="btn btn-sm btn-alt" href="https://www.flipkart.com/search?q={{ q }}&affid={{ site.flipkart_affid }}" target="_blank" rel="sponsored nofollow noopener">Flipkart</a>{% endif %}
+          {% endif %}
+        </span>
+      </li>
+      {% endfor %}
+    </ul>
+    {% if box.guide != page.url %}<a class="sb-more" href="{{ box.guide | relative_url }}">Why we picked these →</a>{% endif %}
+    <p class="sb-fine">Affiliate links. We may earn a small commission. <a href="{{ '/disclosure/' | relative_url }}">Disclosure</a></p>
+  </section>
+  {% endif %}
+
+  {% if reg == 'in' %}
+  <a class="sb-card sb-finder" href="{{ '/phone-finder/' | relative_url }}">
+    <p class="sb-label">Free tool</p>
+    <strong>Phone Finder</strong>
+    <span>Answer 5 quick questions and get the right phone for your budget.</span>
+    <span class="sb-cta">Find my phone →</span>
+  </a>
+  {% endif %}
+
+  </div>
+</aside>

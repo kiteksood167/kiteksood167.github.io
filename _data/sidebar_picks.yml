@@ -1,0 +1,229 @@
+# Sidebar 'Top picks' by topic. in = India posts (Amazon.in/Flipkart), us = Global posts (Amazon.com).
+# Products are copied from the buy boxes already in each guide. Regenerate if those change.
+earbuds:
+  in:
+    guide: /best-tws-earbuds-under-3000/
+    title: Best TWS Earbuds Under ₹3,000 in India (2026)
+    picks:
+    - name: OnePlus Nord Buds 3 Pro
+      query: OnePlus Nord Buds 3 Pro
+    - name: Realme Buds T310
+      query: realme Buds T310
+    - name: OnePlus Nord Buds 3r
+      query: OnePlus Nord Buds 3r
+  us:
+    guide: /best-workout-earbuds-under-50/
+    title: 'Best Workout Earbuds Under $50 in 2026: Sweatproof Picks That Stay Put'
+    picks:
+    - name: JLab Go Sport+ True Wireless Earbuds
+      query: JLab Go Sport+ earbuds
+      store: us
+    - name: Soundcore P31i Noise Cancelling Earbuds
+      query: Soundcore P31i earbuds
+      store: us
+    - name: TOZO NC9 Noise Cancelling Earbuds
+      query: TOZO NC9 earbuds
+      store: us
+headphones:
+  in:
+    guide: /best-tws-earbuds-under-3000/
+    title: Best TWS Earbuds Under ₹3,000 in India (2026)
+    picks:
+    - name: OnePlus Nord Buds 3 Pro
+      query: OnePlus Nord Buds 3 Pro
+    - name: Realme Buds T310
+      query: realme Buds T310
+    - name: OnePlus Nord Buds 3r
+      query: OnePlus Nord Buds 3r
+  us:
+    guide: /best-noise-cancelling-headphones-under-100/
+    title: Best Noise Cancelling Headphones Under $100 in 2026
+    picks:
+    - name: Sony WH-CH720N Noise Canceling Headphones
+      query: Sony WH-CH720N
+      store: us
+    - name: Soundcore Space One ANC Headphones
+      query: Soundcore Space One headphones
+      store: us
+    - name: CMF Headphone Pro
+      query: CMF Headphone Pro
+      store: us
+speakers:
+  in:
+    guide: /best-tws-earbuds-under-3000/
+    title: Best TWS Earbuds Under ₹3,000 in India (2026)
+    picks:
+    - name: OnePlus Nord Buds 3 Pro
+      query: OnePlus Nord Buds 3 Pro
+    - name: Realme Buds T310
+      query: realme Buds T310
+    - name: OnePlus Nord Buds 3r
+      query: OnePlus Nord Buds 3r
+  us:
+    guide: /best-bluetooth-speakers-under-50/
+    title: 'Best Bluetooth Speakers Under $50 in 2026: Small, Waterproof and Loud Enough'
+    picks:
+    - name: Soundcore Select 4 Go Bluetooth Speaker
+      query: Soundcore Select 4 Go speaker
+      store: us
+    - name: Tribit StormBox Micro 2 Portable Speaker
+      query: Tribit StormBox Micro 2
+      store: us
+    - name: JBL Clip 5 Portable Speaker
+      query: JBL Clip 5
+      store: us
+laptops:
+  in:
+    guide: /best-laptops-under-50000-india/
+    title: 'Best Laptops Under ₹50,000 in India (November 2026): What You Can Actually Get'
+    picks:
+    - name: Acer Aspire 3 (Core i3-1315U, 16GB/512GB)
+      query: Acer Aspire 3 i3-1315U 16GB 512GB
+    - name: Acer Aspire One (Ryzen 5 40, 8GB/512GB)
+      query: Acer Aspire One Ryzen 5 40 8GB 512GB Office 2024
+    - name: HP Professional 15 (Core 3 100U, 8GB/512GB)
+      query: HP Professional 15 Core 3 100U 8GB 512GB Windows 11 Pro
+  us:
+    guide: /best-laptops-for-college-students-under-700/
+    title: Best Laptops for College Students Under $700
+    picks:
+    - name: Apple MacBook Neo (256GB)
+      query: Apple MacBook Neo 13 inch 256GB
+      store: us
+    - name: Dell XPS 13 (2026) Core 5 320, 8GB, 512GB
+      query: Dell XPS 13 2026 Intel Core 5 320 8GB 512GB
+      store: us
+    - name: Lenovo Chromebook Plus 2-in-1 (14-inch)
+      query: Lenovo Chromebook Plus 2-in-1 14 inch Core 3 N355
+      store: us
+tv:
+  in:
+    guide: /best-43-inch-smart-tv-india/
+    title: Best 43 Inch Smart TV in India This Diwali (November 2026)
+    picks:
+    - name: Xiaomi FX 43-inch 4K Fire TV (L43MB-FIN)
+      query: Xiaomi FX 43 inch 4K Fire TV L43MB-FIN
+    - name: Hisense E75Q 43-inch 4K QLED (43E75Q)
+      query: Hisense 43E75Q 43 inch QLED
+    - name: Philips 8100 Series 43-inch 4K QLED Google TV (43PQT8100/94)
+      query: Philips 43PQT8100/94
+  us:
+    guide: /best-65-inch-tv-2026/
+    title: 'Best 65 Inch TV in 2026: Top Picks Before Black Friday'
+    picks:
+    - name: LG C6 OLED 65-inch
+      query: LG C6 OLED 65 inch 2026
+      store: us
+    - name: Hisense U7SG 65-inch
+      query: Hisense 65U7SG U7SG 65 inch mini LED
+      store: us
+    - name: TCL QM7L 65-inch
+      query: TCL 65QM7L QM7L 65 inch mini LED
+      store: us
+tablets:
+  in:
+    guide: /best-tablets-for-students-under-20000/
+    title: Best Tablets for Students in India Under ₹20,000
+    picks:
+    - name: Redmi Pad 2 (Wi-Fi)
+      query: Redmi Pad 2 Wi-Fi 128GB tablet
+    - name: Lenovo Idea Tab (Wi-Fi, with Pen)
+      query: Lenovo Idea Tab with Pen Wi-Fi 128GB
+    - name: OPPO Pad SE (8GB/128GB, LTE)
+      query: OPPO Pad SE 8GB 128GB LTE
+  us:
+    guide: /best-tablets-under-300/
+    title: 'Best Tablets Under $300 in 2026: iPad, Galaxy Tab and Budget Picks'
+    picks:
+    - name: Apple iPad (A16, 128GB)
+      query: Apple iPad 11 inch A16 128GB
+      store: us
+    - name: Samsung Galaxy Tab A11+
+      query: Samsung Galaxy Tab A11+ 11 inch
+      store: us
+    - name: Samsung Galaxy Tab A9+
+      query: Samsung Galaxy Tab A9+ 11 inch
+      store: us
+wearables:
+  in:
+    guide: /best-smartwatches-under-5000/
+    title: Best Smartwatches Under ₹5,000 in India (2026)
+    picks:
+    - name: Redmi Watch 5 Lite
+      query: Redmi Watch 5 Lite
+    - name: CMF Watch Pro 2
+      query: CMF Watch Pro 2 smartwatch
+    - name: Redmi Watch Move
+      query: Redmi Watch Move
+  us:
+    guide: /best-smartwatches-for-iphone/
+    title: Best Smartwatches for iPhone in 2026
+    picks:
+    - name: Apple Watch Series 12
+      query: Apple Watch Series 12
+      store: us
+    - name: Garmin Forerunner 570
+      query: Garmin Forerunner 570
+      store: us
+power:
+  in:
+    guide: /best-power-banks-india/
+    title: 'Best Power Banks in India: How to Choose the Right One'
+    picks:
+    - name: Xiaomi Power Bank 4i 10000mAh
+      query: Xiaomi Power Bank 4i 10000mAh 22.5W
+    - name: Xiaomi Power Bank 5i 20000mAh 67W
+      query: Xiaomi Power Bank 5i 20000mAh 67W
+  us:
+    guide: /best-budget-phones-under-300/
+    title: Best Budget Phones Under $300 in 2026
+    picks:
+    - name: Samsung Galaxy A17 5G (unlocked)
+      query: Samsung Galaxy A17 5G unlocked
+      store: us
+    - name: Motorola Moto G (2026) unlocked
+      query: Motorola Moto G 2026 unlocked
+      store: us
+vacuum:
+  in:
+    guide: /best-43-inch-smart-tv-india/
+    title: Best 43 Inch Smart TV in India This Diwali (November 2026)
+    picks:
+    - name: Xiaomi FX 43-inch 4K Fire TV (L43MB-FIN)
+      query: Xiaomi FX 43 inch 4K Fire TV L43MB-FIN
+    - name: Hisense E75Q 43-inch 4K QLED (43E75Q)
+      query: Hisense 43E75Q 43 inch QLED
+    - name: Philips 8100 Series 43-inch 4K QLED Google TV (43PQT8100/94)
+      query: Philips 43PQT8100/94
+  us:
+    guide: /best-robot-vacuums-under-300/
+    title: Best Robot Vacuums Under $300 in 2026
+    picks:
+    - name: Roborock Q7 M5+ with auto-empty dock
+      query: Roborock Q7 M5+ robot vacuum
+      store: us
+    - name: Dreame D20 Air Plus
+      query: Dreame D20 Air Plus robot vacuum
+      store: us
+    - name: MOVA S10 robot vacuum
+      query: MOVA S10 robot vacuum LiDAR
+      store: us
+phones:
+  in:
+    guide: /best-gaming-phones-under-30000/
+    title: Best Gaming Phones Under ₹30,000 in India (November 2026)
+    picks:
+    - name: iQOO Neo 10R
+      query: iQOO Neo 10R 5G
+    - name: Realme Narzo Power 5G
+      query: realme narzo power 5G 10001mAh
+  us:
+    guide: /best-budget-phones-under-300/
+    title: Best Budget Phones Under $300 in 2026
+    picks:
+    - name: Samsung Galaxy A17 5G (unlocked)
+      query: Samsung Galaxy A17 5G unlocked
+      store: us
+    - name: Motorola Moto G (2026) unlocked
+      query: Motorola Moto G 2026 unlocked
+      store: us
