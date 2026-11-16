@@ -16,7 +16,7 @@ def font(n, s): return ImageFont.truetype(F + n, s)
 
 def wrap(d, text, f, maxw):
     lines, cur = [], ""
-    for w in text.split():
+    for w in text.split(" "):
         t = (cur + " " + w).strip()
         if d.textlength(t, font=f) <= maxw: cur = t
         else: lines.append(cur); cur = w
