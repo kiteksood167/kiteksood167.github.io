@@ -30,6 +30,7 @@ I've been into gadgets since around 2011, when Nokia launched its first Windows 
 
 ## As featured on
 
+- **HackerNoon** — Kitek wrote [The Silicon-Carbon Battery Breakthrough Behind 7,000mAh Smartphones](https://hackernoon.com/the-silicon-carbon-battery-breakthrough-behind-7000mah-smartphones), an explainer on why phone batteries suddenly got so big (November 2026).
 - **Connectively** — Kitek's insights were included in [Must-Have Smart Home Devices for the 2026 Holiday Season](https://blog.connectively.us/must-have-smart-home-devices-for-the-2026-holiday-season/) (October 2026).
 - **Emailchaser** — Kitek's tips on spotting fake emails are quoted in the expert section of their [reverse email lookup guide](https://www.emailchaser.com/reverse-email-lookup#expert-take-heading) (October 2026).
 
