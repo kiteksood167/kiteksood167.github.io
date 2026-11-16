@@ -4,7 +4,7 @@ permalink: /privacy-policy/
 description: "How GadgetGyaan collects, uses and protects your information, including cookies, analytics, comments and affiliate links on our site."
 ---
 
-*Last updated: 20 October 2026*
+*Last updated: 16 November 2026*
 
 This Privacy Policy explains how {{ site.title }} ("we", "us") handles information when you visit {{ site.url }} (the "Site").
 
@@ -15,6 +15,8 @@ This Privacy Policy explains how {{ site.title }} ("we", "us") handles informati
 **Newsletter.** If you subscribe to our email newsletter, your email address is stored by our email provider, Kit (kit.com), and used only to send you the newsletter. Every email has an unsubscribe link, and you can also email us to be removed.
 
 **Information collected automatically.** Like most websites, our hosting provider and analytics or advertising partners may collect standard technical information such as your IP address, browser type, device, pages visited and the time of your visit. This is used to keep the Site working, understand which content is useful and show relevant ads.
+
+**Analytics.** We use **Google Analytics** and **Microsoft Clarity** to understand how visitors use the Site. Clarity records anonymised information about how you interact with pages, such as clicks, scrolling and mouse movement, and can create heatmaps and session replays. Text you type into forms is masked and not recorded. Microsoft processes this data under its [privacy statement](https://www.microsoft.com/privacy/privacystatement). Both tools use cookies or similar technologies. You can block them with your browser's privacy settings or a tracker blocker.
 
 ## Comments
 
