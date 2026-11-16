@@ -52,7 +52,7 @@
           <a class="btn btn-sm" href="https://www.amazon.com/s?k={{ q }}{% if site.amazon_tag_us != '' %}&tag={{ site.amazon_tag_us }}{% endif %}" target="_blank" rel="sponsored nofollow noopener">Amazon</a>
           {% else %}
           <a class="btn btn-sm" href="https://www.amazon.in/s?k={{ q }}{% if site.amazon_tag != '' %}&tag={{ site.amazon_tag }}{% endif %}" target="_blank" rel="sponsored nofollow noopener">Amazon</a>
-          {% if p.flipkart != 'no' and site.flipkart_affid and site.flipkart_affid != '' %}<a class="btn btn-sm btn-alt" href="https://www.flipkart.com/search?q={{ q }}&affid={{ site.flipkart_affid }}" target="_blank" rel="sponsored nofollow noopener">Flipkart</a>{% endif %}
+          {% if p.flipkart != 'no' and site.flipkart_affid and site.flipkart_affid != '' %}<a class="btn btn-sm btn-alt" href="https://dl.flipkart.com/dl/search?q={{ q }}&affid={{ site.flipkart_affid }}" target="_blank" rel="sponsored nofollow noopener">Flipkart</a>{% endif %}
           {% endif %}
         </span>
       </li>

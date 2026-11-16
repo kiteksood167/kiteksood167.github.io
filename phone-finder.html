@@ -244,7 +244,7 @@ permalink: /phone-finder/
   function links(p) {
     var q = encodeURIComponent(p.query || p.name);
     var amz = 'https://www.amazon.in/s?k=' + q + (AMZ_TAG ? '&tag=' + encodeURIComponent(AMZ_TAG) : '');
-    var fk = FK_ID ? 'https://www.flipkart.com/search?q=' + q + '&affid=' + encodeURIComponent(FK_ID) : '';
+    var fk = FK_ID ? 'https://dl.flipkart.com/dl/search?q=' + q + '&affid=' + encodeURIComponent(FK_ID) : '';
     return { amz: amz, fk: fk };
   }
 
