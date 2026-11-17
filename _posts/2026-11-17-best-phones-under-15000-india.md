@@ -6,6 +6,9 @@ category: Phones
 also_in: [Guides]
 tags: [budget phones, phones under 15000, 5G phones, POCO M7 Pro 5G, Infinix Note 50x 5G, Samsung Galaxy F16 5G, Moto G37, buying guide]
 affiliate: true
+image: /assets/images/best-phones-under-15000-india.jpg
+image_alt: "Four budget smartphones in black, blue, mint green and silver standing in a row on a dark reflective table with green and orange neon light"
+image_credit: "Illustration, not the actual products"
 sources:
   - name: "The Quint: POCO M7 Pro 5G launched in India, price and specifications"
     url: "https://www.thequint.com/tech-and-auto/tech-news/poco-m7-pro-5g-launched-in-india-features-specifications-and-price"
@@ -27,6 +30,11 @@ Finding a good phone under ₹15,000 is harder in late 2026 than it was a year a
 ## Why fewer phones fit under ₹15,000 now
 
 Through 2026, brands have raised prices on budget phones because RAM and storage chips cost more. The [Lava price hike of up to ₹3,000](/lava-smartphone-price-hike-november-15/) that started on November 15 is only the latest one. According to 91mobiles' price-hike tracker, the Redmi 15C (4GB + 128GB) went from ₹12,499 to ₹16,999, and the Vivo T4x (6GB + 128GB) from ₹13,999 to ₹16,999. Phones that were easy recommendations at ₹13,000 now cost ₹17,000 or more.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-memory-chip-price-rise-arrow-neon.jpg" alt="Memory chips on a phone circuit board with a glowing arrow rising above them, green and orange neon light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 So this list sticks to phones that are actually selling under ₹15,000 on Flipkart or Amazon in mid-November 2026, and it skips phones that only hit this price with bank offers.
 
@@ -98,6 +106,11 @@ The Moto G37 Power version adds a 7,000mAh battery and 30W charging, but its lis
 If you can stretch your budget by ₹1,500 to ₹2,000, the **Samsung Galaxy A07 5G** (around ₹16,690 on Amazon for 4GB + 128GB) adds a 6,000mAh battery and six years of updates. Above that, our guide on [how to choose a smartphone under ₹20,000](/how-to-choose-a-smartphone-under-20000/) explains which specs are worth paying more for. You can also compare every phone we track on our [phones by budget](/phones-by-budget/) page or take the 4-question [Phone Finder](/phone-finder/) quiz.
 
 ## How to choose between them
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/man-comparing-two-budget-phones-desk.jpg" alt="Young man at a desk holding two budget smartphones side by side and comparing them" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 - **Pick the POCO M7 Pro 5G** if screen quality and photos matter most.
 - **Pick the Infinix Note 50x 5G+** if you play games like BGMI or Free Fire and want the fastest chip.
