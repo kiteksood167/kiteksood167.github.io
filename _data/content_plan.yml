@@ -9,13 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-16
-  audience: Global
-  category: Global
-  title: "AirPods Pro 3 vs AirPods 4: Which to Buy This Black Friday"
-  slug: airpods-pro-3-vs-airpods-4
-  image: airpods-pro-3-vs-airpods-4.jpg
-
 # Owner asked (16 Nov) for the most useful, most searched post here. Huge evergreen India search, budget buyers, Amazon/Flipkart affiliate.
 # Use _data/phone_finder.yml for candidates, then confirm current prices on Amazon.in/Flipkart on the day; only phones actually on sale under ₹15,000.
 # Mention the November price hikes (Lava, Ai+). Link /how-to-choose-a-smartphone-under-20000/, /phone-finder/, /phones-by-budget/ and /lava-smartphone-price-hike-november-15/.
