@@ -119,6 +119,14 @@ If you can stretch your budget by ₹1,500 to ₹2,000, the **Samsung Galaxy A07
 
 Whichever you buy, [check that the phone is genuine before you accept the delivery](/check-new-phone-genuine-before-accepting-delivery/), especially when a third-party seller is listed.
 
+## Our take
+
+**Which of these four would you buy?**
+If I had to buy one phone out of these four, I would take the Samsung Galaxy F16. Its display, software experience and long term updates are good, and in the 15000 budget it is a really good choice. I have used a Samsung phone before, and Samsung phones are good and last for a long time.
+
+**What should you prioritise in this budget?**
+According to me, for buying a phone in this budget you need to give the most priority to performance, battery and software updates. Camera and display are also very important, but the phone should run smooth for a long time. I normally use my phone for 3 to 4 years, so my main focus is that it keeps running smooth in the long term. As long as the phone works fine, I keep using it.
+
 **Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/)
 
 ## The bottom line
