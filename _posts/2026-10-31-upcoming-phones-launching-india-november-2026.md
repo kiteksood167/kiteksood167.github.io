@@ -53,7 +53,7 @@ What Motorola has confirmed:
 - **Audio:** tuned by Bang & Olufsen
 - **Software:** Android 17, with 7 years of OS updates promised
 
-There's no official price yet. Estimates range from about ₹70,000 to close to ₹1 lakh, and the current Motorola Signature started at ₹59,999 in January. We've covered the full details in our [Motorola Signature 27 India launch post](/motorola-signature-27-india-launch-november-expected-price-specs/).
+There's no official price yet. Estimates range from about ₹70,000 to close to ₹1 lakh, and the current Motorola Signature started at ₹59,999 in January. We've covered the full details in our [Motorola Signature 27 post](/motorola-signature-27-launch-us-price-specs/).
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/flagship-periscope-zoom-camera-closeup.jpg" alt="Close-up of a flagship phone's camera module with a large rectangular periscope zoom lens" loading="lazy">
@@ -123,7 +123,7 @@ My final suggestion:
 
 Also keep an eye on budget phones: some brands have raised prices this month, including [Lava](/lava-smartphone-price-hike-november-15/) (from November 15) and [AI+](/ai-plus-smartphone-price-hike-november-15/) (from November 11).
 
-**Related reading:** [Motorola Signature 27 India Launch Confirmed for November](/motorola-signature-27-india-launch-november-expected-price-specs/) · [Infinix GT 50 Pro Launched in India at ₹69,999](/infinix-gt-50-pro-india-launch-october-27/)
+**Related reading:** [Motorola Signature 27: Price, Specs and India Launch](/motorola-signature-27-launch-us-price-specs/) · [Infinix GT 50 Pro Launched in India at ₹69,999](/infinix-gt-50-pro-india-launch-october-27/)
 
 ## The bottom line
 
