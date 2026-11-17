@@ -7,10 +7,18 @@ image_alt: "Four budget smartwatches, two square and two round, with colourful s
 category: Wearables
 tags: [smartwatch, budget smartwatch, buying guide, Redmi, realme, CMF]
 affiliate: true
-last_modified_at: 2026-10-28 14:30:00 +0530
-update_note: "Prices refreshed for late October, and the realme Watch 5 with built-in GPS added as a new pick."
+last_modified_at: 2026-11-17 10:00:00 +0530
+update_note: "Prices refreshed for mid-November: the Redmi Watch 5 Lite and CMF Watch Pro 2 are cheaper now. Added newer GPS watches worth a look if you can spend a little more."
 sources:
-  - name: "Prices: Amazon.in and Flipkart listings, October 2026"
+  - name: "Prices: Amazon.in, Flipkart and Croma listings, November 2026"
+  - name: "Smartprix: Redmi Watch 5 Lite price in India"
+    url: "https://www.smartprix.com/smartwatches/redmi-watch-5-lite-smartwatch-ppd1bpk6h5tt"
+  - name: "Smartprix: CMF Watch Pro 2 price in India"
+    url: "https://www.smartprix.com/smartwatches/cmf-by-nothing-watch-pro-2-ppd1a6rajwx5"
+  - name: "Beebom: realme Watch S5 launched in India, price and sale date"
+    url: "https://gadgets.beebom.com/news/realme-watch-s5-launched-in-india-key-specifications-price-sale-date"
+  - name: "MySmartPrice: CMF Watch 3 Pro launched in India at Rs. 6,999"
+    url: "https://www.mysmartprice.com/personal-tech/wearables/wearables-news/cmf-watch-3-pro-launched-in-india-at-rs-6999-with-dual-band-gps-and-13-day-battery-life/"
 ---
 
 Under ₹5,000 you can now get an AMOLED screen, Bluetooth calling and a week or more of battery on almost any smartwatch. The real differences are built-in GPS, battery life and how well the companion app works. Here are five watches that are good value right now, and how to pick between them.
@@ -19,15 +27,15 @@ Under ₹5,000 you can now get an AMOLED screen, Bluetooth calling and a week or
 
 ## Quick comparison
 
-| Watch | Price (Oct 2026) | Display | Battery (claimed) | Built-in GPS | Water rating |
+| Watch | Price (Nov 2026) | Display | Battery (claimed) | Built-in GPS | Water rating |
 |---|---|---|---|---|---|
 | Redmi Watch Move | around ₹2,000 | 1.85" AMOLED, 600 nits | Up to 14 days | No | IP68 |
 | realme Watch S2 | around ₹3,300 | 1.43" AMOLED (round), 600 nits | Up to 20 days (14 typical) | No | IP68 |
 | realme Watch 5 | around ₹4,000 | 1.97" AMOLED, 600 nits | Up to 16 days (20 in light mode) | Yes, 5-system | IP68 |
-| Redmi Watch 5 Lite | around ₹4,000 | 1.96" AMOLED, 600 nits | Up to 18 days | Yes, 5-system | 5ATM |
-| CMF Watch Pro 2 | around ₹4,350 | 1.32" AMOLED (round), 620 nits | Up to 11 days | Yes | IP68 |
+| Redmi Watch 5 Lite | around ₹3,700 | 1.96" AMOLED, 600 nits | Up to 18 days | Yes, 5-system | 5ATM |
+| CMF Watch Pro 2 | around ₹4,200 | 1.32" AMOLED (round), 620 nits | Up to 11 days | Yes | IP68 |
 
-Prices are the lowest listed on major Indian stores in late October 2026 and move often during sales, so check before you buy. Battery figures are the brands' own claims, and real-world numbers drop if you use always-on display, calling or GPS a lot.
+Prices are the lowest listed on major Indian stores in mid-November 2026 and move often during sales, so check before you buy. Battery figures are the brands' own claims, and real-world numbers drop if you use always-on display, calling or GPS a lot.
 
 ## 1. Redmi Watch Move: best under ₹2,500
 
@@ -49,7 +57,7 @@ realme claims up to 20 days of battery, or about 14 days in standard use. It has
 
 The Redmi Watch 5 Lite gets the most right for the money. It has a big 1.96-inch AMOLED display at up to 600 nits, Bluetooth calling with dual-mic noise reduction, and a claimed battery life of up to 18 days in typical use (12 days with heavy use).
 
-The big upgrade over cheaper watches is **built-in GPS** that works with five satellite systems, so you can track runs, walks and rides without carrying your phone. It also has 5ATM water resistance (good for swimming), over 160 sports modes, Alexa built in, and works with both Android and iPhone. It launched at ₹3,999, which is again what it costs on Amazon now.
+The big upgrade over cheaper watches is **built-in GPS** that works with five satellite systems, so you can track runs, walks and rides without carrying your phone. It also has 5ATM water resistance (good for swimming), over 160 sports modes, Alexa built in, and works with both Android and iPhone. It launched at ₹3,999 and now sells for around ₹3,700, with Smartprix showing the lowest price on Amazon in November.
 
 **Best for:** most people. It's the safest all-round pick in this budget, especially if you walk, run or cycle outdoors.
 
@@ -67,11 +75,20 @@ realme claims up to 16 days of battery in normal use and up to 20 days in a ligh
 
 Nothing's sub-brand CMF makes one of the better-looking budget watches. The Watch Pro 2 has a round 1.32-inch AMOLED screen at 466 x 466 resolution and up to 620 nits, with always-on display support. It includes built-in GPS, Bluetooth calling, IP68 protection and up to 11 days of claimed battery life.
 
-It's currently around ₹4,350 on Croma, so it's the most expensive watch here. You pay a bit extra for the design and the CMF Watch app, which is cleaner than many budget apps. The screen is smaller than the Redmi Watch 5 Lite's, which matters if you read a lot of messages on your wrist.
+It's currently around ₹4,200, with Croma listing the lowest price in November, so it's still the most expensive watch here. You pay a bit extra for the design and the CMF Watch app, which is cleaner than many budget apps. The screen is smaller than the Redmi Watch 5 Lite's, which matters if you read a lot of messages on your wrist.
 
 **Best for:** people who want a stylish round watch that can also track outdoor workouts accurately.
 
 {% include buy.html name="CMF Watch Pro 2" query="CMF Watch Pro 2 smartwatch" note="Round AMOLED design with built-in GPS" %}
+
+## Newer watches if you can spend a little more
+
+Two newer watches with built-in GPS sit just above this budget and are worth knowing about:
+
+- **realme Watch S5 (₹7,999):** launched in India in June 2026 with a round 1.43-inch AMOLED screen, built-in GPS, 5ATM water resistance and up to 20 days of claimed battery. It's a good step up from the realme Watch S2 if you want GPS in a round watch.
+- **CMF Watch 3 Pro (₹7,999 list price):** the successor to the Watch Pro 2, launched in May 2026 with dual-band GPS, an AI running coach and up to 13 days of claimed battery. It launched at an introductory ₹6,999.
+
+If your budget is strictly ₹5,000, the five watches above are still the better buys.
 
 ## What to check before you buy
 
@@ -103,9 +120,9 @@ Buying a watch as a gift? Our [best Diwali gift gadgets under ₹5,000](/best-di
 
 - **Tightest budget:** Redmi Watch Move at around ₹2,000 covers the basics well.
 - **Classic look and long battery:** realme Watch S2 at around ₹3,300.
-- **Best all-rounder:** Redmi Watch 5 Lite at around ₹4,000, thanks to its large screen, built-in GPS and 5ATM rating.
+- **Best all-rounder:** Redmi Watch 5 Lite at around ₹3,700, thanks to its large screen, built-in GPS and 5ATM rating.
 - **Biggest screen with GPS:** realme Watch 5 at around ₹4,000.
-- **Style plus GPS:** CMF Watch Pro 2 at around ₹4,350.
+- **Style plus GPS:** CMF Watch Pro 2 at around ₹4,200.
 
 {% include buy.html name="Redmi Watch Move" query="Redmi Watch Move" note="Best under ₹2,500: AMOLED and Bluetooth calling" %}
 
