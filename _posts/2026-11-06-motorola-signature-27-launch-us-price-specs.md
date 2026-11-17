@@ -6,7 +6,7 @@ date: 2026-11-06 07:45:00 +0530
 last_modified_at: 2026-11-17 10:15:00 +0530
 update_note: "Merged our India launch coverage into this page, with the latest on the India date and expected price."
 redirect_from:
-  - /motorola-signature-27-launch-us-price-specs/
+  - /motorola-signature-27-india-launch-november-expected-price-specs/
 category: Global
 also_in: [Launches, Phones]
 affiliate: true
