@@ -123,7 +123,6 @@ sitemap: false
 
 <script>
 (function(){var tabs=document.querySelectorAll('.budget-switch [role=tab]');
-function show(t){tabs.forEach(function(x){var on=x===t;x.setAttribute('aria-selected',on);x.tabIndex=on?0:-1;document.getElementById('bt-'+x.dataset.bt).hidden=!on;});try{localStorage.setItem('gg_bt',t.dataset.bt)}catch(e){}}
-tabs.forEach(function(t,i){t.addEventListener('click',function(){show(t)});t.addEventListener('keydown',function(e){if(e.key==='ArrowRight'||e.key==='ArrowLeft'){var n=tabs[(i+1)%tabs.length];n.focus();show(n);}})});
-try{var s=localStorage.getItem('gg_bt');if(s==='us')show(tabs[1]);}catch(e){}})();
+function show(t){tabs.forEach(function(x){var on=x===t;x.setAttribute('aria-selected',on);x.tabIndex=on?0:-1;document.getElementById('bt-'+x.dataset.bt).hidden=!on;});}
+tabs.forEach(function(t,i){t.addEventListener('click',function(){show(t)});t.addEventListener('keydown',function(e){if(e.key==='ArrowRight'||e.key==='ArrowLeft'){var n=tabs[(i+1)%tabs.length];n.focus();show(n);}})});})();
 </script>
