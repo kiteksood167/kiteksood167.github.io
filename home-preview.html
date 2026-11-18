@@ -1,0 +1,129 @@
+---
+layout: default
+title: Honest tech buying guides for India and the world
+description: "Honest, simple tech buying guides, new phone launches and tips for India and the world. Find the right phone, laptop or earbuds at the best price."
+permalink: /home-preview/
+noindex: true
+sitemap: false
+---
+<section class="hero hero-v2">
+  <div class="wrap">
+    <div class="hero-head">
+      <h1>Find the right gadget for the money you have.</h1>
+      <p class="lede">Simple buying guides with current prices, launch news and honest opinions, for buyers in India and around the world.</p>
+    </div>
+
+    <div class="budget" aria-labelledby="budget-title">
+      <div class="budget-top">
+        <h2 id="budget-title">Shop by budget</h2>
+        <div class="budget-switch" role="tablist" aria-label="Region">
+          <button type="button" role="tab" aria-selected="true" aria-controls="bt-in" id="bt-tab-in" data-bt="in">India (₹)</button>
+          <button type="button" role="tab" aria-selected="false" aria-controls="bt-us" id="bt-tab-us" data-bt="us" tabindex="-1">US ($)</button>
+        </div>
+      </div>
+      <ul class="bt-rail" id="bt-in" role="tabpanel" aria-labelledby="bt-tab-in">
+        {% for t in site.data.budget_picks.in %}
+        <li><a class="bt cat-{{ t.cat }}" href="{{ t.url | relative_url }}"><span class="bt-what">{{ t.what }} under</span><span class="bt-price">{{ t.price }}</span></a></li>
+        {% endfor %}
+      </ul>
+      <ul class="bt-rail" id="bt-us" role="tabpanel" aria-labelledby="bt-tab-us" hidden>
+        {% for t in site.data.budget_picks.us %}
+        <li><a class="bt cat-{{ t.cat }}" href="{{ t.url | relative_url }}"><span class="bt-what">{{ t.what }} under</span><span class="bt-price">{{ t.price }}</span></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  {% assign pinned = site.posts | where: "featured", true %}
+  {% if pinned.size > 0 %}{% assign lead = pinned.first %}{% else %}{% assign lead = site.posts.first %}{% endif %}
+  {% if lead %}{% assign lc = lead.category | default: 'Guides' %}
+  {% assign shown = "|" | append: lead.url | append: "|" %}
+  <div class="wrap">
+    <div class="feat-grid">
+      <a class="feat-lead" href="{{ lead.url | relative_url }}">
+        <div class="card-cover cat-{{ lc | slugify }}{% if lead.image %} has-img{% endif %}" aria-hidden="true">
+          {% if lead.image %}<img src="{{ lead.image | relative_url }}" srcset="{% include cover-srcset.html src=lead.image %}" sizes="(max-width: 720px) 100vw, 680px" width="1600" height="900" fetchpriority="high" alt="{{ lead.image_alt | default: lead.title | escape }}">{% else %}{% include cat-icon.html cat=lc %}{% endif %}
+        </div>
+        <div class="feat-lead-body">
+          <span class="chip chip-sm">{% if lead.featured %}Featured{% else %}Latest{% endif %} · {{ lc }}</span>
+          <h2>{{ lead.title }}</h2>
+          <p>{{ lead.description | default: lead.excerpt | strip_html | truncate: 160 }}</p>
+          <span class="card-meta">{{ lead.date | date: "%-d %b %Y" }}{% include upd-badge.html post=lead %}</span>
+        </div>
+      </a>
+      <div class="feat-side">
+        <p class="feat-side-label">Latest</p>
+        {% assign n = 0 %}
+        {% for p in site.posts %}
+          {% if n >= 3 %}{% break %}{% endif %}
+          {% if p.url == lead.url %}{% continue %}{% endif %}
+          {% assign n = n | plus: 1 %}
+          {% assign shown = shown | append: p.url | append: "|" %}
+          {% assign pc = p.category | default: 'Guides' %}
+        <a class="feat-item" href="{{ p.url | relative_url }}">
+          <div class="feat-thumb card-cover cat-{{ pc | slugify }}{% if p.image %} has-img{% endif %}" aria-hidden="true">
+            {% if p.image %}<img src="{% include thumb.html src=p.image %}" srcset="{% include card-srcset.html src=p.image %}" sizes="(max-width: 600px) 40vw, 200px" width="720" height="405" alt="{{ p.image_alt | default: p.title | escape }}" loading="lazy" decoding="async">{% else %}{% include cat-icon.html cat=pc %}{% endif %}
+          </div>
+          <div class="feat-item-body">
+            <span class="feat-cat cat-{{ pc | slugify }}">{{ pc }}</span>
+            <h3>{{ p.title }}</h3>
+            <span class="card-meta">{{ p.date | date: "%-d %b %Y" }}{% include upd-badge.html post=p %}</span>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+</section>
+
+<section class="wrap" style="margin-top:40px">
+  <div class="band">
+    <div>
+      <h2>Which phone should you buy?</h2>
+      <p>Answer 4 quick questions and get the 3 best phones for your budget, with current prices.</p>
+    </div>
+    <a class="btn" href="{{ '/phone-finder/' | relative_url }}">Try the Phone Finder</a>
+  </div>
+</section>
+
+{% assign shelves = "Launches|Phones|Global" | split: "|" %}
+{% for sc in shelves %}
+<section class="wrap section shelf">
+  <div class="section-head">
+    <h2>{% case sc %}{% when "Launches" %}New launches{% when "Global" %}For buyers in the US and worldwide{% else %}{{ sc }}{% endcase %}</h2>
+    <a class="shelf-all" href="{{ '/category/' | relative_url }}{{ sc | slugify }}/">All {{ sc | downcase }}</a>
+  </div>
+  <div class="card-grid shelf-grid">
+    {% assign k = 0 %}
+    {% for p in site.posts %}{% if k >= 4 %}{% break %}{% endif %}{% if p.category == sc %}{% assign key = "|" | append: p.url | append: "|" %}{% unless shown contains key %}{% include card.html post=p %}{% assign shown = shown | append: key %}{% assign k = k | plus: 1 %}{% endunless %}{% endif %}{% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>Laptops, audio, wearables and more</h2>
+    <span class="muted">{{ site.posts.size }} posts in total</span>
+  </div>
+  <div class="card-grid">
+    {% for p in site.posts %}{% assign key = "|" | append: p.url | append: "|" %}{% unless shown contains key %}{% include card.html post=p %}{% endunless %}{% endfor %}
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="band">
+    <div>
+      <h2>Confused about what to buy?</h2>
+      <p>Tell us your budget and what you need. We answer reader questions and turn the best ones into guides.</p>
+    </div>
+    <a class="btn" href="{{ '/contact/' | relative_url }}">Ask a question</a>
+  </div>
+</section>
+
+<script>
+(function(){var tabs=document.querySelectorAll('.budget-switch [role=tab]');
+function show(t){tabs.forEach(function(x){var on=x===t;x.setAttribute('aria-selected',on);x.tabIndex=on?0:-1;document.getElementById('bt-'+x.dataset.bt).hidden=!on;});try{localStorage.setItem('gg_bt',t.dataset.bt)}catch(e){}}
+tabs.forEach(function(t,i){t.addEventListener('click',function(){show(t)});t.addEventListener('keydown',function(e){if(e.key==='ArrowRight'||e.key==='ArrowLeft'){var n=tabs[(i+1)%tabs.length];n.focus();show(n);}})});
+try{var s=localStorage.getItem('gg_bt');if(s==='us')show(tabs[1]);}catch(e){}})();
+</script>

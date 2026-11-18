@@ -1,0 +1,17 @@
+# Homepage "Shop by budget" price tags. Only link to guides that exist.
+in:
+  - { what: "Phones", price: "₹15,000", url: "/best-phones-under-15000-india/", cat: phones }
+  - { what: "Gaming phones", price: "₹30,000", url: "/best-gaming-phones-under-30000/", cat: gaming }
+  - { what: "Laptops", price: "₹50,000", url: "/best-laptops-under-50000-india/", cat: laptops }
+  - { what: "Gaming laptops", price: "₹70,000", url: "/best-gaming-laptops-under-70000/", cat: laptops }
+  - { what: "TWS earbuds", price: "₹3,000", url: "/best-tws-earbuds-under-3000/", cat: audio }
+  - { what: "Smartwatches", price: "₹5,000", url: "/best-smartwatches-under-5000/", cat: wearables }
+  - { what: "Fitness bands", price: "₹3,000", url: "/best-fitness-bands-under-3000/", cat: wearables }
+  - { what: "Student tablets", price: "₹20,000", url: "/best-tablets-for-students-under-20000/", cat: tablets }
+us:
+  - { what: "Phones", price: "$300", url: "/best-budget-phones-under-300/", cat: phones }
+  - { what: "Student laptops", price: "$700", url: "/best-laptops-for-college-students-under-700/", cat: laptops }
+  - { what: "ANC headphones", price: "$100", url: "/best-noise-cancelling-headphones-under-100/", cat: audio }
+  - { what: "Tablets", price: "$300", url: "/best-tablets-under-300/", cat: tablets }
+  - { what: "Speakers", price: "$50", url: "/best-bluetooth-speakers-under-50/", cat: audio }
+  - { what: "Robot vacuums", price: "$300", url: "/best-robot-vacuums-under-300/", cat: smart-home }
