@@ -103,6 +103,20 @@ If none of the RTX 3050 laptops above is in stock at your price, you have three 
 2. **Buy a regular laptop for light games.** Laptops with AMD Ryzen chips and built-in Radeon graphics can play older and esports games at low settings. They are a good fit if gaming is occasional and study or work comes first; our [best laptops under ₹50,000](/best-laptops-under-50000-india/) guide covers what that budget buys now.
 3. **Avoid very old stock.** Some sellers still list 11th and 12th Gen Core laptops with an RTX 2050 near ₹70,000. Those prices made sense in 2023, not now.
 
+## Our take
+
+**What do you use your laptop for?**
+
+My main work is coding and web development, so I use my laptop mostly for that. But whenever I have free time, I play games like GTA V and Forza Horizon.
+
+**If your budget were fixed at ₹70,000, what would you do?**
+
+From my experience, I would add a little more money and go up to ₹80,000 to ₹85,000, so that I get a better GPU and performance in the system and my laptop lasts for the long term.
+
+**What matters most to you when buying a laptop?**
+
+For me, the graphics card and RAM are the most important, because I play games, but along with that I also have to do coding and web development.
+
 **Related reading:** [Best Laptops Under ₹50,000 in India (November 2026): What You Can Actually Get](/best-laptops-under-50000-india/) · [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/)
 
 ## The bottom line
