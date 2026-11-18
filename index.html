@@ -18,16 +18,16 @@ description: "Honest, simple tech buying guides, new phone launches and tips for
           <button type="button" role="tab" aria-selected="false" aria-controls="bt-us" id="bt-tab-us" data-bt="us" tabindex="-1">US ($)</button>
         </div>
       </div>
-      <ul class="bt-rail" id="bt-in" role="tabpanel" aria-labelledby="bt-tab-in">
+      <div id="bt-in" role="tabpanel" aria-labelledby="bt-tab-in"><ul class="bt-rail">
         {% for t in site.data.budget_picks.in %}
         <li><a class="bt cat-{{ t.cat }}" href="{{ t.url | relative_url }}"><span class="bt-what">{{ t.what }} under</span><span class="bt-price">{{ t.price }}</span></a></li>
         {% endfor %}
-      </ul>
-      <ul class="bt-rail" id="bt-us" role="tabpanel" aria-labelledby="bt-tab-us" hidden>
+      </ul></div>
+      <div id="bt-us" role="tabpanel" aria-labelledby="bt-tab-us" hidden><ul class="bt-rail">
         {% for t in site.data.budget_picks.us %}
         <li><a class="bt cat-{{ t.cat }}" href="{{ t.url | relative_url }}"><span class="bt-what">{{ t.what }} under</span><span class="bt-price">{{ t.price }}</span></a></li>
         {% endfor %}
-      </ul>
+      </ul></div>
     </div>
   </div>
 

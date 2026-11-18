@@ -611,11 +611,11 @@ html.qs-open { overflow: hidden; }
 .budget-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 14px; }
 .budget-top h2 { font-size: 1.15rem; margin: 0; }
 .budget-switch { display: inline-flex; padding: 3px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
-.budget-switch button { font: inherit; font-size: .85rem; font-weight: 600; border: 0; background: transparent; color: var(--muted); padding: 6px 14px; border-radius: 999px; cursor: pointer; }
+.budget-switch button { font: inherit; font-size: .85rem; font-weight: 600; border: 0; background: transparent; color: var(--ink-2); padding: 6px 14px; border-radius: 999px; cursor: pointer; }
 .budget-switch button[aria-selected="true"] { background: var(--ink); color: var(--bg); }
 .budget-switch button:focus-visible, .bt:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .bt-rail { list-style: none; margin: 0; padding: 2px; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
-.bt-rail[hidden] { display: none; }
+[role="tabpanel"][hidden] { display: none; }
 .bt-rail li { scroll-snap-align: start; }
 .bt {
   --hole: 9px;
@@ -628,7 +628,7 @@ html.qs-open { overflow: hidden; }
   transition: border-color .15s, transform .15s;
 }
 .bt:hover { border-color: var(--c, var(--accent)); transform: translateY(-2px); }
-.bt-what { white-space: nowrap; font-size: .82rem; color: var(--muted); font-weight: 500; }
+.bt-what { white-space: nowrap; font-size: .82rem; color: var(--ink-2); font-weight: 500; }
 .bt-price { font-family: var(--font-head); font-weight: 800; font-size: 1.9rem; line-height: 1.05; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
 .bt-cat-smart-home, .cat-smart-home { --c: var(--c-smart-home); }
 @media (prefers-reduced-motion: reduce) { .bt { transition: none; } .bt:hover { transform: none; } }
