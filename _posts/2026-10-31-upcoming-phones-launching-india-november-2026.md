@@ -3,14 +3,21 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
-last_modified_at: 2026-11-12 18:53:00 +0530
+last_modified_at: 2026-11-18 19:05:00 +0530
+update_note: "Motorola Edge 70 Neo launches in India on November 24, per its Flipkart page; price not announced yet."
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
 image_credit: "Illustration, not the actual products"
 category: Launches
 also_in: [Phones]
-tags: [upcoming phones, motorola signature 27, vivo x500, iqoo 16, xiaomi 18 pro, flagship phones, launch]
+tags: [upcoming phones, motorola signature 27, motorola edge 70 neo, vivo x500, iqoo 16, xiaomi 18 pro, flagship phones, launch]
 sources:
+  - name: "Beebom: Motorola Edge 70 Neo launch date in India and key specs confirmed"
+    url: "https://gadgets.beebom.com/news/motorola-edge-70-neo-india-launch-date-specs-confirmed"
+  - name: "Analytics Insight: Motorola Edge 70 Neo India launch date confirmed"
+    url: "https://www.analyticsinsight.net/news/motorola-edge-70-neo-india-launch-date-confirmed-specs-and-features"
+  - name: "Xiaomi4Mi: Xiaomi 18 Pro and Pro Max go global, starting at €1,399"
+    url: "https://www.xiaomi4mi.com/xiaomi-18-pro-and-pro-max-finally-go-global-starting-at-1399/"
   - name: "My Mobile India: Vivo X500 series India launch date officially confirmed for November 26"
     url: "https://www.mymobileindia.com/vivo-x500-series-india-launch-date-officially-confirmed-for-november-26/"
   - name: "GSMArena: When the Vivo X500 series could launch in India"
@@ -29,18 +36,21 @@ November looks like a flagship month in India. Motorola has confirmed the Signat
 
 <!--more-->
 
+**Update, November 18:** Motorola's Flipkart page now shows that the **Motorola Edge 70 Neo** launches in India on **November 24**, according to Beebom and Analytics Insight. Confirmed so far: a 6.8-inch 1.5K curved OLED screen at 144Hz, the Snapdragon 7s Gen 3 chip, a 50MP Sony LYTIA 710 main camera with OIS, a 7,000mAh battery with 45W charging and IP64 rating. The price isn't announced yet. Separately, the **Xiaomi 18 Pro** launched globally in Paris on November 17 at €1,399, but Xiaomi still hasn't given an India date.
+
 **Update, November 12:** Vivo has officially confirmed that the X500 series launches in India on **November 26**, with the Vivo Watch GT 2 arriving the same day, according to My Mobile India and Business Today. Prices are still unannounced. Details in our [Vivo X500 India launch post](/vivo-x500-series-india-launch-confirmed-expected-price-specs/).
 
 ## November 2026 at a glance
 
 | Phone | Expected in India | Status | Expected price |
 |---|---|---|---|
+| Motorola Edge 70 Neo | November 24 | Date shown on Motorola's Flipkart page | Not announced; Beebom estimates ₹35,000 to ₹40,000 |
 | Motorola Signature 27 | November (global launch November 5) | India launch confirmed by Motorola, exact date not announced | Not announced; estimates range from ₹70,000 to about ₹1 lakh |
 | Vivo X500, X500 Pro, X500 Pro Max | November 26 | Launch date confirmed by Vivo | Not announced |
 | iQOO 16 | Not announced (reports say December or early 2027) | India launch confirmed by iQOO, date not announced | Not announced; a tipster suggests above ₹1 lakh |
-| Xiaomi 18 Pro | Not announced (expected around December) | Xiaomi India has hinted at it, no date | Not announced; expected around ₹1 lakh |
+| Xiaomi 18 Pro | Not announced (expected around December) | Launched globally on November 17 (from €1,399); Xiaomi India has hinted at it, no date | Not announced; expected around ₹1 lakh |
 
-Prices for all four are still unannounced, so treat any "India price" you see before launch day as an estimate.
+India prices for all five are still unannounced, so treat any "India price" you see before launch day as an estimate.
 
 ## Motorola Signature 27: confirmed for November
 

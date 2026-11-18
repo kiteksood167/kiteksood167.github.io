@@ -3,6 +3,8 @@ title: "Xiaomi 18 Pro and 18 Pro Max Global Launch on November 17: Expected Pric
 seo_title: "Xiaomi 18 Pro Global Launch Nov 17: Price & Specs"
 description: "Xiaomi has confirmed a November 17 global launch in Paris for the 18 Pro and 18 Pro Max. China specs, prices, what may change globally, and India plans."
 date: 2026-11-17 09:00:00 +0530
+last_modified_at: 2026-11-18 19:05:00 +0530
+update_note: "Now official globally: Xiaomi 18 Pro from €1,399 and 18 Pro Max from €1,599, with smaller batteries."
 published: false
 category: Global
 also_in: [Launches, Phones]
@@ -11,6 +13,10 @@ image_alt: "A white phone and a blue phone with large round camera modules and s
 image_credit: "Illustration, not the actual product"
 tags: [xiaomi, xiaomi 18 pro, xiaomi 18 pro max, leica, flagship phones, snapdragon 8 elite gen 6, launch, usa, uk, europe]
 sources:
+  - name: "Xiaomi4Mi: Xiaomi 18 Pro and Pro Max go global, starting at €1,399"
+    url: "https://www.xiaomi4mi.com/xiaomi-18-pro-and-pro-max-finally-go-global-starting-at-1399/"
+  - name: "Gogi: Xiaomi 18 Pro series global launch, price and specifications"
+    url: "https://www.gogi.in/xiaomi-18-pro-series-global-launch-price-specifications.html"
   - name: "Android Headlines: Xiaomi 18 Pro series launches globally next week"
     url: "https://www.androidheadlines.com/2026/11/xiaomi-18-pro-max-global-launch-next-week.html"
   - name: "Beebom: Xiaomi 18 Pro series global launch date confirmed"
@@ -28,6 +34,8 @@ sources:
 Xiaomi has confirmed that the **Xiaomi 18 Pro** and **18 Pro Max** will launch globally on **November 17, 2026**, at an event in **Paris** at 2:00 PM local time (8:00 AM ET, 1:00 PM UK, 6:30 PM IST). Both phones have been on sale in China since late September, so we already know most of the hardware. Here's what's confirmed, what may change for global buyers, and what it could cost.
 
 <!--more-->
+
+**Update, November 18:** The phones are now official globally. Xiaomi announced European prices in Paris on November 17: the **Xiaomi 18 Pro** costs **€1,399** (12GB + 256GB) and **€1,599** (12GB + 512GB), and the **18 Pro Max** costs **€1,599** (12GB + 256GB), **€1,799** (12GB + 512GB) and **€2,099** (16GB + 1TB, coming later), according to Xiaomi4Mi and Gogi. The global batteries are smaller than in China: **6,000mAh with 90W** charging on the 18 Pro and **7,050mAh with 100W** on the Pro Max. Local prices can differ by country, and there's still no India date or price.
 
 ## What Xiaomi has confirmed
 
@@ -49,7 +57,8 @@ Global prices and the exact global specs will be announced at the event.
 | **Telephoto** | 200MP periscope, 3.2x optical | 200MP periscope, 3.2x optical |
 | **Ultrawide** | 50MP | 50MP |
 | **Battery (China)** | 7,000mAh | 8,500mAh |
-| **Charging** | 100W wired, 50W wireless | 100W wired, 50W wireless |
+| **Battery (global, official)** | 6,000mAh | 7,050mAh |
+| **Charging** | 100W wired (90W global), 50W wireless | 100W wired, 50W wireless |
 
 Both phones also have a **privacy display** that narrows the viewing angle so people next to you can't read your screen, and a small **screen on the back**, which you can use as a selfie viewfinder or for widgets and notifications.
 
@@ -65,9 +74,9 @@ Global versions of Chinese phones often have smaller batteries because of shippi
 - **Xiaomi 18 Pro:** an early Italian retail listing points to a **6,000mAh** battery and **90W** charging, according to Beebom.
 - **Xiaomi 18 Pro Max:** expected to get a **7,050mAh** battery instead of 8,500mAh, while keeping 100W charging.
 
-These are leaks, not official figures. We'll update this post after the launch.
+Xiaomi has now confirmed both figures for the global models (see the update above).
 
-## Expected price
+## Price
 
 In China, the phones start at:
 
@@ -76,7 +85,7 @@ In China, the phones start at:
 | Xiaomi 18 Pro | CNY 5,999 |
 | Xiaomi 18 Pro Max | CNY 6,999 |
 
-Xiaomi's flagships usually cost much more in Europe than in China once taxes are added, and Android Headlines expects the global models to arrive at higher prices than last year's. We don't have reliable global price leaks yet, so wait for the official numbers on November 17.
+Xiaomi's flagships usually cost much more in Europe than in China once taxes are added, and Android Headlines expects the global models to arrive at higher prices than last year's. Global prices are now official: from **€1,399** for the 18 Pro and **€1,599** for the 18 Pro Max (see the update above).
 
 > **Tip:** Don't pre-order from a third-party import seller before the official launch. Wait for Xiaomi's own store and authorised retailers in your country, so you get the right model, a local warranty and any launch offers.
 
