@@ -6,6 +6,9 @@ date: 2026-11-18 08:55:00 +0530
 category: Laptops
 also_in: [Gaming, Guides]
 affiliate: true
+image: /assets/images/best-gaming-laptops-under-70000.jpg
+image_alt: "A gaming laptop with a green and orange backlit keyboard showing a racing game, on a dark desk lit by green and orange neon strips"
+image_credit: "Illustration, not the actual products"
 tags: [gaming laptops, laptops under 70000, rtx 3050, acer alg, acer aspire 7, acer nitro lite 16, hp victus, budget gaming, india]
 sources:
   - name: "Acer India Store: Acer ALG (Core i5-13420H, RTX 3050 6GB, 1TB)"
@@ -32,6 +35,11 @@ So instead of a list of laptops you can't actually buy, this guide covers the fe
 The short answer is RAM. AI data centres are taking a large share of the world's memory chips, and RAM prices have risen roughly 2.5 to 3 times, according to a 91mobiles report. IDC India analyst Bharath Shenoy told the same report that laptop and desktop prices were already up 10–12% with more increases expected, and market experts expect laptop prices to rise by as much as 35% over 2026. Gaming laptops are hit harder than most because they carry both RAM and a graphics card with its own memory.
 
 You can see it in actual prices. The Acer Nitro Lite 16 launched in India in July 2025 at a starting price of ₹69,999; the RTX 3050 version is listed at about ₹84,999 on Acer's own store today. On Reliance Digital's November 18 price list, most RTX 3050 laptops from HP, Dell and Lenovo sit between about ₹75,000 and ₹1,06,000, and several cheaper ones are marked unavailable online.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/laptop-ram-price-rise-arrow-neon.jpg" alt="A gaming laptop on a desk with RAM sticks floating beside a glowing orange upward arrow, showing rising memory prices" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 ## Quick comparison
 
@@ -70,6 +78,11 @@ Two more options are worth knowing if you can go a little higher:
 {% include buy.html name="Acer Nitro Lite 16 (Core i7-13620H, RTX 3050 6GB)" query="Acer Nitro Lite 16 NL16-71G i7-13620H RTX 3050" note="Around ₹84,999 on Acer's store in Nov 2026; 16-inch 165Hz screen" %}
 
 ## What to check before you buy a budget gaming laptop
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/man-comparing-two-gaming-laptops-neon.jpg" alt="A young man in a hoodie at a desk, chin in hand, comparing two open gaming laptops under green and orange neon light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 Sellers often list five versions of the same laptop with very different parts. Check these on the spec sheet, not just the title:
 
