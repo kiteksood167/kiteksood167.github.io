@@ -148,7 +148,7 @@ If the rest of the laptop is in good condition, upgrading the SSD and RAM is a b
 
 I regularly delete unnecessary files and keep startup apps disabled so that the laptop runs fast and smoothly.
 
-**Related reading:** [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/) · [Best Password Manager in 2026: Free and Paid Picks](/best-password-manager-2026/)
+**Related reading:** [Best Laptops for College Students Under $700](/best-laptops-for-college-students-under-700/) · [Best Password Manager in 2026: Free and Paid Picks](/best-password-manager-2026/) · [Best Gaming Laptops Under ₹70,000 in India (November 2026): What's Left](/best-gaming-laptops-under-70000/)
 
 ## The bottom line
 

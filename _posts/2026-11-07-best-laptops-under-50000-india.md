@@ -102,7 +102,7 @@ First, I look at the processor and RAM — at a minimum, an Intel Core i5 or Ryz
 
 For students, I would suggest a Windows laptop, as it offers better performance, software compatibility, and good value for money within a budget of ₹50,000.
 
-**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/)
+**Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [Best Gaming Laptops Under ₹70,000 in India (November 2026): What's Left](/best-gaming-laptops-under-70000/)
 
 ## The bottom line
 

@@ -9,16 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-# Owner asked (16 Nov) for the most useful, most searched post here. Huge evergreen India search, budget buyers, Amazon/Flipkart affiliate.
-# Use _data/phone_finder.yml for candidates, then confirm current prices on Amazon.in/Flipkart on the day; only phones actually on sale under ₹15,000.
-# Mention the November price hikes (Lava, Ai+). Link /how-to-choose-a-smartphone-under-20000/, /phone-finder/, /phones-by-budget/ and /lava-smartphone-price-hike-november-15/.
-- date: 2026-11-17
-  audience: India
-  category: Phones
-  title: "Best Phones Under ₹15,000 in India (November 2026)"
-  slug: best-phones-under-15000-india
-  image: best-phones-under-15000-india.jpg
-
 - date: 2026-11-18
   audience: India
   category: Laptops
