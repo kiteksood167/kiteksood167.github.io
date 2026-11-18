@@ -113,6 +113,20 @@ To save video, you need either a Blink subscription or a Sync Module hub with a 
 - **Choose battery** if you rent, have no wiring or want a five-minute install. Expect to recharge every few months, more often in cold weather or at a busy door.
 - **Get a model that does both** (Tapo D225, Eufy E340, Ring, Wyze) if you're unsure. You can start on battery and hardwire later.
 
+## Our take
+
+**Would you buy a video doorbell for your home? Why or why not?**
+
+Yes, I will definitely buy a video doorbell for my home. It will increase my home's security, and I can check on my phone whenever I want to see who is outside.
+
+**How much does a monthly subscription fee matter to you when buying a doorbell?**
+
+The subscription fee is very important to me when buying a doorbell. I would prefer a doorbell without a subscription that still gives me the basic features without any fee.
+
+**Would you choose a wired doorbell or a battery one?**
+
+I would prefer a battery doorbell because there is no hassle of wires and it is easy to install.
+
 **Related reading:** [Best Robot Vacuums Under $300 in 2026](/best-robot-vacuums-under-300/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
 
 ## The bottom line
