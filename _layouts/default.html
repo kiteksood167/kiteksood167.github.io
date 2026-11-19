@@ -205,5 +205,32 @@
     </div>
   </footer>
   {% unless page.url == "/search/" %}{% include search-overlay.html %}{% endunless %}
+  {% if site.amazon_tags_social %}<script>
+  /* Use a separate Amazon.in tracking ID for visitors who arrived from Facebook, Instagram or Pinterest,
+     so the Associates report shows which social site led to a sale. Only the source name is kept,
+     in this tab's sessionStorage; nothing is sent anywhere. */
+  (function () {
+    var tags = {{ site.amazon_tags_social | jsonify }}, src = '';
+    try {
+      var q = new URLSearchParams(location.search), u = (q.get('utm_source') || q.get('src') || '').toLowerCase();
+      if (/^(fb|facebook)/.test(u)) src = 'facebook'; else if (/^(ig|insta)/.test(u)) src = 'instagram'; else if (/^(pin|pinterest)/.test(u)) src = 'pinterest';
+      if (!src && document.referrer) {
+        var h = new URL(document.referrer).hostname;
+        if (/(^|\.)(facebook\.com|fb\.com|fb\.me)$/.test(h)) src = 'facebook';
+        else if (/(^|\.)instagram\.com$/.test(h)) src = 'instagram';
+        else if (/(^|\.)pinterest\.[a-z.]+$|(^|\.)pin\.it$/.test(h)) src = 'pinterest';
+      }
+      if (src) sessionStorage.setItem('gg_src', src); else src = sessionStorage.getItem('gg_src') || '';
+    } catch (e) {}
+    var tag = tags[src];
+    if (!tag) return;
+    function fix() {
+      document.querySelectorAll('a[href*="amazon.in/"]').forEach(function (a) {
+        try { var x = new URL(a.href); x.searchParams.set('tag', tag); a.href = x.toString(); } catch (e) {}
+      });
+    }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fix); else fix();
+  })();
+  </script>{% endif %}
 </body>
 </html>
