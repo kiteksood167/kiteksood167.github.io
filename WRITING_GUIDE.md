@@ -23,7 +23,12 @@ Google indexed only 10 of ~70 pages on 10 Nov 2026 ("Crawled - currently not ind
    - A phone or gadget launched **only in China**: never write a post about it (no Launches post, no Global post). Write about it only once its India launch is officially confirmed (date or price), or once it is officially sold in the US.
    - A **global launch** (US/UK) is fine as a Global post (`category: Global`), but only for products officially sold in the US, ideally on Amazon.com, so the post can carry a `store="us"` buy button once it is on sale (Apple, Samsung, Google, Motorola, OnePlus, Nothing, Sony, Bose, Anker and similar). Skip brands that don't sell officially in the US (for example Xiaomi, Vivo, OPPO, Realme, iQOO phones); cover them only when they launch in India.
    - Global buying guides and comparisons of products already on Amazon.com earn more than launch news, so prefer those on Global days. The one-post-per-day limit still applies to everything.
-9. Spend spare effort on **improving existing posts**: refresh prices, add internal links between related posts, fix outdated facts. That helps indexing more than new posts.
+9. **Category balance (owner's rule, 20 Nov 2026).** Every category in the menu should keep getting posts, not just Global and Phones. Before choosing or planning a topic (daily post with no plan entry, and the weekly topic plan), count posts per category for the last 14 days:
+   `for f in _posts/$(TZ=Asia/Kolkata date +%Y-%m)*.md _posts/$(TZ=Asia/Kolkata date -d '-14 days' +%Y-%m)*.md; do grep -m1 '^category:' "$f"; done | sort | uniq -c | sort -n`
+   - **India days rotate through the India categories with the fewest recent posts:** Laptops, Audio, Wearables, Tablets, Gaming, Accessories, Smart Home, Guides, Phones. Don't repeat a category on two India days in a row, and give each of these at least one post every two weeks.
+   - **Global: at most 3 posts a week.** On Global days, vary the product type too (audio, laptops, wearables, smart home, tablets, gaming, not only phones), and set `also_in:` to the matching category so the post also shows on that category page.
+   - The weekly topic plan must spread the coming week's entries in `_data/content_plan.yml` across categories this way.
+10. Spend spare effort on **improving existing posts**: refresh prices, add internal links between related posts, fix outdated facts. That helps indexing more than new posts.
 
 ## Audience
 Two audiences, one per post:
