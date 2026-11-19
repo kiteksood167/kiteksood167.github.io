@@ -579,7 +579,8 @@ html.qs-open { overflow: hidden; }
   .sb-top { display: grid; gap: 16px; margin-bottom: 16px; }
   .sb-sticky { position: sticky; top: 120px; display: grid; gap: 16px; }
   .post-hero .wrap.narrow { max-width: 1140px; padding-left: 20px; padding-right: 20px; }
-  .post-hero .wrap.narrow > * { max-width: 760px; }
+  .post-hero .wrap.narrow > * { max-width: none; }
+  .post-hero h1 { font-size: clamp(2.4rem, 3.4vw, 3.2rem); }
 }
 .sb-card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; color: var(--ink-2); font-size: .92rem; text-decoration: none; }
 .sb-label { margin: 0 0 10px; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
