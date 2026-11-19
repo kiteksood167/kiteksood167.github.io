@@ -9,13 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-18
-  audience: India
-  category: Laptops
-  title: "Best Gaming Laptops Under ₹70,000 in India"
-  slug: best-gaming-laptops-under-70000
-  image: best-gaming-laptops-under-70000.jpg
-
 - date: 2026-11-19
   audience: Global
   category: Global
