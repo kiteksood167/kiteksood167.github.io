@@ -5,6 +5,7 @@ date: 2026-11-02 08:46:00 +0530
 image: /assets/images/how-to-transfer-data-from-android-to-iphone.jpg
 image_alt: "Photos, videos and chat bubbles flowing from a green-lit phone to an orange-lit phone on a dark desk"
 image_credit: "Illustration"
+affiliate: true
 category: Global
 also_in: [Phones, Guides]
 tags: [android to iphone, move to ios, iphone setup, data transfer, whatsapp, esim, how-to]
@@ -55,6 +56,8 @@ This is Apple's main method and the one most people should use.
 9. **Tap Done** on Android, then Continue on the iPhone and finish setup.
 
 If you have a USB-C cable, Apple says you can connect the two phones with it for a faster transfer. Android may ask you to change its USB setting when you plug it in.
+
+{% include buy.html name="USB-C to USB-C cable" query="USB-C to USB-C cable 6ft braided" store="us" note="For a faster wired transfer if your phones didn't come with one" %}
 
 > **Tip:** Don't use the Android phone at all during the transfer, and don't take calls. Switching apps or answering a call can stop the transfer partway through. Turning off mobile data on the Android phone before you start also helps avoid dropouts.
 

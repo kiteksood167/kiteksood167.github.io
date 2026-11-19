@@ -71,9 +71,13 @@ At around ₹1,250 on Amazon and Flipkart, this is the easy pick for daily carry
 
 If you want more capacity on a budget, the 20,000mAh 4i costs around ₹1,900 and supports up to 33W from its USB-C port, enough for fast charging on most phones. It also has two USB-A ports and recharges at up to 30W. At 440g it's noticeably heavier than the 10,000mAh model, so it's better for travel than a jeans pocket.
 
+{% include buy.html name="Xiaomi Power Bank 4i 20000mAh" query="Xiaomi Power Bank 4i 20000mAh 33W" note="33W USB-C, good value for 20,000mAh" %}
+
 ### 3. Ambrane Stylo Pro 27K: most capacity for the money
 
 The Ambrane Stylo Pro packs 27,000mAh and sells for around ₹2,400 on Ambrane's own store (sometimes lower with a discount code). It has two USB-A ports and one USB-C output, with fast charging up to about 20W. The trade-offs are weight (513g) and speed: it will take a while to charge your phone and longer still to refill itself. Buy it for long trips, power cuts or a family that shares one bank.
+
+{% include buy.html name="Ambrane Stylo Pro 27000mAh" query="Ambrane Stylo Pro 27000mAh power bank" note="Most capacity for the money; also sold on Ambrane's own store" %}
 
 ### 4. Xiaomi Power Bank 5i 20000 67W: best for fast charging
 
@@ -85,9 +89,13 @@ Launched in India in July 2026 at ₹3,499, the 5i sells for around ₹3,200 on 
 
 If you use a MagSafe-compatible iPhone (or an Android phone with magnetic Qi2 support), a magnetic bank simply snaps onto the back. Xiaomi's model, priced at around ₹3,700, supports the newer Qi2.2 standard, so it can charge supported phones wirelessly at higher speeds than older 7.5W magnetic banks. It also has a 45W built-in USB-C cable, a fold-out stand and weighs just 238g. A cheaper alternative is the URBN Flux Qi2 MagTag at around ₹3,500, which offers 15W Qi2 wireless and 20W wired charging.
 
+{% include buy.html name="Xiaomi Magnetic Power Bank 10000mAh (Qi2)" query="Xiaomi Magnetic Power Bank 10000mAh Qi2 45W" note="Snaps onto MagSafe iPhones and Qi2 Android phones" %}
+
 ### 6. Xiaomi Power Bank 20000 165W: best for laptops
 
 This is the one to get if you want to top up a laptop on the move. It launched in September 2026 at an introductory ₹4,999 and costs around ₹5,000 now. One USB-C port gives up to 120W, a second gives up to 45W, and there's a 22.5W USB-A port plus a braided built-in cable that doubles as a carry loop. A colour screen shows input and output speeds. It's overkill if you only charge a phone, but a good match for the thin laptops in our [best laptops under ₹50,000 list](/best-laptops-under-50000-india/), most of which charge over USB-C.
+
+{% include buy.html name="Xiaomi Power Bank 20000mAh 165W" query="Xiaomi Power Bank 20000mAh 165W" note="Up to 120W from one port, enough for many USB-C laptops" %}
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/power-bank-laptop-airport.jpg" alt="An open backpack at an airport gate with a black power bank charging a laptop through a braided USB-C cable" loading="lazy">
