@@ -23,12 +23,13 @@
   slug: tablet-buying-guide-india
   image: tablet-buying-guide-india.jpg
 
+# Swapped with 27 Nov (owner rule: max 3 Global posts per week; 16, 17 and 19 Nov were Global).
 - date: 2026-11-21
-  audience: Global
-  category: Global
-  title: "PS5 vs Nintendo Switch 2: Which Console to Buy This Holiday"
-  slug: ps5-vs-nintendo-switch-2
-  image: ps5-vs-nintendo-switch-2.jpg
+  audience: India
+  category: Smart Home
+  title: "Echo Dot vs Echo Pop: Which Alexa Speaker to Buy in India"
+  slug: echo-dot-vs-echo-pop
+  image: echo-dot-vs-echo-pop.jpg
 
 - date: 2026-11-22
   audience: India
@@ -69,8 +70,8 @@
   image: bgmi-90-120-fps-settings-phones.jpg
 
 - date: 2026-11-27
-  audience: India
-  category: Smart Home
-  title: "Echo Dot vs Echo Pop: Which Alexa Speaker to Buy in India"
-  slug: echo-dot-vs-echo-pop
-  image: echo-dot-vs-echo-pop.jpg
+  audience: Global
+  category: Global
+  title: "PS5 vs Nintendo Switch 2: Which Console to Buy This Holiday"
+  slug: ps5-vs-nintendo-switch-2
+  image: ps5-vs-nintendo-switch-2.jpg
