@@ -1,7 +1,7 @@
 ---
 title: "Tablet Buying Guide: 8 Specs That Actually Matter"
 description: "Buying a tablet in India? The 8 specs that matter, from display and RAM to battery, updates and Wi-Fi vs SIM, plus good 8GB/128GB tablets to consider."
-date: 2026-11-20 09:00:00 +0530
+date: 2026-11-20 08:55:00 +0530
 category: Tablets
 also_in: [Guides]
 tags: [tablets, tablet buying guide, android tablets, redmi pad 2, redmi pad 2 pro, oneplus pad go 2, xiaomi pad 8, india]
