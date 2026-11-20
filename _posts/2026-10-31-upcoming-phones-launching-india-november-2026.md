@@ -3,8 +3,8 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
-last_modified_at: 2026-11-18 19:05:00 +0530
-update_note: "Motorola Edge 70 Neo launches in India on November 24, per its Flipkart page; price not announced yet."
+last_modified_at: 2026-11-20 19:00:00 +0530
+update_note: "Edge 70 Neo: Flipkart page adds 5,200-nit peak brightness, LPDDR5X RAM and 7.5W reverse charging; price due November 24."
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
 image_credit: "Illustration, not the actual products"
@@ -12,6 +12,10 @@ category: Launches
 also_in: [Phones]
 tags: [upcoming phones, motorola signature 27, motorola edge 70 neo, vivo x500, iqoo 16, xiaomi 18 pro, flagship phones, launch]
 sources:
+  - name: "Digit: Motorola Edge 70 Neo confirmed to launch on Nov 24, price and specs"
+    url: "https://www.digit.in/news/mobile-phones/motorola-edge-70-neo-confirmed-to-launch-on-nov-24-from-price-to-specs-here-is-all-you-need-to-know.html"
+  - name: "Cashify: Motorola Edge 70 Neo India launch confirmed for 24 November, Flipkart page goes live"
+    url: "https://www.cashify.in/news/motorola-edge-70-neo-india-launch-confirmed-for-24-november-flipkart-page-goes-live"
   - name: "Beebom: Motorola Edge 70 Neo launch date in India and key specs confirmed"
     url: "https://gadgets.beebom.com/news/motorola-edge-70-neo-india-launch-date-specs-confirmed"
   - name: "Analytics Insight: Motorola Edge 70 Neo India launch date confirmed"
@@ -35,6 +39,8 @@ sources:
 November looks like a flagship month in India. Motorola has confirmed the Signature 27 for this month, and Vivo has confirmed November 26 for its X500 series. Two more big phones, the iQOO 16 and Xiaomi 18 Pro, are officially headed to India but may slip to December. Here's what's confirmed, what's only rumoured, and whether it's worth waiting.
 
 <!--more-->
+
+**Update, November 20:** More **Motorola Edge 70 Neo** details from its Flipkart page, as reported by Digit and Cashify: up to 5,200 nits peak brightness, up to 8GB of LPDDR5X RAM and 7.5W wired reverse charging on top of the 45W charging. Motorola still hasn't announced the price or launch time; that comes on November 24. Reports also disagree on some details (for example the IP rating), so wait for the launch for the final spec sheet.
 
 **Update, November 18:** Motorola's Flipkart page now shows that the **Motorola Edge 70 Neo** launches in India on **November 24**, according to Beebom and Analytics Insight. Confirmed so far: a 6.8-inch 1.5K curved OLED screen at 144Hz, the Snapdragon 7s Gen 3 chip, a 50MP Sony LYTIA 710 main camera with OIS, a 7,000mAh battery with 45W charging and IP64 rating. The price isn't announced yet. Separately, the **Xiaomi 18 Pro** launched globally in Paris on November 17 at €1,399, but Xiaomi still hasn't given an India date.
 
