@@ -1,7 +1,7 @@
 ---
 title: "Motorola Signature 27 Launched at $1,599: Specs, Release Date and India Launch"
 seo_title: "Motorola Signature 27: Price, Specs & India Launch"
-description: "Motorola's Signature 27 is official at $1,599 with a Snapdragon 8 Elite Extreme Gen 6, 200MP zoom and 7 years of updates. India launch details and expected price."
+description: "Motorola's Signature 27 is official at $1,599 with a Snapdragon 8 Elite Extreme Gen 6, 200MP zoom and 7 years of updates. India launch and expected price."
 date: 2026-11-06 07:45:00 +0530
 last_modified_at: 2026-11-17 10:15:00 +0530
 update_note: "Merged our India launch coverage into this page, with the latest on the India date and expected price."

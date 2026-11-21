@@ -1,6 +1,6 @@
 ---
 title: "Best Video Doorbells Under $150 in 2026"
-description: "The best video doorbells under $150 right now: Tapo D225, Eufy E340, Ring Battery Doorbell 2K, Wyze Battery Doorbell and Blink, with US prices and subscription costs."
+description: "The best video doorbells under $150: Tapo D225, Eufy E340, Ring Battery Doorbell 2K, Wyze Battery Doorbell and Blink, with US prices and subscription costs."
 date: 2026-11-19 03:10:00 +0530
 image: /assets/images/best-video-doorbells-under-150.jpg
 image_alt: "A smart video doorbell with a glowing green ring beside a dark front door at night, with a parcel on the doormat"

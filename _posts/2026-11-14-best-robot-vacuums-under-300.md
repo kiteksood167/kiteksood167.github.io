@@ -121,7 +121,7 @@ In my view, a self-emptying dock is better because we don't have to empty the du
 
 With a $300 budget, I would give the most importance to mapping, so that the robot can clean the whole house efficiently and doesn't miss any area. The suction should also be good.
 
-**Related reading:** [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) · [Best 65 Inch TV in 2026: Top Picks Before Black Friday](/best-65-inch-tv-2026/)
+**Related reading:** [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) · [Best 65 Inch TV in 2026: Top Picks Before Black Friday](/best-65-inch-tv-2026/) · [Best Video Doorbells Under $150 in 2026](/best-video-doorbells-under-150/)
 
 ## The bottom line
 
