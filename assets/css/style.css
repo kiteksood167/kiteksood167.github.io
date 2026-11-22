@@ -654,4 +654,13 @@ html.qs-open { overflow: hidden; }
 .shelf-all:hover { text-decoration: underline; }
 .shelf-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
 .shelf-grid .card p { display: none; }
-@media (max-width: 760px) { .hero-v2 { padding-top: 32px; } .bt-rail { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 64%; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; scrollbar-width: none; } .bt-rail::-webkit-scrollbar { display: none; } .bt-price { font-size: 1.6rem; } }
+/* Phones: all budget tags in a 2-column grid (no sideways swiping). */
+@media (max-width: 760px) {
+  .hero-v2 { padding-top: 32px; }
+  .bt-rail { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .bt { --hole: 7px; padding: 12px 10px 12px 26px; gap: 1px;
+    -webkit-mask: radial-gradient(circle var(--hole) at 12px 50%, transparent 98%, #000 100%);
+            mask: radial-gradient(circle var(--hole) at 12px 50%, transparent 98%, #000 100%); }
+  .bt-what { white-space: normal; font-size: .78rem; line-height: 1.25; }
+  .bt-price { font-size: 1.4rem; }
+}
