@@ -29,7 +29,7 @@ Finding a good phone under ₹15,000 is harder in late 2026 than it was a year a
 
 ## Why fewer phones fit under ₹15,000 now
 
-Through 2026, brands have raised prices on budget phones because RAM and storage chips cost more. The [Lava price hike of up to ₹3,000](/lava-smartphone-price-hike-november-15/) that started on November 15 is only the latest one. According to 91mobiles' price-hike tracker, the Redmi 15C (4GB + 128GB) went from ₹12,499 to ₹16,999, and the Vivo T4x (6GB + 128GB) from ₹13,999 to ₹16,999. Phones that were easy recommendations at ₹13,000 now cost ₹17,000 or more.
+Through 2026, brands have raised prices on budget phones because RAM and storage chips cost more. The Lava price hike of up to ₹3,000 that started on November 15 is only the latest one. According to 91mobiles' price-hike tracker, the Redmi 15C (4GB + 128GB) went from ₹12,499 to ₹16,999, and the Vivo T4x (6GB + 128GB) from ₹13,999 to ₹16,999. Phones that were easy recommendations at ₹13,000 now cost ₹17,000 or more.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/phone-memory-chip-price-rise-arrow-neon.jpg" alt="Memory chips on a phone circuit board with a glowing arrow rising above them, green and orange neon light" loading="lazy">
@@ -127,7 +127,7 @@ If I had to buy one phone out of these four, I would take the Samsung Galaxy F16
 **What should you prioritise in this budget?**
 According to me, for buying a phone in this budget you need to give the most priority to performance, battery and software updates. Camera and display are also very important, but the phone should run smooth for a long time. I normally use my phone for 3 to 4 years, so my main focus is that it keeps running smooth in the long term. As long as the phone works fine, I keep using it.
 
-**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Lava Phones Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/)
+**Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
 

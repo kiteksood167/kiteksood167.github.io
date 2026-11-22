@@ -17,11 +17,15 @@ sources:
     url: "https://www.newsbytesapp.com/news/business/lava-raises-smartphone-prices-up-to-rs3000-citing-memory-shortages/tldr"
   - name: "Aaj Tak: Lava to raise phone prices by up to Rs 3,000 from November 15"
     url: "https://www.aajtak.in/technology/tech-news/story/lava-phone-price-hike-upto-3000-ttecr-dskc-2684995-2026-10-31"
+noindex: true
+sitemap: false
 ---
 
 Lava, the Indian smartphone brand, will raise the prices of its phones by **up to ₹3,000** from **November 15, 2026**. The company says the increase covers its smartphone portfolio and blames the ongoing shortage of memory chips.
 
 <!--more-->
+
+> **This has happened.** For the latest details, read: [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/).
 
 **Update, November 15:** The price revision is now in effect from today, as Lava announced. When we checked on November 15, Lava still hadn't published a model-by-model list of new prices, so check the current price of the exact model on Amazon, Flipkart or Lava's store before you buy, and compare it with similar phones from other brands.
 

@@ -110,7 +110,7 @@ Battery backup and simple, ad-free software are more important to me in this pri
 
 I'd say yes, as long as it's easy to use, has good battery life and works smoothly. For me, a phone that's easy to use and works well is all that matters.
 
-**Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Lava Phones Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
+**Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
 
