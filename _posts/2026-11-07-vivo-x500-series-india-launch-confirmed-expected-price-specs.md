@@ -1,5 +1,5 @@
 ---
-title: "Vivo X500 Series India Launch Teased: Expected Date, Price and Specs"
+title: "Vivo X500 Series India Launch on November 26: Expected Price and Specs"
 seo_title: "Vivo X500 India Launch: Date, Price & Specs"
 description: "Vivo X500, X500 Pro and X500 Pro Max launch in India on November 26. Confirmed details, expected prices, China specs and Amazon/Flipkart pages."
 date: 2026-11-07 10:15:00 +0530

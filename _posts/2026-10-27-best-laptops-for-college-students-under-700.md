@@ -2,6 +2,8 @@
 title: "Best Laptops for College Students Under $700"
 description: "The best laptops for college under $700 right now: MacBook Neo, Dell XPS 13 and a Chromebook Plus, with current US prices and student discounts."
 date: 2026-10-27 08:48:00 +0530
+last_modified_at: 2026-11-22 09:58:00 +0530
+update_note: "MacBook Neo is now $649.99 at Amazon, and Core 3 Chromebook Plus models start around $319 on sale."
 image: /assets/images/best-laptops-for-college-students-under-700.jpg
 image_alt: "A thin silver laptop open on a wooden dorm room desk at night, next to textbooks, a coffee mug and a backpack, lit by green and orange lights"
 image_credit: "Illustration, not the actual products"
@@ -16,20 +18,26 @@ sources:
     url: "https://www.tomsguide.com/best-picks/best-budget-laptops"
   - name: "RTINGS: Best budget laptops"
     url: "https://www.rtings.com/laptop/reviews/best/budget"
-  - name: "Prices: Amazon US, Best Buy and Apple store listings, October 2026"
+  - name: "MacRumors: MacBook Neo Black Friday deals at Amazon"
+    url: "https://www.macrumors.com/2026/11/17/macbook-neo-rare-50-discount/"
+  - name: "Windows Central: Dell XPS 13 early Black Friday discount"
+    url: "https://www.windowscentral.com/hardware/laptops/dell-xps-13-early-black-friday-discount"
+  - name: "PCWorld: Best early Black Friday Chromebook deals 2026"
+    url: "https://www.pcworld.com/article/1377179/best-early-black-friday-chromebook-deals-2026.html"
+  - name: "Prices: Amazon US, Best Buy, Walmart and Apple store listings, October–November 2026"
 ---
 
-A college laptop has to handle four years of papers, research tabs, video lectures and late-night streaming, and it has to survive being carried across campus every day. This year a $700 budget buys more than it used to, thanks to two strong new 13-inch laptops from Apple and Dell, even though rising memory prices have pushed some models up. Here are the picks worth your money in October 2026, plus a cheaper Chromebook option.
+A college laptop has to handle four years of papers, research tabs, video lectures and late-night streaming, and it has to survive being carried across campus every day. This year a $700 budget buys more than it used to, thanks to two strong new 13-inch laptops from Apple and Dell, even though rising memory prices have pushed some models up. Here are the picks worth your money in November 2026, plus a cheaper Chromebook option.
 
 <!--more-->
 
 ## Quick picks
 
-| Laptop | Price (Oct 2026) | Student price | Chip / RAM / storage | Screen | Weight | Best for |
+| Laptop | Price | Student price | Chip / RAM / storage | Screen | Weight | Best for |
 |---|---|---|---|---|---|---|
-| Apple MacBook Neo | around $690–$699 | $599 (Apple education store) | A18 Pro / 8GB / 256GB | 13-inch, 2408 x 1506 | 2.7 lb | Most students, especially iPhone owners |
-| Dell XPS 13 (2026, Core 5 320) | around $700 | $599 (Dell student offer) | Intel Core 5 320 / 8GB / 512GB | 13.4-inch 2.5K touch, up to 120Hz | 2.2 lb | Windows users who want something light |
-| Chromebook Plus (Core 3 N355 models) | around $600 list, often $380–$430 on sale | Varies | Core 3 N355 / 8GB / 128GB | 14-inch, 1920 x 1200 | about 3.3 lb | Tight budgets, web-based coursework |
+| Apple MacBook Neo | $649.99 at Amazon (Nov 2026), list $699 | $599 (Apple education store) | A18 Pro / 8GB / 256GB | 13-inch, 2408 x 1506 | 2.7 lb | Most students, especially iPhone owners |
+| Dell XPS 13 (2026, Core 5 320) | around $700 (Oct 2026) | $599 (Dell student offer) | Intel Core 5 320 / 8GB / 512GB | 13.4-inch 2.5K touch, up to 120Hz | 2.2 lb | Windows users who want something light |
+| Chromebook Plus (Core 3 N355 models) | around $600 list, about $319–$349 on sale (Nov 2026) | Varies | Core 3 N355 / 8GB / 128GB | 14-inch, 1920 x 1200 | about 3.3 lb | Tight budgets, web-based coursework |
 
 Prices move often, and Black Friday is close, so check the current price before you buy.
 
@@ -52,7 +60,7 @@ Most coursework is browsing, documents, slides, video calls and streaming. For t
 
 The MacBook Neo is Apple's low-cost MacBook, launched in March 2026. It uses the A18 Pro, the same chip found in the iPhone 16 Pro, with 8GB of memory and a 256GB SSD. It has a 13-inch display with a resolution of 2408 x 1506, an aluminum body that weighs 2.7 pounds, two USB-C ports and a headphone jack.
 
-It launched at $599, but Apple raised the price in June 2026, citing a sharp jump in memory chip costs. The 256GB model now lists at $699, and the 512GB model with Touch ID is $799. Education pricing rose too: $599 for the base model and $699 for the 512GB version. Amazon has had the base model for around $689 this month.
+It launched at $599, but Apple raised the price in June 2026, citing a sharp jump in memory chip costs. The 256GB model now lists at $699, and the 512GB model with Touch ID is $799. Education pricing rose too: $599 for the base model and $699 for the 512GB version. In mid-November, Amazon cut the base model to $649.99 and the 512GB model to $749.99 in early Black Friday deals, according to MacRumors.
 
 Reviewers rate it highly. RTINGS names it the best budget laptop it has tested, and Tom's Guide measured over 13 hours in its web browsing battery test. The trade-offs are real, though: the keyboard isn't backlit, Touch ID costs $100 more, 8GB of memory limits heavy multitasking, and the A18 Pro is not built for serious video editing. For notes, papers and streaming, it's the easiest recommendation at this price.
 
@@ -64,7 +72,7 @@ Dell brought its XPS 13 down to budget territory this summer with a version buil
 
 The highlight is the screen: a 13.4-inch 2560 x 1600 touchscreen with a variable refresh rate of up to 120Hz and up to 500 nits of brightness. At 2.2 pounds and half an inch thick, it's also lighter than the MacBook Neo. In Tom's Guide's battery test, it lasted just over 14 hours, slightly longer than the Neo, and the site gave it an Editor's Choice award as the best budget Windows laptop.
 
-There are compromises. It has only two USB-C ports and no headphone jack, so wired headphones need an adapter. Tom's Guide found the 1080p webcam blurry and washed out, which matters if you join a lot of video classes. The 8GB of memory can't be upgraded later. Be careful with model names, too: XPS 13 configurations with 16GB of memory cost more, with some listed around $800–$1,000.
+There are compromises. It has only two USB-C ports and no headphone jack, so wired headphones need an adapter. Tom's Guide found the 1080p webcam blurry and washed out, which matters if you join a lot of video classes. The 8GB of memory can't be upgraded later. Be careful with model names, too: XPS 13 configurations with 16GB of memory cost more. The 16GB, 512GB version normally sells for $999.99, but Best Buy has had it at $799.99 ahead of Black Friday, which is worth it if you want more memory.
 
 {% include buy.html name="Dell XPS 13 (2026) Core 5 320, 8GB, 512GB" query="Dell XPS 13 2026 Intel Core 5 320 8GB 512GB" store="us" note="2.5K touchscreen, 2.2 lb, about 14 hours tested battery" %}
 
@@ -79,7 +87,7 @@ There are compromises. It has only two USB-C ports and no headphone jack, so wir
 
 If most of your work happens in Google Docs, a browser and your school's learning portal, a Chromebook Plus can save you a few hundred dollars. "Chromebook Plus" is Google's label for Chromebooks that meet a higher minimum spec, including at least 8GB of memory and a Full HD or better screen.
 
-Tom's Guide's top budget Chromebook is the Lenovo Chromebook Plus 2-in-1, which has an Intel Core 3 N355 chip, 8GB of memory, 128GB of storage and a 14-inch 1920 x 1200 touchscreen that folds back into tablet mode. Its regular price at Best Buy is around $600–$680, but similar Core 3 N355 Chromebook Plus models from Lenovo and HP have dropped to around $380–$430 in one-day Best Buy deals this month. If you're shopping for a Chromebook, wait for one of those sales.
+Tom's Guide's top budget Chromebook is the Lenovo Chromebook Plus 2-in-1, which has an Intel Core 3 N355 chip, 8GB of memory, 128GB of storage and a 14-inch 1920 x 1200 touchscreen that folds back into tablet mode. Its regular price at Best Buy is around $600–$680, but other Core 3 N355 Chromebook Plus models cost far less in early Black Friday sales. In November 2026, PCWorld spotted the Lenovo Chromebook Plus i (15.3-inch, 8GB, 128GB) for $349 and the Acer Chromebook Plus 514 (14-inch touchscreen, 8GB, 512GB) for $319, both at Walmart. If you're shopping for a Chromebook, buy during one of those sales.
 
 The downsides: Tom's Guide measured about 8.5 hours of battery life, well short of the two laptops above, and it found the glossy screen dim. ChromeOS also can't run full Windows or Mac desktop apps, so check your course requirements first.
 
@@ -102,4 +110,4 @@ A real gaming laptop is hard to find under $700 right now. PCWorld's budget gami
 
 ## The bottom line
 
-The MacBook Neo is the best laptop for most college students under $700, with long battery life, a solid build and $599 student pricing. The Dell XPS 13 is the Windows alternative and the better pick if you want a touchscreen, a lighter laptop or more storage, as long as you can live with a weak webcam and no headphone jack. If $700 is too much, a Chromebook Plus bought on sale gets you a capable laptop for around $400, provided your classes don't need Windows or Mac software.
+The MacBook Neo is the best laptop for most college students under $700, with long battery life, a solid build and $599 student pricing. The Dell XPS 13 is the Windows alternative and the better pick if you want a touchscreen, a lighter laptop or more storage, as long as you can live with a weak webcam and no headphone jack. If $700 is too much, a Chromebook Plus bought on sale gets you a capable laptop for around $320–$350, provided your classes don't need Windows or Mac software.

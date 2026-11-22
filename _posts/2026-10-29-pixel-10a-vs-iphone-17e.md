@@ -3,6 +3,8 @@ title: "Pixel 10a vs iPhone 17e: Which to Buy After the Price Hikes"
 seo_title: "Pixel 10a vs iPhone 17e: Which to Buy?"
 description: "Both phones now cost $699 with 256GB. We compare the Pixel 10a and iPhone 17e on screen, speed, cameras, battery and updates to help you choose."
 date: 2026-10-29 20:00:00 +0530
+last_modified_at: 2026-11-22 10:00:00 +0530
+update_note: "The Google Store takes $50 off the Pixel 10a until December 1, and Amazon has a similar $50 cut."
 category: Global
 also_in: [Phones]
 image: /assets/images/pixel-10a-vs-iphone-17e.jpg
@@ -15,6 +17,10 @@ sources:
     url: "https://www.tomsguide.com/phones/i-put-the-iphone-17e-vs-pixel-10a-through-a-7-round-face-off-heres-the-winner"
   - name: "9to5Google: Pixel 10a price hike"
     url: "https://9to5google.com/2026/10/02/google-pixel-10a-price-hike/"
+  - name: "Google Store: Black Friday deals (US)"
+    url: "https://store.google.com/us/magazine/black-friday-deals"
+  - name: "PhoneArena: Pixel 10a Black Friday deal at Amazon"
+    url: "https://www.phonearena.com/news/google-pixel-10a-black-friday-deal_id184854"
   - name: "Android Central: iPhone 17e vs Google Pixel 10a"
     url: "https://www.androidcentral.com/phones/apple-iphone/iphone-17e-vs-google-pixel-10a"
 ---
@@ -46,6 +52,8 @@ Prices are from the Google Store and Apple's US store after the latest increases
 Both phones went up by $100 this autumn, as memory chip costs rose across the industry. The Pixel 10a now starts at **$599 with 128GB**, while the iPhone 17e starts at **$699 with 256GB**. If you need 256GB, the Pixel also costs $699, so there's no price difference at all.
 
 If 128GB is enough for you, and it is for most people who keep photos in the cloud, the Pixel saves you $100.
+
+**Black Friday deal (November 2026):** The Google Store is taking **$50 off the unlocked Pixel 10a** from November 19 to December 1, and Amazon has cut the 128GB model by $50 to just under $550, according to PhoneArena. That puts the Pixel about $150 below the iPhone 17e's $699 list price.
 
 ## Display: Pixel wins clearly
 
@@ -101,7 +109,7 @@ The bigger question is which system you already use. If you have a Mac, an Apple
 
 {% include buy.html name="Apple iPhone 17e" query="Apple iPhone 17e 256GB" store="us" note="A19 chip, MagSafe, 256GB as standard" %}
 
-With Black Friday on November 27, it's worth checking for deals before you buy (here's [how to spot a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)). After two price hikes, though, we wouldn't expect either phone to drop back to its spring price.
+With Black Friday on November 27 and the Pixel 10a already $50 off, it's worth checking for deals before you buy (here's [how to spot a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)). After two price hikes, though, we wouldn't expect either phone to drop back to its spring price.
 
 **Related reading:** [Unlocked vs Carrier Phones: Which Should You Buy in 2026?](/unlocked-vs-carrier-phones/) · [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/) · [How to Transfer Data from Android to iPhone](/how-to-transfer-data-from-android-to-iphone/)
 

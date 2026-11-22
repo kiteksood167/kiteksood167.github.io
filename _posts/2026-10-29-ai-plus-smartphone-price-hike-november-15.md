@@ -21,11 +21,15 @@ sources:
     url: "https://gadgets.beebom.com/guides/india-smartphone-price-hike-roundup"
   - name: "91mobiles: Ai+ Nova 2 and Pulse 2 price hike"
     url: "https://www.91mobiles.com/hub/ai-nova-2-pulse-2-series-price-in-india/"
+noindex: true
+sitemap: false
 ---
 
 Ai+ Smartphone, the budget phone brand backed by former Realme India chief Madhav Sheth, says it will raise the prices of several of its phones in India from **November 15, 2026**. Select variants will cost **₹1,000 to ₹3,000 more**. The hike has since been moved forward to November 11 (see the update below).
 
 <!--more-->
+
+> **This has happened.** For the latest details, read: [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/).
 
 **Update, November 8:** Ai+ has brought the price hike forward to **November 11, 2026**. In a press release on November 6, the company said demand was higher than expected, stock sold out early, and new stock costs more because of memory and component prices. The current prices apply **until November 10**, while stock lasts. Ai+ has also published the new price of every variant:
 
@@ -97,7 +101,7 @@ Ai+ is far from alone. Memory chips have become much more expensive in 2026 as A
 
 {% include buy.html name="Ai+ Nova 2 5G" query="Ai+ Nova 2 5G" note="Current prices apply until November 10" %}
 
-**Related reading:** [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/)
+**Related reading:** [Lava Phones Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/)
 
 ## The bottom line
 

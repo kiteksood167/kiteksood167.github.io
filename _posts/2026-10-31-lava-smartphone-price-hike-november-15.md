@@ -1,7 +1,7 @@
 ---
-title: "Lava Phones to Get Costlier by Up to ₹3,000 From November 15"
+title: "Lava Phones Get Costlier by Up to ₹3,000 From November 15"
 seo_title: "Lava Phone Price Hike From November 15"
-description: "Lava will raise prices across its smartphone range by up to ₹3,000 from November 15, citing memory shortages. What it means and whether to buy now."
+description: "Lava raised prices across its smartphone range by up to ₹3,000 from November 15, citing memory shortages. What it means and whether Lava is still worth it."
 date: 2026-10-31 13:47:00 +0530
 last_modified_at: 2026-11-15 14:30:00 +0530
 update_note: "Lava's price hike of up to ₹3,000 is now in effect from November 15; model-wise prices are still not published."
@@ -46,7 +46,7 @@ Lava hasn't published a model-by-model list of new prices yet. Aaj Tak, which al
 
 ## Why phones keep getting more expensive
 
-Lava isn't alone. Memory chips have become much more expensive this year as chipmakers put more of their production into AI data centres, and phone brands are passing the cost on. Ai+ announced a price hike of up to ₹3,000 on select Pulse 2 and Nova 2 phones from the same date, [November 15](/ai-plus-smartphone-price-hike-november-15/), and several bigger brands have raised prices in India over the past few months.
+Lava isn't alone. Memory chips have become much more expensive this year as chipmakers put more of their production into AI data centres, and phone brands are passing the cost on. Ai+ raised prices by up to ₹3,000 on select Pulse 2 and Nova 2 phones from November 11, four days earlier than it first announced, and several bigger brands have raised prices in India over the past few months.
 
 Budget phones feel this the most, because memory makes up a bigger share of their cost than it does on a ₹60,000 flagship.
 
@@ -67,7 +67,7 @@ Budget phones feel this the most, because memory makes up a bigger share of thei
 
 We'll update this post when Lava shares the new price list.
 
-**Related reading:** [Ai+ Phones Get Costlier From November 15: Up to ₹3,000 Price Hike](/ai-plus-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Karbonn Rebel and Rebel Pro Launched in India: Price, Specs and Sale Date](/karbonn-rebel-rebel-pro-5g-india-launch-november-2/)
+**Related reading:** [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Karbonn Rebel and Rebel Pro Launched in India: Price, Specs and Sale Date](/karbonn-rebel-rebel-pro-5g-india-launch-november-2/)
 
 ## The bottom line
 

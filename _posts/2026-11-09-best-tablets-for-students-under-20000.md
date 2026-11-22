@@ -38,7 +38,7 @@ We haven't tested these tablets ourselves. The picks are based on official specs
 | **OnePlus Pad Lite** (Wi-Fi) | around ₹19,000 | 11" Full HD, 90Hz | Helio G100 | 6GB / 128GB | 9,340mAh, 33W | Not a focus |
 | **OPPO Pad SE** (LTE) | around ₹17,000 | 11" Full HD, 90Hz | Helio G100 | 8GB / 128GB | 9,340mAh, 33W | Not a focus |
 
-Prices move every week, and the same tablet is often sold in four or five versions. Always check the exact RAM, storage and Wi-Fi or LTE version before you pay.
+Prices move every week, and the same tablet is often sold in four or five versions. Always check the exact RAM, storage and Wi-Fi or LTE version before you pay. If you're not sure which specs matter for study, our [tablet buying guide](/tablet-buying-guide-india/) explains the eight that do.
 
 ## Why prices are higher in 2026
 

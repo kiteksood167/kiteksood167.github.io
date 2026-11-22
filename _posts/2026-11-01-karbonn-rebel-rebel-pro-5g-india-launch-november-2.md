@@ -94,7 +94,7 @@ Both phones use the MediaTek Helio G81, an entry-level chip that is fine for cal
 
 The Rebel series looks aimed at first-time smartphone buyers, students and older users who want a phone that lasts long on a charge, has a headphone jack and doesn't come full of unwanted apps. If you mainly use WhatsApp, YouTube and UPI payments, those are the right priorities.
 
-The closest rivals are other Indian brands chasing the same buyers. **Lava** phones also focus on clean Android in the budget segment, and **Ai+** sells its Nova 2 5G series in a similar price range. Note that Ai+ raised prices on select models from November 11 and Lava raised prices by up to ₹3,000 from November 15, so check their current prices against the Rebel's ₹11,999 to ₹12,499 before you decide.
+The closest rivals are other Indian brands chasing the same buyers. **Lava** phones also focus on clean Android in the budget segment, and **Ai+** sells its Nova 2 5G series in a similar price range. Note that Ai+ raised prices on select models from November 11 and Lava raised prices by up to ₹3,000 from November 15, so check their current prices against the Rebel's ₹11,999 to ₹12,499 before you decide. To compare the Rebel with other options at this budget, see our list of the [best phones under ₹15,000 in India](/best-phones-under-15000-india/).
 
 ## Our take
 
@@ -110,7 +110,7 @@ Battery backup and simple, ad-free software are more important to me in this pri
 
 I'd say yes, as long as it's easy to use, has good battery life and works smoothly. For me, a phone that's easy to use and works well is all that matters.
 
-**Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Lava Phones to Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
+**Related reading:** [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/) · [Lava Phones Get Costlier by Up to ₹3,000 From November 15](/lava-smartphone-price-hike-november-15/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
 

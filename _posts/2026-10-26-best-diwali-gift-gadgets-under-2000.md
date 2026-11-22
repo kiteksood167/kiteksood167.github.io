@@ -73,7 +73,7 @@ It's a good fit for a hostel room, a terrace party or the kitchen, where splash 
 
 For about ₹1,000 (October 2026), the Wipro 16A smart plug lets someone switch a plugged-in device on and off from their phone, or by voice with Alexa or Google Assistant. The 16A rating matters: it can handle heavy appliances like an AC or a geyser, unlike cheaper 6A or 10A plugs meant for lamps and chargers. It also tracks energy use and supports schedules, so the geyser can switch on before you wake up.
 
-It works over Wi-Fi without a separate hub. It's a thoughtful gift for parents who forget to turn off the geyser, and it leaves room in the budget for a second one.
+It works over Wi-Fi without a separate hub. It's a thoughtful gift for parents who forget to turn off the geyser, and it leaves room in the budget for a second one. If you'd also like an Alexa speaker to control it by voice, our [Echo Dot vs Echo Pop](/echo-dot-vs-echo-pop/) comparison helps you pick one.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/diwali-smart-plug-home.jpg" alt="A white smart plug in a wall socket controlled from a phone app, with a rangoli and diyas in the living room behind" loading="lazy">

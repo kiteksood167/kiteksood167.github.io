@@ -42,7 +42,7 @@ November looks like a flagship month in India. Motorola has confirmed the Signat
 
 **Update, November 20:** More **Motorola Edge 70 Neo** details from its Flipkart page, as reported by Digit and Cashify: up to 5,200 nits peak brightness, up to 8GB of LPDDR5X RAM and 7.5W wired reverse charging on top of the 45W charging. Motorola still hasn't announced the price or launch time; that comes on November 24. Reports also disagree on some details (for example the IP rating), so wait for the launch for the final spec sheet.
 
-**Update, November 18:** Motorola's Flipkart page now shows that the **Motorola Edge 70 Neo** launches in India on **November 24**, according to Beebom and Analytics Insight. Confirmed so far: a 6.8-inch 1.5K curved OLED screen at 144Hz, the Snapdragon 7s Gen 3 chip, a 50MP Sony LYTIA 710 main camera with OIS, a 7,000mAh battery with 45W charging and IP64 rating. The price isn't announced yet. Separately, the **Xiaomi 18 Pro** [launched globally in Paris on November 17](/xiaomi-18-pro-max-global-launch-november-17-expected-price-specs/) at €1,399, but Xiaomi still hasn't given an India date.
+**Update, November 18:** Motorola's Flipkart page now shows that the **Motorola Edge 70 Neo** launches in India on **November 24**, according to Beebom and Analytics Insight. Confirmed so far: a 6.8-inch 1.5K curved OLED screen at 144Hz, the Snapdragon 7s Gen 3 chip, a 50MP Sony LYTIA 710 main camera with OIS, a 7,000mAh battery with 45W charging and IP64 rating. The price isn't announced yet. Separately, the **Xiaomi 18 Pro** launched globally in Paris on November 17 at €1,399, but Xiaomi still hasn't given an India date.
 
 **Update, November 12:** Vivo has officially confirmed that the X500 series launches in India on **November 26**, with the Vivo Watch GT 2 arriving the same day, according to My Mobile India and Business Today. Prices are still unannounced. Details in our [Vivo X500 India launch post](/vivo-x500-series-india-launch-confirmed-expected-price-specs/).
 
@@ -137,7 +137,7 @@ My final suggestion:
 
 > **Tip:** If you're buying a phone under ₹30,000, don't wait for these. They're all flagships at ₹70,000 or more. If you're spending ₹70,000 or more, wait until the Signature 27's India price is out in November, because a new launch often pushes older flagships into sale prices.
 
-Also keep an eye on budget phones: some brands have raised prices this month, including [Lava](/lava-smartphone-price-hike-november-15/) (from November 15) and [AI+](/ai-plus-smartphone-price-hike-november-15/) (from November 11).
+Also keep an eye on budget phones: some brands have raised prices this month, including [Lava](/lava-smartphone-price-hike-november-15/) (from November 15) and AI+ (from November 11).
 
 **Related reading:** [Motorola Signature 27: Price, Specs and India Launch](/motorola-signature-27-launch-us-price-specs/) · [Infinix GT 50 Pro Launched in India at ₹69,999](/infinix-gt-50-pro-india-launch-october-27/)
 
