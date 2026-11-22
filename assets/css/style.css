@@ -602,6 +602,14 @@ html.qs-open { overflow: hidden; }
 .sb-list a:hover { color: var(--accent); }
 .sb-wa span { display: block; margin-bottom: 10px; }
 .btn.sb-wa-btn { background: #1fa855; }
+.sb-follow span { display: block; margin-bottom: 12px; }
+.sb-follow-btns { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.post-sidebar a.sb-fb-btn { display: block; text-align: center; padding: 8px 6px; border-radius: 8px; font-size: .85rem; font-weight: 700; color: #fff; text-decoration: none; }
+.sb-fb-btn:hover { filter: brightness(1.08); }
+.sb-ig { background: linear-gradient(45deg, #f09433, #dc2743 55%, #bc1888); }
+.sb-fbk { background: #1877f2; }
+.sb-wap { background: #1fa855; }
+.sb-pin { background: #e60023; }
 
 /* Homepage v2: budget price tags + shelves */
 .hero-v2 { padding-top: 48px; }
