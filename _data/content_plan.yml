@@ -79,13 +79,13 @@
   slug: best-laptops-under-500
   image: best-laptops-under-500.jpg
 
-# Audio last got a post on Nov 15. Explain open-ear/air-conduction vs in-ear (fit, sound, awareness, calls), with picks sold in India. Link /tws-earbuds-buying-guide/ and /neckband-vs-tws-earbuds/.
+# Weekly SEO pick (22 Nov): launch/price pages get most of our Search impressions (Poco X8s, OPPO Pad Mini, November launches). Only list phones confirmed by the brand or two reliable sources; label rumours clearly. Link /upcoming-phones-launching-india-november-2026/.
 - date: 2026-12-01
   audience: India
-  category: Audio
-  title: "Open-Ear vs In-Ear Earbuds: Which Should You Buy in India?"
-  slug: open-ear-vs-in-ear-earbuds
-  image: open-ear-vs-in-ear-earbuds.jpg
+  category: Launches
+  title: "Upcoming Phones Launching in India in December 2026: What's Confirmed"
+  slug: upcoming-phones-launching-india-december-2026
+  image: upcoming-phones-launching-india-december-2026.jpg
 
 # Global "X vs Y" of the week; set also_in: [Smart Home]. Compare current Ring and Blink cameras, subscription costs (Ring Home / Blink plans) and storage. Link /best-video-doorbells-under-150/.
 - date: 2026-12-02
@@ -110,3 +110,27 @@
   title: "Best Fitness Trackers Under $100 in 2026"
   slug: best-fitness-trackers-under-100
   image: best-fitness-trackers-under-100.jpg
+
+# Moved from Dec 1 (22 Nov). Audio last got a post on Nov 15. Explain open-ear/air-conduction vs in-ear (fit, sound, awareness, calls), with picks sold in India. Link /tws-earbuds-buying-guide/ and /neckband-vs-tws-earbuds/.
+- date: 2026-12-05
+  audience: India
+  category: Audio
+  title: "Open-Ear vs In-Ear Earbuds: Which Should You Buy in India?"
+  slug: open-ear-vs-in-ear-earbuds
+  image: open-ear-vs-in-ear-earbuds.jpg
+
+# Weekly SEO pick (22 Nov): Smart Home has the fewest posts. Wi-Fi/Matter smart plugs sold in India (Wipro, Philips WiZ, TP-Link Tapo, Xiaomi, Amazon Basics); check 10A vs 16A, energy monitoring and current Amazon.in prices on the day. Link /echo-dot-vs-echo-pop/.
+- date: 2026-12-06
+  audience: India
+  category: Smart Home
+  title: "Best Smart Plugs in India (2026): Which Ones Work With Alexa and Google"
+  slug: best-smart-plugs-india
+  image: best-smart-plugs-india.jpg
+
+# Weekly SEO pick (22 Nov): /improve-gaming-performance-android-phone/ is our top page by impressions (151, avg position 6.9). Step below /best-gaming-phones-under-30000/; only claim fps support that a source confirms; current Amazon.in/Flipkart prices on the day.
+- date: 2026-12-07
+  audience: India
+  category: Gaming
+  title: "Best Gaming Phones Under ₹20,000 in India (December 2026)"
+  slug: best-gaming-phones-under-20000
+  image: best-gaming-phones-under-20000.jpg
