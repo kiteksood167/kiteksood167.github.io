@@ -3,8 +3,8 @@ title: "Vivo X500 Series India Launch on November 26: Expected Price and Specs"
 seo_title: "Vivo X500 India Launch: Date, Price & Specs"
 description: "Vivo X500, X500 Pro and X500 Pro Max launch in India on November 26. Confirmed details, expected prices, China specs and Amazon/Flipkart pages."
 date: 2026-11-07 10:15:00 +0530
-last_modified_at: 2026-11-15 18:45:00 +0530
-update_note: "Newer tips put the X500 series much higher, from about ₹1.2 lakh; prices are still unofficial until November 26."
+last_modified_at: 2026-11-22 18:51:00 +0530
+update_note: "Vivo confirms India colours: Ember Red and Titanium Black (X500), Apex Orange and Eternal Black (Pros)."
 category: Launches
 also_in: [Phones]
 affiliate: true
@@ -31,11 +31,17 @@ sources:
     url: "https://www.mymobileindia.com/vivo-x500-pro-x500-pro-max-launched-in-china-price-specifications-camera-battery-and-features/"
   - name: "The Tech Outlook: Vivo X500 offline pre-bookings reportedly begin in India"
     url: "https://www.thetechoutlook.com/tech-whispers/vivo-x500-series-offline-pre-bookings-reportedly-begin-in-india-ahead-of-tipped-november-25-launch/"
+  - name: "My Mobile India: Vivo X500 and X500 Pro series colours revealed ahead of November 26 launch"
+    url: "https://www.mymobileindia.com/vivo-x500-and-x500-pro-series-colours-revealed-ahead-of-november-26-launch/"
+  - name: "Cashify: Vivo X500 series colours revealed ahead of November 26 India launch"
+    url: "https://www.cashify.in/news/vivo-x500-series-colours-revealed-ahead-of-november-26-india-launch"
 ---
 
 Vivo has started teasing the **X500 series** in India. Its India website now shows the X500 phones, a new **Zeiss telephoto extender** and the **Vivo Watch GT 2**, and launch pages have gone live on **Amazon** and **Flipkart**. Vivo hasn't announced the launch date or prices yet, but a well-known tipster says the phones arrive on **November 25**.
 
 <!--more-->
+
+**Update, November 22:** Vivo's official teasers now show the India colours, as reported by My Mobile India and Cashify: the **X500** comes in **Ember Red** and **Titanium Black**, and the **X500 Pro** and **X500 Pro Max** in **Apex Orange** and **Eternal Black**. The red X500 finish wasn't sold in China. The launch is still on **November 26 at 12 PM IST**; prices, RAM/storage options and the sale date will only be announced then, so the ₹1.2 lakh-plus figures and the December 2 sale date doing the rounds are still tips.
 
 **Update, November 15:** Newer leaks point to much higher India prices than earlier tips. Digit reports a tipster's estimate of about ₹1,19,999 for the X500, ₹1,49,999 for the X500 Pro and ₹1,59,999 for the X500 Pro Max (12GB + 256GB), and a leak of box MRPs starts at ₹1,69,999. MRP is the maximum printed price, and selling prices are usually lower. None of this is official; Vivo will announce prices on November 26.
 
@@ -49,6 +55,7 @@ According to My Mobile India, which reported the teasers on November 5 and 6:
 
 - The **X500 series** is listed as "coming soon" on Vivo's India website.
 - Launch pages (microsites) are live on **Amazon** and **Flipkart**, so the phones will be sold on both, as well as on Vivo's own store.
+- **Colours:** Ember Red and Titanium Black for the X500; Apex Orange and Eternal Black for the X500 Pro and X500 Pro Max (Vivo teasers, reported on November 16).
 - Vivo is also teasing the **Zeiss Telephoto Extender Gen 2 Ultra**, a clip-on lens for long zoom shots, and the **Vivo Watch GT 2** smartwatch.
 
 Since then, Vivo has confirmed the launch date as **November 26** (see the update above). India prices haven't been announced yet.
