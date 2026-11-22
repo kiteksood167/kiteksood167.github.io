@@ -47,7 +47,7 @@ Prices change almost daily in November, so check the listing before you buy.
 
 **Check what's beside your door first.** If you already have a wired doorbell, a wired-capable model never needs charging. If you don't, pick a battery model and plan to recharge it every few months, depending on how busy your door is.
 
-**Count the subscription, not just the sticker price.** A $5-a-month plan adds $60 a year. Over three years, that's more than most doorbells here cost. Tapo, Eufy and Wyze can save clips locally with no plan. Ring and Blink need a plan (or, for Blink, an extra hub) before they keep any recordings.
+**Count the subscription, not just the sticker price.** A $5-a-month plan adds $60 a year. Over three years, that's more than most doorbells here cost. Tapo, Eufy and Wyze can save clips locally with no plan. Ring and Blink need a plan (or, for Blink, an extra hub) before they keep any recordings. The same rule applies if you also want cameras for the yard or driveway; SmartHouseGears has a guide to <a href="https://smarthousegears.com/articles/best-wireless-outdoor-security-cameras-no-monthly-fee-usa" rel="nofollow noopener" target="_blank">outdoor security cameras with no monthly fee</a>.
 
 **A tall, square view beats a wide one.** Doorbells sit at chest height, so packages on the mat often fall out of frame. A "head-to-toe" view or a second downward camera fixes this.
 
