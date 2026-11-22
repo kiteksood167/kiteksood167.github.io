@@ -131,6 +131,74 @@ phones:
     updates: 1
     fiveg: false
     query: Realme P4s Lite
+  - name: POCO M7 Pro 5G
+    brand: Poco
+    os: android
+    price: 14999
+    chip: MediaTek Dimensity 7025 Ultra
+    screen: 6.67" FHD+ AMOLED, 120Hz
+    size: 6.67
+    mah: 5110
+    charge: 45W
+    cam: 50MP main with OIS
+    gaming: 2
+    camera: 3
+    display: 3
+    updates: 2
+    fiveg: true
+    query: POCO M7 Pro 5G 6GB 128GB
+    post: /best-phones-under-15000-india/
+  - name: Infinix Note 50x 5G+
+    brand: Infinix
+    os: android
+    price: 13499
+    chip: MediaTek Dimensity 7300 Ultimate
+    screen: 6.67" HD+ LCD, 120Hz
+    size: 6.67
+    mah: 5500
+    charge: 45W
+    cam: 50MP main
+    gaming: 3
+    camera: 2
+    display: 2
+    updates: 1
+    fiveg: true
+    query: Infinix Note 50x 5G
+    post: /best-phones-under-15000-india/
+  - name: Samsung Galaxy F16 5G
+    brand: Samsung
+    os: android
+    price: 12499
+    chip: MediaTek Dimensity 6300
+    screen: 6.7" FHD+ AMOLED, 90Hz
+    size: 6.7
+    mah: 5000
+    charge: 25W
+    cam: 50MP triple
+    gaming: 2
+    camera: 2
+    display: 3
+    updates: 4
+    fiveg: true
+    query: Samsung Galaxy F16 5G
+    post: /best-phones-under-15000-india/
+  - name: Moto G37
+    brand: Motorola
+    os: android
+    price: 14499
+    chip: MediaTek Dimensity 6400
+    screen: 6.7" HD+ LCD, 120Hz
+    size: 6.7
+    mah: 5200
+    charge: 20W
+    cam: 50MP main
+    gaming: 2
+    camera: 2
+    display: 2
+    updates: 1
+    fiveg: true
+    query: Moto G37
+    post: /best-phones-under-15000-india/
 
   # ---------- ₹15,000 – ₹20,000 ----------
   - name: Samsung Galaxy A08
