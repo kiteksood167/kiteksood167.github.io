@@ -17,6 +17,9 @@ sources:
   - name: "Android Authority: Razer Kishi V3 Pro review (with GameSir G8 Plus and G8 Galileo notes)"
     url: "https://www.androidauthority.com/razer-kishi-v3-pro-review-3566282/"
   - name: "Prices: Amazon.in, Reliance Digital and Smartprix listings, June–November 2026"
+image: /assets/images/best-gaming-controllers-india.jpg
+image_alt: "Three game controllers on a dark desk with green and orange neon light: a wireless pad, a pad with a light bar and a clip-on controller holding a phone"
+image_credit: "Illustration, not the actual product"
 ---
 
 A good controller makes racing games, football games and emulators far more fun on a PC or phone, and you no longer need to spend ₹5,000 or more to get one that lasts. The trick is matching the controller to how you play: one pad for PC and phone, a clip-on for phone-only gaming, or a cheap wired pad for the desk. Here are the picks worth buying in India right now, and what to check before you pay.
@@ -72,6 +75,11 @@ This price bracket, roughly ₹2,000 to ₹2,500, is where most people should sh
 
 If you play on an iPhone as well as a PC, either works.
 
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/controller-pc-tv-couch-gaming-neon.jpg" alt="A young man on a sofa playing a game on a big TV with a wireless controller, a gaming PC with glowing fans beside the TV, green and orange neon light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
+
 {% include buy.html name="EvoFox Elite X2 Pro / GameSir Nova Lite" query="hall effect wireless controller pc android" note="Tri-mode, Hall effect sticks, around ₹2,250–2,500" %}
 
 ## Best on a tight budget: Cosmic Byte Ares Tri-Mode
@@ -88,6 +96,11 @@ A clip-on controller holds your phone between two grips, like a Nintendo Switch.
 - **GameSir X2s Type-C** plugs straight into your phone's USB-C port, which means no pairing and no battery, and was listed at around ₹5,991 (June 2026).
 
 Clip-ons cost more than a full-size pad with a phone clip, so only buy one if mobile is your main platform. Many tri-mode pads above can be used with a cheap phone holder for a fraction of the price.
+
+<figure class="inline-figure">
+  <img width="1200" height="675" src="/assets/images/phone-clip-on-controller-gaming-neon.jpg" alt="Two hands holding a phone in a clip-on game controller playing a racing game, in a dark bedroom with green and orange neon light" loading="lazy">
+  <figcaption>Illustration</figcaption>
+</figure>
 
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/) · [Best Gaming Laptops Under ₹70,000 in India (November 2026): What's Left](/best-gaming-laptops-under-70000/)
 
