@@ -106,7 +106,7 @@ Game updates often include performance fixes for specific phones, and system upd
 
 If your phone still struggles after these tweaks, it may be time to upgrade. Our [iQOO Neo 10R vs Realme P4 Pro comparison](/iqoo-neo-10r-vs-realme-p4-pro/) looks at two popular gaming phones around ₹30,000.
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/) · [Phone Overheating? 10 Simple Fixes That Actually Work](/phone-overheating-fixes/)
+**Related reading:** [Best Gaming Controllers for Phone and PC in India (2026)](/best-gaming-controllers-india/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/) · [Phone Overheating? 10 Simple Fixes That Actually Work](/phone-overheating-fixes/)
 
 ## The bottom line
 
