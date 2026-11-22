@@ -43,6 +43,11 @@ layout: default
       {% if h2parts.size > 4 and page.news != true and page.category != "Launches" and page.category != "Global" %}{% for part in h2parts %}{% if forloop.first %}{{ part }}{% else %}{% if forloop.index == 4 %}{% include newsletter.html uid="-mid" %}{% endif %}<h2{{ part }}{% endif %}{% endfor %}{% else %}{{ content }}{% endif %}
     </div>
 
+    <aside class="follow-box follow-cta" aria-label="Follow GadgetGyaan">
+      <p><strong>Liked this guide?</strong> Follow GadgetGyaan for short gadget reels, launch news and buying tips.</p>
+      <div class="social-filled">{% include social-icons.html labels=true %}</div>
+    </aside>
+
     {% if page.sources and page.sources.size > 0 %}
     <aside class="sources-box" aria-label="Sources">
       <p class="sources-label">Sources</p>

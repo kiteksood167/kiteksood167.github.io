@@ -383,6 +383,14 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 .follow-box { margin: 28px 0; padding: 18px 20px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
 .follow-box p { margin: 0 0 12px; color: var(--ink-2); }
 .follow-box strong { color: var(--ink); }
+/* Follow box right after the post (phones/tablets; desktop has the sidebar card) */
+.follow-cta { border-color: var(--accent); }
+.social-filled .social-btn { color: #fff; border-color: transparent; }
+.social-filled .social-fb { background: #1877f2; }
+.social-filled .social-ig { background: linear-gradient(45deg, #f09433, #dc2743 50%, #bc1888); }
+.social-filled .social-pin { background: #e60023; }
+.social-filled .social-wa { background: #1fa855; }
+@media (min-width: 1100px) { .follow-cta { display: none; } }
 
 /* Search */
 .header-inner { gap: 8px; }
