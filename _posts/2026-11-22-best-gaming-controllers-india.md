@@ -102,6 +102,20 @@ Clip-ons cost more than a full-size pad with a phone clip, so only buy one if mo
   <figcaption>Illustration</figcaption>
 </figure>
 
+## Our take
+
+**Do you play games with a controller?**
+
+Yes, sometimes I play games with a controller, on phone also and on PC also. I play with touch also, but with a controller it feels a bit easier.
+
+**What would you check first before buying one?**
+
+First I will see the price, and that it works on both phone and PC or not. Along with that, the buttons and stick should also be proper.
+
+**Advice for someone buying in ₹2,000–2,500?**
+
+If you are buying in ₹2,000–2,500, first check the reviews. Take one that is comfortable to hold and doesn't get spoiled quickly.
+
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/) · [Best Gaming Laptops Under ₹70,000 in India (November 2026): What's Left](/best-gaming-laptops-under-70000/)
 
 ## The bottom line
