@@ -68,6 +68,9 @@
   {%- if page.url == "/" -%}{%- assign _pin = site.posts | where: "featured", true -%}{%- if _pin.size > 0 -%}{%- assign _lead = _pin.first -%}{%- else -%}{%- assign _lead = site.posts.first -%}{%- endif -%}{%- if _lead.image %}
   <link rel="preload" as="image" href="{{ _lead.image | relative_url }}" imagesrcset="{% include cover-srcset.html src=_lead.image %}" imagesizes="(max-width: 720px) calc(100vw - 32px), 680px" fetchpriority="high">
   {%- endif -%}{%- endif %}
+  {%- if page.layout == "post" and page.image %}
+  <link rel="preload" as="image" href="{{ page.image | relative_url }}" imagesrcset="{% include cover-srcset.html src=page.image %}" imagesizes="(max-width: 800px) calc(100vw - 32px), 760px" fetchpriority="high">
+  {%- endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   {%- comment -%} Headings swap in Bricolage when it arrives. Body text uses Inter only if it is ready almost at once

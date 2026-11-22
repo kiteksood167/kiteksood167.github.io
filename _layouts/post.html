@@ -25,7 +25,7 @@ layout: default
   <div class="wrap narrow post-main">
     {% if page.image %}
     <figure class="post-cover">
-      <img src="{{ page.image | relative_url }}" srcset="{% include cover-srcset.html src=page.image %}" sizes="(max-width: 800px) 100vw, 760px" width="1600" height="900" fetchpriority="high" alt="{{ page.image_alt | default: page.title | escape }}">
+      <img src="{{ page.image | relative_url }}" srcset="{% include cover-srcset.html src=page.image %}" sizes="(max-width: 800px) calc(100vw - 32px), 760px" width="1600" height="900" fetchpriority="high" alt="{{ page.image_alt | default: page.title | escape }}">
       {% if page.image_credit %}<figcaption>{{ page.image_credit }}</figcaption>{% endif %}
     </figure>
     {% endif %}
