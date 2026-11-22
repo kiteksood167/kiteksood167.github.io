@@ -4,7 +4,7 @@
   --surface: #ffffff;
   --ink: #15171c;
   --ink-2: #4a4f5a;
-  --muted: #747a86;
+  --muted: #5f6571;
   --line: #e4e2db;
   --accent: #ff5a1f;
   --accent-ink: #ffffff;
@@ -318,7 +318,7 @@ img.logo-mark { display: block; width: 34px; height: 34px; border-radius: 0; bac
 
 /* Buy buttons row */
 .buy-btns { display: flex; gap: 8px; flex-wrap: wrap; }
-.btn-alt { background: #2874f0; }
+.btn-alt { background: #1f66de; }
 .prose a.btn-alt, .buy-box a.btn-alt { color: #fff; }
 
 /* Featured block: 1 lead + 3 latest */
