@@ -94,7 +94,7 @@ The battery is smaller at 5,500mAh, and 45W charging is slower than the rest of 
 
 Infinix launched the GT 50 Pro in India on October 27 at ₹69,999, bundled with gaming accessories, so it's well outside this budget. The picks above remain the better buys under ₹30,000.
 
-**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Gaming Controllers for Phone and PC in India (2026)](/best-gaming-controllers-india/) · [iQOO Neo 10R vs Realme P4 Pro: Which Gaming Phone to Buy](/iqoo-neo-10r-vs-realme-p4-pro/)
+**Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Gaming Controllers for Phone and PC in India (2026)](/best-gaming-controllers-india/) · [iQOO Neo 10R vs Realme P4 Pro: Which Gaming Phone to Buy](/iqoo-neo-10r-vs-realme-p4-pro/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Poco X8s Launched: Price, Specs and India Launch](/poco-x8s-launched-price-specs-india-launch/)
 
 > **Still not sure?** Try our free [Phone Finder](/phone-finder/): answer 4 quick questions and get the 3 best phones for your budget.
 

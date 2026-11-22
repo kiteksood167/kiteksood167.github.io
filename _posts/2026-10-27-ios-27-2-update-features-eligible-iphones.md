@@ -42,7 +42,7 @@ Beyond Siri, the update adds:
 - Small changes to **Podcasts** (separate New Episodes and Continue Playing sections) and the **Games** app's Friends tab.
 - A refreshed **Apple Music** icon and look.
 
-Owners of the new iPhone Duo foldable also get Apple Pencil support with this release.
+Owners of the new iPhone Duo foldable also get Apple Pencil support with this release. If your iPhone Duo's inner screen has a problem, see our guide on the [iPhone Duo inner display issue and replacement](/iphone-duo-inner-display-issue-replacement/).
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/phones-lineup-small-to-large-neon.jpg" alt="Five smartphones from an older small model to a newer large one lined up on a glossy table with green and orange reflections" loading="lazy">

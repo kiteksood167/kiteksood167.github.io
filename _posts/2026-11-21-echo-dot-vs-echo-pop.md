@@ -124,7 +124,7 @@ The sound is quite good for the room. For a normal bedroom or a small room it is
 
 If someone is buying Alexa for the first time, I will suggest the Echo Dot. It is compact in size, the sound is also good and it is enough for daily use.
 
-**Related reading:** [Best Diwali Gift Gadgets Under ₹5,000 in India (2026)](/best-diwali-gift-gadgets-under-5000/) · [Best 43 Inch Smart TV in India (November 2026)](/best-43-inch-smart-tv-india/)
+**Related reading:** [Best Diwali Gift Gadgets Under ₹5,000 in India (2026)](/best-diwali-gift-gadgets-under-5000/) · [Best 43 Inch Smart TV in India (November 2026)](/best-43-inch-smart-tv-india/) · [Best Robot Vacuums Under $300 in 2026](/best-robot-vacuums-under-300/) · [Best Video Doorbells Under $150 in 2026](/best-video-doorbells-under-150/)
 
 ## The bottom line
 
