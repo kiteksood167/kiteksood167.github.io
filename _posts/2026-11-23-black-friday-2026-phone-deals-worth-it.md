@@ -112,6 +112,14 @@ The "free iPhone" deals you'll see come from carriers. These usually need a trad
 
 For more on spotting fake discounts across all gadgets, see our [Black Friday 2026 tech deals guide](/black-friday-2026-tech-deals-how-to-spot-real-discount/).
 
+## Our take
+
+Me, I will check the price first. Taking a phone only after seeing the discount does not seem right to me.
+
+In these three, I will take the Moto G Stylus. I have to do normal work on the phone, so there is no need to take such a costly phone. If the work is done in less price, then that only is better.
+
+I will take an unlocked phone only. Taking a phone on a 36-month contract, I don't like it. They say free phone, but after that you have to give money every month. I will like to buy the phone one time and use it as per my own wish.
+
 **Related reading:** [Best Budget Phones Under $300 in 2026](/best-budget-phones-under-300/) · [Unlocked vs Carrier Phones: Which Should You Buy in 2026?](/unlocked-vs-carrier-phones/)
 
 ## The bottom line
