@@ -23,7 +23,15 @@
         s.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}';
         document.head.appendChild(s);
       };
-      if (document.readyState === 'complete') load(); else window.addEventListener('load', function () { setTimeout(load, 1); });
+      /* Load analytics after the page has fully shown: on the first scroll/tap/key, or 3.5 s after load, whichever is first.
+         This keeps the 180 KB tag out of the phone's first-paint window (better mobile LCP). */
+      window.ggLater = window.ggLater || function (fn) {
+        var done = false, go = function () { if (done) return; done = true; ['scroll', 'touchstart', 'pointerdown', 'keydown'].forEach(function (e) { removeEventListener(e, go, true); }); fn(); };
+        ['scroll', 'touchstart', 'pointerdown', 'keydown'].forEach(function (e) { addEventListener(e, go, { capture: true, passive: true, once: true }); });
+        var t = function () { setTimeout(go, 3500); };
+        if (document.readyState === 'complete') t(); else addEventListener('load', t);
+      };
+      ggLater(load);
       gtag('js', new Date());
       gtag('config', '{{ site.google_analytics }}');
     })();
@@ -41,7 +49,7 @@
           y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
         })(window, document, "clarity", "script", "{{ site.clarity_id }}");
       };
-      if (document.readyState === 'complete') load(); else window.addEventListener('load', function () { setTimeout(load, 1); });
+      if (window.ggLater) ggLater(load); else if (document.readyState === 'complete') load(); else window.addEventListener('load', function () { setTimeout(load, 3500); });
     })();
   </script>
   {% endif %}
