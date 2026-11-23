@@ -3,8 +3,8 @@ title: "Motorola Signature 27 Launched at $1,599: Specs, Release Date and India 
 seo_title: "Motorola Signature 27: Price, Specs & India Launch"
 description: "Motorola's Signature 27 is official at $1,599 with a Snapdragon 8 Elite Extreme Gen 6, 200MP zoom and 7 years of updates. India launch and expected price."
 date: 2026-11-06 07:45:00 +0530
-last_modified_at: 2026-11-17 10:15:00 +0530
-update_note: "Merged our India launch coverage into this page, with the latest on the India date and expected price."
+last_modified_at: 2026-11-23 19:05:00 +0530
+update_note: "Motorola Signature 27 now launches in India on December 9, not November; India price still not announced."
 redirect_from:
   - /motorola-signature-27-india-launch-november-expected-price-specs/
 category: Global
@@ -15,6 +15,10 @@ image_alt: "A charcoal and an olive green phone with woven backs and large squar
 image_credit: "Illustration, not the actual product"
 tags: [motorola, motorola signature 27, flagship phones, snapdragon 8 elite extreme gen 6, launch, usa, uk, india, upcoming phones]
 sources:
+  - name: "Beebom: Motorola Signature 27 India launch date finally confirmed"
+    url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-date-confirmed"
+  - name: "91mobiles: Motorola Signature 27 launching in India on December 9"
+    url: "https://www.91mobiles.com/hub/motorola-signature-27-launch-date-india-december-9th/"
   - name: "Android Headlines: Motorola Signature 27 is official with a $1,599 price tag"
     url: "https://www.androidheadlines.com/motorola-signature-27-launch"
   - name: "Techaeris: Motorola Signature 27 arrives at $1,599.99"
@@ -37,6 +41,8 @@ Motorola has officially launched the **Signature 27** in the US at **$1,599.99**
 
 <!--more-->
 
+**Update, November 23:** The India launch has moved to **December 9**. Motorola shared the date at a media briefing, according to Beebom, and 91mobiles reports the same date. That's later than the "coming this November" message on Motorola India's website. The India price, variants and store details are still not announced, and Motorola hasn't confirmed whether the Indian model has exactly the same specs as the US one. Beebom says the **Moto Watch Ultra** is also coming to India.
+
 ## Price and release date
 
 | | Motorola Signature 27 |
@@ -54,15 +60,15 @@ US carriers haven't been confirmed, and Android Headlines reports that Motorola 
 
 ## India launch: what we know
 
-Motorola India has a Signature 27 page on its website that says the phone is "coming this November", and the brand confirmed the India launch at the India Mobile Congress in October. As of November 17, Motorola still hasn't announced the India date or price.
+Motorola confirmed the India launch at the India Mobile Congress in October, and its India website said the phone was "coming this November". On November 23, Beebom and 91mobiles reported that the India launch is on **December 9**, a date Motorola shared at a media briefing. Motorola still hasn't announced the India price.
 
 **Expected India price:** Indian outlets don't agree. Digit's estimates range from about **₹69,999 to ₹89,999** for the base model, and some reports point closer to ₹1 lakh. For context, the US price of $1,599.99 works out to about ₹1.4 lakh before Indian taxes, but Motorola usually prices phones much lower in India. The current **Motorola Signature** launched in India in January at **₹59,999** for 12GB + 256GB, so expect the Signature 27 to cost noticeably more. Treat every India price as a guess until Motorola announces it.
 
-**Should you wait?** If you want a top-end Android phone with a strong zoom camera and long updates, and your budget can stretch past ₹80,000, it's only weeks away. If your budget is around ₹60,000, the current Motorola Signature already has a 165Hz LTPO screen, IP68 and IP69 protection, 90W charging and seven years of updates, and it may get cheaper once the Signature 27 arrives.
+**Should you wait?** If you want a top-end Android phone with a strong zoom camera and long updates, and your budget can stretch past ₹80,000, it's about two weeks away (December 9). If your budget is around ₹60,000, the current Motorola Signature already has a 165Hz LTPO screen, IP68 and IP69 protection, 90W charging and seven years of updates, and it may get cheaper once the Signature 27 arrives.
 
 {% include buy.html name="Motorola Signature" query="Motorola Signature 5G" note="The current model in India, from ₹59,999 at launch" %}
 
-We'll update this section when Motorola announces the India date and price.
+We'll update this section when Motorola announces the India price.
 
 ## Full specs
 
