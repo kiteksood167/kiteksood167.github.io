@@ -3,6 +3,8 @@ title: "Sony WH-CH720N vs Soundcore Space One: Which to Buy"
 seo_title: "Sony WH-CH720N vs Soundcore Space One"
 description: "Sony WH-CH720N or Soundcore Space One? We compare price, noise cancelling, comfort, battery, codecs and calls to help you pick the right budget ANC pair."
 date: 2026-10-29 08:54:00 +0530
+last_modified_at: 2026-11-23 09:15:00 +0530
+update_note: "Prices refreshed for Black Friday week: the Space One is now the cheaper pair, the Sony costs more."
 image: /assets/images/sony-wh-ch720n-vs-soundcore-space-one.jpg
 image_alt: "A black and a beige pair of over-ear wireless headphones side by side on a wooden desk, with a fabric pouch next to the beige pair"
 image_credit: "Illustration, not the actual products"
@@ -15,6 +17,10 @@ sources:
     url: "https://www.gsmarena.com/sony_whch720n_wireless_headphones_review-news-58407.php"
   - name: "Trusted Reviews: Soundcore Space One review"
     url: "https://www.trustedreviews.com/reviews/soundcore-space-one"
+  - name: "Consequence: Best early Black Friday headphone deals (Nov 2026)"
+    url: "https://consequence.net/2026/11/best-black-friday-headphone-deals-2026/"
+  - name: "Slickdeals: Costco Soundcore Space One deal (Nov 2026)"
+    url: "https://slickdeals.net/f/20329374-costco-members-soundcore-space-one-noise-cancelling-headphones-black-or-cream-55-free-s-h"
 ---
 
 The Sony WH-CH720N and the Soundcore Space One are two of the most popular noise cancelling headphones you can buy for under $100. Both block steady noise well, last a long time on a charge and connect to two devices at once. They differ in weight, sound, extras and call quality, and those differences decide which one suits you.
@@ -25,7 +31,7 @@ The Sony WH-CH720N and the Soundcore Space One are two of the most popular noise
 
 | | Sony WH-CH720N | Soundcore Space One |
 |---|---|---|
-| **Price (late Oct 2026)** | $88 at Amazon (list $179.99) | $84.99 at Target, about $100 elsewhere (list $99.99) |
+| **Price (November 2026)** | around $104 at Amazon (list $179.99) | around $75 at major stores; $54.99 for Costco members until Nov 30 |
 | **Weight** | 192g | about 265g |
 | **Battery (claimed)** | up to 35 hours with ANC, 50 hours without | up to 40 hours with ANC, 55 hours without |
 | **Quick charge** | 3 minutes for about 1 hour | 5 minutes for about 4 hours |
@@ -35,13 +41,13 @@ The Sony WH-CH720N and the Soundcore Space One are two of the most popular noise
 | **Wear detection** | No | Yes (pauses when you take them off) |
 | **Wired listening** | 3.5mm cable included | 3.5mm jack |
 
-Prices are US prices from Amazon, Target, Walmart and Newegg in late October 2026 and change often, so check before you buy.
+Prices are US prices checked in the week before Black Friday (November 2026). They change often, so check before you buy.
 
-## Price: almost a tie right now
+## Price: the Soundcore is cheaper this Black Friday
 
-The Sony's list price is $179.99, but Amazon has been selling it for **$88**, less than half price. The Soundcore Space One has a lower list price of $99.99 and sells for **$84.99 at Target**, while Walmart and Newegg list it at about $100.
+The Sony's list price is $179.99. In October it dropped as low as $88 at Amazon, but in the run-up to Black Friday it was listed at around **$104 at Amazon (November 2026)**, and Best Buy was asking more. The Soundcore Space One sells for around **$75 (November 2026)** at major stores, and Costco members can get it for **$54.99** with a manufacturer discount that runs until November 30.
 
-At these prices there's only a few dollars between them, so the choice comes down to features rather than cost. If one of them is back at full price when you shop, the other is the obvious buy.
+That's a gap of roughly $30, or close to $50 if you shop at Costco. If you don't care much about weight or call quality, the Soundcore is the better value right now. If the Sony drops back under $90 during the sale, the choice goes back to features. Our guide to [spotting a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) shows how to check whether a "deal" price is actually low.
 
 ## Noise cancelling: roughly equal
 
@@ -90,19 +96,19 @@ If you take a lot of calls, this is the deciding factor. RTINGS says the Sony ha
 - You take a lot of calls or video meetings
 - You use an iPhone, where LDAC doesn't matter anyway
 
-{% include buy.html name="Sony WH-CH720N" query="Sony WH-CH720N noise canceling headphones" store="us" note="192g, strong ANC, better mic; often around $88" %}
+{% include buy.html name="Sony WH-CH720N" query="Sony WH-CH720N noise canceling headphones" store="us" note="192g, strong ANC, better mic; around $104 in Nov 2026" %}
 
 **Buy the Soundcore Space One if:**
 - You travel a lot and want headphones that fold into a bag
 - You want auto-pause when you take them off
 - You use an Android phone with LDAC, or want the longest battery life
 
-{% include buy.html name="Soundcore Space One" query="Soundcore Space One noise cancelling headphones" store="us" note="Folds, LDAC, wear detection; list $99.99" %}
+{% include buy.html name="Soundcore Space One" query="Soundcore Space One noise cancelling headphones" store="us" note="Folds, LDAC, wear detection; around $75 in Nov 2026" %}
 
-If you can spend a little more, Anker's **Soundcore Space One Pro** adds a more premium design and longer battery life, and it dropped to $129.99 in Amazon's October Prime Day sale. With Black Friday on November 27, both of the headphones above may also get cheaper in the next few weeks.
+If you can spend a little more, Anker's **Soundcore Space One Pro** adds a more premium design and longer battery life. Soundcore says its Black Friday and Cyber Monday sale runs from November 19 to 30, and Amazon's Black Friday Week sale runs through Cyber Monday (November 30), so watch both pairs until then.
 
-**Related reading:** [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Workout Earbuds Under $50 in 2026: Sweatproof Picks That Stay Put](/best-workout-earbuds-under-50/)
+**Related reading:** [Best Noise Cancelling Headphones Under $100 in 2026](/best-noise-cancelling-headphones-under-100/) · [Best Workout Earbuds Under $50 in 2026: Sweatproof Picks That Stay Put](/best-workout-earbuds-under-50/) · [AirPods Pro 3 vs AirPods 4 (and AirPods 5): Which to Buy This Black Friday](/airpods-pro-3-vs-airpods-4/)
 
 ## The bottom line
 
-The Sony WH-CH720N and Soundcore Space One cost almost the same right now and offer similar noise cancelling. Choose the **Sony** for lighter weight, better calls and a simple iPhone-friendly setup. Choose the **Soundcore** for travel, thanks to its folding design and pouch, plus wear detection, LDAC and longer battery life. For most commuters and office workers, the Sony's comfort and microphone make it the slightly safer pick.
+The Sony WH-CH720N and Soundcore Space One offer similar noise cancelling, and this Black Friday the Soundcore costs about $30 less. Choose the **Sony** for lighter weight, better calls and a simple iPhone-friendly setup. Choose the **Soundcore** for travel, thanks to its folding design and pouch, plus wear detection, LDAC and longer battery life. For most commuters and office workers, the Sony's comfort and microphone make it the slightly safer pick.
