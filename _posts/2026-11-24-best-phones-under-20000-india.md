@@ -100,6 +100,14 @@ The trade-offs: the screen is HD+, not Full HD+, and the Dimensity 6400 is a bas
 
 Not sure which specs matter? Our guide on [how to choose a smartphone under ₹20,000](/how-to-choose-a-smartphone-under-20000/) explains them in simple words. You can also compare every phone we track on our [phones by budget](/phones-by-budget/) page or take the 4-question [Phone Finder](/phone-finder/) quiz.
 
+## Our take
+
+In Ai+ Nova 2 Pro, Galaxy M17 and Moto G37 Power, I will think of taking the Moto G37 Power. In the phone I just need good battery and normal work should happen properly. There is no meaning of taking a costly phone every time, if the work is going on in less price.
+
+Phone prices have already increased quite a lot. If my old phone is running fine, then I will not take a new phone now. I will run it some more, and when there will be need, then I will see.
+
+Before taking a new brand, I will think a little. Phones of brands like Samsung and Motorola I have already seen being used, so trusting them is easy. Ai+ is a new brand, the phone can be good, but first I will see its reviews and people's experience, then I will think of taking it.
+
 **Related reading:** [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
 ## The bottom line
