@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Find posts that became due in the last 70 minutes
+      - name: Find posts that became due in the last 3 hours
         id: due
         run: |
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
@@ -30,7 +30,7 @@ jobs:
               if not m:
                   continue
               t = dt.datetime.strptime(m.group(1) + " " + m.group(2), "%Y-%m-%d %H:%M:%S %z")
-              if now - dt.timedelta(minutes=70) < t <= now:
+              if now - dt.timedelta(minutes=180) < t <= now:
                   due.append(f)
           print("files=" + " ".join(due))
           print("build=" + ("yes" if due else "no"))
