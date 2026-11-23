@@ -114,9 +114,9 @@ For more on spotting fake discounts across all gadgets, see our [Black Friday 20
 
 ## Our take
 
-Me, I will check the price first. Taking a phone only after seeing the discount does not seem right to me.
+Me, I will check the price first, before seeing the deal. Taking a phone only after seeing the discount does not seem right to me.
 
-In these three, I will take the Moto G Stylus. I have to do normal work on the phone, so there is no need to take such a costly phone. If the work is done in less price, then that only is better.
+In Pixel 11 Pro, Galaxy S26 Ultra and Moto G Stylus, I will take the Moto G Stylus. I have to do normal work on the phone, so there is no need to take such a costly phone. If the work is done in less price, then that only is better.
 
 I will take an unlocked phone only. Taking a phone on a 36-month contract, I don't like it. They say free phone, but after that you have to give money every month. I will like to buy the phone one time and use it as per my own wish.
 
