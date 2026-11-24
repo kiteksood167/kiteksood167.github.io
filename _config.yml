@@ -31,7 +31,7 @@ amazon_tags_social:                       # Amazon.in tracking IDs used when the
   facebook: "gadgetgyaan-facebook-21"
   instagram: "gadgetgyaan-insta-21"
   pinterest: "gadgetgyaan-pinterest-21"
-flipkart_affid: "kiteksood"          # <-- Flipkart Affiliate ID (affid); adds a Flipkart button to India buy boxes
+flipkart_affid: "inf_9f23d1cb-b83d-41da-9176-c6a5cf18efce"          # <-- Flipkart Affiliate ID (affid); adds a Flipkart button to India buy boxes
 amazon_tag_us: "gadgetgyaan-20"           # <-- Amazon.com Associates tag for Global posts, e.g. "gadgetgyaan-20"
 
 # Categories shown in the menu
