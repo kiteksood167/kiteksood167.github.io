@@ -3,8 +3,8 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
-last_modified_at: 2026-11-23 19:05:00 +0530
-update_note: "Edge 70 Neo: Flipkart page adds 5,200-nit peak brightness, LPDDR5X RAM and 7.5W reverse charging; price due November 24."
+last_modified_at: 2026-11-24 19:00:00 +0530
+update_note: "Motorola Edge 70 Neo is out in India: ₹34,999 effective price, first sale December 1 on Flipkart."
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
 image_credit: "Illustration, not the actual products"
@@ -16,6 +16,12 @@ sources:
     url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-date-confirmed"
   - name: "91mobiles: Motorola Signature 27 launching in India on December 9"
     url: "https://www.91mobiles.com/hub/motorola-signature-27-launch-date-india-december-9th/"
+  - name: "Digit: Motorola Edge 70 Neo with 7,000mAh battery launched in India"
+    url: "https://www.digit.in/news/mobile-phones/motorola-edge-70-neo-with-7000-mah-battery-launched-in-india-check-specs-price-and-other-details.html"
+  - name: "Beebom: Motorola Edge 70 Neo launched in India, price and sale date"
+    url: "https://gadgets.beebom.com/news/motorola-edge-70-neo-launched-in-india-key-specs-price-sale-date"
+  - name: "91mobiles: Motorola Edge 70 Neo launched in India, price and specifications"
+    url: "https://www.91mobiles.com/hub/motorola-edge-70-neo-launched-india-price-specifications/"
   - name: "Digit: Motorola Edge 70 Neo confirmed to launch on Nov 24, price and specs"
     url: "https://www.digit.in/news/mobile-phones/motorola-edge-70-neo-confirmed-to-launch-on-nov-24-from-price-to-specs-here-is-all-you-need-to-know.html"
   - name: "Cashify: Motorola Edge 70 Neo India launch confirmed for 24 November, Flipkart page goes live"
@@ -44,6 +50,8 @@ November looks like a flagship month in India. Motorola's Signature 27 was expec
 
 <!--more-->
 
+**Update, November 24:** The **Motorola Edge 70 Neo** is now official in India in a single 8GB + 128GB version. Motorola India quotes an effective price of **₹34,999** with launch offers; Digit and 91mobiles report a list price of ₹40,999 (Beebom says ₹37,999). The first sale is on **December 1 at 12 PM** on Flipkart, Motorola.in and retail stores, in four Pantone colours (Grey Lilac, Sage, Milky Blue and Mountain View). It runs Android 16, and Beebom reports a promise of three OS updates and five years of security patches. That leaves the **Vivo X500 series** (November 26) as the last big India launch this month.
+
 **Update, November 23:** The **Motorola Signature 27** will not launch in India this month after all. Beebom (from a Motorola media briefing) and 91mobiles report that it launches in India on **December 9**. The India price is still not announced. That leaves the **Motorola Edge 70 Neo** (November 24) and the **Vivo X500 series** (November 26) as this month's big India launches. Details in our [Motorola Signature 27 post](/motorola-signature-27-launch-us-price-specs/).
 
 **Update, November 20:** More **Motorola Edge 70 Neo** details from its Flipkart page, as reported by Digit and Cashify: up to 5,200 nits peak brightness, up to 8GB of LPDDR5X RAM and 7.5W wired reverse charging on top of the 45W charging. Motorola still hasn't announced the price or launch time; that comes on November 24. Reports also disagree on some details (for example the IP rating), so wait for the launch for the final spec sheet.
@@ -56,13 +64,13 @@ November looks like a flagship month in India. Motorola's Signature 27 was expec
 
 | Phone | Expected in India | Status | Expected price |
 |---|---|---|---|
-| Motorola Edge 70 Neo | November 24 | Date shown on Motorola's Flipkart page | Not announced; Beebom estimates ₹35,000 to ₹40,000 |
+| Motorola Edge 70 Neo | Launched November 24 (sale December 1) | Launched; Flipkart, Motorola.in and stores | ₹34,999 effective (8GB + 128GB) with launch offers |
 | Motorola Signature 27 | December 9 (moved from November) | Date reported by Beebom and 91mobiles after a Motorola media briefing | Not announced; estimates range from ₹70,000 to about ₹1 lakh |
 | Vivo X500, X500 Pro, X500 Pro Max | November 26 | Launch date confirmed by Vivo | Not announced |
 | iQOO 16 | Not announced (reports say December or early 2027) | India launch confirmed by iQOO, date not announced | Not announced; a tipster suggests above ₹1 lakh |
 | Xiaomi 18 Pro | Not announced (expected around December) | Launched globally on November 17 (from €1,399); Xiaomi India has hinted at it, no date | Not announced; expected around ₹1 lakh |
 
-India prices for all five are still unannounced, so treat any "India price" you see before launch day as an estimate.
+Apart from the Edge 70 Neo, India prices are still unannounced, so treat any "India price" you see before launch day as an estimate.
 
 ## Motorola Signature 27: now December 9
 
@@ -149,4 +157,4 @@ Also keep an eye on budget phones: some brands have raised prices this month, in
 
 ## The bottom line
 
-The Vivo X500 series (November 26) is the big flagship launch left this month, while the Motorola Signature 27 has moved to December 9. The iQOO 16 and Xiaomi 18 Pro are confirmed or hinted for India, but probably in December. None of them has an India price yet, so if you're planning to spend on a flagship, waiting a few weeks makes sense.
+The Vivo X500 series (November 26) is the big flagship launch left this month, while the Motorola Signature 27 has moved to December 9. The iQOO 16 and Xiaomi 18 Pro are confirmed or hinted for India, but probably in December. None of these four has an India price yet, so if you're planning to spend on a flagship, waiting a few weeks makes sense.
