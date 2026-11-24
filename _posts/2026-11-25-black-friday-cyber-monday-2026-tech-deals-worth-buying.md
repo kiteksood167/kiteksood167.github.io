@@ -152,6 +152,16 @@ Apple's own Black Friday event runs from November 27 to 30. Apple doesn't cut it
 
 Our full guide on [how to spot a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) goes through more checks.
 
+## Our take
+
+In AirPods Pro 3, Apple Watch SE 3, Kindle Paperwhite and the robot vacuum, I will think of taking the Kindle. I feel if it is to be used for reading, then Kindle is a thing of use. Without AirPods or watch also the work can go on, but this thing is for which work, according to that only it should be taken.
+
+Before taking anything in sale, I check its old price for sure. Only by seeing big discount I don't take it. Many times they show big discount, but before also the thing was getting at that same price only.
+
+If there is need of the thing now and the price is getting right, then I will take it now. But if there is no hurry, then there is no harm in waiting till Cyber Monday. Maybe the price becomes more less, although this is not sure.
+
+**Related reading:** [Black Friday 2026 Phone Deals: Which Discounts Are Actually Worth It](/black-friday-2026-phone-deals-worth-it/) · [Black Friday 2026 Tech Deals: How to Spot a Real Discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/)
+
 ## The bottom line
 
 The strongest Black Friday 2026 tech deals are the **AirPods Pro 3 at $149**, the **Apple Watch SE 3 from $179**, the **Roborock Q7 M5+ at $199.99** and the **Kindle Paperwhite at $129.99**. The iPad, MacBook Neo and Sony headphone deals are fine, but they are mostly undoing this year's price hikes rather than giving you a real bargain. Make a list, check each price against earlier in the year, and don't buy something just because the tag is red.
