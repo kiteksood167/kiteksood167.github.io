@@ -3,6 +3,7 @@ title: "CERT-In Warns iPhone, iPad and Mac Users: Update Now to Fix High-Risk Fl
 seo_title: "CERT-In Apple Warning: Update iPhone, iPad and Mac Now"
 description: "CERT-In has rated new Apple flaws 'high' severity. See which iPhone, iPad, Mac, Apple Watch and Safari versions are affected and how to update in minutes."
 date: 2026-10-30 13:47:00 +0530
+last_modified_at: 2026-11-25 19:33:00 +0530
 category: Phones
 also_in: [Laptops, Tablets]
 news: true
@@ -78,6 +79,14 @@ Attacks could be triggered by getting you to open a specially crafted web page, 
 If your iPhone is too old to get iOS 27.2, check whether it can install iOS 26.7.2 or 18.7.11 instead, since CERT-In lists those as fixed versions too. If your device no longer gets any updates, be careful about opening links and files from unknown senders, and consider that it may be time to upgrade.
 
 For what else the latest iPhone update brings, see our guide to [iOS 27.2 features and eligible iPhones](/ios-27-2-update-features-eligible-iphones/).
+
+## Our take
+
+In my MacBook M1, when update comes I do the update. I don't like to delay the update for much time, because in update many times things related to security also get fixed.
+
+Till now after update no big problem has come. Sometimes after update some things feel little different, but no such problem happened from which I have to stop using the laptop.
+
+In my OnePlus 9RT also, when update comes I do the update. I try that the phone stays updated, specially when security update comes. Only before doing update, I see that battery is good or the phone is on charging.
 
 **Related reading:** [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/) · [How to Check a New Phone Is Genuine Before You Accept the Delivery](/check-new-phone-genuine-before-accepting-delivery/) · [Caller Name Display (CNAP) Starts in India From November 1: What Changes for You](/cnap-caller-name-display-india-november-1/)
 
