@@ -3,6 +3,7 @@ title: "How to Sell Your Old Phone Safely in India: 9 Steps Before You Hand It O
 seo_title: "Sell Your Old Phone Safely: 9 Steps Before Handover"
 description: "Selling or exchanging your old phone? Back up, sign out of Google or Apple ID, reset it properly and check your SIMs. 9 steps to protect your data and money."
 date: 2026-10-31 08:54:00 +0530
+last_modified_at: 2026-11-25 19:16:00 +0530
 category: Guides
 also_in: [Phones]
 affiliate: true
@@ -110,6 +111,18 @@ Include the original box, charger (if you have it) and the purchase bill. Buyers
 {% include buy.html name="USB-C pen drive" query="USB C pen drive 128GB" note="Handy for backing up photos and files before a reset" %}
 
 {% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Upgrading? Check exchange offers on the product page" %}
+
+## Our take
+
+My old phones have been Redmi Note 4, POCO and OnePlus 6T. Some phones I used for quite long time and later changed them. POCO and OnePlus 6T I had sold, and the Redmi Note 4 had got broken.
+
+If phone has to be sold, then I will think of selling it on OLX or to some known person. Selling to known person seems little easy, but on OLX also good price can be got. Only little attention has to be kept.
+
+Before selling the phone, I will take backup of my important data, then I will reset the phone. Photos, contacts and other important things should be saved first. Before giving the phone, this also I will check that any of my account is not logged in it.
+
+I have heard many cases where while selling the phone, people got cheated. That's why before giving the phone, confirming the payment is necessary. Only by seeing screenshot of payment, phone should not be given.
+
+My advice is that before selling the phone, save your data properly and don't forget to reset the phone. Tell the condition of the phone correct-correct, fix the price first and give the phone only after the payment is confirmed.
 
 **Related reading:** [How to Check a New Phone Is Genuine Before You Accept the Delivery](/check-new-phone-genuine-before-accepting-delivery/) · [How to Choose a Smartphone Under ₹20,000](/how-to-choose-a-smartphone-under-20000/)
 
