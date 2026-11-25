@@ -3,7 +3,7 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
-last_modified_at: 2026-11-24 19:00:00 +0530
+last_modified_at: 2026-11-25 18:55:00 +0530
 update_note: "Motorola Edge 70 Neo is out in India: ₹34,999 effective price, first sale December 1 on Flipkart."
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
@@ -12,6 +12,8 @@ category: Launches
 also_in: [Phones]
 tags: [upcoming phones, motorola signature 27, motorola edge 70 neo, vivo x500, iqoo 16, xiaomi 18 pro, flagship phones, launch]
 sources:
+  - name: "The Tech Outlook: Motorola Signature 27 India launch set for December 9, chipset and two colours confirmed"
+    url: "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-signature-27-india-launch-set-for-december-9-snapdragon-8-elite-extreme-gen-6-chipset-and-two-colour-options-confirmed/"
   - name: "Beebom: Motorola Signature 27 India launch date finally confirmed"
     url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-date-confirmed"
   - name: "91mobiles: Motorola Signature 27 launching in India on December 9"
@@ -65,7 +67,7 @@ November looks like a flagship month in India. Motorola's Signature 27 was expec
 | Phone | Expected in India | Status | Expected price |
 |---|---|---|---|
 | Motorola Edge 70 Neo | Launched November 24 (sale December 1) | Launched; Flipkart, Motorola.in and stores | ₹34,999 effective (8GB + 128GB) with launch offers |
-| Motorola Signature 27 | December 9 (moved from November) | Date reported by Beebom and 91mobiles after a Motorola media briefing | Not announced; estimates range from ₹70,000 to about ₹1 lakh |
+| Motorola Signature 27 | December 9 (moved from November) | Officially teased by Motorola India on November 24 (Coal Smoke and Capulet Olive colours) | Not announced; estimates range from ₹70,000 to about ₹1 lakh |
 | Vivo X500, X500 Pro, X500 Pro Max | November 26 | Launch date confirmed by Vivo | Not announced |
 | iQOO 16 | Not announced (reports say December or early 2027) | India launch confirmed by iQOO, date not announced | Not announced; a tipster suggests above ₹1 lakh |
 | Xiaomi 18 Pro | Not announced (expected around December) | Launched globally on November 17 (from €1,399); Xiaomi India has hinted at it, no date | Not announced; expected around ₹1 lakh |

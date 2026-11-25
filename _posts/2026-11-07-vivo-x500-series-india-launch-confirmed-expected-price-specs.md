@@ -3,8 +3,8 @@ title: "Vivo X500 Series India Launch on November 26: Expected Price and Specs"
 seo_title: "Vivo X500 India Launch: Date, Price & Specs"
 description: "Vivo X500, X500 Pro and X500 Pro Max launch in India on November 26. Confirmed details, expected prices, China specs and Amazon/Flipkart pages."
 date: 2026-11-07 10:15:00 +0530
-last_modified_at: 2026-11-22 18:51:00 +0530
-update_note: "Vivo confirms India colours: Ember Red and Titanium Black (X500), Apex Orange and Eternal Black (Pros)."
+last_modified_at: 2026-11-25 18:55:00 +0530
+update_note: "Vivo X500 series launches tomorrow at 12 PM; Photographer Kit and Imaging Grip Kit also coming to India."
 category: Launches
 also_in: [Phones]
 affiliate: true
@@ -13,6 +13,10 @@ image_alt: "Three premium phones with large round camera modules in black, silve
 image_credit: "Illustration, not the actual products"
 tags: [vivo, vivo x500, vivo x500 pro, vivo x500 pro max, flagship phones, camera phones, upcoming phones, launch]
 sources:
+  - name: "Beebom: Vivo X500 series India launch date confirmed with a new red colourway"
+    url: "https://gadgets.beebom.com/news/vivo-x500-series-india-launch-date-confirmed"
+  - name: "91mobiles: Vivo X500 series to launch in India on November 26th, all three models confirmed"
+    url: "https://www.91mobiles.com/hub/vivo-x500-series-india-launch-date/"
   - name: "Digit: Vivo X500 series India launch set for Nov 26, expected price"
     url: "https://www.digit.in/news/mobile-phones/vivo-x500-pro-max-x500-pro-x500-india-launch-set-for-nov-26-check-expected-price-specs-and-more.html"
   - name: "Udaipur Times: Vivo X500 series box prices leaked ahead of November 26 launch"
@@ -40,6 +44,8 @@ sources:
 Vivo has started teasing the **X500 series** in India. Its India website now shows the X500 phones, a new **Zeiss telephoto extender** and the **Vivo Watch GT 2**, and launch pages have gone live on **Amazon** and **Flipkart**. Vivo hasn't announced the launch date or prices yet, but a well-known tipster says the phones arrive on **November 25**.
 
 <!--more-->
+
+**Update, November 25:** The launch is tomorrow, **November 26 at 12 PM IST**. Beebom and 91mobiles report that Vivo will also bring the **X500 Pro Max Photographer Kit** and the **Vivo Imaging Grip Kit** to India, alongside the Watch GT 2. India prices, RAM/storage options and the sale date are still unannounced; the ₹1,19,999 (X500) to ₹1,79,999 (Pro Max 12GB + 512GB) figures and the December 2 sale date are tipster claims until Vivo confirms them.
 
 **Update, November 22:** Vivo's official teasers now show the India colours, as reported by My Mobile India and Cashify: the **X500** comes in **Ember Red** and **Titanium Black**, and the **X500 Pro** and **X500 Pro Max** in **Apex Orange** and **Eternal Black**. The red X500 finish wasn't sold in China. The launch is still on **November 26 at 12 PM IST**; prices, RAM/storage options and the sale date will only be announced then, so the ₹1.2 lakh-plus figures and the December 2 sale date doing the rounds are still tips.
 

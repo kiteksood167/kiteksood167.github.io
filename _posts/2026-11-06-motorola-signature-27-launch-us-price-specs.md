@@ -3,8 +3,8 @@ title: "Motorola Signature 27 Launched at $1,599: Specs, Release Date and India 
 seo_title: "Motorola Signature 27: Price, Specs & India Launch"
 description: "Motorola's Signature 27 is official at $1,599 with a Snapdragon 8 Elite Extreme Gen 6, 200MP zoom and 7 years of updates. India launch and expected price."
 date: 2026-11-06 07:45:00 +0530
-last_modified_at: 2026-11-23 19:05:00 +0530
-update_note: "Motorola Signature 27 now launches in India on December 9, not November; India price still not announced."
+last_modified_at: 2026-11-25 18:55:00 +0530
+update_note: "Motorola India officially teases the Signature 27 for December 9 in Coal Smoke and Capulet Olive colours."
 redirect_from:
   - /motorola-signature-27-india-launch-november-expected-price-specs/
 category: Global
@@ -15,6 +15,8 @@ image_alt: "A charcoal and an olive green phone with woven backs and large squar
 image_credit: "Illustration, not the actual product"
 tags: [motorola, motorola signature 27, flagship phones, snapdragon 8 elite extreme gen 6, launch, usa, uk, india, upcoming phones]
 sources:
+  - name: "The Tech Outlook: Motorola Signature 27 India launch set for December 9, chipset and two colours confirmed"
+    url: "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-signature-27-india-launch-set-for-december-9-snapdragon-8-elite-extreme-gen-6-chipset-and-two-colour-options-confirmed/"
   - name: "Beebom: Motorola Signature 27 India launch date finally confirmed"
     url: "https://gadgets.beebom.com/news/motorola-signature-27-india-launch-date-confirmed"
   - name: "91mobiles: Motorola Signature 27 launching in India on December 9"
@@ -41,6 +43,8 @@ Motorola has officially launched the **Signature 27** in the US at **$1,599.99**
 
 <!--more-->
 
+**Update, November 25:** Motorola India has now teased the December 9 launch publicly on its official X account, as reported by The Tech Outlook, and Beebom's briefing report matches it. The teaser confirms the **Snapdragon 8 Elite Extreme Gen 6** chip and two colours, **Pantone Coal Smoke** (dark grey) and **Pantone Capulet Olive** (green), the same as the US model. The poster says the phone will be sold on **Motorola's India website and in retail stores**; no Flipkart or Amazon page is live yet. The India price and launch time are still not announced, so the ₹95,000 to ₹1.3 lakh figures you may see are estimates.
+
 **Update, November 23:** The India launch has moved to **December 9**. Motorola shared the date at a media briefing, according to Beebom, and 91mobiles reports the same date. That's later than the "coming this November" message on Motorola India's website. The India price, variants and store details are still not announced, and Motorola hasn't confirmed whether the Indian model has exactly the same specs as the US one. Beebom says the **Moto Watch Ultra** is also coming to India.
 
 ## Price and release date
@@ -60,7 +64,7 @@ US carriers haven't been confirmed, and Android Headlines reports that Motorola 
 
 ## India launch: what we know
 
-Motorola confirmed the India launch at the India Mobile Congress in October, and its India website said the phone was "coming this November". On November 23, Beebom and 91mobiles reported that the India launch is on **December 9**, a date Motorola shared at a media briefing. Motorola still hasn't announced the India price.
+Motorola confirmed the India launch at the India Mobile Congress in October, and its India website said the phone was "coming this November". On November 23, Beebom and 91mobiles reported that the India launch is on **December 9**, a date Motorola shared at a media briefing and then teased on its official X account on November 24, along with the chip and the Coal Smoke and Capulet Olive colours. Motorola still hasn't announced the India price.
 
 **Expected India price:** Indian outlets don't agree. Digit's estimates range from about **₹69,999 to ₹89,999** for the base model, and some reports point closer to ₹1 lakh. For context, the US price of $1,599.99 works out to about ₹1.4 lakh before Indian taxes, but Motorola usually prices phones much lower in India. The current **Motorola Signature** launched in India in January at **₹59,999** for 12GB + 256GB, so expect the Signature 27 to cost noticeably more. Treat every India price as a guess until Motorola announces it.
 
