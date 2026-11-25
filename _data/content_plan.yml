@@ -9,36 +9,6 @@
 # instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
 # launch takes a day's slot, move that day's planned topic to the next free date.
 
-- date: 2026-11-22
-  audience: India
-  category: Gaming
-  title: "Best Gaming Controllers for Phone and PC in India (2026)"
-  slug: best-gaming-controllers-india
-  image: best-gaming-controllers-india.jpg
-
-# Black Friday is Nov 27. Link /black-friday-2026-tech-deals-how-to-spot-real-discount/, /best-budget-phones-under-300/, /unlocked-vs-carrier-phones/. Use only deals and prices found in research on the day; never invent prices.
-- date: 2026-11-23
-  audience: Global
-  category: Global
-  title: "Black Friday 2026 Phone Deals: Which Discounts Are Actually Worth It"
-  slug: black-friday-2026-phone-deals-worth-it
-  image: black-friday-2026-phone-deals-worth-it.jpg
-
-# Quora demand. Use _data/phone_finder.yml for picks, then check current prices on Amazon/Flipkart. Link /how-to-choose-a-smartphone-under-20000/, /phone-finder/ and /phones-by-budget/.
-- date: 2026-11-24
-  audience: India
-  category: Phones
-  title: "Best Phones Under ₹20,000 in India (November 2026)"
-  slug: best-phones-under-20000-india
-  image: best-phones-under-20000-india.jpg
-
-- date: 2026-11-25
-  audience: Global
-  category: Global
-  title: "Best Tech Gifts Under $50 in 2026: Holiday Gift Ideas"
-  slug: best-tech-gifts-under-50
-  image: best-tech-gifts-under-50.jpg
-
 # Accessories had no post since Oct 29. Builds on /fast-charging-explained/ and /best-power-banks-india/. Check each charger's wattage, PD/PPS support and price on Amazon.in on the day.
 - date: 2026-11-26
   audience: India
@@ -134,3 +104,11 @@
   title: "Best Gaming Phones Under ₹20,000 in India (December 2026)"
   slug: best-gaming-phones-under-20000
   image: best-gaming-phones-under-20000.jpg
+
+# Moved from Nov 25 (the Black Friday deals post took that day's slot). Still a holiday topic in early December.
+- date: 2026-12-08
+  audience: Global
+  category: Global
+  title: "Best Tech Gifts Under $50 in 2026: Holiday Gift Ideas"
+  slug: best-tech-gifts-under-50
+  image: best-tech-gifts-under-50.jpg
