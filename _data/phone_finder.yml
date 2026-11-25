@@ -1,6 +1,7 @@
 # ------------------------------------------------------------
 #  Phone Finder data (used by /phone-finder/)
-#  Update "updated" and the prices once a month.
+#  Check prices and update this list EVERY WEEK. Each time, set
+#  "last_updated" to the date of the check (YYYY-MM-DD) and "updated" to the month.
 #
 #  Scores are 1 (weak) to 5 (best in class), judged from specs:
 #    gaming  = chip power and cooling
@@ -14,6 +15,7 @@
 # ------------------------------------------------------------
 
 updated: "November 2026"
+last_updated: 2026-11-22
 
 phones:
   # ---------- Under ₹15,000 ----------

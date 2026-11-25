@@ -78,6 +78,7 @@ permalink: /phone-finder/
     .pf-specs { grid-template-columns: 1fr 1fr; }
     .pf-price small { text-align: left; }
   }
+  .pf-updated { margin: 12px 0 0; font-size: .88rem; color: var(--muted); }
 </style>
 
 <section class="pf-hero">
@@ -85,6 +86,7 @@ permalink: /phone-finder/
     <p class="pf-eyebrow">Free tool · {{ pf.updated }} prices</p>
     <h1>Which phone should I buy?</h1>
     <p class="lede">Answer 4 quick questions. We'll match you with the 3 best phones in India for your budget and the things you care about.</p>
+    <p class="pf-updated">We update this list every week. Last updated: <time datetime="{{ pf.last_updated | date: '%Y-%m-%d' }}">{{ pf.last_updated | date: '%-d %B %Y' }}</time></p>
   </div>
 </section>
 
@@ -96,7 +98,7 @@ permalink: /phone-finder/
   <article class="prose pf-about">
     <h2>How the Phone Finder picks phones</h2>
     <p>We keep a shortlist of phones currently on sale in India, from basic phones under ₹15,000 to flagships. Each phone is rated from 1 to 5 on gaming power, camera, battery, screen, software updates and size, based on its specs and what the brand promises. Your answers decide how much each of those counts, and the tool shows the three phones that fit you best within your budget.</p>
-    <p>Prices are what the phones were selling for in {{ pf.updated }}. They change often during sales, so tap the Amazon or Flipkart button to see today's price. We have not personally tested every phone on the list; the ratings come from specifications and reliable reviews.</p>
+    <p>We check the prices and update this list every week (last update: {{ pf.last_updated | date: '%-d %B %Y' }}). Prices are what the phones were selling for in {{ pf.updated }}. They change often during sales, so tap the Amazon or Flipkart button to see today's price. We have not personally tested every phone on the list; the ratings come from specifications and reliable reviews.</p>
     <h2>Quick tips before you buy</h2>
     <ul>
       <li><strong>Don't chase megapixels.</strong> A 50MP camera with OIS (stabilisation) usually beats a 108MP camera without it.</li>
