@@ -3,6 +3,7 @@ title: "Fast Charging Explained: Watts, USB-C PD and the Right Charger"
 seo_title: "Fast Charging Explained: Watts, USB-C PD & Chargers"
 description: "Why does your phone charge slowly with some chargers? A simple guide to watts, USB-C Power Delivery, proprietary charging and choosing a safe charger."
 date: 2026-10-20 04:26:00 +0530
+last_modified_at: 2026-11-25 19:05:00 +0530
 image: /assets/images/fast-charging-explained.jpg
 image_alt: "A smartphone fast charging with a glowing USB-C cable and charger"
 category: Accessories
@@ -71,6 +72,18 @@ This explains the common problem: a phone rated for very high-wattage proprietar
 Modern phones manage fast charging carefully: speeds drop as the battery fills and as temperature rises. **Heat** is the bigger enemy of battery health, not the charger itself. Charge in a cool place, avoid gaming while charging, and use your phone's battery protection setting if you charge overnight.
 
 {% include buy.html name="USB-C PD chargers with PPS" query="usb c pd pps charger 45W" note="Check the cable is rated for the same wattage" %}
+
+## Our take
+
+With my OnePlus 9RT the charger had come, and I am still using that same charger only. When with the phone a good charger is getting, then there is no need of taking a separate one.
+
+Before taking a cheap charger also I have thought, but in charger and cable I will avoid taking very cheap. If the charger does not work properly or the phone charges slowly, then there is no benefit of saving the money.
+
+For phone and laptop I will like to keep separate charger. From one charger the work of both can happen, but the power of the charger and the cable also has to be seen. Every charger is not right for every device.
+
+I don't think that from fast charging the battery gets spoiled immediately. But while charging the phone becomes hot, and if again and again too much heat comes, then there can be effect on the battery. I try that the phone does not become too hot at the time of charging.
+
+My advice is that while taking a charger, don't take it seeing it is very cheap. Take the charger of a good brand and also check that it is working properly with your phone or not. In the chase of saving a little money in charger, later there can be problem.
 
 **Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
 
