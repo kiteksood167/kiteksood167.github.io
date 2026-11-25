@@ -3,7 +3,7 @@ title: "Best Gift Gadgets Under ₹5,000 in India (2026): For Parents, Friends a
 seo_title: "Best Gift Gadgets Under ₹5,000 in India"
 description: "Six gift gadgets under ₹5,000 for birthdays, festivals or parents: ANC earbuds, a GPS smartwatch, a fast power bank, a JBL speaker, an Echo Dot and a Fire TV Stick."
 date: 2026-10-29 15:30:00 +0530
-last_modified_at: 2026-11-25 19:10:00 +0530
+last_modified_at: 2026-11-25 19:32:00 +0530
 category: Accessories
 also_in: [Audio, Wearables, Smart Home]
 tags: [gift ideas, Diwali gifts, birthday gifts, gadgets under 5000, earbuds, smartwatch, power bank, Bluetooth speaker, Echo Dot, Fire TV Stick]
@@ -113,6 +113,14 @@ It works in Hindi as well as English. It needs Wi-Fi and the Alexa app on someon
 - **For a smaller budget:** see our [gift gadgets under ₹2,000](/best-diwali-gift-gadgets-under-2000/).
 
 Before you pay, compare the final checkout price with the price history and bank offers. Our [gadget buying tips for online sales](/diwali-gadget-buying-tips/) explain how.
+
+## Our take
+
+Yes, I had gifted OnePlus earbuds of ₹2,800. I had given them to my brother-in-law. Gifting earbuds seemed right to me because this is a thing which comes in daily use and with phone also they get used.
+
+If for parents gift has to be taken in ₹5,000, then I will see a good smartwatch or some gadget which comes in use with phone. Such thing should be taken which comes in their daily work and is easy in using also.
+
+My wife had given me Corseca neckband. It was very good and still also it is running. Its battery life is long and sound quality also was best.
 
 **Related reading:** [Best Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/) · [Gadget Buying Tips for Online Sales in India](/diwali-gadget-buying-tips/) · [Best TWS Earbuds Under ₹3,000 in India (2026)](/best-tws-earbuds-under-3000/) · [Echo Dot vs Echo Pop: Which Alexa Speaker to Buy in India](/echo-dot-vs-echo-pop/)
 
