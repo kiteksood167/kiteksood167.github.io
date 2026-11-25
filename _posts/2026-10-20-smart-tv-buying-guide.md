@@ -2,6 +2,7 @@
 title: "Smart TV Buying Guide: The Specs That Actually Matter"
 description: "4K, QLED, OLED, 120Hz, HDR10+, Dolby Vision — what do they mean? A plain-English guide to picking the right smart TV for your room and budget."
 date: 2026-10-20 04:28:00 +0530
+last_modified_at: 2026-11-25 19:13:00 +0530
 image: /assets/images/smart-tv-buying-guide.jpg
 image_alt: "A large smart TV showing a mountain sunset in a cosy living room"
 category: "Smart Home"
@@ -78,6 +79,16 @@ Thin TVs have small speakers. If you care about dialogue clarity and movie sound
 > **Tip:** Check the brand's service network in your city before buying, and consider the extended warranty for panels. A TV panel repair can cost a large part of the TV's price.
 
 {% include buy.html name="4K smart TVs" query="4K smart TV 55 inch" note="Compare panel type and HDR formats, not just price" %}
+
+## Our take
+
+My Mi Smart TV is of 32 inch. I had taken it in 2019. I took Mi TV because the price was right and in it quite a lot of features were getting. At that time I felt that in this much price this is a good option.
+
+Till now the TV has been quite good. Picture quality is good and in normal use the work is running. But sometimes the TV hangs, and on top of that Netflix and Prime do not run in it.
+
+If today I have to take TV, then I will see picture quality, sound and how smoothly the TV runs, all this. Only by seeing size or features I will not take. This also I will see that in the TV again and again ads are not coming and the apps are running properly or not.
+
+While taking TV, one should not take only by seeing big size. First see the size according to the room, check the picture and sound and see the reviews also. Taking TV only by seeing less price, later it can be wrong.
 
 **Related reading:** [Best 65 Inch TV in 2026: Top Picks Before Black Friday](/best-65-inch-tv-2026/) · [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [New Apple TV 4K (2026) Launched in India at ₹39,900: What's New and Is It Worth It?](/apple-tv-4k-2026-india-price-features/)
 
