@@ -3,6 +3,7 @@ title: "How to Check a New Phone Is Genuine Before You Accept the Delivery"
 seo_title: "Check a New Phone Is Genuine Before Accepting Delivery"
 description: "Ordered a phone online? Check the box seal, IMEI, model and warranty before you share the delivery OTP. A simple doorstep checklist for Indian buyers."
 date: 2026-10-30 08:54:00 +0530
+last_modified_at: 2026-11-25 19:21:00 +0530
 category: Guides
 also_in: [Phones]
 image: /assets/images/check-new-phone-genuine-before-accepting-delivery.jpg
@@ -106,6 +107,18 @@ Buying from the brand's official store on Amazon or Flipkart, or a well-rated se
 {% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Buy from the brand's official store where you can" %}
 
 {% include buy.html name="Tempered glass screen protector" query="tempered glass screen protector" note="Put it on right after you check the screen" %}
+
+## Our take
+
+I had ordered my OnePlus 9RT online from the OnePlus website. In taking online there is easiness, sitting at home the phone gets delivered and on different-different websites the price also we can see.
+
+When the phone came, I had checked both the box and the phone. On the phone there was no scratch, the box was proper, and with it the charger and other things also I checked. By switching on the phone also I had seen that everything is running properly or not.
+
+With me any such big case has not happened, but such cases are heard. That's why when the phone comes, it should not be accepted without checking. Both box and phone should be seen.
+
+For me taking phone online seems more easy. Price we can compare and many times offers also get. But the benefit of taking from shop is that we can take the phone by seeing it in front. Both have their own benefits.
+
+My advice is that when the phone is delivered, don't open the box in hurry and don't accept without checking. Check the phone, box, charger and IMEI number. If in the phone there is any problem or something seems wrong, then immediately at the time of delivery only make its photo or video.
 
 **Related reading:** [How to Sell Your Old Phone Safely in India](/sell-old-phone-safely-india-steps/) · [Gadget Buying Tips for Online Sales in India](/diwali-gadget-buying-tips/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/)
 
