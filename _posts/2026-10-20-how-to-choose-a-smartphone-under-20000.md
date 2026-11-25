@@ -3,6 +3,7 @@ title: "How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter
 seo_title: "How to Choose a Phone Under ₹20,000: 7 Key Specs"
 description: "Ignore the 200MP and '12GB+12GB RAM' stickers. Here is what really decides whether a budget phone feels fast and lasts three years."
 date: 2026-10-20 00:15:00 +0530
+last_modified_at: 2026-11-25 19:05:00 +0530
 image: /assets/images/modern-smartphones-rear-cameras.jpg
 image_alt: "Four modern smartphones lying side by side, showing their rear camera designs"
 category: Phones
@@ -88,6 +89,18 @@ Replacing an old phone? Read [how to sell your old phone safely](/sell-old-phone
 Also watch for **bank offers** and **exchange offers** during sales. These often cut ₹1,000–₹3,000 off the price, which can bump you into a better phone.
 
 {% include buy.html name="5G smartphones under ₹20,000" query="5G smartphone under 20000" note="Filter by 8GB RAM and AMOLED to shortlist quickly" %}
+
+## Our take
+
+While taking Redmi Note 4 and POCO, I used to see the price and features. At that time in less price good processor and battery were getting, that's why these phones were liked a lot.
+
+In these phones the good thing was that in less price quite a lot was getting. But later in things like battery and updates, problem also used to come. Every phone does not run properly for long time.
+
+In a phone of ₹20,000, first of all I will see processor and battery. Camera also should be good, but for me the phone running properly daily is more important. Updates also I will see, that till how much time they will get.
+
+Yes, if I have to suggest phone to some friend, then according to his budget and use only I will tell. Everybody has no need of taking costly phone. First it should be seen that what work has to be taken from the phone.
+
+According to me, while taking budget phone, people see only camera or processor. Battery, updates and how the phone will be in daily use, this also should be seen. Taking phone only by seeing features, later it can be wrong decision.
 
 **Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/) · [Best Phones Under ₹20,000 in India (November 2026)](/best-phones-under-20000-india/)
 
