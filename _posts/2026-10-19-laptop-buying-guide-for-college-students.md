@@ -3,6 +3,7 @@ title: "Laptop Buying Guide for College Students in India: What Specs You Really
 seo_title: "Laptop Buying Guide for College Students (India)"
 description: "How to choose a laptop for college in India by course: a plain-English guide to the processor, RAM, SSD and screen that engineering, commerce or arts needs."
 date: 2026-10-19 10:00:00 +0530
+last_modified_at: 2026-11-25 19:08:00 +0530
 image: /assets/images/laptops-two-people-typing.jpg
 image_alt: "Two people typing on silver laptops on a marble desk, seen from above"
 category: Laptops
@@ -80,6 +81,18 @@ If you carry it to college every day, aim for under **1.6 kg** and a real-world 
 {% include buy.html name="Student laptops with 16GB RAM and 512GB SSD" query="laptop 16GB RAM 512GB SSD i5" note="Compare processor generation before price" %}
 
 For current picks and prices, see our [best laptops under ₹50,000 in India](/best-laptops-under-50000-india/).
+
+## Our take
+
+I use both ASUS Vivobook S14 and MacBook Pro M1, and the use of both is for different-different work. ASUS is good for Windows work, while of MacBook the battery backup and way of working I like. In both there are some good things according to their own.
+
+In my old Dell laptop the problem of running slow had started coming. Specially when I used to do many works at one time, then the laptop did not run properly. Because of this only, later I thought of changing the laptop.
+
+For coding or college work, according to me RAM and SSD are very important. Laptop should not run slow and in doing many works at one time there should not be problem. Processor also should be good, but if RAM is less or SSD is not there, then in using the laptop problem can come.
+
+Yes, while helping my cousin in taking laptop, first I used to see his budget and work. Everybody has no need of taking costly laptop. If college work, browsing and normal software have to be run, then according to that taking laptop will be right.
+
+According to me, while taking laptop students do the decision only by seeing brand or processor. RAM, SSD, battery and till how much time the laptop will come in use, this also should be seen. Taking laptop only by seeing cheap, later it can give problem.
 
 **Related reading:** [Tablet vs Laptop for Students: Which Is Better for Study?](/tablet-vs-laptop-for-students/) · [How to Speed Up a Slow Windows Laptop: 10 Fixes That Work](/speed-up-slow-windows-laptop/) · [Asus Zenbook 14 (UX3480) Launched in India: Price, Specs and Availability](/asus-zenbook-14-ux3480-india-launch-november-5/)
 
