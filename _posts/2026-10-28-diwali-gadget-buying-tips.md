@@ -3,7 +3,7 @@ title: "Gadget Buying Tips for Online Sales in India: How to Get the Real Best D
 seo_title: "Gadget Buying Tips for Online Sales in India"
 description: "Buying a phone, laptop or earbuds in a Diwali, Big Billion Days or Republic Day sale? Check real price history, bank offers, no-cost EMI costs, exchange value and the seller before you pay."
 date: 2026-10-28 14:05:00 +0530
-last_modified_at: 2026-11-25 19:10:00 +0530
+last_modified_at: 2026-11-25 19:24:00 +0530
 image: /assets/images/diwali-gadget-buying-tips.jpg
 image_alt: "A smartphone showing a shopping cart and a falling price graph on a wooden table with diyas, marigolds, a credit card and a gold gift box"
 image_credit: "Illustration"
@@ -97,6 +97,18 @@ Big sales are a good time for budget and mid-range phones, earbuds, smartwatches
 {% include buy.html name="ANC wireless earbuds" query="ANC TWS earbuds" note="Compare the price with the last few weeks before you buy" %}
 
 If you're buying a gift, our guide to the [best gift gadgets under ₹2,000](/best-diwali-gift-gadgets-under-2000/) lists useful picks that won't end up in a drawer.
+
+## Our take
+
+I wait for the sale, if some thing has to be taken and there is no quick need of it. In sale sometimes good price gets. But if there is need, then I don't wait only for the sale.
+
+Yes, in sale sometimes things get at right price. My M1 MacBook Pro I had taken in Flipkart sale 2 years back, it came to me for ₹60,000. If already I have thought of taking some thing and in sale its price is getting less, then taking it seems right.
+
+Yes, this can happen. Sometimes by seeing discount it feels that it is a good deal, but later it gets known that on other website the same thing was getting in more less price. That's why now I take only after comparing the price.
+
+Yes, bank offers and no-cost EMI I use, if the offer is right. But before taking EMI it is necessary to see that in total how much money has to be given and there is no extra charge.
+
+My advice is that before taking anything in sale, check its price on other websites also. Don't take only by seeing discount. If anyway there is need of the thing and price is getting right, then taking is better.
 
 **Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [How to Check a New Phone Is Genuine Before You Accept the Delivery](/check-new-phone-genuine-before-accepting-delivery/) · [Best Phones Under ₹15,000 in India (November 2026)](/best-phones-under-15000-india/)
 
