@@ -11,7 +11,7 @@ tags: [power bank, buying guide, fast charging, Xiaomi, Ambrane, magnetic power 
 affiliate: true
 sources:
   - name: "Prices: Amazon.in, Flipkart and brand store listings, October 2026"
-last_modified_at: 2026-11-10 13:55:00 +0530
+last_modified_at: 2026-11-25 19:11:00 +0530
 update_note: "Checked the Xiaomi 5i 67W price for November and linked our tablet and laptop guides."
 ---
 
@@ -103,6 +103,18 @@ This is the one to get if you want to top up a laptop on the move. It launched i
 </figure>
 
 > **Tip:** Since early 2026, DGCA rules don't allow you to use a power bank to charge devices during a flight in India, or to plug one into the seat socket. Carry it in your cabin bag only, never in checked luggage, and keep it out of the overhead bin. Banks up to 100Wh are fine without airline approval, so check the Wh figure printed on large-capacity models before you fly.
+
+## Our take
+
+My Mi 10,000mAh power bank is there with me from quite a long time. I had taken it for this reason so that when the phone battery finishes, again and again I have not to search for charger.
+
+I use it when there is need, specially when I have to go outside or I am in travelling. It is not used daily, but when there is need then it comes in use a lot.
+
+It charges the phone around 2 times, it depends on the battery of the phone. Till now I have not got any special problem in it.
+
+For me 10,000mAh is enough. Power bank also has to be carried along, that's why taking a very big power bank does not seem of any special benefit, until you need more charging.
+
+While taking power bank, I will say that with the capacity, see its size and price also. There is no need of taking very big power bank, if your work is happening from small power bank. And taking of good brand is better.
 
 **Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/)
 
