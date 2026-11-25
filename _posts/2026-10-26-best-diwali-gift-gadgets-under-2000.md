@@ -3,7 +3,7 @@ title: "Best Gift Gadgets Under ₹2,000 in India (2026): Birthdays, Festivals a
 seo_title: "Best Gift Gadgets Under ₹2,000 in India"
 description: "Six useful gift gadgets under ₹2,000 for birthdays, Diwali, Christmas or Rakhi: ANC earbuds, a smartwatch, a power bank, a speaker and a smart plug."
 date: 2026-10-26 08:53:00 +0530
-last_modified_at: 2026-11-25 19:10:00 +0530
+last_modified_at: 2026-11-25 19:27:00 +0530
 image: /assets/images/best-diwali-gift-gadgets-under-2000.jpg
 image_alt: "Wireless earbuds, a smartwatch, a power bank, a Bluetooth speaker and a smart plug on a table with diyas, marigolds and Diwali gift boxes"
 image_credit: "Illustration"
@@ -89,6 +89,16 @@ It works over Wi-Fi without a separate hub. It's a thoughtful gift for parents w
 Think about what the person already uses every day. Someone who commutes by metro or bus will use ANC earbuds daily. A student or a frequent traveller will appreciate a power bank more than another accessory. Older parents often get the most out of a smart plug, which saves them a walk to the switchboard, while a smartwatch suits anyone who misses calls or wants to track steps and sleep.
 
 Also consider the timing. Prices change almost daily, and drop further in big sales, and the same product can be ₹200–300 cheaper on a different store. Check two or three sites before you buy.
+
+## Our take
+
+Yes, I have given gadgets in gift. To my brother-in-law I had given OnePlus earbuds on his birthday, and to my wife I had given Realme Narzo 60 phone, that also on her birthday.
+
+To me also gadget has come in gift. My wife had given me Corseca headphones which are worn in the neck.
+
+In ₹2,000 I will gift a power bank. I feel power bank is quite a useful thing. If the phone battery finishes then it comes in use, and almost everybody can need it.
+
+While taking gift, I see that it should be a thing of use for the other person. Rather than taking only good looking gift, it is better that take such thing which he can use daily and money also does not go much.
 
 **Related reading:** [Best Gift Gadgets Under ₹5,000 in India (2026)](/best-diwali-gift-gadgets-under-5000/) · [Best Smartwatches Under ₹5,000 in India (2026)](/best-smartwatches-under-5000/) · [Gadget Buying Tips for Online Sales in India](/diwali-gadget-buying-tips/)
 
