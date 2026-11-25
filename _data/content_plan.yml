@@ -1,114 +1,42 @@
-# Planned topics for the morning daily post (8:54 AM IST).
-# The daily task writes the entry for today's date. If an image with the listed
-# `image` file name exists in assets/images/, it is used as the cover.
-# Launch posts (6:48 PM) and news posts (1:47 PM) are news-driven and are not planned here.
-# Owner's priorities (Oct 2026): Diwali (8 Nov) gift and buying guides before the festival,
-# and about two "X vs Y" comparison posts every week (one India, one Global).
-# Owner's decision (10 Nov 2026): at most ONE new post per day across all tasks.
-# The planned post below is that day's post. Launch/news tasks update existing posts
-# instead of adding new ones (see WRITING_GUIDE.md, "Publishing pace"). If a major
-# launch takes a day's slot, move that day's planned topic to the next free date.
+# Planned topics for new posts.
+# OWNER'S DECISION (25 Nov 2026), see WRITING_GUIDE.md "Quality first: NEW RULES":
+# - Only Monday, Wednesday and Friday (IST) have entries: at most 3 new posts a week.
+# - On those days the morning task researches the entry and writes a DRAFT to
+#   _drafts_queue/<slug>.md with 6-8 questions for the owner. It does not publish it.
+#   The draft goes live only after the owner's own answers are added as "## Our take".
+# - Topics must be ones the owner can add his own experience to (web/app developer in
+#   Mohali; phones used: Redmi Note 4, POCO, OnePlus 6T, OnePlus 9RT since Jan 2022).
+# - No Launches or news entries. At most 1 Global entry a week.
+# If an image with the listed `image` file name exists in assets/images/, it is used as the cover.
 
-# Accessories had no post since Oct 29. Builds on /fast-charging-explained/ and /best-power-banks-india/. Check each charger's wattage, PD/PPS support and price on Amazon.in on the day.
-- date: 2026-11-26
+# Accessories had no post since Oct 29. Builds on /fast-charging-explained/ and /best-power-banks-india/. Check each charger's wattage, PD/PPS support and price on Amazon.in on the day. Owner questions: which charger he uses for phone and laptop, any cheap charger that failed him.
+- date: 2026-11-27
   audience: India
   category: Accessories
   title: "Best 65W GaN Chargers in India (2026): One Charger for Phone and Laptop"
   slug: best-65w-gan-chargers-india
   image: best-65w-gan-chargers-india.jpg
 
-- date: 2026-11-27
-  audience: Global
-  category: Global
-  title: "PS5 vs Nintendo Switch 2: Which Console to Buy This Holiday"
-  slug: ps5-vs-nintendo-switch-2
-  image: ps5-vs-nintendo-switch-2.jpg
-
-# Global week limit: Nov 28 and 29 are both India so Global stays at 3 posts a week.
-# Guides had no post since Oct 31. Use official brand warranty-check pages (Apple, Samsung, Xiaomi, OnePlus, Realme, Vivo/iQOO, Motorola) as sources. Link /check-new-phone-genuine-before-accepting-delivery/ and /sell-old-phone-safely-india-steps/.
-- date: 2026-11-28
+# Use official brand warranty-check pages (Apple, Samsung, Xiaomi, OnePlus, Realme, Vivo/iQOO, Motorola) as sources. Link /check-new-phone-genuine-before-accepting-delivery/ and /sell-old-phone-safely-india-steps/. Owner questions: has he ever claimed warranty, what happened, what he checks when buying.
+- date: 2026-11-30
   audience: India
   category: Guides
   title: "How to Check Phone Warranty Status in India: Samsung, Apple, Xiaomi and More"
   slug: check-phone-warranty-status-india
   image: check-phone-warranty-status-india.jpg
 
-# India "X vs Y" of the week. Wearables last got a post on Nov 11. Only name smart rings officially sold in India with confirmed prices. Link /smartwatch-vs-fitness-band/ and /best-smartwatches-under-5000/.
-- date: 2026-11-29
-  audience: India
-  category: Wearables
-  title: "Smart Ring vs Smartwatch: Which Should You Buy in India?"
-  slug: smart-ring-vs-smartwatch-india
-  image: smart-ring-vs-smartwatch-india.jpg
-
-# Cyber Monday is Nov 30. Evergreen picks with current Amazon.com prices; set also_in: [Laptops]. Link /best-laptops-for-college-students-under-700/ and /speed-up-slow-windows-laptop/.
-- date: 2026-11-30
-  audience: Global
-  category: Global
-  title: "Best Laptops Under $500 in 2026: Cyber Monday Picks Worth Buying"
-  slug: best-laptops-under-500
-  image: best-laptops-under-500.jpg
-
-# Weekly SEO pick (22 Nov): launch/price pages get most of our Search impressions (Poco X8s, OPPO Pad Mini, November launches). Only list phones confirmed by the brand or two reliable sources; label rumours clearly. Link /upcoming-phones-launching-india-november-2026/.
-- date: 2026-12-01
-  audience: India
-  category: Launches
-  title: "Upcoming Phones Launching in India in December 2026: What's Confirmed"
-  slug: upcoming-phones-launching-india-december-2026
-  image: upcoming-phones-launching-india-december-2026.jpg
-
-# Global "X vs Y" of the week; set also_in: [Smart Home]. Compare current Ring and Blink cameras, subscription costs (Ring Home / Blink plans) and storage. Link /best-video-doorbells-under-150/.
+# Laptops last got a post on Nov 18. Step below /best-laptops-under-50000-india/; check current Amazon.in/Flipkart prices on the day. Link /laptop-buying-guide-for-college-students/. Owner questions: what he needs in a laptop for coding, what matters most (RAM, SSD, screen, keyboard), mistakes he made.
 - date: 2026-12-02
-  audience: Global
-  category: Global
-  title: "Ring vs Blink: Which Home Security Camera Should You Buy?"
-  slug: ring-vs-blink-security-camera
-  image: ring-vs-blink-security-camera.jpg
-
-# Laptops last got a post on Nov 18. Step below /best-laptops-under-50000-india/; check current Amazon.in/Flipkart prices on the day. Link /laptop-buying-guide-for-college-students/.
-- date: 2026-12-03
   audience: India
   category: Laptops
   title: "Best Laptops Under ₹40,000 in India (December 2026)"
   slug: best-laptops-under-40000-india
   image: best-laptops-under-40000-india.jpg
 
-# Set also_in: [Wearables]. Fitbit, Garmin, Amazfit, Samsung and Xiaomi bands sold on Amazon.com. Link /apple-watch-se-vs-samsung-galaxy-watch/ and /best-smartwatches-for-iphone/.
+# Owner's own long-term use (OnePlus 9RT since January 2022). Mostly his answers: battery, updates, camera, what broke, would he buy OnePlus again. Facts (update policy, launch price) from official/reliable sources. Link /how-to-choose-a-smartphone-under-20000/ and /make-phone-battery-last-longer/.
 - date: 2026-12-04
-  audience: Global
-  category: Global
-  title: "Best Fitness Trackers Under $100 in 2026"
-  slug: best-fitness-trackers-under-100
-  image: best-fitness-trackers-under-100.jpg
-
-# Moved from Dec 1 (22 Nov). Audio last got a post on Nov 15. Explain open-ear/air-conduction vs in-ear (fit, sound, awareness, calls), with picks sold in India. Link /tws-earbuds-buying-guide/ and /neckband-vs-tws-earbuds/.
-- date: 2026-12-05
   audience: India
-  category: Audio
-  title: "Open-Ear vs In-Ear Earbuds: Which Should You Buy in India?"
-  slug: open-ear-vs-in-ear-earbuds
-  image: open-ear-vs-in-ear-earbuds.jpg
-
-# Weekly SEO pick (22 Nov): Smart Home has the fewest posts. Wi-Fi/Matter smart plugs sold in India (Wipro, Philips WiZ, TP-Link Tapo, Xiaomi, Amazon Basics); check 10A vs 16A, energy monitoring and current Amazon.in prices on the day. Link /echo-dot-vs-echo-pop/.
-- date: 2026-12-06
-  audience: India
-  category: Smart Home
-  title: "Best Smart Plugs in India (2026): Which Ones Work With Alexa and Google"
-  slug: best-smart-plugs-india
-  image: best-smart-plugs-india.jpg
-
-# Weekly SEO pick (22 Nov): /improve-gaming-performance-android-phone/ is our top page by impressions (151, avg position 6.9). Step below /best-gaming-phones-under-30000/; only claim fps support that a source confirms; current Amazon.in/Flipkart prices on the day.
-- date: 2026-12-07
-  audience: India
-  category: Gaming
-  title: "Best Gaming Phones Under ₹20,000 in India (December 2026)"
-  slug: best-gaming-phones-under-20000
-  image: best-gaming-phones-under-20000.jpg
-
-# Moved from Nov 25 (the Black Friday deals post took that day's slot). Still a holiday topic in early December.
-- date: 2026-12-08
-  audience: Global
-  category: Global
-  title: "Best Tech Gifts Under $50 in 2026: Holiday Gift Ideas"
-  slug: best-tech-gifts-under-50
-  image: best-tech-gifts-under-50.jpg
+  category: Phones
+  title: "Using the OnePlus 9RT in 2026: What Nearly 5 Years Taught Me"
+  slug: oneplus-9rt-long-term-2026
+  image: oneplus-9rt-long-term-2026.jpg

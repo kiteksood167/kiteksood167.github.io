@@ -80,6 +80,7 @@ exclude:
   - Gemfile.lock
   - _drafts_queue
   - WRITING_GUIDE.md
+  - CLAUDE.md
   - assets/images/README.md
   - tools
 
