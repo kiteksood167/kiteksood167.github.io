@@ -3,7 +3,7 @@ title: "Best Gaming Phones Under ₹30,000 in India (November 2026)"
 seo_title: "Best Gaming Phones Under ₹30,000 in India"
 description: "Five gaming phones under ₹30,000 in India for November 2026, from the Snapdragon 8s Gen 3 iQOO Neo 10R to a 10,001mAh Realme, with prices and key specs."
 date: 2026-10-24 08:49:00 +0530
-last_modified_at: 2026-11-08 10:35:00 +0530
+last_modified_at: 2026-11-25 19:29:00 +0530
 update_note: "Prices rechecked for November: Realme P4 Pro is now about ₹28,800 and Infinix GT 30 Pro about ₹24,700."
 category: Gaming
 also_in: [Phones]
@@ -93,6 +93,16 @@ The battery is smaller at 5,500mAh, and 45W charging is slower than the rest of 
 - **Play a lot of shooters?** Infinix GT 30 Pro, for its triggers.
 
 Infinix launched the GT 50 Pro in India on October 27 at ₹69,999, bundled with gaming accessories, so it's well outside this budget. The picks above remain the better buys under ₹30,000.
+
+## Our take
+
+Yes, I play games on phone. Sometimes I play BGMI, and sometimes Candy Crush also, but daily not very much.
+
+On my OnePlus 9RT gaming runs good. While playing game the phone becomes little hot, specially if you play for long time, but in normal gaming there is no special problem.
+
+In gaming phone, according to me processor and cooling are most important. Phone should run the game properly and should not become too hot. Battery also should be good, so that again and again charging has not to be done. If display is good then in playing game more fun comes.
+
+If some friend has to take gaming phone under ₹30,000, then first I will ask about his games and use. Then I will see such phone in which processor is good, battery is right and while playing game the phone does not become too hot. Only by seeing benchmark score, phone should not be taken.
 
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Best Gaming Controllers for Phone and PC in India (2026)](/best-gaming-controllers-india/) · [iQOO Neo 10R vs Realme P4 Pro: Which Gaming Phone to Buy](/iqoo-neo-10r-vs-realme-p4-pro/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Poco X8s Launched: Price, Specs and India Launch](/poco-x8s-launched-price-specs-india-launch/)
 
