@@ -7,7 +7,7 @@ image_alt: "Four budget smartwatches, two square and two round, with colourful s
 category: Wearables
 tags: [smartwatch, budget smartwatch, buying guide, Redmi, realme, CMF]
 affiliate: true
-last_modified_at: 2026-11-17 10:00:00 +0530
+last_modified_at: 2026-11-25 19:20:00 +0530
 update_note: "Prices refreshed for mid-November: the Redmi Watch 5 Lite and CMF Watch Pro 2 are cheaper now. Added newer GPS watches worth a look if you can spend a little more."
 sources:
   - name: "Prices: Amazon.in, Flipkart and Croma listings, November 2026"
@@ -125,6 +125,14 @@ Buying a watch as a gift? Our [best Diwali gift gadgets under ₹5,000](/best-di
 - **Style plus GPS:** CMF Watch Pro 2 at around ₹4,200.
 
 {% include buy.html name="Redmi Watch Move" query="Redmi Watch Move" note="Best under ₹2,500: AMOLED and Bluetooth calling" %}
+
+## Our take
+
+I had taken my boAt Wave Fury smartwatch from Amazon. I like the watch, its look is very nice and it also does the work very nicely.
+
+The steps etc. seem right to me, and heart rate also seems fine. Battery of it runs 9-10 days, so daily charging is not needed.
+
+My advice is that before taking watch, see its reviews for sure. Don't take it only by seeing long list of features. How much the battery runs and how the watch is in daily use, this also should be seen.
 
 **Related reading:** [Best Fitness Bands Around ₹3,000 in India (2026)](/best-fitness-bands-under-3000/) · [Apple Watch SE vs Samsung Galaxy Watch: Which Budget Smartwatch to Buy](/apple-watch-se-vs-samsung-galaxy-watch/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/)
 
