@@ -127,7 +127,7 @@ My only advice: don't purchase a TV only after seeing the discount in the Diwali
 
 Always check the TV's picture quality, actual specifications, warranty and after-sales service. Choose a TV with 4K resolution, good brightness and smart features within your budget.
 
-**Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Diwali Gadget Buying Tips: How to Get the Best Deal Online](/diwali-gadget-buying-tips/) · [New Apple TV 4K (2026) Launched in India at ₹39,900](/apple-tv-4k-2026-india-price-features/)
+**Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Gadget Buying Tips for Online Sales in India](/diwali-gadget-buying-tips/) · [New Apple TV 4K (2026) Launched in India at ₹39,900](/apple-tv-4k-2026-india-price-features/)
 
 ## The bottom line
 
