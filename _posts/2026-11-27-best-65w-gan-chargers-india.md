@@ -2,7 +2,7 @@
 title: "Best 65W GaN Chargers in India: One Charger for Phone and Laptop"
 seo_title: "Best 65W GaN Chargers in India (2026)"
 description: "Should you buy a 65W GaN charger? Who really needs one, what to check before buying, and four good picks in India from about ₹2,000 to ₹3,000."
-date: 2026-11-27 02:45:00 +0530
+date: 2026-11-27 02:30:00 +0530
 category: Accessories
 also_in: [Laptops, Guides]
 tags: [gan charger, 65w charger, usb-c pd, laptop charger, fast charging, boat, spigen, ambrane, belkin]
