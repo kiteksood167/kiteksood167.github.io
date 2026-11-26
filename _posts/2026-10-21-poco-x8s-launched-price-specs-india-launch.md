@@ -3,7 +3,7 @@ title: "Poco X8s Launched: Price, Specs and India Launch — What We Know"
 seo_title: "Poco X8s Launched: Price, Specs & India Launch"
 description: "Poco X8s is official with a compact 6.35-inch OLED, Snapdragon 7 Gen 4, 6,330mAh battery and 100W charging. Price, specs and India launch status."
 date: 2026-10-21 11:24:00 +0530
-last_modified_at: 2026-11-15 12:45:00 +0530
+last_modified_at: 2026-11-26 13:02:00 +0530
 update_note: "Checked the Poco X8s India launch again: still not confirmed, and the tipped India price has changed."
 image: /assets/images/poco-x8s-launched-price-specs-india-launch.jpg
 image_alt: "Illustration of compact phones in white and light blue with triple rear cameras"
@@ -95,6 +95,24 @@ If you need a phone in India right now, the **Poco X8 5G** is already on sale fr
 > **Tip:** Don't pre-order an imported unit from a third-party seller. Without an official India launch, you may not get local warranty or service support. If the X8s interests you, wait for Poco's official India announcement and pricing.
 
 {% include buy.html name="Poco X8 5G" query="Poco X8 5G" note="On sale in India now; the X8s isn't here yet" %}
+
+## Our take
+
+**Which POCO phone did you have, and how long did you use it?**
+
+I bought a POCO phone around 6 years back and used it for 4 years. I don't remember the exact model now.
+
+**What did you like and not like about it?**
+
+POCO phones give good performance, mainly for the price. But the camera and software is not that good in every phone. Sometimes ads also come, which I don't like.
+
+**Why did you sell it?**
+
+It was a 4G phone and 5G phones had come in the market, so I sold it.
+
+**What would you tell someone buying a POCO phone today?**
+
+If someone is thinking to take a POCO phone today, I will tell him to first see the reviews of the phone. In POCO you can get good performance, but camera, battery and software also should be checked. Don't take a phone only by seeing the processor.
 
 **Related reading:** [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [Upcoming Phones Launching in India in November 2026: What's Confirmed](/upcoming-phones-launching-india-november-2026/)
 
