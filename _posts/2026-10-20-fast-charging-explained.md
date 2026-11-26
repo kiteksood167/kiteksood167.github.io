@@ -85,7 +85,7 @@ I don't think that from fast charging the battery gets spoiled immediately. But 
 
 My advice is that while taking a charger, don't take it seeing it is very cheap. Take the charger of a good brand and also check that it is working properly with your phone or not. In the chase of saving a little money in charger, later there can be problem.
 
-**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [How to Choose a Smartphone Under ₹20,000: 7 Specs That Actually Matter](/how-to-choose-a-smartphone-under-20000/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
+**Related reading:** [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best 65W GaN Chargers in India: One Charger for Phone and Laptop](/best-65w-gan-chargers-india/) · [Best Power Banks in India: How to Choose the Right One](/best-power-banks-india/)
 
 ## The bottom line
 

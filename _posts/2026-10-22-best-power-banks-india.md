@@ -116,7 +116,7 @@ For me 10,000mAh is enough. Power bank also has to be carried along, that's why 
 
 While taking power bank, I will say that with the capacity, see its size and price also. There is no need of taking very big power bank, if your work is happening from small power bank. And taking of good brand is better.
 
-**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best Gift Gadgets Under ₹2,000 in India (2026)](/best-diwali-gift-gadgets-under-2000/)
+**Related reading:** [Fast Charging Explained: Watts, USB-C PD and the Right Charger](/fast-charging-explained/) · [12 Simple Ways to Make Your Phone Battery Last Longer (That Actually Work)](/make-phone-battery-last-longer/) · [Best 65W GaN Chargers in India: One Charger for Phone and Laptop](/best-65w-gan-chargers-india/)
 
 ## The bottom line
 
