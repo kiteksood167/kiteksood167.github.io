@@ -3,6 +3,7 @@ title: "Black Friday 2026 Tech Deals: How to Spot a Real Discount"
 seo_title: "Black Friday 2026: How to Spot a Real Tech Deal"
 description: "Black Friday 2026 is on November 27. Most 'deals' aren't the lowest price of the year. 7 simple checks to spot a real tech discount in the US and UK."
 date: 2026-10-30 20:52:00 +0530
+last_modified_at: 2026-11-26 12:55:00 +0530
 category: Global
 also_in: [Guides]
 affiliate: true
@@ -106,6 +107,24 @@ Brand-new phones rarely get big discounts at retailers, though carriers often ru
 {% include buy.html name="Amazon Kindle" query="Kindle e-reader" store="us" note="Amazon's own devices usually see some of the deepest discounts" %}
 
 If a Kindle is on your Black Friday list, our guide on [which Kindle to buy in 2026](/which-kindle-to-buy-2026/) explains the differences between the models.
+
+## Our take
+
+**How do you know a sale price is a real discount?**
+
+I took my MacBook in Flipkart sale for ₹60,000. At that time the price looked right to me, but I don't remember what the price was before the sale. I decide only after seeing the offers and the price on other websites.
+
+**Did you ever buy in a sale and find a better price later?**
+
+Yes, sometimes after taking something in sale I came to know that on other website its price was less. So now I don't take in hurry. First I check the price on other websites also.
+
+**What do you check before buying in a sale?**
+
+Before taking anything in sale, I check its price on other websites. I see the bank offer also, and who is the seller. Only because the discount is looking big, it is not right to take it.
+
+**One advice for a friend shopping in a sale?**
+
+My advice is that before taking anything in sale, check its price a little. See on other website also and understand the bank offer also. Don't hurry to buy only by seeing the discount.
 
 **Related reading:** [Best Noise-Cancelling Headphones Under $100](/best-noise-cancelling-headphones-under-100/) · [Best 65 Inch TV in 2026: Top Picks Before Black Friday](/best-65-inch-tv-2026/) · [AirPods Pro 3 vs AirPods 4 (and AirPods 5): Which to Buy This Black Friday](/airpods-pro-3-vs-airpods-4/) · [Best Robot Vacuums Under $300 in 2026](/best-robot-vacuums-under-300/) · [Best Bluetooth Speakers Under $50 in 2026: Small, Waterproof and Loud Enough](/best-bluetooth-speakers-under-50/)
 
