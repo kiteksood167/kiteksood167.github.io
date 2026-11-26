@@ -664,3 +664,8 @@ html.qs-open { overflow: hidden; }
   .bt-what { white-space: normal; font-size: .78rem; line-height: 1.25; }
   .bt-price { font-size: 1.4rem; }
 }
+/* Comparison table rows that jump to the product section */
+.prose tr.row-link { cursor: pointer; }
+.prose a.row-jump { color: inherit; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px; }
+.prose a.row-jump::after { content: " ↓"; color: var(--accent); font-weight: 600; }
+.prose h2[id], .prose h3[id], .prose .buy-box[id] { scroll-margin-top: 80px; }

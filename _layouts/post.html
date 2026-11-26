@@ -89,6 +89,40 @@ layout: default
 </article>
 {% include share-script.html %}
 <script>
+/* Comparison tables: tapping a product row jumps to that product's section (Clarity showed many dead taps on table rows). */
+(function () {
+  var prose = document.querySelector('.prose');
+  if (!prose) return;
+  var targets = [].slice.call(prose.querySelectorAll('h2, h3, .buy-box'));
+  function norm(t) { return (t || '').toLowerCase().replace(/\s+/g, ' ').trim(); }
+  [].slice.call(prose.querySelectorAll('table tbody tr')).forEach(function (tr, i) {
+    var cell = tr.cells[0];
+    if (!cell || cell.querySelector('a')) return;
+    var b = cell.querySelector('strong');
+    var name = norm((b ? b.textContent : cell.textContent).split('(')[0]);
+    if (name.length < 4) return;
+    var hit = null;
+    for (var j = 0; j < targets.length && !hit; j++) {
+      var el = targets[j];
+      var txt = el.classList.contains('buy-box') ? (el.querySelector('strong') || {}).textContent : el.textContent;
+      if (norm(txt).indexOf(name) !== -1) hit = el;
+    }
+    if (!hit) return;
+    if (!hit.id) hit.id = 'pick-' + i;
+    var a = document.createElement('a');
+    a.href = '#' + hit.id;
+    a.className = 'row-jump';
+    while (cell.firstChild) a.appendChild(cell.firstChild);
+    cell.appendChild(a);
+    tr.classList.add('row-link');
+    tr.addEventListener('click', function (e) {
+      if (e.target.closest('a')) return;
+      location.hash = hit.id;
+    });
+  });
+})();
+</script>
+<script>
 /* View counter (free Abacus counter). Counts one view per post per browser session; the owner's ?notrack=1 device only reads. Hidden until a post has 10+ views. */
 (function () {
   var el = document.getElementById('post-views');
