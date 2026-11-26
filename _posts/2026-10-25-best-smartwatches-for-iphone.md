@@ -2,7 +2,7 @@
 title: "Best Smartwatches for iPhone in 2026"
 description: "The best smartwatches for iPhone right now, from Apple Watch Series 12, SE 3 and Ultra 4 to Garmin and Amazfit, with current US prices and trade-offs."
 date: 2026-10-25 08:47:00 +0530
-last_modified_at: 2026-11-15 11:00:00 +0530
+last_modified_at: 2026-11-26 16:55:00 +0530
 update_note: "November prices: Ultra 4 is $699.99 and Forerunner 570 is $449.99 at Amazon; Series 12 is near full price."
 category: Global
 also_in: [Wearables]
@@ -111,6 +111,20 @@ The limits are the ones you'd expect at this price. Message replies don't work o
 - **You want about a week or more of battery for around $100:** Amazfit Active 2.
 
 Black Friday is on November 27, and Apple Watches are usually among the most discounted gadgets. If none of these is near the prices above, waiting until then could save you money. Our guide to [spotting a real Black Friday discount](/black-friday-2026-tech-deals-how-to-spot-real-discount/) explains how to check.
+
+## Our take
+
+**What do you use most on your smartwatch?**
+
+In boAt Wave Fury I see the time and notifications most. Sometimes I check steps also. Calls and other things are also there, but I don't use them much.
+
+**What is good and what is missing?**
+
+The battery of this watch looks good to me, it runs around 9–10 days. As per the price I liked the battery. Yes, the app of the watch and some features could be better.
+
+**Cheap watch or costly watch?**
+
+If someone has to take a watch, I will tell him first to see a cheap watch. If time, notifications and basic features are coming fine in it, then there is no need to take costly watch. Take costly watch when its extra features are really of use.
 
 **Related reading:** [Smartwatch vs Fitness Band: Which Should You Buy?](/smartwatch-vs-fitness-band/) · [Apple Watch SE vs Samsung Galaxy Watch: Which Budget Smartwatch to Buy](/apple-watch-se-vs-samsung-galaxy-watch/) · [How to Transfer Data from Android to iPhone](/how-to-transfer-data-from-android-to-iphone/)
 

@@ -3,7 +3,7 @@ title: "Samsung One UI 9 Update in India: Which Galaxy Phones Have It So Far"
 seo_title: "One UI 9 Update in India: Galaxy Phone List"
 description: "Samsung's Android 17-based One UI 9 is now on Galaxy S, Z, A, M and F phones in India. See which models have it, which are next and how to install it."
 date: 2026-10-25 14:40:00 +0530
-last_modified_at: 2026-11-01 10:05:00 +0530
+last_modified_at: 2026-11-26 16:55:00 +0530
 update_note: "One UI 9 is now rolling out to the Galaxy A35, M56, M17 and F17 in India."
 category: Phones
 news: true
@@ -90,6 +90,20 @@ Some Galaxy AI features vary by model, so older or cheaper phones may not get ev
 4. If nothing shows up, check again after a few days. Samsung rolls out updates slowly to catch bugs early.
 
 > **Tip:** If you are moving from One UI 8.5, the full download can be around 3 to 4 GB, so free up some storage first. After installing, give the phone a day or two to settle. Battery life often looks worse for the first day while the phone re-optimises apps in the background.
+
+## Our take
+
+**Do you still get updates on your OnePlus 9RT?**
+
+On OnePlus 9RT now the updates don't come like before. When update comes I do it. Till now after update there was no big problem, like battery finishing very fast or phone becoming slow.
+
+**Do you install updates right away?**
+
+I do the update as soon as it comes. I don't stop the update for many days, mainly if it is security update.
+
+**Do you check update support before buying a phone?**
+
+Yes, while taking phone I see the updates also. How many years the phone will run and till how much time the company will give update, this is also important. We don't take phone only for today, we have to use it for some years also.
 
 **Related reading:** [OnePlus ColorOS 17 Update Rolls Out in India: Which Phones Get It and When](/oneplus-coloros-17-update-india-schedule/) · [Nothing OS 5.0 Update Rolls Out to Phone (4a) and (3a) Series: What's New](/nothing-os-5-update-phone-4a-3a-series/) · [iOS 27.2 Update Released: New Features and Which iPhones Get It](/ios-27-2-update-features-eligible-iphones/)
 
