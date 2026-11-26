@@ -3,6 +3,7 @@ title: "New Apple TV 4K (2026) Launched in India at ₹39,900: What's New and Is
 seo_title: "Apple TV 4K (2026) India Price ₹39,900: What's New"
 description: "The new Apple TV 4K costs ₹39,900 in India and goes on sale November 13. Here's what the A19 chip, Siri AI and new remote bring, and who should buy it."
 date: 2026-10-21 11:36:00 +0530
+last_modified_at: 2026-11-26 13:12:00 +0530
 image: /assets/images/apple-tv-4k-2026-india-price-features.jpg
 image_alt: "Illustration of a black streaming box and silver TV remote on a TV console in front of a large TV"
 category: "Smart Home"
@@ -76,6 +77,24 @@ For most people in India, though, ₹39,900 is a lot for a streaming box. If you
 > **Tip:** If you already own an Apple TV 4K (2nd generation or later), you don't need to upgrade to get the new Siri. Apple is bringing it to those models too with tvOS 27.2, which is in beta now. Upgrade only if you want hands-free voice, the faster chip or four-speaker HomePod surround.
 
 {% include buy.html name="Apple TV 4K (2026)" query="Apple TV 4K" note="Check availability; India sales start November 13" %}
+
+## Our take
+
+**What problems do you face with your old Mi TV?**
+
+There are many problems in my Mi TV now. I took the TV in 2019 and now some apps don't run properly. Netflix and Prime also don't run, so I don't use the TV like before.
+
+**How do you watch Netflix and Prime now?**
+
+Now I watch Netflix and Prime on laptop or phone. Watching on TV has a different fun, but when the apps only don't run, then I have to use other way.
+
+**New TV or a streaming box?**
+
+If the TV screen is fine and only the apps are not running, then instead of taking a new TV I will think of putting a streaming box. In this the money also can be saved and the old TV also will be used.
+
+**Advice for someone whose old smart TV has become slow?**
+
+If someone's old smart TV has started running slow, I will tell him first to put a streaming device. If the TV screen and other things are fine, then there is no need to take a new TV only for apps.
 
 **Related reading:** [Smart TV Buying Guide: The Specs That Actually Matter](/smart-tv-buying-guide/) · [Best 43 Inch Smart TV in India (November 2026)](/best-43-inch-smart-tv-india/) · [Apple iPhone Duo Launched in India: Price, Specs and Sale Date](/apple-iphone-duo-launched-india-price-specs-sale-date/)
 
