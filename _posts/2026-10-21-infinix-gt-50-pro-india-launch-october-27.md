@@ -3,7 +3,7 @@ title: "Infinix GT 50 Pro Launched in India at ₹69,999: Price, Offers and Sale
 seo_title: "Infinix GT 50 Pro Launched in India: Price, Sale Date"
 description: "Infinix GT 50 Pro is now official in India at ₹69,999 for 12GB + 256GB, bundled with gaming accessories. Offers, sale date, specs and whether it's worth it."
 date: 2026-10-21 18:42:00 +0530
-last_modified_at: 2026-10-27 14:20:00 +0530
+last_modified_at: 2026-11-26 13:15:00 +0530
 update_note: "Infinix GT 50 Pro is now official in India at ₹69,999, with the first sale on October 30 on Flipkart."
 image: /assets/images/infinix-gt-50-pro-india-launch-october-27.jpg
 image_alt: "Illustration of two gaming phones in black and red with glowing liquid cooling windows on the back"
@@ -92,6 +92,20 @@ If you mainly want gaming performance, these cost about half as much (prices at 
 > **Tip:** Price out what you'd actually use. If you'd never connect the dock to a TV or use the controller, a ₹35,000–₹40,000 phone like the OPPO K13 Turbo plus a ₹1,500–₹2,000 clip-on cooling fan gets you most of the gaming experience for far less.
 
 {% include buy.html name="Infinix GT 50 Pro" query="Infinix GT 50 Pro" note="₹69,999 with bundled gaming accessories" %}
+
+## Our take
+
+**Does your OnePlus 9RT get hot while playing BGMI?**
+
+While playing BGMI on OnePlus 9RT the phone becomes hot, mainly if you play for long time. But in normal game playing there is no big problem. Game also runs fine.
+
+**What would you check first in a gaming phone?**
+
+While taking a gaming phone I will see processor, cooling and battery first. Phone should run the game well and should not become too hot. Screen also should be good, because while playing game it also makes a difference.
+
+**Is a separate gaming phone really needed?**
+
+In my opinion, taking a separate gaming phone is not needed for everyone. If game is running well in normal phone and there is no problem, then there is no need to take separate gaming phone. Gaming phone is right to take when you play a lot of games and normal phone is not doing the work.
 
 **Related reading:** [How to Improve Gaming Performance on Your Android Phone](/improve-gaming-performance-android-phone/) · [Red Magic 12 Pro+ Launched: 185Hz Screen, Liquid Cooling, Price and Specs](/red-magic-12-pro-plus-launched-price-specs/) · [Best Gaming Phones Under ₹30,000 in India (November 2026)](/best-gaming-phones-under-30000/)
 

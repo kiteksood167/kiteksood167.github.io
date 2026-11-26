@@ -3,6 +3,7 @@ title: "Apple MacBook Pro With OLED Touchscreen Launched in India: Price, Specs 
 seo_title: "MacBook Pro OLED Touchscreen India Price & Specs"
 description: "Apple's first touchscreen MacBook Pro has a PROLED XDR OLED screen and M5 Pro or M5 Max chips, from ₹3,49,900 in India. All prices, specs and sale date."
 date: 2026-10-29 18:48:00 +0530
+last_modified_at: 2026-11-26 13:15:00 +0530
 category: Launches
 also_in: [Laptops]
 affiliate: true
@@ -98,6 +99,20 @@ Both sizes fast charge to 50% in about 30 minutes, according to Apple, and run m
 {% include buy.html name="Apple MacBook Pro 14-inch (M5 Pro)" query="Apple MacBook Pro 14 inch M5 Pro" note="Check availability; India sales start November 9" %}
 
 {% include buy.html name="Apple MacBook Air (M5)" query="Apple MacBook Air M5" note="A cheaper Mac for students and everyday work" %}
+
+## Our take
+
+**How is your M1 MacBook Pro after 2 years?**
+
+My M1 MacBook Pro is in use from around 2 years and till now it is running good. There is no big problem in speed and battery also runs good. For normal work it is still enough.
+
+**Will you buy the new OLED touchscreen MacBook Pro?**
+
+Now the new OLED touchscreen MacBook Pro has come, but I will not take it now itself. First I will see what new thing is coming in it and is it really of use. Changing laptop only for new design or touchscreen does not look right to me.
+
+**Should M1 MacBook owners upgrade?**
+
+In my opinion, the M1 MacBook Pro user has no need to upgrade now. If the laptop is running fine and there is no problem in work, then you can run it more. Taking new laptop is right when you start getting problem in working on the old one.
 
 **Related reading:** [Laptop Buying Guide for College Students in India: What Specs You Really Need](/laptop-buying-guide-for-college-students/) · [Apple iPad mini with OLED Launched in India: Price, Specs and Sale Date](/apple-ipad-mini-oled-launched-india-price-specs-sale-date/)
 
