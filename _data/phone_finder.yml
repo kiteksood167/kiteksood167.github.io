@@ -15,14 +15,14 @@
 # ------------------------------------------------------------
 
 updated: "November 2026"
-last_updated: 2026-11-22
+last_updated: 2026-11-28
 
 phones:
   # ---------- Under ₹15,000 ----------
   - name: Samsung Galaxy A07
     brand: Samsung
     os: android
-    price: 11499
+    price: 12595
     chip: MediaTek Helio G99
     screen: 6.74" LCD, 90Hz
     size: 6.74
@@ -38,7 +38,7 @@ phones:
   - name: Moto G06 Power
     brand: Motorola
     os: android
-    price: 11999
+    price: 12240
     chip: MediaTek Helio G81 Extreme
     screen: 6.88" LCD, 120Hz
     size: 6.88
@@ -88,7 +88,7 @@ phones:
   - name: Poco C81
     brand: Poco
     os: android
-    price: 12999
+    price: 11799
     chip: Unisoc T7250
     screen: 6.9" LCD, 120Hz
     size: 6.9
@@ -104,7 +104,7 @@ phones:
   - name: Lava Virat V1 5G
     brand: Lava
     os: android
-    price: 12999
+    price: 12799
     chip: Unisoc T8200
     screen: 6.75" LCD, 120Hz
     size: 6.75
@@ -120,7 +120,7 @@ phones:
   - name: Realme P4s Lite
     brand: Realme
     os: android
-    price: 14999
+    price: 13999
     chip: Unisoc T7250
     screen: 6.75" LCD, 120Hz
     size: 6.75
@@ -255,7 +255,7 @@ phones:
   - name: Poco M8x 5G
     brand: Poco
     os: android
-    price: 17999
+    price: 18329
     chip: Snapdragon 4 Gen 5
     screen: 6.9" LCD, 120Hz
     size: 6.9
@@ -271,7 +271,7 @@ phones:
   - name: Vivo T5 Lite 5G
     brand: Vivo
     os: android
-    price: 17499
+    price: 17649
     chip: MediaTek Dimensity 6300
     screen: 6.74" LCD, 120Hz
     size: 6.74
@@ -287,7 +287,7 @@ phones:
   - name: Oppo K14x 5G
     brand: Oppo
     os: android
-    price: 17199
+    price: 16999
     chip: MediaTek Dimensity 6300
     screen: 6.75" LCD, 120Hz
     size: 6.75
@@ -321,7 +321,7 @@ phones:
   - name: iQOO Neo 10R
     brand: iQOO
     os: android
-    price: 24400
+    price: 24300
     chip: Snapdragon 8s Gen 3
     screen: 6.78" 1.5K AMOLED, 144Hz
     size: 6.78
@@ -356,7 +356,7 @@ phones:
   - name: Poco X8
     brand: Poco
     os: android
-    price: 26999
+    price: 27499
     chip: Snapdragon 6s Gen 4
     screen: 6.83" 1.5K AMOLED, 120Hz
     size: 6.83
@@ -372,7 +372,7 @@ phones:
   - name: Samsung Galaxy M47
     brand: Samsung
     os: android
-    price: 25999
+    price: 30692
     chip: Snapdragon 6 Gen 3
     screen: 6.65" FHD+ AMOLED, 120Hz
     size: 6.65
@@ -388,7 +388,7 @@ phones:
   - name: Motorola Edge 60 Pro
     brand: Motorola
     os: android
-    price: 28499
+    price: 30190
     chip: MediaTek Dimensity 8350 Extreme
     screen: 6.7" 1.5K pOLED, 120Hz
     size: 6.7
@@ -424,7 +424,7 @@ phones:
   - name: Nothing Phone (4b)
     brand: Nothing
     os: android
-    price: 29999
+    price: 30699
     chip: Snapdragon 6 Gen 4
     screen: 6.77" FHD+ AMOLED, 120Hz
     size: 6.77
@@ -442,7 +442,7 @@ phones:
   - name: Motorola Edge 70 Fusion
     brand: Motorola
     os: android
-    price: 30999
+    price: 28949
     chip: Snapdragon 7s Gen 4
     screen: 6.8" AMOLED, 144Hz
     size: 6.8
@@ -459,7 +459,7 @@ phones:
   - name: Realme P4s 5G
     brand: Realme
     os: android
-    price: 32499
+    price: 32990
     chip: MediaTek Dimensity 7400 Ultra
     screen: 6.78" 1.5K AMOLED, 144Hz
     size: 6.78
@@ -475,7 +475,7 @@ phones:
   - name: OnePlus Nord CE6
     brand: OnePlus
     os: android
-    price: 37999
+    price: 36999
     chip: Snapdragon 7s Gen 4
     screen: 6.78" 1.5K AMOLED, 144Hz
     size: 6.78
@@ -491,7 +491,7 @@ phones:
   - name: Nothing Phone (4a)
     brand: Nothing
     os: android
-    price: 36480
+    price: 36050
     chip: Snapdragon 7s Gen 4
     screen: 6.78" AMOLED, 120Hz
     size: 6.78
@@ -507,7 +507,7 @@ phones:
   - name: Vivo T5 Pro
     brand: Vivo
     os: android
-    price: 36999
+    price: 38700
     chip: Snapdragon 7s Gen 4
     screen: 6.83" 1.5K AMOLED, 144Hz
     size: 6.83
@@ -523,7 +523,7 @@ phones:
   - name: Motorola Edge 70 Pro
     brand: Motorola
     os: android
-    price: 39999
+    price: 39499
     chip: MediaTek Dimensity 8500 Extreme
     screen: 6.8" 1.5K AMOLED, 144Hz
     size: 6.8
@@ -540,7 +540,7 @@ phones:
   - name: Redmi Note 15 Pro+
     brand: Redmi
     os: android
-    price: 39999
+    price: 37399
     chip: Snapdragon 7s Gen 4
     screen: 6.83" 1.5K AMOLED, 120Hz
     size: 6.83
@@ -558,7 +558,7 @@ phones:
   - name: OnePlus Nord 6
     brand: OnePlus
     os: android
-    price: 44999
+    price: 46999
     chip: Snapdragon 8s Gen 4
     screen: 6.78" AMOLED, 165Hz
     size: 6.78
@@ -574,7 +574,7 @@ phones:
   - name: Poco X8 Pro Max
     brand: Poco
     os: android
-    price: 48999
+    price: 49999
     chip: MediaTek Dimensity 9500s
     screen: 6.83" AMOLED, 120Hz
     size: 6.83
@@ -609,7 +609,7 @@ phones:
   - name: Realme 16 Pro+
     brand: Realme
     os: android
-    price: 53999
+    price: 55999
     chip: Snapdragon 7 Gen 4
     screen: 6.79" 1.5K AMOLED, 144Hz
     size: 6.79
@@ -625,7 +625,7 @@ phones:
   - name: Motorola Edge 70 Max
     brand: Motorola
     os: android
-    price: 52490
+    price: 52800
     chip: Snapdragon 8 Gen 5
     screen: 6.8" QHD+ AMOLED, 144Hz
     size: 6.8
@@ -707,7 +707,7 @@ phones:
   - name: Samsung Galaxy S26 FE
     brand: Samsung
     os: android
-    price: 65890
+    price: 67400
     chip: Samsung Exynos 2500
     screen: 6.7" AMOLED, 120Hz
     size: 6.7
@@ -778,7 +778,7 @@ phones:
   - name: OnePlus 15
     brand: OnePlus
     os: android
-    price: 85999
+    price: 84999
     chip: Snapdragon 8 Elite Gen 5
     screen: 6.78" 1.5K LTPO AMOLED, 165Hz
     size: 6.78
@@ -812,7 +812,7 @@ phones:
   - name: Apple iPhone 17
     brand: Apple
     os: ios
-    price: 99900
+    price: 89100
     chip: Apple A19
     screen: 6.3" OLED, 120Hz ProMotion
     size: 6.3
@@ -867,7 +867,7 @@ phones:
   - name: Samsung Galaxy S26 Ultra
     brand: Samsung
     os: android
-    price: 139999
+    price: 130999
     chip: Snapdragon 8 Elite Gen 5
     screen: 6.9" Dynamic AMOLED 2X, 120Hz
     size: 6.9
@@ -903,7 +903,7 @@ phones:
   - name: Apple iPhone 18 Pro
     brand: Apple
     os: ios
-    price: 164900
+    price: 158990
     chip: Apple A20 Pro
     screen: 6.3" OLED, 120Hz ProMotion
     size: 6.3
