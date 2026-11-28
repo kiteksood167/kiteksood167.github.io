@@ -3,7 +3,7 @@ title: "Upcoming Phones Launching in India in November 2026: What's Confirmed"
 seo_title: "Upcoming Phones in India, November 2026"
 description: "Phones expected in India in November 2026: Motorola Signature 27, Vivo X500 series, iQOO 16 and Xiaomi 18 Pro. What's confirmed and what's rumoured."
 date: 2026-10-31 17:58:00 +0530
-last_modified_at: 2026-11-25 18:55:00 +0530
+last_modified_at: 2026-11-28 18:55:00 +0530
 update_note: "Motorola Edge 70 Neo is out in India: ₹34,999 effective price, first sale December 1 on Flipkart."
 image: /assets/images/upcoming-phones-launching-india-november-2026.jpg
 image_alt: "Four flagship phones in black, gold, green and purple standing on a dark stage in front of a glowing calendar"
@@ -52,6 +52,8 @@ November looks like a flagship month in India. Motorola's Signature 27 was expec
 
 <!--more-->
 
+**Update, November 28:** The **Vivo X500 series** launched in India on November 26. Per Beebom, Business Upturn and Sunday Guardian Live, prices are **₹1,19,999** (X500), **₹1,49,999** (X500 Pro) and **₹1,64,999** (X500 Pro Max, 12GB + 256GB; ₹1,79,999 for 512GB), with **sales from December 3**. Details are in our [Vivo X500 post](/vivo-x500-series-india-launch-confirmed-expected-price-specs/).
+
 **Update, November 24:** The **Motorola Edge 70 Neo** is now official in India in a single 8GB + 128GB version. Motorola India quotes an effective price of **₹34,999** with launch offers; Digit and 91mobiles report a list price of ₹40,999 (Beebom says ₹37,999). The first sale is on **December 1 at 12 PM** on Flipkart, Motorola.in and retail stores, in four Pantone colours (Grey Lilac, Sage, Milky Blue and Mountain View). It runs Android 16, and Beebom reports a promise of three OS updates and five years of security patches. That leaves the **Vivo X500 series** (November 26) as the last big India launch this month.
 
 **Update, November 23:** The **Motorola Signature 27** will not launch in India this month after all. Beebom (from a Motorola media briefing) and 91mobiles report that it launches in India on **December 9**. The India price is still not announced. That leaves the **Motorola Edge 70 Neo** (November 24) and the **Vivo X500 series** (November 26) as this month's big India launches. Details in our [Motorola Signature 27 post](/motorola-signature-27-launch-us-price-specs/).
@@ -68,11 +70,11 @@ November looks like a flagship month in India. Motorola's Signature 27 was expec
 |---|---|---|---|
 | Motorola Edge 70 Neo | Launched November 24 (sale December 1) | Launched; Flipkart, Motorola.in and stores | ₹34,999 effective (8GB + 128GB) with launch offers |
 | Motorola Signature 27 | December 9 (moved from November) | Officially teased by Motorola India on November 24 (Coal Smoke and Capulet Olive colours) | Not announced; estimates range from ₹70,000 to about ₹1 lakh |
-| Vivo X500, X500 Pro, X500 Pro Max | November 26 | Launch date confirmed by Vivo | Not announced |
+| Vivo X500, X500 Pro, X500 Pro Max | Launched November 26 (sale December 3) | Launched; Vivo online store | ₹1,19,999 / ₹1,49,999 / ₹1,64,999 (12GB + 256GB) |
 | iQOO 16 | Not announced (reports say December or early 2027) | India launch confirmed by iQOO, date not announced | Not announced; a tipster suggests above ₹1 lakh |
 | Xiaomi 18 Pro | Not announced (expected around December) | Launched globally on November 17 (from €1,399); Xiaomi India has hinted at it, no date | Not announced; expected around ₹1 lakh |
 
-Apart from the Edge 70 Neo, India prices are still unannounced, so treat any "India price" you see before launch day as an estimate.
+Apart from the Edge 70 Neo and the Vivo X500 series, India prices are still unannounced, so treat any "India price" you see before launch day as an estimate.
 
 ## Motorola Signature 27: now December 9
 
@@ -92,9 +94,9 @@ There's no official price yet. Estimates range from about ₹70,000 to close to 
   <figcaption>Illustration</figcaption>
 </figure>
 
-## Vivo X500 series: confirmed for November 26
+## Vivo X500 series: launched on November 26
 
-Vivo has confirmed that the **X500, X500 Pro and X500 Pro Max** launch in India on **November 26**. The phones are already out in China, so the hardware is known:
+The **X500, X500 Pro and X500 Pro Max** launched in India on **November 26**, from ₹1,19,999 (see the update at the top). The hardware matches the China models:
 
 | | X500 | X500 Pro | X500 Pro Max |
 |---|---|---|---|
@@ -103,7 +105,7 @@ Vivo has confirmed that the **X500, X500 Pro and X500 Pro Max** launch in India 
 | Telephoto camera | 64MP periscope | 64MP periscope | 200MP |
 | Software | OriginOS 7 (Android 17) | OriginOS 7 (Android 17) | OriginOS 7 (Android 17) |
 
-These are the China specs. The Indian models are expected to be the same, but Vivo hasn't confirmed that, or any India price.
+These are the China specs; launch reports show the India models match, except the Pro Max battery (7,800mAh in India).
 
 **Update, November 7:** Vivo has started teasing the X500 series on its India website, and launch pages are live on Amazon and Flipkart. A tipster points to November 25. See our [Vivo X500 India launch post](/vivo-x500-series-india-launch-confirmed-expected-price-specs/) for the latest.
 
@@ -159,4 +161,4 @@ Also keep an eye on budget phones: some brands have raised prices this month, in
 
 ## The bottom line
 
-The Vivo X500 series (November 26) is the big flagship launch left this month, while the Motorola Signature 27 has moved to December 9. The iQOO 16 and Xiaomi 18 Pro are confirmed or hinted for India, but probably in December. None of these four has an India price yet, so if you're planning to spend on a flagship, waiting a few weeks makes sense.
+The Vivo X500 series is now on sale from December 3, starting at ₹1,19,999, while the Motorola Signature 27 has moved to December 9. The iQOO 16 and Xiaomi 18 Pro are confirmed or hinted for India, but probably in December. Those three have no India price yet, so if you're planning to spend on a flagship, waiting a few weeks makes sense.

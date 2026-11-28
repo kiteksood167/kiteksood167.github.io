@@ -1,10 +1,10 @@
 ---
-title: "Vivo X500 Series India Launch on November 26: Expected Price and Specs"
-seo_title: "Vivo X500 India Launch: Date, Price & Specs"
-description: "Vivo X500, X500 Pro and X500 Pro Max launch in India on November 26. Confirmed details, expected prices, China specs and Amazon/Flipkart pages."
+title: "Vivo X500 Series Launched in India: Price, Specs and Sale Date"
+seo_title: "Vivo X500 India Price, Specs & Sale Date"
+description: "Vivo X500, X500 Pro and X500 Pro Max are official in India from ₹1,19,999, with sales from December 3. Prices per variant, specs and what changed."
 date: 2026-11-07 10:15:00 +0530
-last_modified_at: 2026-11-25 18:55:00 +0530
-update_note: "Vivo X500 series launches tomorrow at 12 PM; Photographer Kit and Imaging Grip Kit also coming to India."
+last_modified_at: 2026-11-28 18:55:00 +0530
+update_note: "Vivo X500 series is official in India from ₹1,19,999; sales start December 3."
 category: Launches
 also_in: [Phones]
 affiliate: true
@@ -39,11 +39,19 @@ sources:
     url: "https://www.mymobileindia.com/vivo-x500-and-x500-pro-series-colours-revealed-ahead-of-november-26-launch/"
   - name: "Cashify: Vivo X500 series colours revealed ahead of November 26 India launch"
     url: "https://www.cashify.in/news/vivo-x500-series-colours-revealed-ahead-of-november-26-india-launch"
+  - name: "Beebom: Vivo X500 Pro and X500 Pro Max launched in India starting at Rs 1,49,999"
+    url: "https://gadgets.beebom.com/news/vivo-x500-pro-x500-pro-max-launched-in-india-key-specs-price-sale-date"
+  - name: "Business Upturn: Vivo launches X500 series in India from Rs 1,19,999, sales start 3 December"
+    url: "https://businessupturn.com/technology/vivo-launches-x500-series-in-india-from-rs-1-19-999-sales-start-3-december/"
+  - name: "Sunday Guardian Live: Vivo X500 series launched in India, price, specs and sale date"
+    url: "https://sundayguardianlive.com/tech-news/vivo-x500-series-launched-in-india-today-check-vivo-x500-x500-pro-x500-pro-max-price-full-specifications-200mp-camera-battery-display-features-availability-sale-date-328157/"
 ---
 
-Vivo has started teasing the **X500 series** in India. Its India website now shows the X500 phones, a new **Zeiss telephoto extender** and the **Vivo Watch GT 2**, and launch pages have gone live on **Amazon** and **Flipkart**. Vivo hasn't announced the launch date or prices yet, but a well-known tipster says the phones arrive on **November 25**.
+Vivo launched the **X500**, **X500 Pro** and **X500 Pro Max** in India on **November 26**, from **₹1,19,999**, with sales starting on **December 3**. This page began as our pre-launch coverage; the official prices are in the update below, and the older notes show how the tips compared.
 
 <!--more-->
+
+**Update, November 28:** The X500 series is now official in India (launched November 26). Per Beebom, Business Upturn and Sunday Guardian Live, the **X500** costs **₹1,19,999** (12GB + 256GB), the **X500 Pro** **₹1,49,999** (12GB + 256GB) and the **X500 Pro Max** **₹1,64,999** (12GB + 256GB) or **₹1,79,999** (12GB + 512GB). The **X500 Pro Max Photographer Kit** edition (12GB + 512GB) is **₹2,29,999**; sold separately, the Imaging Grip Kit is ₹11,999 and the 200mm Zeiss extender ₹15,999. Pre-bookings are open and **sales start December 3** on Vivo's online store; Gadgets360 (cited by Business Upturn) also lists Amazon and Flipkart. Vivo hasn't spelled out bank offers yet. One change from China: the India Pro Max has a **7,800mAh** battery, not 8,000mAh. The Pro Max price is ₹5,000 more than the tip we reported earlier.
 
 **Update, November 25:** The launch is tomorrow, **November 26 at 12 PM IST**. Beebom and 91mobiles report that Vivo will also bring the **X500 Pro Max Photographer Kit** and the **Vivo Imaging Grip Kit** to India, alongside the Watch GT 2. India prices, RAM/storage options and the sale date are still unannounced; the ₹1,19,999 (X500) to ₹1,79,999 (Pro Max 12GB + 512GB) figures and the December 2 sale date are tipster claims until Vivo confirms them.
 
@@ -64,7 +72,7 @@ According to My Mobile India, which reported the teasers on November 5 and 6:
 - **Colours:** Ember Red and Titanium Black for the X500; Apex Orange and Eternal Black for the X500 Pro and X500 Pro Max (Vivo teasers, reported on November 16).
 - Vivo is also teasing the **Zeiss Telephoto Extender Gen 2 Ultra**, a clip-on lens for long zoom shots, and the **Vivo Watch GT 2** smartwatch.
 
-Since then, Vivo has confirmed the launch date as **November 26** (see the update above). India prices haven't been announced yet.
+Vivo launched the phones on **November 26**, and the official India prices are in the update at the top and in the price section below.
 
 ## What's tipped, not confirmed
 
@@ -72,9 +80,9 @@ Since then, Vivo has confirmed the launch date as **November 26** (see the updat
 - **Models:** all three, the **X500**, **X500 Pro** and **X500 Pro Max**, are expected.
 - **Pre-bookings:** The Tech Outlook reports, citing tipster Passionategeekz, that some offline shops have started taking pre-bookings. Vivo hasn't confirmed this, so treat it with caution.
 
-## Specs (China models)
+## Specs
 
-These are the specs of the phones sold in China. India models usually match, but Vivo hasn't confirmed that yet.
+These are the China specs. Launch reports show the India models match, except that the India X500 Pro Max has a 7,800mAh battery.
 
 | | X500 | X500 Pro | X500 Pro Max |
 |---|---|---|---|
@@ -84,7 +92,7 @@ These are the specs of the phones sold in China. India models usually match, but
 | **Telephoto** | 64MP, 3x | 64MP periscope, 3.5x | 200MP periscope, 3.5x |
 | **Ultrawide** | 50MP | 50MP | 50MP |
 | **Front camera** | 50MP | 50MP | 50MP |
-| **Battery** | 7,500mAh | 6,510mAh | 8,000mAh |
+| **Battery** | 7,500mAh | 6,510mAh | 8,000mAh (India: 7,800mAh) |
 | **Charging** | 90W wired, 40W wireless | 90W wired, 40W wireless | 90W wired, 40W wireless |
 
 The **X500 Pro Max** is the one to watch. Its 200MP periscope camera and the Gen 2 Ultra extender, which My Mobile India says works only with the Pro Max, are aimed squarely at people who shoot concerts, wildlife and sport.
@@ -94,9 +102,21 @@ The **X500 Pro Max** is the one to watch. Its 200MP periscope camera and the Gen
   <figcaption>Illustration</figcaption>
 </figure>
 
-## Expected price in India
+## Price in India
 
-Vivo hasn't announced India prices. In China, the X500 Pro starts at **CNY 6,499** and the X500 Pro Max at **CNY 6,999**, both for 12GB + 256GB. A tipster, reported by My Mobile India, expects these India prices:
+These are the official India prices, as reported on launch day (November 26):
+
+| Model | RAM + storage | India price |
+|---|---|---|
+| X500 | 12GB + 256GB | ₹1,19,999 |
+| X500 Pro | 12GB + 256GB | ₹1,49,999 |
+| X500 Pro Max | 12GB + 256GB | ₹1,64,999 |
+| X500 Pro Max | 12GB + 512GB | ₹1,79,999 |
+| X500 Pro Max Photographer Kit | 12GB + 512GB | ₹2,29,999 |
+
+Sales start on **December 3**. The tipped prices below are kept for comparison: the early tips were far too low.
+
+Before the launch: in China, the X500 Pro starts at **CNY 6,499** and the X500 Pro Max at **CNY 6,999**, both for 12GB + 256GB. A tipster, reported by My Mobile India, expects these India prices:
 
 | Model | Tipped India price |
 |---|---|
@@ -112,20 +132,20 @@ Newer tips (as of November 15) are much higher. Digit reports these estimates fo
 | X500 Pro | around ₹1,49,999 |
 | X500 Pro Max | around ₹1,59,999 (512GB: around ₹1,79,999) |
 
-A separate leak of box MRPs (the maximum printed price, not the selling price) starts at ₹1,69,999 for the X500. Treat all of these as estimates until Vivo announces prices on November 26.
+A separate leak of box MRPs (the maximum printed price, not the selling price) started at ₹1,69,999 for the X500. The newer tips turned out to be right for the X500 and X500 Pro; the Pro Max came in ₹5,000 higher.
 
-> **Tip:** If you're thinking of pre-booking at a shop, ask whether the booking amount is fully refundable and get it in writing. Prices aren't announced yet, and you don't want to be locked in if the final price is higher than expected.
+> **Tip:** If you pre-book, ask whether the booking amount is fully refundable and get it in writing, and wait for Vivo to confirm the bank offers before you pay the full price.
 
 <figure class="inline-figure">
   <img width="1200" height="675" src="/assets/images/phone-smartwatch-desk-charging-night.jpg" alt="A green phone with a large round camera module and a round smartwatch charging on glowing wireless pads on a dark desk" loading="lazy">
   <figcaption>Illustration</figcaption>
 </figure>
 
-## Should you wait for it?
+## Should you buy it?
 
-**Wait if** you want one of the best camera phones of the year, especially for zoom, and your budget is ₹80,000 or more. The launch is only a few weeks away.
+**Consider it if** you want one of the best camera phones of the year, especially for zoom, and your budget is ₹1.2 lakh or more. Sales start on December 3.
 
-**Don't wait if** your budget is under ₹60,000, or you need a phone right now.
+**Skip it if** your budget is under ₹1 lakh. The official prices are much higher than the early tips of ₹80,000 to ₹1 lakh.
 
 The Motorola Signature 27, also confirmed for India this month, is a strong alternative with a 200MP zoom camera, a 7,000mAh battery and seven years of updates. Our [Motorola Signature 27 US launch post](/motorola-signature-27-launch-us-price-specs/) has its full specs.
 
@@ -147,4 +167,4 @@ If you are thinking of using it with a flagship phone like the Vivo X500, this c
 
 ## The bottom line
 
-Vivo has officially started teasing the **X500, X500 Pro and X500 Pro Max** for India, with pages live on Amazon and Flipkart, and has now confirmed the India launch for **November 26**. Prices aren't official yet; the latest tips range from about ₹1.2 lakh to ₹1.6 lakh, up from earlier estimates of ₹79,000 to ₹1 lakh. The X500 Pro Max, with its 200MP periscope camera and 8,000mAh battery, is the model camera fans should watch. We'll update this page as soon as Vivo announces the details.
+The **X500, X500 Pro and X500 Pro Max** launched in India on **November 26** at **₹1,19,999**, **₹1,49,999** and **₹1,64,999** (₹1,79,999 for 512GB), with sales from **December 3**. These are very high prices, well above the early tips. The X500 Pro Max, with its 200MP periscope camera and 7,800mAh battery, is still the model camera fans should look at.
